@@ -13,12 +13,21 @@ You can visit https://cable8mm.github.io/
 
 ```sh
 git clone https://github.com/cable8mm/cable8mm.github.io.git palgle
+# Clone from repository
 
 cd palgle
 
+jekyll build
+# Make static files
+
+cd _site
+# Go static files root folder
+
 valet link palgle
+# Connect with palgle.test
 
 valet secure
+# Set secure for https
 ```
 
 And visit https://palgle.test
