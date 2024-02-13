@@ -2,8 +2,13 @@
 layout: post
 title:  "한국의 배너 표준 규격 실태조사"
 date:   2004-07-08 15:29:58 +0900
+author: cable8mm@gmail.com
+categories: advertising
+author: Samgu Lee
 ---
 인터넷 초창기시절에는 잘 지켜진 배너가이드라인이 현재 포털 개인 사이트 구분없이 제각각 디자인되어서 인터넷광고회사들의 비용증가가 우려되고 있는 형편입니다. 배너 수익 모델로 실제 수익을 내고 있는 굿매치의 경우도 배너 사이즈가 통일되어 있지 않고 있습니다.
+
+<!--more-->
 
 디자인시 어려움이 있을지도 모르지만, 인터넷으로 수익을 내기 위해서는 표준 배너 가이드라인이 도움이 되리라 믿어 의심치 않습니다.
 
@@ -52,6 +57,6 @@ date:   2004-07-08 15:29:58 +0900
 
 팝업으로 뜨는 배너 제외했고, 메일발송후의 화면에 나오는 등의 특수배너도 제외했습니다. 또한, 첫페이지에 플래쉬 배너도 넣지 않았습니다. 여기서는 배너의 가이드라인을 정하기 위한 작업이니만큼 특수목적의 배너는 넣지 않습니다.
 
-![Banner Size 1](/images/banner_sizes.gif)
+![Banner Size 1](/assets/banner_sizes.gif)
 
-![Banner Size 2](/images/banner_sizes2.gif)
+![Banner Size 2](/assets/banner_sizes2.gif)
