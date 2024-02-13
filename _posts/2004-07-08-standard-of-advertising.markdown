@@ -52,5 +52,6 @@ date:   2004-07-08 15:29:58 +0900
 
 팝업으로 뜨는 배너 제외했고, 메일발송후의 화면에 나오는 등의 특수배너도 제외했습니다. 또한, 첫페이지에 플래쉬 배너도 넣지 않았습니다. 여기서는 배너의 가이드라인을 정하기 위한 작업이니만큼 특수목적의 배너는 넣지 않습니다.
 
-![Banner Size 1](../images/banner_sizes.gif)
-![Banner Size 2](../images/banner_sizes2.gif)
+![Banner Size 1](/images/banner_sizes.gif)
+
+![Banner Size 2](/images/banner_sizes2.gif)
