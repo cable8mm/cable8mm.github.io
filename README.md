@@ -7,7 +7,7 @@
 
 This repository is the storage for palgle.com contents. It has been made by jekyll, then published to github pages.
 
-You can visit https://cable8mm.github.io/
+You can visit https://palgle.com
 
 ## Install
 
