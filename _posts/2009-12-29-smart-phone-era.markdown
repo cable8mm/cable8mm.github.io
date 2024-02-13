@@ -42,6 +42,8 @@ author: Samgu Lee
 
 삼성전자는 안드로이드 폰을 생산함과 동시에 자사의 플랫폼인 [바다(bada)](http://www.bada.com)를 론칭했다고 [공식 블로그](http://www.bada.com/samsung-unveils-new-smartphone-platform/)를 통해 알려왔다. 바다는 현재 멤버십에 한해서 SDK를 배포하고 있어서 정확한 사양은 알 수 없으나, [레퍼런스](http://developer.bada.com/apis/docs/commonpage.do?menu=MC01010000&#038;mtb1=&#038;mtb2=)를 통해 어떤 환경인지 가늠해 볼 수는 있다.
 
+![바다 UI](/assets/bada_ui.jpg)
+
 라이브러리로 가늠해 볼 때, 상거래와 위치, 문자 메시지, 주소록과 이메일, 웹 그리고 애니메이션과 같은 동적인 UI를 지원한다.(클래스 이름이 Haptic인 것을 보면 동적인 UI는 햅틱에 사용된 그대로를 사용하는 것으로 추측된다.)
 
 삼성 바다는 2010년 1분기에 삼성 어플리케이션 스토어를 30개국에서 론칭한다고 공식 블로그에서 밝히고 있다.
