@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+이 사이트는 과거 **팔글-인사이드 구글** 블로그의 복구 프로젝트로 만들어 졌습니다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+수십년의 블로그 운영에서 느낀 것은 블로깅 시스템은 바뀔 수 있으나 콘텐츠는 바뀌어서는 안되며, 데이터가 바뀔 경우 운영에 너무나도 큰 부담이 작용하게 됩니다.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+이런 이유로 이번 프로젝트는 블로깅 시스템을 사용하지 않고, 마크다운 포멧을 이용하게 되었고, 데이터베이스도 사용하지 않게 되었습니다.
 
+본 프로젝트는 Jekyll 라는 도구를 이용하며, 제가 작성한 마크다운 문서를 홈페이지 규격으로 바꾸는 도구를 이용해서 운영됩니다.
 
-[jekyll-organization]: https://github.com/jekyll
+[본 프로젝트의 깃헙 저장소](https://github.com/cable8mm/cable8mm.github.io)는 퍼블릭으로 오픈되어 있으며, 호스팅으로 깃헙 페이지를 사용합니다.
+
+이런 훌륭한 도구들을 무료로 제공해 준 Jekyll 개발 운영진과 깃헙에 감사드립니다.
+
+samgu.lee
