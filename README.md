@@ -1,5 +1,10 @@
 # palgle.com
 
+[![pages-build-deployment](https://github.com/cable8mm/cable8mm.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/cable8mm/cable8mm.github.io/actions/workflows/pages/pages-build-deployment)
+[![Deploy Jekyll site to Pages](https://github.com/cable8mm/cable8mm.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/cable8mm/cable8mm.github.io/actions/workflows/jekyll.yml)
+![GitHub repo size](https://img.shields.io/github/repo-size/cable8mm/cable8mm.github.io)
+![GitHub License](https://img.shields.io/github/license/cable8mm/cable8mm.github.io)
+
 This repository is the storage for palgle.com contents. It has been made by jekyll, then published to github pages.
 
 You can visit https://cable8mm.github.io/
