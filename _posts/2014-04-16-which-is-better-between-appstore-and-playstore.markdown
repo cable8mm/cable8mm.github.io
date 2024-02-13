@@ -14,6 +14,8 @@ author: Samgu Lee
 
 ## 앱스토어에 앱을 배포하는 과정
 
+![애플 앱 스토어](/assets/xxxxxxxxxxxx-2017-01-24-xxxxxx-3.20.58.png)
+
 애플은 앱을 제작하고 앱스토어에 업로드 하는 과정 전체를 통합 개발 도구(IDE)인 Xcode에 통합시켰으며, Xcode는 공식적으로 맥에서만 실행할 수 있다. [전체적인 진행 과정](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html "App Distribution Guide")은 아래와 같다.
 
 - 애플 개발자 프로그램 등록 - [애플 개발자 홈페이지](https://developer.apple.com "Apple Developer")에서 유료로 등록.
@@ -27,6 +29,8 @@ author: Samgu Lee
 그 다음으로 부담스러운 절차는 역시 앱스토어 등록일 것이다. 무료일 경우 일주일 안에 처리가 되며, 유료일 경우 길게는 이주일도 걸릴 수가 있다. 이 부분에 대해선 다음 편에서 더 자세히 다룰 것이다.
 
 ## 구글 플래이에 앱을 배포하는 과정
+
+![안드로이드 마켓](/assets/android-market.png)
 
 구글 플래이에 앱을 올리는 과정은 앱스토어에 비해 상당히 간단하지만, 앱스토어에서 처럼 앱의 완성도를 높이기 위한 절차가 빠지기 때문에 어떤 것이 더 좋다라고 할 수는 없다.
 
