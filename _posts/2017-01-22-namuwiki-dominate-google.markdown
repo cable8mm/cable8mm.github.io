@@ -40,12 +40,18 @@ author: Samgu Lee
 
 엄청난 검색 순위를 기록하고 있습니다. 나무위키의 가치를 돈으로 환산하면 얼마일까요?
 
+![나무위키의 가치, 약 7000억](/assets/xxxxxxxxxxxx-2017-01-22-xxxxxx-11.18.18.png)
+
 [Worth of web에서 검색한 결과](http://www.worthofweb.com/website-value/namu.wiki/) 약 7000억 정도로 파악됩니다.(네이버의 경우 3조 6천억 정도)
 
 나무위키를 잘 모르는 분들도 있겠지만, 한국 사이트 순위에 가장 정확하다는 [Similar Web에서 나무위키의 순위](https://www.similarweb.com/website/namu.wiki)는 한국 11위, 전세계 순위 1028위로, 트래픽으로 보면 엄청난 사이트입니다. [Alexa에서의 순위](http://www.alexa.com/siteinfo/namu.wiki?q=)는 한국 7위, 전세계 503위이며, 순위는 계속 오르고 있습니다. 더 놀라운 점은 나무위키가 2015년 4월 17일에 만들어진, 채 2년이 되지 않은 사이트라는 점입니다.
 
 일반적으로 한국의 웹사이트는 네이버에서 들어오는 방문자가 적어도 50%는 됩니다. 이 수치도 페이스북이라는 서비스가 나온 이후에 낮아진 수치인데요, 나무위키의 방문자가 어느 서비스에서 들어오는지 Alexa에서 확인 해 보면 이렇습니다.
 
+![나무위키의 리퍼러](/assets/xxxxxxxxxxxx-2017-01-22-xxxxxx-11.35.52.png)
+
 구글은 위키 정보를 검색 최상단 혹은 우측에 노출하고 있습니다. 다음넷도 위키 정보를 활용하고 있죠. 여러 서비스에서 위키를 인용함에도 불구하고, [위키와 비교를 해 볼 때](https://www.similarweb.com/website/namu.wiki?competitors=ko.wikipedia.org) 나무위키의 트래픽은 위키의 4배 이상입니다.
+
+![나무위키와 위키의 트래픽](/assets/xxxxxxxxxxxx-2017-01-22-xxxxxx-11.38.47.png)
 
 나무위키는 다섯명의 개발자에 의해서 the seed라는 자체 위키엔진으로 만들어졌으나, 여러가지 이슈(특히 법적인 문제)로 인해서 현재는 umanle S.R.L.이라는 파라과이 소재의 법인에 소유권이 넘어간 상태입니다.

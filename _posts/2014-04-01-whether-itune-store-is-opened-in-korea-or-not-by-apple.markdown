@@ -10,4 +10,8 @@ author: Samgu Lee
 
 반면 [팔글](https://palgle.com)에서 확인한 결과 애플 공식 홈페이지의 서비스 목록에 음악, 뮤직비디오, 휴대폰 벨소리가 추가되었다.
 
+![아이튠 스토어 국가별 서비스 종류](/assets/itunes_screenshot.png)
+
 현재까지 한국의 아이튠 스토어에는 유료 콘텐트를 구입하는 화면은 노출되지 않고 있다.
+
+![아이폰의 아이튠 스토어 캡쳐 화면](/assets/itunes-store-korea.jpg)
