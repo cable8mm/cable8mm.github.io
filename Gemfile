@@ -15,6 +15,12 @@ gem "minima", "~> 2.5"
 gem "github-pages", "~> 229", group: :jekyll_plugins
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
+gem 'faraday-retry'
+gem "minimal-mistakes-jekyll"
+gem "jekyll-paginate"
+# gem 'jekyll-archives', group: :jekyll_plugins
+# build warning : Add csv to your Gemfile or gemspec.
+gem 'csv'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
