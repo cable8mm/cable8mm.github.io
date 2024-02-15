@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "자주 물어보는 구글에 대한 궁금증"
 date:   2008-09-18 12:20:01 +09:00
 categories: opinion

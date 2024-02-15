@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 애드센스, 도메인 보호 기능 개시"
 date:   2007-08-31 07:48:03 +09:00
 categories: service

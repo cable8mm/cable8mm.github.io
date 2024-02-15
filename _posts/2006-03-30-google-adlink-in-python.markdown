@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "또하나의 구글 광고, 애드링크"
 date:   2006-03-30 08:48:36 +09:00
 categories: news

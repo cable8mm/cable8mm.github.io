@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글톡, 사용자들의 대화를 저장한다"
 date:   2006-02-21 14:04:13 +09:00
 categories: opinion

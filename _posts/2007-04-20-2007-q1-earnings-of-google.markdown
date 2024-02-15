@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글, 2007년 1분기 실적 공개"
 date:   2007-04-20 02:35:17 +09:00
 categories: company

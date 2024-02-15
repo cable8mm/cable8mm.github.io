@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글은 아직 배가 고프다"
 date:   2005-12-27 07:51:23 +09:00
 categories: opinion

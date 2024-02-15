@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 뉴스, 한국 언론과 제휴하나?"
 date:   2005-12-02 09:33:14 +09:00
 categories: service

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 뉴스 한국, 피드 지원"
 date:   2006-02-17 08:27:45 +09:00
 categories: service

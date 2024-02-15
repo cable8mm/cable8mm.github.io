@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 데스크탑 3, 국제화 버젼 출시"
 date:   2006-03-22 10:00:56 +09:00
 categories: news

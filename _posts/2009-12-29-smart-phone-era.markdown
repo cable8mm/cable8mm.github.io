@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "2010년 스마트폰 시대의 서막"
 date:   2009-12-29 07:15:07 +09:00
 categories: opinion

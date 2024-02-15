@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글, S&P 500 지수에 편입"
 date:   2006-03-24 02:40:42 +09:00
 categories: news

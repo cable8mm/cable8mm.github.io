@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "한글 Blogger 업데이트 알림 서비스 개시"
 date:   2006-03-29 08:49:29 +09:00
 categories: service

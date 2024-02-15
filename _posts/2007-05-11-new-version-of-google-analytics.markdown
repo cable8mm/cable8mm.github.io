@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 로그 분석기(Google Analytics), 새단장"
 date:   2007-05-11 02:29:09 +09:00
 categories: service

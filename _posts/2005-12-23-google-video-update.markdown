@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 비디오 지난 몇달간의 변화"
 date:   2005-12-23 12:59:43 +09:00
 categories: service

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 파이넨스는 인도 연구소에서 시작되었다"
 date:   2006-03-28 09:12:50 +09:00
 categories: news

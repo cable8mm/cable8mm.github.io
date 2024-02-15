@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "애드센스, 추천에 대한 피드백 요청"
 date:   2006-03-08 02:39:41 +09:00
 categories: tip

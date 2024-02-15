@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 비디오, DivX와 손잡다"
 date:   2006-01-08 15:55:45 +09:00
 categories: service

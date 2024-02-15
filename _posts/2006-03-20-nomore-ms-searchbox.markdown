@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글이 이런짓을? 여러분이라면 믿을 수 있나?"
 date:   2006-03-20 09:56:44 +09:00
 categories: news

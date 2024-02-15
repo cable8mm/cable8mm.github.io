@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글과 네이버, 누구의 손을 들어줄 것인가?"
 date:   2006-02-28 06:44:21 +09:00
 categories: service

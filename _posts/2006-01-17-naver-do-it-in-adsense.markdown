@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 애드센스에서 절대 하지 말아야 할 다섯가지"
 date:   2006-01-17 03:48:49 +09:00
 categories: service

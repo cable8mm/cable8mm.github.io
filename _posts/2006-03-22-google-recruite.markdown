@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글의 한국 인력 충원"
 date:   2006-03-22 02:57:38 +09:00
 categories: news

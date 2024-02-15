@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 애드워즈, 한계는 어디?"
 date:   2006-02-17 08:59:57 +09:00
 categories: advertising

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 애드센스 계정삭제 당하지 않는 방법"
 date:   2006-01-20 13:14:42 +09:00
 categories: service

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글의 믿을 수 있는 테스터 프로그램"
 date:   2006-03-08 15:43:36 +09:00
 categories: news

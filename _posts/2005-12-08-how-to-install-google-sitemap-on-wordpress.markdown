@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "워드프레스에 구글 사이트맵을 설치해보자"
 date:   2005-12-07 15:00:38 +09:00
 categories: service

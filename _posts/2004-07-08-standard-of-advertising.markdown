@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "한국의 배너 표준 규격 실태조사"
 date:   2004-07-08 15:29:58 +0900
 author: cable8mm@gmail.com

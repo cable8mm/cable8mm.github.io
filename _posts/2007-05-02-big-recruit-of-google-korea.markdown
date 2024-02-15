@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 코리아, 대규모 리쿠르트 개시"
 date:   2007-05-01 15:02:46 +09:00
 categories: service

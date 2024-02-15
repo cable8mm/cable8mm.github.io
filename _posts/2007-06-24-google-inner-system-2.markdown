@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글의 이해되지 않는 인재와 프로젝트 관리 2"
 date:   2007-06-24 12:39:25 +09:00
 categories: service

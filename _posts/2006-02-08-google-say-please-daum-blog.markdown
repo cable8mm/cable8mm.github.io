@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 왈, 다음블로그야 협조좀 해 줘"
 date:   2006-02-08 03:50:00 +09:00
 categories: service

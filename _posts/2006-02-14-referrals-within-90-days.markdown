@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "애드센스, 추천프로그램에 90일 기간제한"
 date:   2006-02-14 09:01:37 +09:00
 categories: service

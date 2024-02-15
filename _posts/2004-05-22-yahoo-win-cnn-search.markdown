@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "CNN, 서치엔진 야후로 전환"
 date:   2004-05-22 15:29:58 +0900
 categories: service

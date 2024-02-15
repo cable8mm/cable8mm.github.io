@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 비디오, 최상의 인코딩 구현하기"
 date:   2006-01-21 16:21:16 +09:00
 categories: service

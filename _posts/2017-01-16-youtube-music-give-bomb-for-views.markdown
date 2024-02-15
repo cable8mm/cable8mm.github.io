@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "조회수 폭탄, 유튜브 뮤직"
 date:   2017-01-16 07:27:34 +09:00
 categories: service

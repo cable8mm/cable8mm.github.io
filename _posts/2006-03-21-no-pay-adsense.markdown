@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "남의 애드센스 광고를 해주게 된 이유..."
 date:   2006-03-21 05:22:25 +09:00
 categories: gossip

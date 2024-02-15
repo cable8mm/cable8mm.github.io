@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "팁 - 구글에 내 도메인이 몇페이지나 인덱싱되었는지 알아보기"
 date:   2005-12-02 05:21:05 +09:00
 categories: service

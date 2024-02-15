@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글은 BMW를 검색목록에서 왜 삭제했나?"
 date:   2006-02-11 05:47:03 +09:00
 categories: gossip

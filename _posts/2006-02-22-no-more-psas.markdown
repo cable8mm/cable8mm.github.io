@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "애드센스, 공익광고 제거하기"
 date:   2006-02-22 07:32:22 +09:00
 categories: advertising

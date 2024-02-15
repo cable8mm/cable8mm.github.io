@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글의 새로운 시도인 인쇄물 광고, 마감기한 연장"
 date:   2006-02-17 08:48:07 +09:00
 categories: advertising

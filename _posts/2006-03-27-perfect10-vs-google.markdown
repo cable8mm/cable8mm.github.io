@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글, 퍼펙트 10에 이미지에 관한 소송 99%의 승리"
 date:   2006-03-27 14:09:55 +09:00
 categories: news

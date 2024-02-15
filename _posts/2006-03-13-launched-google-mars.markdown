@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 화성을 알린 Garett Rogers"
 date:   2006-03-13 08:34:50 +09:00
 categories: news

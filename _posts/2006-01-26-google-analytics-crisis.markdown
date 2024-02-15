@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 최초의 도전, 구글 Analytics의 미래"
 date:   2006-01-26t03:36:08 +09:00
 categories: service

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 애드센스, 추천 프로그램 추가"
 date:   2005-11-26 10:31:19 +0900
 categories: service

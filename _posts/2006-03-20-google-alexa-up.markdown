@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글, MSN에 트래픽 역전. 야후 나와"
 date:   2006-03-20 13:55:46 +09:00
 categories: news

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "오피, 구글 커스텀 검색으로 수익만들기"
 date:   2007-04-27 10:18:33 +09:00
 categories: advertising

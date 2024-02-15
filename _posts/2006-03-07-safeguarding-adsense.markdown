@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "만약 여러분이 애드센스를 보고 사이트를 구매한다면?"
 date:   2006-03-07 08:40:39 +09:00
 categories: gossip

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 코드 리뉴얼"
 date:   2006-03-30 07:29:41 +09:00
 categories: service

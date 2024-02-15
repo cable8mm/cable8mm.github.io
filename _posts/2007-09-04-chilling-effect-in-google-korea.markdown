@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 검색, 성인 키워드 제한 시작과 칠링 이펙트"
 date:   2007-09-04 08:57:36 +09:00
 categories: service

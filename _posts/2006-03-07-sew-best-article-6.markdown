@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "SEW 블로그, 여섯가지 하이라이트 발표"
 date:   2006-03-07 05:23:33 +09:00
 categories: news

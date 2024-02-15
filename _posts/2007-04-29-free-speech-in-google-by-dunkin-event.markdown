@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글, 표현의 자유에 대한 새로운 대안?"
 date:   2007-04-29 09:20:26 +09:00
 categories: opinion

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "이 바닥 사람들은 다 아는, 구글 플랜"
 date:   2007-07-15 03:58:24 +09:00
 categories: opinion
