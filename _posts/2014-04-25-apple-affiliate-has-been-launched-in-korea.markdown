@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "애플 애필리에이트에 한국 추가"
 date:   2014-04-25 03:38:23 +09:00
 categories: service

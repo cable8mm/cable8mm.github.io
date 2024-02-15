@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "유튜브의 슈퍼 HD 영상 출현"
 date:   2008-10-13 04:08:32 +09:00
 categories: gassip

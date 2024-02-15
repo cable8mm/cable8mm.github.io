@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "WHy"
+    url: /why/
+  - title: "Github"
+    url: https://github.com/cable8mm/cable8mm.github.io

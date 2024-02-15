@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "폭스바겐과 구글이 디자인하는 차 네이게이션 동영상"
 date:   2006-03-21 07:56:49 +09:00
 categories: news

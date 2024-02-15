@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "다시 가입신청 받는 무료 웹로그 분석툴, 구글 Analytics"
 date:   2006-01-11 10:32:03 +09:00
 categories: service

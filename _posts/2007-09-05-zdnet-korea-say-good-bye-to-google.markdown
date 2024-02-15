@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "한국 ZDNET, 구글과 결별"
 date:   2007-09-05 01:19:04 +09:00
 categories: service

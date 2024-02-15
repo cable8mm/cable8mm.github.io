@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글이 사악해졌다고?"
 date:   2006-02-18 03:26:04 +09:00
 categories: company

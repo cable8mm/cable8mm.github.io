@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 개인화 홈페이지의 새로운 이름, 아이구글(iGoogle)"
 date:   2007-05-01 06:35:59 +09:00
 categories: service

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 애드센스, 파이어폭스 추천 프로그램 개시"
 date:   2005-12-01 04:05:51 +0900
 categories: service

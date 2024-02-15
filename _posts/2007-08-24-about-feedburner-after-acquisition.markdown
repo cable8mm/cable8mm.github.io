@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 인수 후의 피드버너"
 date:   2007-08-24 00:13:24 +09:00
 categories: company

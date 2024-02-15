@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 애드워즈, 사이트 타켓에 인구통계 추가"
 date:   2006-03-09 10:09:31 +09:00
 categories: service

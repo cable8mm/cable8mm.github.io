@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "중국에 이어 일본 구글 공식 블로그 오픈"
 date:   2006-03-02 07:33:47 +09:00
 categories: news

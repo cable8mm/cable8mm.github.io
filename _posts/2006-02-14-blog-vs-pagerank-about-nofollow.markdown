@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "블로그와 구글 순위 알고리즘 - 페이지랭크(PageRank)"
 date:   2006-02-13 16:01:08 +09:00
 categories: opinion

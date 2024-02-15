@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글의 검열에 걸리지 마라?"
 date:   2006-03-19 15:09:17 +09:00
 categories: news

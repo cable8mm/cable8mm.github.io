@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 캘린더, 스크린샷 공개"
 date:   2006-03-08 16:13:40 +09:00
 categories: news

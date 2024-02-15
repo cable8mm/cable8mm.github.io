@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 이미지 검색에서 잘못 된 태극기 이미지가 최상단에 노출되는 이유"
 date:   2017-03-02 03:21:05 +09:00
 categories: opinion

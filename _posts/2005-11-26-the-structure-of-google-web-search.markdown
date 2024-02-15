@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "최강의 검색엔진, 구글 웹 서치의 기본적인 구성"
 date:   2005-11-26 08:31:41 +0900
 categories: service

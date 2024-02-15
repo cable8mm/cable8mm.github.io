@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "앱스토어 vs 구글 플래이"
 date:   2014-04-16 08:27:16 +09:00
 categories: store

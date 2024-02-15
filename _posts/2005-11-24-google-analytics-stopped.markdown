@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 분석(Google Analytics) 신규계정 생성제한"
 date:   2005-11-24 06:03:40 +0900
 categories: service

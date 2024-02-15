@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "닌텐도 Wii의 멋진 유튜브 프로모션"
 date:   2008-09-24 05:18:36 +09:00
 categories: gossip

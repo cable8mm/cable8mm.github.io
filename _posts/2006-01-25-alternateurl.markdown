@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 애드센스 공익광고까지 수익으로?"
 date:   2006-01-25 09:04:37 +09:00
 categories: service

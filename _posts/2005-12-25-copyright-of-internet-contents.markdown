@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "인터넷에서의 복잡한 저작권 문제 몇가지"
 date:   2005-12-25 05:56:35 +09:00
 categories: opinion

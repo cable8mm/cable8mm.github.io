@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글이 인수한 Writely, 초대장 신청하세요."
 date:   2006-03-17 02:37:23 +09:00
 categories: news

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "애드센스 소득 좋은 주제들"
 date:   2007-05-21 14:10:47 +09:00
 categories: opinion

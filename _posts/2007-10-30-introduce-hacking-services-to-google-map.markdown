@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 맵의 해킹 서비스들을 소개합니다"
 date:   2007-10-30 00:55:55 +09:00
 categories: gossip

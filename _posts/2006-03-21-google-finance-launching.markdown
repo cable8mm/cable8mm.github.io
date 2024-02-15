@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 파이넨스(Google Finance) 베타 런칭"
 date:   2006-03-21 07:34:29 +09:00
 categories: service

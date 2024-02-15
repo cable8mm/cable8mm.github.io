@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 애드센스 vs 야후 파나마의 한국 격돌"
 date:   2007-09-24 09:43:18 +09:00
 categories: service

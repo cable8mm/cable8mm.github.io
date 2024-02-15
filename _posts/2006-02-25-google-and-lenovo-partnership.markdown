@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글의 두번째 선택, 팅크패드의 레노버"
 date:   2006-02-24 15:21:41 +09:00
 categories: service

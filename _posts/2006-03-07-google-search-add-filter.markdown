@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "진화하는 구글 웹검색, 기간 필터 추가"
 date:   2006-03-07 07:33:25 +09:00
 categories: service

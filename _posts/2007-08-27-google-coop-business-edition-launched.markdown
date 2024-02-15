@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 개인화 검색, 비즈니스 에디션"
 date:   2007-08-27 04:01:08 +09:00
 categories: service

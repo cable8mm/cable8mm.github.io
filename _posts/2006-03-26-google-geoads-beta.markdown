@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 로컬과 구글 맵스, 두가지 스폰서 광고 진행"
 date:   2006-03-24 16:10:26 +09:00
 categories: gossip

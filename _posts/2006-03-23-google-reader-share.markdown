@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 리더, 공유기능 추가"
 date:   2006-03-23 05:11:33 +09:00
 categories: service

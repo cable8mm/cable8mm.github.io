@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "야후코리아, 개인화 페이지 개편"
 date:   2007-10-09 01:00:32 +09:00
 categories: service

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "맥용 지메일 알리미 업데이트"
 date:   2006-03-23 08:19:51 +09:00
 categories: service

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 웹검색 베타테스트 인증 공개되다."
 date:   2006-03-27 08:05:59 +09:00
 categories: service

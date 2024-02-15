@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "아듀~ TNC"
 date:   2008-09-17 07:42:46 +09:00
 categories: service

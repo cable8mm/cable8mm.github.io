@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 애드센스, 비공개 RSS피드 베타테스트 진행"
 date:   2005-12-14 04:49:17 +09:00
 categories: advertising

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "메일발송에 관한 간단한 팁"
 date:   2005-01-05 14:32:53 +0900
 categories: service

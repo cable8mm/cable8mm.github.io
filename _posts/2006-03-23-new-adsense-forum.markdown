@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 애드센스, 새로운 커뮤니티 오픈"
 date:   2006-03-23 13:50:31 +09:00
 categories: service

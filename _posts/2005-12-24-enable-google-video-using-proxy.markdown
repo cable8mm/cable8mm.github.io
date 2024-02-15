@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 비디오, 한국에서 제대로 써보자"
 date:   2005-12-23 17:52:49 +09:00
 categories: service

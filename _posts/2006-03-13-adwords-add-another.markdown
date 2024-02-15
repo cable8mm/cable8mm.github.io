@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "애드센스 추천프로그램에 애드워즈 추가, 한국은 아직..."
 date:   2006-03-13 04:29:28 +09:00
 categories: news

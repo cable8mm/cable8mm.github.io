@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글이 성공 못하는 이유는 검색결과가 형편 없기 때문인가"
 date:   2005-12-22 08:13:04 +09:00
 categories: opinion

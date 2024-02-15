@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글의 낚시에 걸린 팔글..."
 date:   2006-03-15 16:14:16 +09:00
 categories: gossip

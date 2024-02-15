@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글, 애드센스를 진정한 플랫폼으로 만드나?"
 date:   2006-02-15 01:43:06 +09:00
 categories: advertising

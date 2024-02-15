@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "성 패트릭 데이 기념 구글 로고"
 date:   2006-03-17 17:38:15 +09:00
 categories: news

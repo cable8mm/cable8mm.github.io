@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "올블로그의 구글 애드센스 계정, 삭제당하지 않았다."
 date:   2006-02-26 16:37:28 +09:00
 categories: advertising

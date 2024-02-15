@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "랜딩페이지를 꾸밀 때의 몇가지 팁"
 date:   2005-12-12 12:52:08 +09:00
 categories: gossip

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 베이스, 웹검색 결과에 추가"
 date:   2006-03-24 03:11:29 +09:00
 categories: service

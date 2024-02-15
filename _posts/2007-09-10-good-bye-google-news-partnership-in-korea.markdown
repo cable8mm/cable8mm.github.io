@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글의 한국 뉴스, 어떤 전략일까?"
 date:   2007-09-10 05:12:10 +09:00
 categories: service

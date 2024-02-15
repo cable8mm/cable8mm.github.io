@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "내 사이트 구글 검색결과에 나오게 하는 방법"
 date:   2005-12-17 07:34:20 +09:00
 categories: google

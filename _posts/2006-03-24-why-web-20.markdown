@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "웹 2.0이 또다른 거품이 될 징후들..."
 date:   2006-03-24 05:20:27 +09:00
 categories: opinion

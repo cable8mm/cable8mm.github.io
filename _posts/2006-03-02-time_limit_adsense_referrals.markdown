@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글 애드센스, 추천 프로그램 다시 기간 연장"
 date:   2006-03-02 02:16:46 +09:00
 categories: advertising

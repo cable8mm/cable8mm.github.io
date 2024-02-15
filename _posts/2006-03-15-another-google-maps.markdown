@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "구글맵의 색다른 버젼, 구글맵 나이트와 구글맵 에우로파"
 date:   2006-03-15 05:03:24 +09:00
 categories: gossip
