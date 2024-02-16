@@ -22,10 +22,10 @@ author: Samgu Lee
 
 이 기능을 이용해서 영상 하나에 음원을 입혀보았습니다. 원래의 영상은,
 
-{% youtube https://www.youtube.com/watch?v=25Cn0s1jVAQ %}
+{% youtube "https://www.youtube.com/watch?v=25Cn0s1jVAQ" %}
 
 구글 비디오를 이용한 것이고, 유튜브에서 오디오스왑한 영상은 이렇습니다.
 
-{% youtube https://www.youtube.com/watch?v=WBo7MDi--2M %}
+{% youtube "https://www.youtube.com/watch?v=WBo7MDi--2M" %}
 
 <p>현재 공개된 음원은 적은 편은 아니지만, 대부분이 미디 음원이거나 거의 알려지지 않은 혹은 오래전 음원입니다. 내 음원을 추가할 순 없으며, 한번 바뀐 음원은 취소되지 않으니 주의하세요.</p>
