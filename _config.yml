@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "인사이드 구글"
+title                    : "팔글 - 인사이드 구글"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Talk about IT news, tech, dev..." # site tagline that appears below site title in masthead
 name                     : "Samgu Lee"
 description              : "팔글-인사이드 구글은 구글의 국내 진출을 정확하게 전달합니다."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Samgu Lee"
   avatar           : https://github.com/cable8mm.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Just another *boring, on-the-interneted, developer*."
   location         : "Auckland, New Zealand"
   email            : cable8mm@gmail.com
   links:
@@ -218,7 +218,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 12 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
