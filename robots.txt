@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://palgle.com/sitemap.xml
+#DaumWebMasterTool:342fb2b4b2babe73d08650ebbf3b90d0f897f7dbb671411fd2c40323468f6120:q+phBrr9idviYnPEPRkgDQ==
