@@ -7,7 +7,7 @@
 
 This repository is the storage for palgle.com contents. It has been made by jekyll, then published to github pages.
 
-You can visit https://palgle.com
+You can visit https://www.palgle.com
 
 ## Install
 

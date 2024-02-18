@@ -6,7 +6,7 @@ categories: company
 tags: google korea
 author: Samgu Lee
 ---
-구글 코리아는 [구글 나이트 개최](https://palgle.com/2007/03/05/confirm-google-night-korea-in-march/)를 시작으로 본격적인 조직 정비에 들어간 것으로 보인다. 물론, 가장 중요하다는 R&D센터는 어떤지 모르겠지만(가장 큰 센터 중 하나로 꼽히는 중국센터도 자체 서비스가 나오기까지 3년여의 시간이 필요했다), 영업과 홍보, 재무쪽은 확실히 빠르게 시스템 정비를 하고 있다.
+구글 코리아는 [구글 나이트 개최](https://www.palgle.com/2007/03/05/confirm-google-night-korea-in-march/)를 시작으로 본격적인 조직 정비에 들어간 것으로 보인다. 물론, 가장 중요하다는 R&D센터는 어떤지 모르겠지만(가장 큰 센터 중 하나로 꼽히는 중국센터도 자체 서비스가 나오기까지 3년여의 시간이 필요했다), 영업과 홍보, 재무쪽은 확실히 빠르게 시스템 정비를 하고 있다.
 
 구글 코리아는 이미 애드센스와 애드워즈 코디네이터를 채용한바 있고, 홍보 부문도 기업 홍보의 베테랑인 정김경숙님 체제로 작동되고 있다. 이전까지는 호프만과 본사 차원에서 홍보가 진행됐다면, 현재는 정김경숙님의 의사결정으로 모든 일이 진행되고 있다. 하지만, 구글 코리아에는 아직 법무팀이 없기 때문에 일본이나 미국 본사에서 법률검토를 하고 있다.
 
@@ -20,7 +20,7 @@ author: Samgu Lee
 
 구글 코리아의 애드워즈와 애드센스팀은 가장 빠르게 조직 정비가 완료된 팀이다. 아직까지 제대로 작동된다고 볼 수는 없지만, 이미 애드센스의 프리젠테이션 자료까지 나와있는 상태이고, 개별적인 연락이 몇개의 업체에게 제안되고 있다.
 
-[애드센스 블로그](https://palgle.com/2007/04/04/google-launch-adsense-blog-ko/), [포럼](https://palgle.com/2007/04/06/google-launch-adsense-forum-ko/) 그리고 [애드워즈 포럼](http://groups.google.com/group/adwordshelpko)까지 완비가 되었고, 비지니스 시간으로 24시간 안에 답변을 받을 수 있는 체제도 마련되었다.
+[애드센스 블로그](https://www.palgle.com/2007/04/04/google-launch-adsense-blog-ko/), [포럼](https://www.palgle.com/2007/04/06/google-launch-adsense-forum-ko/) 그리고 [애드워즈 포럼](http://groups.google.com/group/adwordshelpko)까지 완비가 되었고, 비지니스 시간으로 24시간 안에 답변을 받을 수 있는 체제도 마련되었다.
 
 ## 구글 코리아 헤더
 
@@ -30,6 +30,6 @@ author: Samgu Lee
 
 ## R&D는 아직, 영업은 이제부터
 
-[R&D 센터에 입사](https://palgle.com/2007/03/09/google-korea-require-about-people/)한 개발자들은 본사를 오고가며 구글러로서의 분위기를 익히고 있는 것으로 보인다. [중국 센터](http://www.palgle.com/2007/03/19/google-rebang-launched-in-china/)를 생각한다면, R&D 센터의 실질적인 성과가 나오기까지는 몇년의 시간이 필요할 것으로 보이지만, 구글의 핵심 수익 모델인 [광고](http://www.palgle.com/2007/03/26/google-auction-partnership/)만은 빠르게 제 갈길을 가고 있다.
+[R&D 센터에 입사](https://www.palgle.com/2007/03/09/google-korea-require-about-people/)한 개발자들은 본사를 오고가며 구글러로서의 분위기를 익히고 있는 것으로 보인다. [중국 센터](http://www.palgle.com/2007/03/19/google-rebang-launched-in-china/)를 생각한다면, R&D 센터의 실질적인 성과가 나오기까지는 몇년의 시간이 필요할 것으로 보이지만, 구글의 핵심 수익 모델인 [광고](http://www.palgle.com/2007/03/26/google-auction-partnership/)만은 빠르게 제 갈길을 가고 있다.
 
-다만, 요리사 채용 계획이 없는 것으로 봐서는 당분간 삼성동 아셈타워를 떠나지는 않을 것이로 보이고, 미국이나 [중국](https://palgle.com/2006/09/12/google_china_photo/)에서 볼 수 있는 구글 플랙스의 진풍경은 한국에서는 [볼 수 없을 것 같다](https://palgle.com/2006/10/18/google_global/). 참고로 구글 코리아의 보금자리인 아셈타워는 경비가 상당히 철저하기 때문에 음식반입이나 흡연, 애완견도 출입이 금지된 건물로, 실제 알고 있는 구글과는 상당한 차이가 있다.
+다만, 요리사 채용 계획이 없는 것으로 봐서는 당분간 삼성동 아셈타워를 떠나지는 않을 것이로 보이고, 미국이나 [중국](https://www.palgle.com/2006/09/12/google_china_photo/)에서 볼 수 있는 구글 플랙스의 진풍경은 한국에서는 [볼 수 없을 것 같다](https://www.palgle.com/2006/10/18/google_global/). 참고로 구글 코리아의 보금자리인 아셈타워는 경비가 상당히 철저하기 때문에 음식반입이나 흡연, 애완견도 출입이 금지된 건물로, 실제 알고 있는 구글과는 상당한 차이가 있다.

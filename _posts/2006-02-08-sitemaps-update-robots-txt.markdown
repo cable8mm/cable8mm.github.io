@@ -32,7 +32,7 @@ Disallow: /buzz/
 Disallow: /gallery/
 ```
 
-검사를 누르게 되면 Googlebot이 https://palgle.com/과 https://palgle.com/mandl/ 은 허용으로 나오지만 https://palgle.com/buzz/ 은 차단으로 나오는 것을 알 수 있습니다.
+검사를 누르게 되면 Googlebot이 https://www.palgle.com/과 https://www.palgle.com/mandl/ 은 허용으로 나오지만 https://www.palgle.com/buzz/ 은 차단으로 나오는 것을 알 수 있습니다.
 
 ![구글 사이트맵 robots.txt 검사](/assets/google_sitemap_robots_txt_validate.jpg)
 

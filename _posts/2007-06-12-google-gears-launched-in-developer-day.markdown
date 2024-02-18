@@ -8,7 +8,7 @@ author: Samgu Lee
 ---
 ![구글 기어스 로고](/assets/google-gears-logo.png)
 
-구글은 미국 시간으로 6월 1일 [구글 개발자 데이](https://palgle.com/2007/06/01/google-mission-through-developer-day/)에서 [구글 기어스(Google Gears)](http://gears.google.com/)를 공식적으로 [발표](http://googleblog.blogspot.com/2007/06/feeds-on-plane.html)했다.
+구글은 미국 시간으로 6월 1일 [구글 개발자 데이](https://www.palgle.com/2007/06/01/google-mission-through-developer-day/)에서 [구글 기어스(Google Gears)](http://gears.google.com/)를 공식적으로 [발표](http://googleblog.blogspot.com/2007/06/feeds-on-plane.html)했다.
 
 
 
@@ -22,7 +22,7 @@ author: Samgu Lee
 
 구글 기어스의 라이센스는 오픈소스 중에서 가장 유연하다고 알려진 [BSD(Berkeley Software Distribution)](http://www.opensource.org/licenses/bsd-license.html)를 따른다. BSD는 일반적인 오픈소스 라이센스 중에서 가장 제약이 적은 것으로 알려져 있다. 그 이유는 BSD가 미국 정부의 재원으로 운영되기 때문이다. BSD는 소스를 수정해도 배포의무가 없으며, 상업적인 무제한 이용이 가능하다. 다만, 저작권을 표시해야 하고 무보증의 표시만 하면 된다.
 
-구글은 자사의 프리젠테이션 자료에서 마이크로소프트의 실버라이트, 어도비의 플래쉬와 아폴로를 경쟁상대로 지목하고 있다. 그리고, 구글 개발자 데이에서는 랜선을 뽑은 상태에서 구글 리더를 작동시키는 모습을 시연하기도 했다. 현재 구글 기어스가 적용된 구글 서비스는 구글 리더 뿐이고, [팔글](https://palgle.com)에서 사용해 본 결과로는 사용이 불편하긴 하지만, 장시간 통신이 불가능한 상태에서는 자료를 모두 다운받아서 읽을 때 유용했다.
+구글은 자사의 프리젠테이션 자료에서 마이크로소프트의 실버라이트, 어도비의 플래쉬와 아폴로를 경쟁상대로 지목하고 있다. 그리고, 구글 개발자 데이에서는 랜선을 뽑은 상태에서 구글 리더를 작동시키는 모습을 시연하기도 했다. 현재 구글 기어스가 적용된 구글 서비스는 구글 리더 뿐이고, [팔글](https://www.palgle.com)에서 사용해 본 결과로는 사용이 불편하긴 하지만, 장시간 통신이 불가능한 상태에서는 자료를 모두 다운받아서 읽을 때 유용했다.
 
 ![구글 소프트웨어 프로덕트 디렉터, 선달 피차이](/assets/sundar-pichai.jpg)
 
@@ -32,6 +32,6 @@ author: Samgu Lee
 
 구글은 구글 기어스로 파이어폭스나 오페라, 어도비와 파트너십을 맺고 있는데, 그 이유는 구글 기어스가 설치된 상태에서 브라우져를 배포하는 방법을 추진하고 있기 때문이라고 한다.
 
-사실 구글이 기어스를 정말 필요로 하는 서비스는 [구글 닥스(Google Docs)](https://palgle.com/2006/10/15/google_docs_future/)로 알려진 [구글 워드프로세서와 스프레드시트](http://docs.google.com)라고 할 수 있다. 이 서비스는 [기업용 유료 서비스(Google Apps)](https://palgle.com/2007/02/22/google-apps-enterprise-launched/)로도 제공되고, 구글의 CEO인 에릭 슈미트가 특별히 챙기고 있는 구글의 주력 서비스다.
+사실 구글이 기어스를 정말 필요로 하는 서비스는 [구글 닥스(Google Docs)](https://www.palgle.com/2006/10/15/google_docs_future/)로 알려진 [구글 워드프로세서와 스프레드시트](http://docs.google.com)라고 할 수 있다. 이 서비스는 [기업용 유료 서비스(Google Apps)](https://www.palgle.com/2007/02/22/google-apps-enterprise-launched/)로도 제공되고, 구글의 CEO인 에릭 슈미트가 특별히 챙기고 있는 구글의 주력 서비스다.
 
 한편, 구글은 지메일에도 구글 기어스를 적용한다는 계획을 발표한 바 있다.

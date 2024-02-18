@@ -22,7 +22,7 @@ author: Samgu Lee
 
 ## 웹개발자(Web Developer)
 
-모든 개발팀과 협력해서 최종 산출물을 만들어 내는 직종인 웹개발자는 5년 이상의 경력과 PHP 혹은 Perl을 능숙하게 다루어야 한다. 재미있는 것은 한국에서는 거의 사용되지 않는 [GWT(Google Web Toolkit)](https://palgle.com/2006/05/18/gwt_launched/)를 다룰 줄 알아야 한다는 점인데, 그러기 위해서는 자바에 대한 기초적인 지식이 있어야 할 것이다.
+모든 개발팀과 협력해서 최종 산출물을 만들어 내는 직종인 웹개발자는 5년 이상의 경력과 PHP 혹은 Perl을 능숙하게 다루어야 한다. 재미있는 것은 한국에서는 거의 사용되지 않는 [GWT(Google Web Toolkit)](https://www.palgle.com/2006/05/18/gwt_launched/)를 다룰 줄 알아야 한다는 점인데, 그러기 위해서는 자바에 대한 기초적인 지식이 있어야 할 것이다.
 
 ## 시각 디자이너(Visual Designer)
 

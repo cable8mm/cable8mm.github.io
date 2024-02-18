@@ -10,7 +10,7 @@ author: Samgu Lee
 
 ![구글 분석기](/assets/google-analytics-new-version.gif)
 
-그동안 이 서비스는 [말도 많고 탈고 많았는데](https://palgle.com/2006/01/26/google_analytics_crisis/), 구글이 아르킨(Urchine)을 인수한 후 사용자가 순간적으로 폭주해서 [가입 정지](https://palgle.com/2005/11/24/stop_of_googleanalytics/), [서비스 정지](https://palgle.com/2006/02/06/google_analytics_delay/)를 반복하다가 원활한 서비스를 진행하긴 했지만, 엄청나게 느린 속도로 인해서 간단하지만 빠른 서비스로 이탈하는 양상도 보여왔다.
+그동안 이 서비스는 [말도 많고 탈고 많았는데](https://www.palgle.com/2006/01/26/google_analytics_crisis/), 구글이 아르킨(Urchine)을 인수한 후 사용자가 순간적으로 폭주해서 [가입 정지](https://www.palgle.com/2005/11/24/stop_of_googleanalytics/), [서비스 정지](https://www.palgle.com/2006/02/06/google_analytics_delay/)를 반복하다가 원활한 서비스를 진행하긴 했지만, 엄청나게 느린 속도로 인해서 간단하지만 빠른 서비스로 이탈하는 양상도 보여왔다.
 
 이번 서비스 개편의 가장 큰 특징은 전문가 뿐만이 아니라 비전문가도 사용하기 쉽게 바뀌었고, 속도 또한 매우 빨라졌다는 점이다. 이 말은 단순한 UI 개편이 아니라 시스템적인 부분도 상당부분 바뀌었다는 것을 의미한다.
 
@@ -40,7 +40,7 @@ author: Samgu Lee
 
 ## 정리
 
-이번 개편은 순차적으로 지원된다고 하지만, [팔글](https://palgle.com)의 조사에 따르면, 현재 거의 대부분의 계정이 새로운 시스템으로 사용이 가능하다.
+이번 개편은 순차적으로 지원된다고 하지만, [팔글](https://www.palgle.com)의 조사에 따르면, 현재 거의 대부분의 계정이 새로운 시스템으로 사용이 가능하다.
 
 전체 화면을 지원하고, 속도가 빨라졌다는 점은 이전과 비교할 때 대단한 잇점이다.
 
