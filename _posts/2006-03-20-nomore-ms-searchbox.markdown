@@ -25,7 +25,7 @@ rjdohnert의 낚시에 모두 낚인 것인지, 아니면 구글의 어두운 �
 - [이 주제로 어수선한 digg.com](http://digg.com/software/google_tells_blogspot_user_he_can_t_put_msn_search_on_his_blog)
 - [문제의 그 블로그(현재 삭제됨)](http://rjdohnert.blogspot.com/2006/03/googles-mad-at-me.html)
 
-[구글 블로그 서치](http://blogsearch.google.com/blogsearch?hl=ko&#038;q=googles-mad-at-me&#038;btnG=%EB%B8%94%EB%A1%9C%EA%B7%B8+%EA%B2%80%EC%83%89)에 글이 남아있어서 확인차 그대로 올립니다.
+[구글 블로그 서치](http://blogsearch.google.com/blogsearch?hl=ko&q=googles-mad-at-me&btnG=%EB%B8%94%EB%A1%9C%EA%B7%B8+%EA%B2%80%EC%83%89)에 글이 남아있어서 확인차 그대로 올립니다.
 
 > Googles mad at me
 >

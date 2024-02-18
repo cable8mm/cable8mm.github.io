@@ -12,7 +12,7 @@ author: Samgu Lee
 
 이 프로모션은 크리스마스 때 매출이 올라간다는 점에 착안해서 애드워즈를 접하지 않은 고객이 체험할 수 있게 해 주고, 금액은 미화 50불이고, 어느 국가가 적용이 되는지는 화면 상에는 나타나지 않고 있는데, 팔글에선 이미 쿠폰 신청을 해 놓은 상태, 신청 후에는 몇일 뒤에 쿠폰이 이메일로 발송된다는 안내 메세지가 나온게 된다.
 
-> Thank you for your interest in Google AdWords™. You&#8217;ll receive an email within a few days at the address you submitted containing an AdWords coupon and instructions for using it. 
+> Thank you for your interest in Google AdWords™. You'll receive an email within a few days at the address you submitted containing an AdWords coupon and instructions for using it. 
 
 신청은 [이 곳](http://services.google.com/marketing/links/au-oa-sitetargeting/)에서 할 수 있고, 한국에서도 적용이 되는지의 여부는 이후에 이 페이지에 업데이트 할 예정이다.
 

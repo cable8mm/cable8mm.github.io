@@ -16,8 +16,8 @@ author: Samgu Lee
 
 Update
 
-이 루머에 대한 글이 [뉴욕타임즈](http://www.nytimes.com/2006/10/06/business/07youtubecnd.html?hp&#038;ex=1160193600&#038;en=eb421a8478660f0b&#038;ei=5094&#038;partner=homepage)에 게재됐습니다.(Ob님 감사~)
+이 루머에 대한 글이 [뉴욕타임즈](http://www.nytimes.com/2006/10/06/business/07youtubecnd.html?hp&ex=1160193600&en=eb421a8478660f0b&ei=5094&partner=homepage)에 게재됐습니다.(Ob님 감사~)
 
-Update2<br />
+Update2
 
 16억 5천만불에 유투브가 구글에 인수되었습니다.([타카쿠님](http://takaku.tistory.com/) 감사~)

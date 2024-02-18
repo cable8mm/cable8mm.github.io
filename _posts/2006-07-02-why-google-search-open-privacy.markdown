@@ -16,4 +16,4 @@ KTF가 주관한 이벤트의 당첨자 명단이 구글에서 검색되나 봅�
 
 이런 것은 기술적인 문제라기 보다는 담당자가 신경을 쓰느냐 하는 문제입니다. 위의 KTF 담당자가 외주업체에 그런 식으로 설명을 들었을 가능성도 매우 높습니다. 보통 이런 일이 터지면 되도 않는 말로 거래처를 안심시키는 것이 기본(?)이니까요. 말하는 쪽에서도 말이 안된다는 것을 알고는 있지만, 그런 식으로 넘어가는 것이 한국에선 가장 뒷탈이 없습니다. 좋은 것인지는 별개로 하고라도...
 
-구글 인덱스에서 웹페이지를 삭제하는 곳은 "[Remove your URL](http://services.google.com:8882/urlconsole/controller?cmd=reload&#038;lastcmd=login)"라는 페이지입니다.
+구글 인덱스에서 웹페이지를 삭제하는 곳은 "[Remove your URL](http://services.google.com:8882/urlconsole/controller?cmd=reload&lastcmd=login)"라는 페이지입니다.

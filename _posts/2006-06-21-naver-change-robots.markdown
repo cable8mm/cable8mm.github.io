@@ -24,8 +24,8 @@ author: Samgu Lee
 
 관련 링크
 
-[Picasa Web Albums에 대한 설명][picasa-web-albums-review]<br />
+[Picasa Web Albums에 대한 설명][picasa-web-albums-review]
 
-[캡순이 5.0 공식 웹사이트 &#8211; 애니윈소프트](http://www.anywinsoft.com/)
+[캡순이 5.0 공식 웹사이트 - 애니윈소프트](http://www.anywinsoft.com/)
 
 [picasa-web-albums-review]: {% post_url 2006-06-17-picasa-web-albums-review %}

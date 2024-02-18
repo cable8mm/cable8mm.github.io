@@ -16,7 +16,7 @@ author: Samgu Lee
 
 디그닷컴에 올라온 카렌 위클의 글은 곧이어 구글 공식 페이지에 해킹 사실과 블로거(Blogger)에 버그가 있었고, 그 버그는 고쳐졌다고 [알려왔습니다](http://googleblog.blogspot.com/2006/10/about-that-fake-post.html).
 
-이에 대한 분석으로 가장 신뢰성있는 글은 블로그 뉴스 채널의 인사이드 구글에 게재된 &#8220;[Google Blog Hacked Again(구글 블로그 다시 해킹 당하다)](http://google.blognewschannel.com/index.php/archives/2006/10/08/google-blog-hacked-again/)&#8220;라는 글입니다. 나산 웨인버그(Nathan Weinberg)는 블로그에서 구글의 공식 블로그는 글을 쓸 수 있는 직원이 너무 많기 때문에 이런 사건은 이미 예견됐다라고 기술하고 있습니다.
+이에 대한 분석으로 가장 신뢰성있는 글은 블로그 뉴스 채널의 인사이드 구글에 게재된 "[Google Blog Hacked Again(구글 블로그 다시 해킹 당하다)](http://google.blognewschannel.com/index.php/archives/2006/10/08/google-blog-hacked-again/)"라는 글입니다. 나산 웨인버그(Nathan Weinberg)는 블로그에서 구글의 공식 블로그는 글을 쓸 수 있는 직원이 너무 많기 때문에 이런 사건은 이미 예견됐다라고 기술하고 있습니다.
 
 여기까지가 블로고스피어에 돌아다니는 글의 요약입니다. 다음은 이삼구글 독점 뉴스.
 

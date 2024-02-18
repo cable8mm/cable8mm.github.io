@@ -12,7 +12,7 @@ author: Samgu Lee
 
 실험을 위해서 익스풀에서 다음 로그인 한 상태에서 다음 주소를 클릭해보세요.
 
-[다음의 개인정보를 이용한 오버추어 배너](http://amsv2.daum.net/cgi-bin/adcgi?corpid=46&#038;secid=00420&#038;type=cpm&#038;tag=iframe&#038;mkvid=1&#038;ord=)
+[다음의 개인정보를 이용한 오버추어 배너](http://amsv2.daum.net/cgi-bin/adcgi?corpid=46&secid=00420&type=cpm&tag=iframe&mkvid=1&ord=)
 
 배너의 HTML 소스는 다음과 같이 코딩되었습니다.
 

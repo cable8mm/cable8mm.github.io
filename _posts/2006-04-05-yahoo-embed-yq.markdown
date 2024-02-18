@@ -16,7 +16,7 @@ author: Samgu Lee
 
 ## 사용방법
 
-1. 웹페이지의 헤드태그(head)에 다음과 같은 자바스크립트를 삽입합니다.<br />
+1. 웹페이지의 헤드태그(head)에 다음과 같은 자바스크립트를 삽입합니다.
 
 ```html
 <script language="javascript" type="text/javascript"
@@ -27,7 +27,7 @@ src="http://yq.search.yahoo.com/javascript/yq.js"></script>
 
 3. 태그와 폼을 이용한 Y!Q Form을 삽입합니다.
 
-이 서비스는 웹 퍼블리셔들의 입맛에 옵션을 바꿀 수 있습니다. 더 자세한 사항은 <a href="http://yq.search.yahoo.com/publisher/embed.html">퍼블리셔를 위한 Y!Q 페이지를 참고</a>하세요.
+이 서비스는 웹 퍼블리셔들의 입맛에 옵션을 바꿀 수 있습니다. 더 자세한 사항은 [퍼블리셔를 위한 Y!Q 페이지를 참고](http://yq.search.yahoo.com/publisher/embed.html)하세요.
 
 via - [SEW](http://blog.searchenginewatch.com/blog/060404-074457)
 

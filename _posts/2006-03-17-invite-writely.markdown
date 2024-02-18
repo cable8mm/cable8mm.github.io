@@ -16,7 +16,7 @@ author: Samgu Lee
 
 > welcome to Writely!  
 > * * *  
-> You can access the secure document called &#8216;MyNewDocument&#8217; from Pharbeson (초대장 보낸 분의 이메일) as:  
+> You can access the secure document called &#8216;MyNewDocument' from Pharbeson (초대장 보낸 분의 이메일) as:  
 > E-mail address: 제 이메일  
 > Password: *******  
 > Click here to sign in and view the document: http://www.writely.com/Doc.aspx?id=*************  
@@ -24,7 +24,7 @@ author: Samgu Lee
 > Replies to this message will be forwarded to 초대장 보낸 분의 이메일.  
 > * * *  
 > Writely is a simple, secure online word processor.  
-> At Writely, we have a very strict NO-SPAM policy, which means we won&#8217;t ever sell, trade or give away any e-mail address you enter.  
+> At Writely, we have a very strict NO-SPAM policy, which means we won't ever sell, trade or give away any e-mail address you enter.  
 > We also take data security very seriously. Only people you authorize can view or modify a document.  
 > To edit documents with Writely, you will need a fairly up-to-date version of IE, FireFox or Mozilla, and to enable pop-ups for the writely.com domain (we promise not to show any pop-up ads!). Document text can be up to 500KB in length, and images can be up to 2MB.  
 > More questions? Check out our Help Center at http://www.writely.com/?action=help.

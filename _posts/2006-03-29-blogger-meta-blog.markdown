@@ -12,7 +12,7 @@ Ralrara님에 의해서 blogspot.com의 URL을 사용하는 한글 블로그 전
 
 Ralrara님은 구글 블로그 검색을 이용해서 한글로 된 blogspot.com URL을 쓰는 블로그만 전문으로 수집하는 [블로그](http://koreanupdate.blogspot.com/)를 개설했습니다. 다음은 [Ralrara님의 블로그](http://ralrara.blogspot.com/2006/03/blogger.html)에 올린 이 서비스를 만들게 된 이유입니다.
 
-> 가끔 블로그 오른쪽 위에 있는 &#8216;NEXT BLOG≫&#8217; 버튼을 눌러서 랜덤으로 다른 블로그들을 보곤 한다. 네이버 같은 곳과는 달리 성의있는 블로그가 많고, 또 외국인들이다 보니 호기심에 꽤나 자주 이용하고 있다.
+> 가끔 블로그 오른쪽 위에 있는 &#8216;NEXT BLOG≫' 버튼을 눌러서 랜덤으로 다른 블로그들을 보곤 한다. 네이버 같은 곳과는 달리 성의있는 블로그가 많고, 또 외국인들이다 보니 호기심에 꽤나 자주 이용하고 있다.
 > 
 > 그런데 지금까지 저 기능을 사용해 오면서 한글 블로그를 본 적은 딱 한 번뿐이다. 그것도 한국인이 아니라 한글을 배우는 외국인의 블로그였다. 기쁜 마음에 코멘트도 한 개 남겨줬다.
 >
@@ -34,6 +34,6 @@ Ralrara님이 만드신 서비스는 다음과 같은 주소를 보기 좋게 �
 
 그럼에도 불구하고, 피카사나 구글 툴바와의 연동이 편하게 되어 있기 때문에 입소문으로 한국 사용자는 늘어가고 있습니다.
 
-via &#8211; [mwultong Blog](http://mwultong.blogspot.com/2006/03/bloggercom-blogger.html)
+via - [mwultong Blog](http://mwultong.blogspot.com/2006/03/bloggercom-blogger.html)
 
 [google-blog-search]: {% post_url 2006-01-11-google-blog-search %}

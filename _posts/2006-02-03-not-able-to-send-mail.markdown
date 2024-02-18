@@ -20,7 +20,7 @@ author: Samgu Lee
 
 ## 지메일과 한메일의 스팸처리 방식
 
-지메일은 IP로 스팸을 구분하진 않습니다. 구글은 IP라는 데이터를 개인정보로 받아들이기 때문에 메일을 발송할 때에도 [메일을 쓴 사용자의 IP도 공개하지 않습니다](http://mail.google.com/support/bin/answer.py?answer=26903&#038;query=ip&#038;topic=0&#038;type=f). 그것은 사실 일리가 있는 말입니다. IP를 알게 되면 그 사람의 위치와 ISP정보를 알 수 있고 그 것을 기반으로 통계적 추론이 가능하기 때문입니다. 하지만, IP 없이 스팸 필터를 만드는게 가능할까요?
+지메일은 IP로 스팸을 구분하진 않습니다. 구글은 IP라는 데이터를 개인정보로 받아들이기 때문에 메일을 발송할 때에도 [메일을 쓴 사용자의 IP도 공개하지 않습니다](http://mail.google.com/support/bin/answer.py?answer=26903&query=ip&topic=0&type=f). 그것은 사실 일리가 있는 말입니다. IP를 알게 되면 그 사람의 위치와 ISP정보를 알 수 있고 그 것을 기반으로 통계적 추론이 가능하기 때문입니다. 하지만, IP 없이 스팸 필터를 만드는게 가능할까요?
 
 지메일은 IP를 만지지 않고 스팸 필터를 개선하고 있습니다. 반면 한메일은 IP를 1차적으로 체크를 하고 부가적으로 사용자의 반응으로 2차 필터링을 적용하고 있습니다.
 
@@ -76,6 +76,6 @@ Update.
 
 현재 지메일에서 한메일로 메일 발송이 가능해 졌습니다.
 
-[리덕스님이 문제제기](http://blog.daum.net/redux/5394546)를 하신 것을 [너른호수님이 해결책을 제시](http://blog.naver.com/widelake/40021351010)했는데, 그것이 [미디어다음에 올라갔다](http://blogbbs1.media.daum.net/griffin/do/blognews/itnet/read?bbsId=B0007&#038;articleId=228&#038;pageIndex=2&#038;searchKey=&#038;searchValue=)고 하네요.
+[리덕스님이 문제제기](http://blog.daum.net/redux/5394546)를 하신 것을 [너른호수님이 해결책을 제시](http://blog.naver.com/widelake/40021351010)했는데, 그것이 [미디어다음에 올라갔다](http://blogbbs1.media.daum.net/griffin/do/blognews/itnet/read?bbsId=B0007&articleId=228&pageIndex=2&searchKey=&searchValue=)고 하네요.
 
 블로거의 힘을 다시한번 보여주는 대목이군요.

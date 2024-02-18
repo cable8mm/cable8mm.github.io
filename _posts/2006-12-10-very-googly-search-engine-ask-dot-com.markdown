@@ -6,7 +6,7 @@ categories: service
 tags: ask search
 author: Samgu Lee
 ---
-[애스크닷컴](http://www.ask.com)은 미국에서는 상당한 점유율과 사랑을 받고 있는 검색엔진으로, 예전 이름은 애스크지브스(지브스군에게 물어봐 &#8211; askjeeves)였다.
+[애스크닷컴](http://www.ask.com)은 미국에서는 상당한 점유율과 사랑을 받고 있는 검색엔진으로, 예전 이름은 애스크지브스(지브스군에게 물어봐 - askjeeves)였다.
 
 ![애스크 로고](/assets/ask-logo.gif)
 

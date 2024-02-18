@@ -14,9 +14,9 @@ author: Samgu Lee
 
 [원래 쿠글](http://qooqle.jp/)은 Ajax를 이용해서 Yahoo! JAPAN & Hatena & Amazon & Google 을 한개의 화면에 검색해 주는 것으로 생긴것은 구글 서제스트랑 비슷합니다. 여기에 [비디오 검색](http://video.qooqle.jp/)이 더해진 것입니다.
 
-희한한 것은 유튜브엔 성인물을 올리면 성인인증을 하게 되어 있는데 이 곳에선 그냥 재생이 되버리는군요. 역시 일본이라 그런지 이런 면에선 관대한 모양입니다. 그렇다고 굉장한 영상물이 있는 것은 아닙니다. 괜한 기대는 마시길&#8230;
+희한한 것은 유튜브엔 성인물을 올리면 성인인증을 하게 되어 있는데 이 곳에선 그냥 재생이 되버리는군요. 역시 일본이라 그런지 이런 면에선 관대한 모양입니다. 그렇다고 굉장한 영상물이 있는 것은 아닙니다. 괜한 기대는 마시길...
 
-via &#8211; <a href="http://blog.outer-court.com/archive/2006-03-31-n50.html">Google Blogoscoped</a>
+via - <a href="http://blog.outer-court.com/archive/2006-03-31-n50.html">Google Blogoscoped</a>
 
 Update.
 

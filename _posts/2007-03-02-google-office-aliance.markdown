@@ -10,7 +10,7 @@ author: Samgu Lee
 
 ![IBM, 구글, 어바이어 로고](/assets/ibm-google-avaya.jpg)
 
-IBM은 자사의 솔루션인 웹스피어 포탈 사용자에게 구글의 수천가지 가제트를 무료로 제공하게 된다. [로이터통신](http://today.reuters.com/news/articlenews.aspx?type=technologyNews&#038;storyid=2007-02-28T192659Z_01_N28454530_RTRUKOC_0_US-GOOGLE-IBM.xml)에 따르면, IBM은 지도, 언어번역, 패키지, 실시간 날씨 및 뉴스 정보, 오디오 검색과 위키피디아 등을 제공받는다고 한다.
+IBM은 자사의 솔루션인 웹스피어 포탈 사용자에게 구글의 수천가지 가제트를 무료로 제공하게 된다. [로이터통신](http://today.reuters.com/news/articlenews.aspx?type=technologyNews&storyid=2007-02-28T192659Z_01_N28454530_RTRUKOC_0_US-GOOGLE-IBM.xml)에 따르면, IBM은 지도, 언어번역, 패키지, 실시간 날씨 및 뉴스 정보, 오디오 검색과 위키피디아 등을 제공받는다고 한다.
 
 [보도자료](http://www.avaya.co.kr/corporate/press/read.asp?index=274)에 따르면 어바이어의 IP텔레포니 커뮤니케이션 솔루션인 어바이어 IP 오피스(Avaya IP Office)를 구글 도메인 어플리케이션 프리미어 에디션(영문명 Google Apps Premier Edition)에 통합해서 사용자에게 제공하게 된다. 어바이어는 직원과 직원 혹은 직원과 관리자의 커뮤니케이션 툴을 제공하는 회사로, IP를 이용해서 PC, 전화, 모바일 등의 통신 수단을 제공한다.
 

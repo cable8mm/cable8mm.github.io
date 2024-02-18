@@ -6,7 +6,7 @@ categories: opinion
 tags: google
 author: Samgu Lee
 ---
-구글 개발자 데이(Google Developer Day 2007)가 한국 시간으로 6월 1일 새벽 2시에 캘리오니아 산호세(San Jose)에 있는 [컨벤션 센터](http://maps.google.com/maps?f=l&#038;hl=en&#038;q=Hotels&#038;near=408+Almaden+Blvd.,+San+Jose,+CA&#038;ie=UTF8&#038;ll=37.329748,-121.888096&#038;spn=0.011517,0.022488&#038;z=16&#038;om=1)에서 열린다.
+구글 개발자 데이(Google Developer Day 2007)가 한국 시간으로 6월 1일 새벽 2시에 캘리오니아 산호세(San Jose)에 있는 [컨벤션 센터](http://maps.google.com/maps?f=l&hl=en&q=Hotels&near=408+Almaden+Blvd.,+San+Jose,+CA&ie=UTF8&ll=37.329748,-121.888096&spn=0.011517,0.022488&z=16&om=1)에서 열린다.
 
 현재 라운지에서 수천명의 개발자들은 수속(Registration)을 밟고 있으며, 수속이 끝난 사람들은 삼삼오오 모여 구글 개발자 데이에 대한 이야기를 하고, 취재를 진행하면서 점점 분주해지고 있다.
 

@@ -10,7 +10,7 @@ author: Samgu Lee
 
 구글이 파이썬용 소스는 배포를 하지만 프로그램이 따로 있으면 편하겠죠. 그래서 소개합니다. 윈도우용 사이트맵 자동생성기입니다.
 
-정확한 프로그램 이름은 &#8220;GSiteCrawler&#8221;입니다. 글 쓰는 당시의 최신 버젼이 1.06 빌드 251입니다. 자체 크롤러 여섯마리가 내장되어 있어서 URL을 넣으면 링크를 쫓아가면서 사이트맵 파일을 만들어 줍니다. 사용법은 매우 간단해서 URL 넣고 sitemap파일을 받아내면 됩니다.
+정확한 프로그램 이름은 "GSiteCrawler"입니다. 글 쓰는 당시의 최신 버젼이 1.06 빌드 251입니다. 자체 크롤러 여섯마리가 내장되어 있어서 URL을 넣으면 링크를 쫓아가면서 사이트맵 파일을 만들어 줍니다. 사용법은 매우 간단해서 URL 넣고 sitemap파일을 받아내면 됩니다.
 
 프로그램은 무료이며, 비쥬얼 베이직을 이용해서 제작했기 때문에 프로그램 용량이 좀 큰 편입니다. 또한, 설치 후 재부팅을 해야 합니다.
 
@@ -22,4 +22,4 @@ author: Samgu Lee
 
 사이트맵 생성기가 없어서 포기하신 분들은 빠른 시간에 자신의 웹사이트의 구글 사이트맵 파일을 만들 수 있습니다.
 
-프로그램은 [&#8220;The SOFTplus GSiteCrawler Google Sitemap generator&#8221;](http://johannesmueller.com/gs/)에서 받으실 수 있습니다.
+프로그램은 ["The SOFTplus GSiteCrawler Google Sitemap generator"](http://johannesmueller.com/gs/)에서 받으실 수 있습니다.

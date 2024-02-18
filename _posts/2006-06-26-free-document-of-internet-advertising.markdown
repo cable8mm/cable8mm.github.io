@@ -36,7 +36,6 @@ author: Samgu Lee
 
 과거의 내용이지만, 현재까지 온라인 마케팅에 변한 것은 Google과 다음, 네이버에서 베타테스트 중인 문맥광고 정도이니 참고가 되리라 생각합니다.
 
-<span style="font-weight: bold">온라인 광고 집행하는 법(PDF)</span>
-![온라인 광고 집행하는 법(PDF)](/assets/how-to-online-advertising.pdf)
+[온라인 광고 집행하는 법(PDF)](/assets/how-to-online-advertising.pdf)
 
 이 문서는 무료([크리에이티브 커먼즈 코리아 저작자표시-비영리 2.0 South Korea 라이센스](http://creativecommons.org/licenses/by-nc/2.0/kr/))이고, 수정할 수 있으며, 수정 후 배포도 허용합니다. 다만, 수정 배포할 경우 이름과 구한 곳을 명시해 주세요.

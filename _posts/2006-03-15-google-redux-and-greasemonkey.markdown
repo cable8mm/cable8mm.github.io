@@ -30,7 +30,7 @@ Andy Rutledge는 지난 1월 28일 자신의 블로그에 구글 홈페이지(�
 
 ## 구글 리덕스 그리스몽키 이용방법
 
-1. [파이어폭스 1.5를 설치](http://www.mozilla.com/firefox/)<br />
+1. [파이어폭스 1.5를 설치](http://www.mozilla.com/firefox/)
 2. [그리스몽키 설치](http://greasemonkey.mozdev.org/) | [바로설치](http://ftp.mozilla.org/pub/mozilla.org/extensions/greasemonkey/greasemonkey-0.6.4-fx.xpi)
 3. [구글 리덕스 스크립트 설치](http://buckymatters.com/googleredux/)(링크를 마우스 우측버튼으로 누르고 Install 선택) | [바로설치](http://buckymatters.com/googleredux/googleredux14.user.js)
 4. 파이어폭스 재시작

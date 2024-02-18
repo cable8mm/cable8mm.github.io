@@ -10,7 +10,7 @@ author: Samgu Lee
 
 캡틴 후크 어워드는 구글의 수상 내용에 [다음](http://www.captainhookawards.org/winners/2006_pirates)과 같이 밝히고 있습니다.
 
-> For teaming up with J. Craig Venter to create a searchable online database of all the genes on the planet so that individuals and pharmaceutical companies alike can &#8216;google&#8217; our genes – one day bringing the tools of biopiracy online.
+> For teaming up with J. Craig Venter to create a searchable online database of all the genes on the planet so that individuals and pharmaceutical companies alike can &#8216;google' our genes – one day bringing the tools of biopiracy online.
 
 요는 구글이 개인 유전자의 온라인 검색을 지원했다는 것입니다. 자세한 것은 [구글이 노미네이트 된 이유](http://www.captainhookawards.org/nominations/google)를 보면 알 수 있습니다.
 

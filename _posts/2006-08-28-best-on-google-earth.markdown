@@ -39,7 +39,7 @@ KML은 최근 무료화된 스케치업 5(SketchUp 5)를 이용했다고 하며,
 
 링크
 
-- <a href="http://www.gemeauxgs.com/">공식 웹사이트</a><br />
-- <a href="http://picasaweb.google.com/cable8mm/SeoulKMZ">피카사웹을 이용한 앨범</a>
+- [공식 웹사이트](http://www.gemeauxgs.com/)
+- [피카사웹을 이용한 앨범](http://picasaweb.google.com/cable8mm/SeoulKMZ)
 
 [google-naver-meshup]: {% post_url 2006-08-08-google-naver-meshup %}

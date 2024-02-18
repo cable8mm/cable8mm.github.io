@@ -10,15 +10,15 @@ author: Samgu Lee
 
 ![구글 코드 검색 로고](/assets/codesearch_logo.gif)
 
-구글 코드 검색이 런칭된 이후 이삼구글에선 몇개의 검색어를 이용해서 결과를 살펴봤습니다. 구글랩(Google Labs)의 첫번째 서비스인데도 불구하고, 유니코드를 이용했기 때문에 한글 검색도 지원됩니다. &#8220;테터툴즈&#8221;, &#8220;제로보드&#8221;, &#8220;daum.net&#8221; 등의 검색결과는 매우 흥미로웠지만, 혹시나 하는 생각에 &#8220;정부&#8221;로 검색을 해 봤습니다.
+구글 코드 검색이 런칭된 이후 이삼구글에선 몇개의 검색어를 이용해서 결과를 살펴봤습니다. 구글랩(Google Labs)의 첫번째 서비스인데도 불구하고, 유니코드를 이용했기 때문에 한글 검색도 지원됩니다. "테터툴즈", "제로보드", "daum.net" 등의 검색결과는 매우 흥미로웠지만, 혹시나 하는 생각에 "정부"로 검색을 해 봤습니다.
 
-&#8220;[정부](http://www.google.com/codesearch?q=%EC%A0%95%EB%B6%80&#038;btnG=Search+Code)&#8220;의 검색결과 법제처에서 운영하는 동북아 법령 정보센터라는 곳에 JSP 코드가 압축되어 올라온 것이 확인되었습니다. &#8220;[대통령](http://www.google.com/codesearch?hl=en&#038;lr=&#038;q=%EB%8C%80%ED%86%B5%EB%A0%B9&#038;btnG=Search)&#8220;으로 검색을 해도 비슷한 결과를 볼 수 있습니다. 확인 결과 단순한 게시판 소스인 것으로 확인됐지만, 구글 코드 검색으로 검색되지 않는 코드 마져도 검색을 해 준다는 사실이 확인되었고, 프로그래머들은 자신의 회사 코드가 구글 코드 검색에서 검색 되는지 확인을 할 필요가 있습니다.
+"[정부](http://www.google.com/codesearch?q=%EC%A0%95%EB%B6%80&btnG=Search+Code)"의 검색결과 법제처에서 운영하는 동북아 법령 정보센터라는 곳에 JSP 코드가 압축되어 올라온 것이 확인되었습니다. "[대통령](http://www.google.com/codesearch?hl=en&lr=&q=%EB%8C%80%ED%86%B5%EB%A0%B9&btnG=Search)"으로 검색을 해도 비슷한 결과를 볼 수 있습니다. 확인 결과 단순한 게시판 소스인 것으로 확인됐지만, 구글 코드 검색으로 검색되지 않는 코드 마져도 검색을 해 준다는 사실이 확인되었고, 프로그래머들은 자신의 회사 코드가 구글 코드 검색에서 검색 되는지 확인을 할 필요가 있습니다.
 
 외국 블로거들도 구글 코드 검색의 위험성을 알리고 있습니다. [래퍼엑스](http://www.reaper-x.com/2006/10/07/google-codesearch-launched-and-another-problem-has-arise.htm)라는 블로그에선 아파치에서 구글 코드 검색을 피해가는 방법을 설명하고 있고, [Tipsdr.com](http://www.tipsdr.com/?p=442)에선 구글 코드 검색을 이용해서 웹 서비스의 보안홀을 조심하라는 글이 올라오기도 합니다.
 
 구글 코드 검색이 악용될 수 있는 언어는 컴파일이 필요 없는 소위 스크립트 언어라고 불리우는 것들입니다. 예를 들어서, PHP, JSP, ASP를 들 수 있습니다. [deathbycomet.com](http://deathbycomet.com/2006/10/05/some-of-your-db-passwords-are-belong-to-us/)에서 말하는 예재를 살펴 보도록 하겠습니다.
 
-[구글 코드 검색을 이용한 암호 알아보기](http://google.com/codesearch?hl=en&#038;lr=&#038;q=lang%3Aphp+file%3Awp-config+user+-sample&#038;btnG=Search) 링크를 클릭해 보세요.
+[구글 코드 검색을 이용한 암호 알아보기](http://google.com/codesearch?hl=en&lr=&q=lang%3Aphp+file%3Awp-config+user+-sample&btnG=Search) 링크를 클릭해 보세요.
 
 ![구글 코드 검색을 이용한 암호 알아내기](/assets/hack_with_google_code.jpg)
 

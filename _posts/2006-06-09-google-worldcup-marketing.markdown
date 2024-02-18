@@ -8,7 +8,7 @@ author: Samgu Lee
 ---
 [Google Blogoscoped에서 언급](http://blog.outer-court.com/archive/2006-06-09.html#n39)한 월드컵을 맞이해서 Google의 깜짝 이벤트입니다. 하이브리드 검색을 지향하는 Google이 쿼리를 분석해서 월드컵 결과를 최상단에 보여주는군요. Google의 특이한 월드컵 마케팅을 알아봅니다.
 
-입소문 마케팅으로 힘을 얻고 있는 Google이 브랜드 마케팅에서 재미를 보지 못하고 있는데, 이번에는 월드컵 마케팅입니다. 개인화 페이지에서 [월드컵 일정과 동영상을 보여주는 서비스](http://ejang.new21.org/blog/tt/index.php?pl=3543)를 시작하더니, Google 검색에서 ["한국 토고"로 검색](http://www.google.co.kr/search?q=%ED%95%9C%EA%B5%AD+%ED%86%A0%EA%B3%A0&#038;hl=ko&#038;lr=&#038;safe=off&#038;rls=GGLD,GGLD:2006-10,GGLD:ko&#038;sa=G&#038;pwst=1&#038;start=0&#038;pws=0)해 보면 간단한 일정이 보여집니다.
+입소문 마케팅으로 힘을 얻고 있는 Google이 브랜드 마케팅에서 재미를 보지 못하고 있는데, 이번에는 월드컵 마케팅입니다. 개인화 페이지에서 [월드컵 일정과 동영상을 보여주는 서비스](http://ejang.new21.org/blog/tt/index.php?pl=3543)를 시작하더니, Google 검색에서 ["한국 토고"로 검색](http://www.google.co.kr/search?q=%ED%95%9C%EA%B5%AD+%ED%86%A0%EA%B3%A0&hl=ko&lr=&safe=off&rls=GGLD,GGLD:2006-10,GGLD:ko&sa=G&pwst=1&start=0&pws=0)해 보면 간단한 일정이 보여집니다.
 
 ![Google 검색에서 국가 이름을 검색하면 월드컵 일정이 나온다](/assets/google_worldcup.png)
 

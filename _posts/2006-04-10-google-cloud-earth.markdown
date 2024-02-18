@@ -10,7 +10,7 @@ author: Samgu Lee
 
 구글 맵스와 구글 로컬의 경우는 자바스크립트 API를 공개해서 구글 직원이 아니더라도 웹서비스가 가능합니다. 구글 어스는 확장자가 KML인 파일을 플러그인 해서 지구의 위성사진 위에 또다른 서비스 구현이 가능합니다.
 
-이번에 공개된 구글 구름사진은 완벽한 실시간은 아니고 3시간마다 새로운 구름사진을 전송해 줍니다. 이 플러그인의 제작자는 키홀 커뮤니티에서 ChrisMDP이라는 아이디를 쓰고 있는 [Chris Parsons](http://bbs.keyhole.com/ubb/showprofile.php?Cat=0&#038;User=184034&#038;Number=373671&#038;Board=EarthExternalData&#038;what=showthreaded&#038;page=0&#038;fpart=&#038;vc=1)입니다. 한때 서버 호스팅을 중지했다가 4월 3일 다시 서비스를 하고 있는데, 공개된지 일주일만에 3600여번의 다운로드를 기록할 정도로 대단한 관심을 받고 있습니다.
+이번에 공개된 구글 구름사진은 완벽한 실시간은 아니고 3시간마다 새로운 구름사진을 전송해 줍니다. 이 플러그인의 제작자는 키홀 커뮤니티에서 ChrisMDP이라는 아이디를 쓰고 있는 [Chris Parsons](http://bbs.keyhole.com/ubb/showprofile.php?Cat=0&User=184034&Number=373671&Board=EarthExternalData&what=showthreaded&page=0&fpart=&vc=1)입니다. 한때 서버 호스팅을 중지했다가 4월 3일 다시 서비스를 하고 있는데, 공개된지 일주일만에 3600여번의 다운로드를 기록할 정도로 대단한 관심을 받고 있습니다.
 
 서비스를 다시 할 수 있었던 것은 GE team의 호스팅 제공에 있다고 [구글 어스 블로그 운영자](http://www.gearthblog.com/blog/archives/2006/04/global_cloud_ma.html)인 FrankTaylor는 언급하고 있습니다.
 

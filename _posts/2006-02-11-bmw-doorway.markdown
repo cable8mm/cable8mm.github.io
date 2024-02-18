@@ -30,7 +30,7 @@ BMW가 이번에 사용한 방법은 이렇습니다.
 
 한국은 구글과 야후를 제외하고는 [웹검색이 거의 쓸모가 없기 때문에][daum-naver-and-google] 상대적으로 효과가 없습니다만 이런 식으로 마케팅을 하는 사람들이 있고, 대행해주는 사람도 있습니다만 매우 음성적으로 활동하고 있습니다. 예전 PHPSCHOOL에 이와 관련된 글을 올렸는데 이틀후에 제작자가 메일로 글의 삭제를 요청한 적도 있었습니다.
 
-구글에서 "[배슬기 복고댄스](http://www.google.co.kr/search?hl=ko&#038;newwindow=1&#038;rls=GGLG%2CGGLG%3A2006-05%2CGGLG%3Ako&#038;q=%EB%B0%B0%EC%8A%AC%EA%B8%B0+%EB%B3%B5%EA%B3%A0%EB%8C%84%EC%8A%A4&#038;lr=)"로 검색을 해보면 수많은 도어웨이 페이지가 나오게 됩니다. 도어웨이 페이지의 전형적인 예로 클릭을 해보면 검색결과와 전혀 상관없는 페이지들이 나오게 됩니다.
+구글에서 "[배슬기 복고댄스](http://www.google.co.kr/search?hl=ko&newwindow=1&rls=GGLG%2CGGLG%3A2006-05%2CGGLG%3Ako&q=%EB%B0%B0%EC%8A%AC%EA%B8%B0+%EB%B3%B5%EA%B3%A0%EB%8C%84%EC%8A%A4&lr=)"로 검색을 해보면 수많은 도어웨이 페이지가 나오게 됩니다. 도어웨이 페이지의 전형적인 예로 클릭을 해보면 검색결과와 전혀 상관없는 페이지들이 나오게 됩니다.
 
 ![구글 한국 검색으로 본 도어웨이 페이지](/assets/google_doorway_page_korea.jpg)
 

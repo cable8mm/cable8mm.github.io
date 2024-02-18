@@ -20,7 +20,7 @@ author: Samgu Lee
 
 일반적으로 애드센스와 관련된 메일은 계정 삭제 통보만 있는 것이 아니라 부정클릭이 발생했으니 주의하라는 메일을 보내주는 경우도 있습니다.
 
-계정이 삭제되면 그 계정의 애드센스 코드에는 광고가 전혀 뜨지 않게 됩니다. 따라서, [구글 웹서치의 캐쉬](http://64.233.179.104/search?q=cache:itzyBiBOMxgJ:www.allblog.net/home/+site:www.allblog.net&#038;hl=ko&#038;gl=kr&#038;ct=clnk&#038;cd=2&#038;lr=lang_en|lang_ko)로 삭제 여부를 외부에서도 판별할 수 있는데 올블로그의 메인화면이 저장된 구글 캐쉬에는 아직도 광고가 뜨고 있는 것이 확인되었습니다.
+계정이 삭제되면 그 계정의 애드센스 코드에는 광고가 전혀 뜨지 않게 됩니다. 따라서, [구글 웹서치의 캐쉬](http://64.233.179.104/search?q=cache:itzyBiBOMxgJ:www.allblog.net/home/+site:www.allblog.net&hl=ko&gl=kr&ct=clnk&cd=2&lr=lang_en|lang_ko)로 삭제 여부를 외부에서도 판별할 수 있는데 올블로그의 메인화면이 저장된 구글 캐쉬에는 아직도 광고가 뜨고 있는 것이 확인되었습니다.
 
 ![올블로그 애드센스 코드, 현재와 과거 캐쉬화면](/assets/allblog_adsense.jpg)
 

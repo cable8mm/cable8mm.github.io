@@ -16,6 +16,6 @@ author: Samgu Lee
 
 [구글 공식 블로그](http://googleblog.blogspot.com/2006/10/literacy-project.html) 인용:
 
-> The project enables people to find everything &#8212; from videos, books and scholarly articles about literacy to reading groups and literacy-related blogs. PlanetRead is one of the many organisations that is contributing. We’ve uploaded our subtitled videos (take a look!) and are sharing our own literacy research. And the site’s map of world literacy organisations also make it easier for us to connect with partner agencies who want to make literacy a way of life for everyone on this planet.
+> The project enables people to find everything - from videos, books and scholarly articles about literacy to reading groups and literacy-related blogs. PlanetRead is one of the many organisations that is contributing. We’ve uploaded our subtitled videos (take a look!) and are sharing our own literacy research. And the site’s map of world literacy organisations also make it easier for us to connect with partner agencies who want to make literacy a way of life for everyone on this planet.
 
 구글은 이 프로젝트가 전세계의 문제(문맹이겠죠)를 해결하는데 첫걸음을 뗀 것이라고 코멘트를 했습니다. 문맹이 거의 없는 한국 입장에선 그다지 피부에 와 닿지는 않는 얘기지만, 인도에만 300만명 정도가 있다니 관심을 갖을만 한 일 같기도 합니다.

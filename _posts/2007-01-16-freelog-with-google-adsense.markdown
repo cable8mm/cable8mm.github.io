@@ -6,7 +6,7 @@ categories: news
 tags: naver freelog
 author: Samgu Lee
 ---
-&#8220;돈버는 블로그&#8221;라는 캐치프레이즈로 론칭한 서비스형 블로그인 [프리로그](http://www.freelog.net/)에서 애드센스를 관리자모드에서 지원하는 기능을 선보였다.
+"돈버는 블로그"라는 캐치프레이즈로 론칭한 서비스형 블로그인 [프리로그](http://www.freelog.net/)에서 애드센스를 관리자모드에서 지원하는 기능을 선보였다.
 
 ![프리로그에 적용된 애드센스](/assets/freelog-and-adsense.jpg)
 

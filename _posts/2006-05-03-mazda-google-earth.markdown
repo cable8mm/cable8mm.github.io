@@ -6,7 +6,7 @@ categories: news
 tags: google earth mazda
 author: Samgu Lee
 ---
-Mazda(마즈다)는 일본의 자동차 메이커로 Miata라는 2인용 로드스터가 유명합니다. Mazda 북미 법인은 Google과 공동으로 [MAZDA CX-7 EarthSearch Sweepstakes Game](http://www.mazdausa.com/MusaWeb/displayPage.action?pageParameter=cx7EarthSearch&#038;bhcp=1) 이라는 이벤트를 발표했습니다.
+Mazda(마즈다)는 일본의 자동차 메이커로 Miata라는 2인용 로드스터가 유명합니다. Mazda 북미 법인은 Google과 공동으로 [MAZDA CX-7 EarthSearch Sweepstakes Game](http://www.mazdausa.com/MusaWeb/displayPage.action?pageParameter=cx7EarthSearch&bhcp=1) 이라는 이벤트를 발표했습니다.
 
 Google은 [Dell][google-personal-page-partnership] 그리고 [Renovo][google-and-lenovo-partnership]와의 개인화페이지, [MAXIM과의 Google Earth 표지][maxim-event] 등으로 Adwords/Adsense로 커버하지 못하는 기업 브랜드 광고시장에 진입하기 위해서 노력하고 있습니다. 최근에는 영화 다빈치코드와의 퍼즐 퀴즈와 Google Video/개인화 페이지에서 이벤트를 진행하기도 합니다.
 

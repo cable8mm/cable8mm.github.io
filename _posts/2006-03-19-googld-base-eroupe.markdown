@@ -32,9 +32,9 @@ author: Samgu Lee
 
 > ...
 >
-> Unsupported language: It appears that your item is in a language that we currently don&#8217;t support. At this time we&#8217;re only accepting items posted in English. Please know that we&#8217;re working hard to make Google Base available in additional languages soon.
+> Unsupported language: It appears that your item is in a language that we currently don't support. At this time we're only accepting items posted in English. Please know that we're working hard to make Google Base available in additional languages soon.
 >
-> After you&#8217;ve made the necessary change(s), please reply to this email so that we may approve your item. If you have any questions, do not hesitate to email us back.
+> After you've made the necessary change(s), please reply to this email so that we may approve your item. If you have any questions, do not hesitate to email us back.
 >
 > Sincerely,
 >

@@ -14,7 +14,7 @@ author: Samgu Lee
 
 via - [Google Blogoscoped](http://blog.outer-court.com/archive/2006-12-06.html#n33)
 
-Original - [wojciech.felendzer&#8217;s photostream(Flickr)](http://www.flickr.com/photos/felendzer/315134177/)
+Original - [wojciech.felendzer's photostream(Flickr)](http://www.flickr.com/photos/felendzer/315134177/)
 
 ~~[공지]~~
 

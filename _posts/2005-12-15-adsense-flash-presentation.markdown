@@ -12,7 +12,7 @@ author: Samgu Lee
 
 아래의 링크에서 보실 수 있습니다.
 
-[*구글 애드센스 프리젠테이션 플래쉬버젼*](http://services.google.com/demo/adsense/demo05?url=http%3A%2F%2Fblog.repl.net%2F&#038;x=21&#038;y=10)
+[*구글 애드센스 프리젠테이션 플래쉬버젼*](http://services.google.com/demo/adsense/demo05?url=http%3A%2F%2Fblog.repl.net%2F&x=21&y=10)
 
 [*구글 애드센스 프리젠테이션 그림버젼*](http://services.google.com/marketing/links/as_demo_low/)
 

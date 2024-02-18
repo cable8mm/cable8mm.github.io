@@ -20,5 +20,5 @@ author: Samgu Lee
 
 ```html
 <script type="text/javascript" src="http://www.palgle.com/js/adsense_flash.js"></script>
-<a href="http://pagead2.googlesyndication.com/pagead/imgad?id=CIbXtaKw5LPcSBDQAhiYAjIIlilyOskW2fw&#038;ai=BQWU7-b-qRL-CD5CeVuH1ofUM9sHeDp60-swBwI23AfD1EhABGAEgzbWTAkiVOVCq9OFRiAEBoAGEvrT_A6oBCjMwODYyNDQ3NDKyAQ1ibG9nLnJlcGwubmV0ugEKMzM2eDI4MF9hc8gBBOABA4ACAZUCDoIVCg&#038;clickTAG=http://pagead2.googlesyndication.com/pagead/iclk%3Fsa%3Dl%26ai%3DBQWU7-b-qRL-CD5CeVuH1ofUM9sHeDp60-swBwI23AfD1EhABGAEgzbWTAkiVOVCq9OFRiAEBoAGEvrT_A6oBCjMwODYyNDQ3NDKyAQ1ibG9nLnJlcGwubmV0ugEKMzM2eDI4MF9hc8gBBOABA4ACAZUCDoIVCg%26num%3D1%26adurl%3Dhttp://www.languagesystems.com%26client%3Dca-pub-5259088562906477">pagead2.googlesyndication.com</a>
+<a href="http://pagead2.googlesyndication.com/pagead/imgad?id=CIbXtaKw5LPcSBDQAhiYAjIIlilyOskW2fw&ai=BQWU7-b-qRL-CD5CeVuH1ofUM9sHeDp60-swBwI23AfD1EhABGAEgzbWTAkiVOVCq9OFRiAEBoAGEvrT_A6oBCjMwODYyNDQ3NDKyAQ1ibG9nLnJlcGwubmV0ugEKMzM2eDI4MF9hc8gBBOABA4ACAZUCDoIVCg&clickTAG=http://pagead2.googlesyndication.com/pagead/iclk%3Fsa%3Dl%26ai%3DBQWU7-b-qRL-CD5CeVuH1ofUM9sHeDp60-swBwI23AfD1EhABGAEgzbWTAkiVOVCq9OFRiAEBoAGEvrT_A6oBCjMwODYyNDQ3NDKyAQ1ibG9nLnJlcGwubmV0ugEKMzM2eDI4MF9hc8gBBOABA4ACAZUCDoIVCg%26num%3D1%26adurl%3Dhttp://www.languagesystems.com%26client%3Dca-pub-5259088562906477">pagead2.googlesyndication.com</a>
 ```

@@ -12,7 +12,7 @@ author: Samgu Lee
 
 구글 뮤직에 비해서 유튜브 뮤직이 갖는 파괴력은 저작권 및 저작인접권을 포함한 지적재산권에 있다. 음원 서비스의 경우, 원저작권자와 계약하지 않으면 서비스를 할 수가 없다. 애플 뮤직의 경우, 로엔 등 대형 음원 유통업체와의 계약 실패로 반쪽짜리 서비스에 그치고 있는 실정이다. 하지만, [유튜브는 이미 저작권에 자유로운 위치](http://googlepresskr.blogspot.kr/2010/04/blog-post_16.html)에 있다.
 
-이런 이유로 구글은 유튜브에서 뮤직만을 특화시킨 앱 &#8211; [Youtube Music을 론칭](https://www.youtube.com/yt/music/ko/index.html?locale=KR)했으며, 현재까지 안드로이드만 수천만명의 다운로드 수를 기록하고 있다.
+이런 이유로 구글은 유튜브에서 뮤직만을 특화시킨 앱 - [Youtube Music을 론칭](https://www.youtube.com/yt/music/ko/index.html?locale=KR)했으며, 현재까지 안드로이드만 수천만명의 다운로드 수를 기록하고 있다.
 
 하지만, 유튜브 뮤직의 사용자가 많으면 많을 수록 문제가 발생하고 있다. 바로 조회수.
 

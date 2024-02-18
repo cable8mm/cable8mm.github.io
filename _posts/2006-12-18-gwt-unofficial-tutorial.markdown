@@ -11,7 +11,7 @@ author: Samgu Lee
 > 방금전에 GWT튜토리얼 완성했습니다. Linux + GWT 1.2.22 + Eclipse 3.2 로 테스트했습니다.
 >
 > 이 후 구글의 예제중 쓸만한거 골라서 활용문서를 만들어볼 생각입니다.
-> &#8230; [PHPSCHOOL](http://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=tipntech&amp;wr_id=50431) 인용
+> ... [PHPSCHOOL](http://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=tipntech&amp;wr_id=50431) 인용
 
 ![윤드림님의 GWT 튜토리얼](/assets/gwt-tutorial-made-by-yundream.jpg)
 

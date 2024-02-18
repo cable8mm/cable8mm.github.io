@@ -11,8 +11,8 @@ author: Samgu Lee
 [라이틀리 블로그](http://writely.blogspot.com/2006/10/scheduled-maintenance-for-october-10th.html) 인용:
 
 > In North America, check out the first game of the World Series playoffs.  
-> In South America, go to sleep &#8212; writing after midnight is not advised!  
-> In Europe, spend some extra time savoring your cup of morning coffee&#8230;  
+> In South America, go to sleep - writing after midnight is not advised!  
+> In Europe, spend some extra time savoring your cup of morning coffee...  
 > In Asia, check out the featured videos on You Tube (or Google Video, if you prefer ;).
 
 북미 사람들은 월드시리즈 플래이오프 첫번째 경기를 보고, 남미는 가서 자고, 유럽은 모닝커피를 마시고, 아시아는 유투브나 구글 비디오를 즐기라고 하네요.

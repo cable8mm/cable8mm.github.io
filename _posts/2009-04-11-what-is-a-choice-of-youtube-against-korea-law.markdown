@@ -6,7 +6,7 @@ categories: opinion
 tags: youtube law
 author: Samgu Lee
 ---
-유튜브는 [유튜브](http://www.youtube.com/blog?gl=KR&#038;hl=ko&#038;entry=MTDoL1s-6Bg) 및 [구글 공식 블로그](http://googlekoreablog.blogspot.com/2009/04/blog-post_07.html)를 통해서 유튜브가 &"본인확인조치"를 취하지 않겠다는 의사를 분명히 했다. 그리고, 대한민국 법률을 지키기 위해 동영상/댓글 업로드 기능을 제한한다고 밝혔다. 이 조치는 분명히 대한민국 법률을 어기지 않고 있다.
+유튜브는 [유튜브](http://www.youtube.com/blog?gl=KR&hl=ko&entry=MTDoL1s-6Bg) 및 [구글 공식 블로그](http://googlekoreablog.blogspot.com/2009/04/blog-post_07.html)를 통해서 유튜브가 &"본인확인조치"를 취하지 않겠다는 의사를 분명히 했다. 그리고, 대한민국 법률을 지키기 위해 동영상/댓글 업로드 기능을 제한한다고 밝혔다. 이 조치는 분명히 대한민국 법률을 어기지 않고 있다.
 
 법률을 어기지 않는다는 근거를 이해하기 위해서는 "정보통신망 이용촉진 및 정보보호 등에 관한 법률"을 살펴볼 필요가 있다. 관련된 조항은 제2조와 제44조 5항이다. 2조에는 대상이 되는 "게시판"에 대한 정의를, 44조 5항에는 대상과 필요한 조치들을 설명하고 있다.
 
@@ -27,7 +27,7 @@ author: Samgu Lee
 
 ## [정보통신망 이용촉진 및 정보보호 등에 관한 법률 시행령[시행 2009.1.28] [대통령령 제21278호, 2009.1.28, 일부개정]]
 
-즉, "본인확인조치"의 대상 웹사이트는 방통위 홈페이지에 의무적으로 게시하게 되어 있다. 방통위 홈페이지에는 1월 30일자 "[2009년 제한적 본인확인제 적용대상 사업자 선정](http://www.mic.go.kr/user.tdf?a=user.board.BoardApp&#038;c=2002&#038;board_id=KCC_02_02&#038;seq=328&#038;bad=&#038;ctx=&#038;isSearch=true&#038;npp=10&#038;cp=1&#038;pg=1&#038;mc=P_02_02)"이라는 게시물이 올라와 있고, 첨부파일에는 총 153개 사이트가 나열되어 있다. 그 중 외국계 사이트는 [유튜브(kr.youtube.com)](http://kr.youtube.com)과 [야후(kr.yahoo.com)](http://kr.yahoo.com), [MSN(kr.msn.com)](http://kr.msn.com)이다.
+즉, "본인확인조치"의 대상 웹사이트는 방통위 홈페이지에 의무적으로 게시하게 되어 있다. 방통위 홈페이지에는 1월 30일자 "[2009년 제한적 본인확인제 적용대상 사업자 선정](http://www.mic.go.kr/user.tdf?a=user.board.BoardApp&c=2002&board_id=KCC_02_02&seq=328&bad=&ctx=&isSearch=true&npp=10&cp=1&pg=1&mc=P_02_02)"이라는 게시물이 올라와 있고, 첨부파일에는 총 153개 사이트가 나열되어 있다. 그 중 외국계 사이트는 [유튜브(kr.youtube.com)](http://kr.youtube.com)과 [야후(kr.yahoo.com)](http://kr.yahoo.com), [MSN(kr.msn.com)](http://kr.msn.com)이다.
 
 이제 정리를 해 보자. 구글의 이번 결정을 보자면 구글의 전술은 다음 문장으로 요약할 수 있다.
 

@@ -16,7 +16,7 @@ author: Samgu Lee
 
 [구글 프레스](http://www.google.com/press/pressrel/google_youtube.html) 인용:
 
-> When the acquisition is complete, YouTube will retain its distinct brand identity, strengthening and complementing Google&#8217;s own fast-growing video business.  YouTube will continue to be based in San Bruno, CA, and all YouTube employees will remain with the company.
+> When the acquisition is complete, YouTube will retain its distinct brand identity, strengthening and complementing Google's own fast-growing video business.  YouTube will continue to be based in San Bruno, CA, and all YouTube employees will remain with the company.
 
 요약하면, 합병이 완료 후 유투브 브랜드는 계속 유지하고, 사무실과 직원도 유지된다고 하는 내용입니다. 유투브 직원이 65명으로 알려져 있고, 지금까지 인수나 합병을 한 기업의 직원은 모두 구글러가 된 것으로 볼 때 당연한 수순이겠죠.
 
@@ -40,7 +40,7 @@ Update
 
 이번 인수에 대한 [계란소년님의 코멘트](http://eggraising.egloos.com/1429187).
 
-&#8220;유튜브 사용법을 구글 비디오처럼 만들면 구글을 영원히 증오할테다!!!&#8221;
+"유튜브 사용법을 구글 비디오처럼 만들면 구글을 영원히 증오할테다!!!"
 
 Update2
 
@@ -50,4 +50,4 @@ Update3
 
 [metablog 코멘트](http://www.metapho.com/23).
 
-&#8220;구글이 유투브를 인수하면서 겨우(?) 65명의 직원으로 운영하던 유투브가 막대한 금액으로 매입을 당하면서, 유투브가 결국 최종 승리자가 아니냐&#8221;
+"구글이 유투브를 인수하면서 겨우(?) 65명의 직원으로 운영하던 유투브가 막대한 금액으로 매입을 당하면서, 유투브가 결국 최종 승리자가 아니냐"

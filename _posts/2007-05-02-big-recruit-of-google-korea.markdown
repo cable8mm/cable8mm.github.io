@@ -6,7 +6,7 @@ categories: service
 tags: google
 author: Samgu Lee
 ---
-황정목(데니스 황)님이 언급한지 오래지 않아, 구글코리아의 리쿠르트 페이지에 대규모의 구인 관련 내용이 [업데이트](http://www.google.co.kr/support/jobs/bin/static.py?page=intl.html&#038;jobslc=korea) 되었다.
+황정목(데니스 황)님이 언급한지 오래지 않아, 구글코리아의 리쿠르트 페이지에 대규모의 구인 관련 내용이 [업데이트](http://www.google.co.kr/support/jobs/bin/static.py?page=intl.html&jobslc=korea) 되었다.
 
 ![구글코리아 로고](/assets/google-korea-logo.jpg)
 

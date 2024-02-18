@@ -14,9 +14,9 @@ author: Samgu Lee
 
 퍼펙트 10은 구글의 이미지 검색이 자사의 상업용 이미지를 게재해 손해를 끼쳤다는 소송을 냈는데 캘리포니아 법원은 구글이 퍼펙트 10의 저작권을 침해하지 않았다는 판결을 냈습니다. 그 이유는 다음과 같습니다.
 
-1. 구글의 서버에 이미지 원본이 저장되어 있지 않으며,<br />
-2. 원본 이미지가 있는 곳의 링크는 구글이 책임져야 되는 것은 아니며,<br />
-3. 프레임을 이용해 원본 이미지를 표시한다고 해도 웹사이트 주소를 표기했고,<br />
+1. 구글의 서버에 이미지 원본이 저장되어 있지 않으며,
+2. 원본 이미지가 있는 곳의 링크는 구글이 책임져야 되는 것은 아니며,
+3. 프레임을 이용해 원본 이미지를 표시한다고 해도 웹사이트 주소를 표기했고,
 4. 과거 넵스터처럼 저작권을 무시하는 서비스와 구글의 이미지 검색은 다르다.
 
 이번 소송에서 승리를 거둔 구글에도 1%의 손해가 있습니다. 법원은 단지 모바일 서비스에는 퍼펙트 10의 라이센스를 얻도록 했습니다. 그 이유는 모바일은 사용자가 사는 것 보다 무료로 이용하기 위해서 구글 이미지 검색을 사용할 가능성이 있다는 이유입니다. 이는 당연한 것인데, 컴퓨터상의 툼네일 이미지도 휴대폰에서는 전체화면 크기와 비슷하기 때문입니다.
@@ -29,7 +29,7 @@ author: Samgu Lee
 
 소프트웨어 개발업체가 자신의 이미지 수집 프로그램을 이용하여 인터넷 홈페이지에 게재된 사진작가의 사진을 허락 없이 다운받아 작은 크기로 자신의 서버에 저장하여 서비스하는 행위는 해당 작가의 복제권, 전송권 등을 침해하는 것이다. 
 
-참고 - [timesdispatch](http://www.timesdispatch.com/servlet/Satellite?pagename=RTD%2FMGArticle%2FRTD_BasicArticle&#038;c=MGArticle&#038;cid=1137834957622&#038;path=!business&#038;s=1045855934855)<br />
+참고 - [timesdispatch](http://www.timesdispatch.com/servlet/Satellite?pagename=RTD%2FMGArticle%2FRTD_BasicArticle&c=MGArticle&cid=1137834957622&path=!business&s=1045855934855)
 
 via - [The Pondering Primate](http://theponderingprimate.blogspot.com/2006/03/google-versus-perfect-10.html)
 

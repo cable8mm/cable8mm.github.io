@@ -6,7 +6,7 @@ categories: service
 tags: google notebook
 author: Samgu Lee
 ---
-Google Press Day에서 언급한 것처럼 Google Notebook이 오늘자로 런칭했습니다. 역시 가장 빠르게 이 소식을 전한 사람은 [Googling Google의 Rogers](http://blogs.zdnet.com/Google/?p=192)이고, 한국에선 [서명덕 세계일보 기자님](http://www.segye.com/Service5/ShellView.asp?TreeID=1052&#038;PCode=0007&#038;DataID=200605171429000113)이 알려주셨군요. Google Notebook에 대해서 알아봅니다.
+Google Press Day에서 언급한 것처럼 Google Notebook이 오늘자로 런칭했습니다. 역시 가장 빠르게 이 소식을 전한 사람은 [Googling Google의 Rogers](http://blogs.zdnet.com/Google/?p=192)이고, 한국에선 [서명덕 세계일보 기자님](http://www.segye.com/Service5/ShellView.asp?TreeID=1052&PCode=0007&DataID=200605171429000113)이 알려주셨군요. Google Notebook에 대해서 알아봅니다.
 
 먼저 알아야 할 것은 Google Notebook은 Google의 정식 서비스가 아니라 Google Labs에서 진행하는 서비스라는 것을 알아야 합니다. Google Labs는 Google에서 운영하는 연구소인데, 여러가지 실험과 연구를 하고 색다른 아이디어를 실제 서비스로 구현하기도 합니다. 이 서비스들 중에서는 정식 서비스로 채택된 경우도 있고, 계속 개발상태로 머무는 서비스들도 있습니다.
 

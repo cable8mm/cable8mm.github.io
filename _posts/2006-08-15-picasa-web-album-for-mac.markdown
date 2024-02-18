@@ -14,7 +14,7 @@ author: Samgu Lee
 
 맥용 피카사 웹 앨범 익스포터는 맥 OS X 10.4 이상과 파워PC 및 인텔프로세서에서 작동되며, 이 프로그램을 이용하면 iPhoto에서도 이미지를 웹상에 올릴 수 있지만, 단독 어플리케이션(피카사 웹 앨범 업로더)을 이용해서도 업로드가 가능하게 됩니다.
 
-<p><img src="https://i1.wp.com/picasa.google.com/web/sidegraphic.jpg?w=702" alt="iPhoto의 피카사 웹 앨범 익스포터와 업로더" data-recalc-dims="1" /></p>
+![iPhoto의 피카사 웹 앨범 익스포터와 업로더](/assets/sidegraphic.jpg)
 
 팔글 블로그에선 스냅샷을 뽑을 맥이 없는 관계로 위의 이미지는 다운로드 페이지에서 차용한 것입니다.
 
@@ -22,7 +22,7 @@ author: Samgu Lee
 
 추가
 
-푸른곰 님께서 [Gom&#8217;s Monologue 블로그](http://hansollkim.80port.net/blog/entry/Picasa-Web%C0%C7-%B8%C6%BF%EB-%BE%F7%B7%CE%B4%F5)에 스크린샷을 올려주셨습니다.
+푸른곰 님께서 [Gom's Monologue 블로그](http://hansollkim.80port.net/blog/entry/Picasa-Web%C0%C7-%B8%C6%BF%EB-%BE%F7%B7%CE%B4%F5)에 스크린샷을 올려주셨습니다.
 
 [picasa-web-albums-review]: {% post_url 2006-06-17-picasa-web-albums-review %}
 [launching-google-widgets-for-mac]: {% post_url 2006-02-24-launching-google-widgets-for-mac %}

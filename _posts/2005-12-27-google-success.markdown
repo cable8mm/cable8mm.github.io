@@ -12,7 +12,7 @@ author: Samgu Lee
 
 개인적으로 IT에 감성을 불어넣는 컬럼니스트로 표현하는(매우 좋아하는) 컬럼니스트인 류한석님은 2005년 12월 27일 지디넷에 [구글도 성공의 함정에 빠질 것이다](http://www.zdnet.co.kr/itbiz/column/anchor/hsryu/0,39030308,39142764,00.htm)라는 컬럼을 올렸습니다. 그 분이 지디넷에 컬럼을 올리는 것은 이미 예견되어 있던 일입니다.
 
-최근 구글코리아에서 나름대로 관리하는 뉴스그룹에 블로거를 초청한 자리에서의 불미스러운 일에 관한 글들이 몇일 동안 올라왔고, 그 글 중에서 [류한석님의 글](http://groups.google.com/group/Google-Korea-Group/browse_frm/thread/1ba8611cd1939125/3454cb1eb885f0fe?lnk=st&#038;q=%EB%A5%98%ED%95%9C%EC%84%9D&#038;rnum=4#3454cb1eb885f0fe)을 보았기 때문입니다.
+최근 구글코리아에서 나름대로 관리하는 뉴스그룹에 블로거를 초청한 자리에서의 불미스러운 일에 관한 글들이 몇일 동안 올라왔고, 그 글 중에서 [류한석님의 글](http://groups.google.com/group/Google-Korea-Group/browse_frm/thread/1ba8611cd1939125/3454cb1eb885f0fe?lnk=st&q=%EB%A5%98%ED%95%9C%EC%84%9D&rnum=4#3454cb1eb885f0fe)을 보았기 때문입니다.
 
 구글이 교만해지고 있는 징후를 류한석님은 다음과 같이 설명하고 있습니다.
 
@@ -36,7 +36,7 @@ author: Samgu Lee
 
 > 구글 매출의 99%는 검색엔진 기술을 기반으로 검색광고를 통해 창출된다. 그 99%에 해당하는 26억 1000달러의 검색광고를 더 자세히 들여다보면 그 중 53%인 13억 9000만 달러가 구글 자사 사이트의 검색광고 수주를 통해서 이루어졌으며, 47%는 구글의 네트워크 사이트를 통해서 이루어졌다.  
 > 
-> 마이크로소프트웨어 [구글의 숨은 경쟁력, 운영과 마케팅](http://www.imaso.co.kr/?doc=bbs/gnuboard_pdf.php&#038;bo_table=article&#038;page=1&#038;wr_id=6399&#038;publishdate=20051001) 중에서...
+> 마이크로소프트웨어 [구글의 숨은 경쟁력, 운영과 마케팅](http://www.imaso.co.kr/?doc=bbs/gnuboard_pdf.php&bo_table=article&page=1&wr_id=6399&publishdate=20051001) 중에서...
 
 구글의 절대 매출은 광고에서 옵니다. 구글의 절대적인 힘은 다름아닌 광고 네트워크에서 옵니다.
 

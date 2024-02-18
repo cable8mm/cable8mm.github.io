@@ -17,7 +17,7 @@ author: Samgu Lee
 요약하자면, 현재까지는 총 세개의 홈페이지 디자인이 있는 셈입니다. 옛날것, 신형 1024 이상일때, 신형 1024 미만일때...
 
 ```javascript
-YAHOO.Fp.bNarrow = (YAHOO.Fp.nScreenWidth ? (YAHOO.Fp.nScreenWidth&lt;1024 ? 1 : 0) : -1);
+YAHOO.Fp.bNarrow = (YAHOO.Fp.nScreenWidth ? (YAHOO.Fp.nScreenWidth<1024 ? 1 : 0) : -1);
 ```
 
 ## 야후!(한국 야후 - http://kr.yahoo.com/)

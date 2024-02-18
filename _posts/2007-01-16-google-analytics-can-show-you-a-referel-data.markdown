@@ -18,7 +18,7 @@ author: Samgu Lee
 
 루벤의 방법은 구글 분석 코드를 HEAD태그 안에 위치시킨 후 BODY 태그를 다음과 같이 수정한다는 내용이다.
 
-```htl
+```html
 <body onload=”javascript:urchinTracker(document.referrer);”>
 ```
 

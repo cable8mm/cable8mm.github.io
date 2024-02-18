@@ -18,7 +18,7 @@ author: Samgu Lee
 
 현재 페이지의 중국판 검색 결과를 보기 위해서는 주소를 수동으로 바꾸어주어야 합니다. 먼저 구글 주소를 google.cn으로 바꾸고 끝에 ?hl=zh-CN을 추가하면 됩니다.
 
-예를 들어서 http://images.google.co.kr/images?hl=ko&#038;q=tiananmen&#038;btnG=Google+%EA%B2%80%EC%83%89&#038;lr=lang_en%7Clang_ko 라는 주소는 구글 한글페이지에서 천안문의 영문표기인 tiananmen으로 검색한 결과의 주소입니다. 이 주소에서 co.kr을 cn으로 바꾸고 hl=ko를 zh-CN으로 바꾸면 구글 중국의 검색결과를 볼 수 있습니다.
+예를 들어서 http://images.google.co.kr/images?hl=ko&q=tiananmen&btnG=Google+%EA%B2%80%EC%83%89&lr=lang_en%7Clang_ko 라는 주소는 구글 한글페이지에서 천안문의 영문표기인 tiananmen으로 검색한 결과의 주소입니다. 이 주소에서 co.kr을 cn으로 바꾸고 hl=ko를 zh-CN으로 바꾸면 구글 중국의 검색결과를 볼 수 있습니다.
 
 ![구글 중국와 구글 한국의 검색결과 비교](/assets/how_to_google_china.jpg)
 

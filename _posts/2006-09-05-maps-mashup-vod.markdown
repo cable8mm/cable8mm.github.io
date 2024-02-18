@@ -6,19 +6,19 @@ categories: gossip
 tags: google earth
 author: Samgu Lee
 ---
-SsaZzang&#8217;s Web Log에서 구글 어스와 콩나물을 매쉬업한 글이 포스팅되었습니다. 하지만, 불여우(Firefox)에서 동작하지 않아서 소개를 못해드렸는데, 無異님께서 &#8220;[구글 어스(Google Earth) 2종 세트][best-on-google-earth]&#8221; 덧글로 무시무시한 매쉬업 동영상 주소를 포스팅해 주셔서 소개합니다.
+SsaZzang's Web Log에서 구글 어스와 콩나물을 매쉬업한 글이 포스팅되었습니다. 하지만, 불여우(Firefox)에서 동작하지 않아서 소개를 못해드렸는데, 無異님께서 "[구글 어스(Google Earth) 2종 세트][best-on-google-earth]" 덧글로 무시무시한 매쉬업 동영상 주소를 포스팅해 주셔서 소개합니다.
 
 콩나물은 웹2.0의 바람을 타고 얼마전 사용자의 웹페이지에 콩나물 지도 서비스를 할 수 있는 코드를 선보였습니다. 이삼구글에서도 확인했지만, 역시 불여우(Firefox)에서 제대로 서비스 되지 않았기 때문에 소개해 드리지 않았습니다.
 
 곧이어, [구글 맵스(Google Maps)와 연동되는 화면](http://www.hometown.co.kr/57)을 SsaZzang님이 소개해 주셨습니다.
 
-이번에 소개해 드릴 매쉬업은 <a href="http://www.youtube.com/watch?v=48Idlin0Fzc">구글 어스(Google Earth)와 콩나물의 매쉬업 동영상</a>입니다. 일단 감상을 해 보도록 하죠.
+이번에 소개해 드릴 매쉬업은 [구글 어스(Google Earth)와 콩나물의 매쉬업 동영상](http://www.youtube.com/watch?v=48Idlin0Fzc)입니다. 일단 감상을 해 보도록 하죠.
 
 {% youtube "http://www.youtube.com/watch?v=48Idlin0Fzc" %}
 
 이 영상을 올리신 분은 예전 네이버 맵을 해킹해서 구글 어스에 연동시킨 영상을 올리신 [taekie님](http://www.youtube.com/profile?user=taekie)이십니다.
 
-&#8220;[구글 어스(Google Earth) 2종 세트][best-on-google-earth]&#8220;에서 소개한 적이 있는 네이버 맵과 구글 어스의 연동 동영상도 감상을 해 보도록 하죠.
+"[구글 어스(Google Earth) 2종 세트][best-on-google-earth]"에서 소개한 적이 있는 네이버 맵과 구글 어스의 연동 동영상도 감상을 해 보도록 하죠.
 
 {% youtube "http://www.youtube.com/v/fmbJIGT2MCo" %}
 

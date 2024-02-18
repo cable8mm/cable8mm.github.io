@@ -14,7 +14,7 @@ CCL의 주된 업무가 스텐포드 로스쿨에서 이루어지고 있고, 스
 
 ![구글 서치 Creative Commons 필터](/assets/google_search_ccl_filter.jpg)
 
-현재는 삭제된 도움말이지만, <a href="http://66.102.7.104/search?q=cache:RyhWA2yMqysJ:www.google.com/support/bin/answer.py%3Fanswer%3D29508+google+Usage+Rights&#038;hl=ko&#038;gl=kr&#038;ct=clnk&#038;cd=1&#038;lr=lang_en|lang_ko">구글의 캐쉬기능에 의한 내용을 복구</a>해 보면 이렇습니다.
+현재는 삭제된 도움말이지만, [구글의 캐쉬기능에 의한 내용을 복구](http://66.102.7.104/search?q=cache:RyhWA2yMqysJ:www.google.com/support/bin/answer.py%3Fanswer%3D29508+google+Usage+Rights&hl=ko&gl=kr&ct=clnk&cd=1&lr=lang_en|lang_ko)해 보면 이렇습니다.
 
 Update.
 

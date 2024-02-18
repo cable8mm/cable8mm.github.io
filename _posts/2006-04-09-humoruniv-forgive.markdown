@@ -14,7 +14,7 @@ author: Samgu Lee
 
 블루문님의 ZDNET 블로그인 [아스피린 로그](http://www.zdnet.co.kr/microsite/aspirin/log/0,39035016,39145576,00.htm)에 따르면 웃긴대학의 대표이사이자 사무처장으로 알려진 이정민님은 구글의 대응이 없고 처음에는 그럴 생각이었으나 의미가 없을 것 같아서 보류했다는 글을 남겼습니다.
 
-웃긴대학은 4월 5일 [웹사이트 공지사항](http://event.humoruniv.dreamwiz.com/read.html?code=google&#038;number=628)을 통해서 웃대가 소송을 하지 않는 이유에 대해 밝혔습니다.
+웃긴대학은 4월 5일 [웹사이트 공지사항](http://event.humoruniv.dreamwiz.com/read.html?code=google&number=628)을 통해서 웃대가 소송을 하지 않는 이유에 대해 밝혔습니다.
 
 > 소송하지 않는 이유는 소송할 수 없기때문입니다.  
 > 한국에 법인이 없거든요. 그런데도 한국의 광고주들에게 돈은 벌고 있죠.  

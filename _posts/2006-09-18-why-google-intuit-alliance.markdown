@@ -8,11 +8,11 @@ author: Samgu Lee
 ---
 미국 온라인 웹기반의 비지니스를 영위하는 회사들의 제휴는 굉장합니다. 규모도 그렇지만, 적과 아군이 구별되지 않을 정도로 활발하고, 이번 제휴도 전혀 예상치 못한 방향으로 가고 있습니다. 구글과 Intuit의 제휴(a strategic alliance, 파트너십 보다 한단계 높은 관계를 뜻함), 도대체 무엇일까요?
 
-인튜이트(Intuit)는 세무와 회계 부분의 프로그램 제작사이고, 대표적인 제품으로는 퀵큰(Quicken), 터보텍스(TurboTax) 그리고 퀵북스(QuickBooks)가 있습니다. 말하자면 미국의 &#8220;얼마예요?(한국 세무 회계 프로그램)&#8221;라고 할 수 있습니다.검색과 온라인 광고 회사인 구글(Google)이 왜 세무 회계 프로그램 회사와 제휴를 했을까요?
+인튜이트(Intuit)는 세무와 회계 부분의 프로그램 제작사이고, 대표적인 제품으로는 퀵큰(Quicken), 터보텍스(TurboTax) 그리고 퀵북스(QuickBooks)가 있습니다. 말하자면 미국의 "얼마예요?(한국 세무 회계 프로그램)"라고 할 수 있습니다.검색과 온라인 광고 회사인 구글(Google)이 왜 세무 회계 프로그램 회사와 제휴를 했을까요?
 
 [구글 보도자료(Intuit and Google Forge Alliance)](http://www.google.com/press/pressrel/google_intuit.html) 인용:
 
-> Intuit Inc. (Nasdaq: INTU) and Google Inc. (Nasdaq: GOOG) announced today a strategic alliance designed to help millions of small businesses promote themselves online using a variety of popular Google services built into most QuickBooks® 2007 products. The alliance combines Intuit&#8217;s deep knowledge and experience solving small business problems with Google&#8217;s expertise and reach on the Web to help small businesses address their number one objective – attracting new customers.
+> Intuit Inc. (Nasdaq: INTU) and Google Inc. (Nasdaq: GOOG) announced today a strategic alliance designed to help millions of small businesses promote themselves online using a variety of popular Google services built into most QuickBooks® 2007 products. The alliance combines Intuit's deep knowledge and experience solving small business problems with Google's expertise and reach on the Web to help small businesses address their number one objective – attracting new customers.
 
 위의 글만 본다면 구글과 인튜이트의 제휴 이유를 알 수는 없습니다. 하지만, 다음 단란부터 상세한 설명이 나오는데 정리하면 인튜이트의 제품인 퀵북스 이용자는,
 
@@ -32,7 +32,7 @@ author: Samgu Lee
 
 MS는 인튜이트와 경쟁관계에 있는, 그렇지만 영양가 없는 프로그램인 MS 머니(Money)를 소유하고 있습니다. 인튜이트는 설치형 프로그램에선 MS의 머니는 상대가 안될 정도이지만, 온라인 쪽으로 가면 어떻게 될지는 모르는 일이 됩니다. 따라서, 강력한 온라인 파트너십이 필요했을 것이고, 구글과 이해관계가 맞아 떨어졌을 것이지만, 그래도 이베이와 구글과의 제휴와 마찬가지로 한국 정서로는 이해되기 힘든 케이스입니다.
 
-## 구글의 사업 진행을 멀리서 보면&#8230;
+## 구글의 사업 진행을 멀리서 보면...
 
 [델과의 파트너십]({% post_url 2006-02-08-google-personal-page-partnership %}), [CBS와의 파트너십]({% post_url 2006-07-02-google-video-as-youtube %}), [모질라와의 파트너십]({% post_url 2005-12-13-firefox-asian-default-websearch %}), [폭스바겐과의 파트너십]({% post_url 2006-03-15-vw-google-teamed %}), [이베이와의 파트너십]({% post_url 2006-08-30-reason-of-google-and-ebay-partnership %}) 그리고 인튜이트와의 파트너십 등 구글의 제휴는 전방위적이라고 볼 수 있을 정도로 빠르게 진행되고 있습니다. 얼핏보면 공통점은 없어 보이지만, 자세히 보면 MS와의 시장이 겹쳐지질 않는다는 것을 알 수 있습니다.
 

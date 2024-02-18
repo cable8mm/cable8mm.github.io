@@ -14,7 +14,7 @@ author: Samgu Lee
 
 입이 다물어지지 않는군요.
 
-직접 보기 위해서 &#8220;[구글 맵스에서 아이보드 보기](http://maps.google.com/?t=k&#038;ll=-30.516354,121.336956&#038;spn=0.293105,0.234146)&#8220;를 클릭해 주세요.
+직접 보기 위해서 "[구글 맵스에서 아이보드 보기](http://maps.google.com/?t=k&ll=-30.516354,121.336956&spn=0.293105,0.234146)"를 클릭해 주세요.
 
 via - [Google Blogoscoped](http://blog.outer-court.com/archive/2006-03-27.html#n21)
 
