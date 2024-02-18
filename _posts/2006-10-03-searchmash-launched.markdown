@@ -16,7 +16,7 @@ author: Samgu Lee
 
 [타임지](http://www.time.com/time/magazine/article/0,9171,1541268-1,00.html) 인용:
 
-> Marissa Mayer, who manages search products, says the company has assigned more engineers to search than ever before and plans to release a new search tool that will enable users to design and build their own flavor of Google search, scanning just the sites they&#8217;re interested in.
+> Marissa Mayer, who manages search products, says the company has assigned more engineers to search than ever before and plans to release a new search tool that will enable users to design and build their own flavor of Google search, scanning just the sites they're interested in.
 
 ## 제작상의 특징
 
@@ -38,10 +38,10 @@ author: Samgu Lee
 
 [서치매쉬 TOS](http://www.searchmash.com/about/tos.html) 인용:
 
-> SearchMash is a website operated by Google Inc. (&#8220;we&#8221; or &#8220;us&#8221;) and your use of the site is subject to the following terms and conditions (the &#8220;Terms of Service&#8221;).
+> SearchMash is a website operated by Google Inc. ("we" or "us") and your use of the site is subject to the following terms and conditions (the "Terms of Service").
 
 언론에 자료 공개를 하지 않는 구글은 검색에 관해서는 거의 공개를 하지 않습니다. 새롭게 선보인 서치매쉬의 경우도 마리사 메이어의 코멘트를 뺀다면 전혀 알려지지 않은 서비스입니다.
 
 두개의 서비스를 운영하고 각각의 피드백을 받는 방법은 현재의 경쟁 우위를 유지하면서 새로운 서비스를 테스트하고 피드백을 받는 좋은 방법이지만, 서비스의 집중도를 하락시키는 면도 있기 때문에 실제 진행을 하기가 쉽지 않습니다.
 
-구글은 이런 형태의 프로젝트로 무엇을 얻을 수 있을까요? 현재의 구글 검색 기능 추가의 전조가 될 것인지, 아니면 별도의 검색 서비스 두개를 운영하는 것을 염두에 두는 것인지&#8230; 구글 검색은 구글 수익의 52%를 만드는 캐쉬카우이니 만큼 구글에 있어선 무엇보다 중요한 프로젝트 임에는 틀림 없습니다.
+구글은 이런 형태의 프로젝트로 무엇을 얻을 수 있을까요? 현재의 구글 검색 기능 추가의 전조가 될 것인지, 아니면 별도의 검색 서비스 두개를 운영하는 것을 염두에 두는 것인지... 구글 검색은 구글 수익의 52%를 만드는 캐쉬카우이니 만큼 구글에 있어선 무엇보다 중요한 프로젝트 임에는 틀림 없습니다.

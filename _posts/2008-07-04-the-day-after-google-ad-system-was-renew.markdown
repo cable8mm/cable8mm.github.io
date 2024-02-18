@@ -6,7 +6,7 @@ categories: service
 tags: google advertising
 author: Samgu Lee
 ---
-21세기 북스에서 발행된 [위키노믹스(Wikinomics)](http://books.google.com/books?id=YPMwAAAACAAJ&#038;dq=wikinomics&#038;ei=LBduSLvGApTIsQPJp8C8Bg&#038;hl=ko)는 구글을 기술회사가 아닌 광고회사로 언급한다. 이를 증명이라도 하듯 최근 구글은 지금까지 테스트로만 행하면 여러가지 광고 플랫폼을 정식으로 선보이고, 일부는 없애버리기까지 했다.
+21세기 북스에서 발행된 [위키노믹스(Wikinomics)](http://books.google.com/books?id=YPMwAAAACAAJ&dq=wikinomics&ei=LBduSLvGApTIsQPJp8C8Bg&hl=ko)는 구글을 기술회사가 아닌 광고회사로 언급한다. 이를 증명이라도 하듯 최근 구글은 지금까지 테스트로만 행하면 여러가지 광고 플랫폼을 정식으로 선보이고, 일부는 없애버리기까지 했다.
 
 구글이 오랜시간 테스트를 해 오던 동영상, TV, 인쇄물 그리고 라디오 광고가 정식으로 론칭되고, 이를 지원하기 위한 [블로그](http://google-tmads.blogspot.com/2008/06/google-offline-goes-online.html)를 7월 1일자로 론칭했다. 그리고, 추천 애드센스가 8월에 폐지된다고 메일링을 통해 알려왔으며, 대신 더블클릭의 광고주를 지원하기 위한 [구글 애필리에이트 네트워크](http://www.google.com/ads/affiliatenetwork/)가 론칭되었다.
 

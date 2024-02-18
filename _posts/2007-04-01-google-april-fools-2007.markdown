@@ -14,7 +14,7 @@ author: Samgu Lee
 
 개인정책을 클릭하면 다음과 같은 메세지가 나온다.
 
-> As you may have guessed, Gmail Paper is not a real product or feature of Gmail. No, we don&#8217;t plan on sending you boxes and boxes of your email in hard copy form.
+> As you may have guessed, Gmail Paper is not a real product or feature of Gmail. No, we don't plan on sending you boxes and boxes of your email in hard copy form.
 
 [2006년 만우절]({% post_url 2006-04-01-google-april-fools-2 %})에는 많은 블로거들이 어떤 내용인지 궁금해 했는데, 올해는 마케팅이라는 생각이 들어서인지 예전만 못하다는 느낌이다.
 

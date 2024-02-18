@@ -24,7 +24,7 @@ author: Samgu Lee
 > 요기 클릭!  
 > 주소 : http://docs.google.com/Doc?id=dfnxztj9_26hh2h6
 
-그 블로거는 구글의 서비스 만큼은 홍보대행사 측에서 어쩌지 못할거라는 것을 확신하고 있는 듯 하다. 그리고, 구글의 [캐쉬](http://72.14.235.104/search?q=cache:uMakn_gsSOgJ:pann.nate.com/b1574339+%EB%8D%98%ED%82%A8%EB%8F%84%EB%84%88%EC%B8%A0+%EB%85%B9%EB%AC%BC&#038;hl=en&#038;ct=clnk&#038;cd=4)도 상당히 신뢰하고 있었다. 그래서, 팔글에선 국내의 검색과 구글의 검색을 비교해 보았다.
+그 블로거는 구글의 서비스 만큼은 홍보대행사 측에서 어쩌지 못할거라는 것을 확신하고 있는 듯 하다. 그리고, 구글의 [캐쉬](http://72.14.235.104/search?q=cache:uMakn_gsSOgJ:pann.nate.com/b1574339+%EB%8D%98%ED%82%A8%EB%8F%84%EB%84%88%EC%B8%A0+%EB%85%B9%EB%AC%BC&hl=en&ct=clnk&cd=4)도 상당히 신뢰하고 있었다. 그래서, 팔글에선 국내의 검색과 구글의 검색을 비교해 보았다.
 
 ![던킨도너츠로 검색한 구글](/assets/dunkin-in-google.jpg)
 

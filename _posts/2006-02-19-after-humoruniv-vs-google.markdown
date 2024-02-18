@@ -10,7 +10,7 @@ author: Samgu Lee
 
 웃긴대학은 자신이 당연히 받아야 할 광고비 2000만원을 주던지, 아니면 부정클릭에 대한 근거를 알려달라고 주장하고 있고, 구글은 약관에 따라 다른 애드센스 계정을 가지고 있는 사람과 마찬가지로 부정클릭에 대한 근거를 알려주지 않고 있습니다.
 
-웃긴대학은 언론에 보도자료를 내서 이 사건을 이슈화시키는 데까지는 성공했습니다. 실제로 많은 웃긴대학 회원들이 이번 사건을 성토하는 글을 [네이버 지식인](http://kin.naver.com/search.naver?where=ns_all&#038;query=%B1%B8%B1%DB+%BF%F4%B1%E4%B4%EB%C7%D0)이나 [다음 아고라](http://agora.media.daum.net/petition/view.do?no=10607) 등에 포스팅하고 있습니다.
+웃긴대학은 언론에 보도자료를 내서 이 사건을 이슈화시키는 데까지는 성공했습니다. 실제로 많은 웃긴대학 회원들이 이번 사건을 성토하는 글을 [네이버 지식인](http://kin.naver.com/search.naver?where=ns_all&query=%B1%B8%B1%DB+%BF%F4%B1%E4%B4%EB%C7%D0)이나 [다음 아고라](http://agora.media.daum.net/petition/view.do?no=10607) 등에 포스팅하고 있습니다.
 
 웃긴대학은 구글에서 보낸 편지의 답장을 30일간 기다리고 그 때까지 오지 않으면 법적인 절차를 밟겠다고 공지했습니다. 하지만, 30일이 지난 지금도 답장은 오지 않았고, 웃긴대학은 3차 공지에 [공정거래위원회에 약관 심사를 의뢰](http://www.etnews.co.kr/news/detail.html?id=200602080131)했음을 밝혔고, 소송 준비도 병행함을 분명히 했습니다. 그와 더불어 구글 애드센스의 약관을 검토해서 불공정하다는 [코멘트가 달린 구글 애드센스의 약관을 보여주는 페이지](http://event.humoruniv.dreamwiz.com/images/tmppp/google_law.html)를 만들었습니다.
 

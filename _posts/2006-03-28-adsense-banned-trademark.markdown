@@ -14,13 +14,13 @@ AdsenseBlackList.com는 아주 재미있는 방법으로 애드센스 수익을 
 
 이 방법은 웹마스터 포럼에서 매우 좋은 아이디어로 토론이 되었지만, 구글의 입장에서는 원하지 않는 행동이 될 것입니다. 사이트의 소유주인 Emir Pilavdzic는 자신의 사이트에서 구글 애드센스 계정이 박탈됐음을 알려왔습니다.
 
-> <a href="http://www.adsenseblacklist.com/">AdsenseBlackList.com</a> is URL that was banned from google adsense program becuase of the buzz it has caused by using &#8220;AdSense&#8221; in it. Since that&#8217;s their trademark, they suspended ads on my pages, and that&#8217;s one of the reasons why I&#8217;m changing it to AdsBlackList.com&#8230;
+> [AdsenseBlackList.com](http://www.adsenseblacklist.com/) is URL that was banned from google adsense program becuase of the buzz it has caused by using "AdSense" in it. Since that's their trademark, they suspended ads on my pages, and that's one of the reasons why I'm changing it to AdsBlackList.com...
 
 Emir는 화가 많이 난 상태인 것 같습니다. 향후 애드센스가 아닌 야후 퍼블리쉬 네트웍(YPN)이나 MSN 에드센터를 사용한다고 합니다.
 
 Emir은 그러나 애드센스가 들어가지 않는 또하나의 미러 사이트 [adsblacklist.com](http://www.adsblacklist.com/)를 가동시키는 센스를 발휘했습니다. 이 사이트는 기존의 웹사이트와 완전히 같지만, 애드센스라는 단어는 거의 삭제를 했습니다.
 
-애드센스의 약관에 구글이 소유한 상표에 대한 사용 가이드라인이 나와있는데, 이 부분은 조금 복잡하게 되어 있어서 어느 부분을 위반했는지 확실히 알지는 못할 듯 합니다. 다만 약관 중 <b>홍보</b>부분을 위반한 것은 확실해 보입니다.
+애드센스의 약관에 구글이 소유한 상표에 대한 사용 가이드라인이 나와있는데, 이 부분은 조금 복잡하게 되어 있어서 어느 부분을 위반했는지 확실히 알지는 못할 듯 합니다. 다만 약관 중 **홍보** 부분을 위반한 것은 확실해 보입니다.
 
 > 귀하가 Google 의 상표 이름 , 상표 , 서비스 마크 , 로고 , 도메인 이름 및 기타 특유의 상표 특징 ( 이하 "상표 특징") 을 사용하고자 할 경우 , 그러한 사용이 본 계약 및 Google 의 당시 상표 특징 사용 지침 및 이에 포함되거나 언급된 내용을 준수하는 한 이러한 항목을 사용할 수 있습니다 . 이에 대한 지침은 http://www.google.co.kr/permissions/guidelines.html 또는 Google 이 수시로 제공하는 기타 URL 에서 참조하실 수 있습니다 . 
 

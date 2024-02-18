@@ -23,7 +23,7 @@ author: Samgu Lee
     Maximal
     Hi, I am making tests with Google Data API to publish my posts.
     The problem is - my posts are being published into the Honourable Dr
-    Mantombazana Tshabalala-Msimang South Africa's Minister of Health&#8221; blog
+    Mantombazana Tshabalala-Msimang South Africa's Minister of Health" blog
     (I don't have to say I am not the minister of health of South Africa).
     Any help before Honourable Minister of Health of South Africa would
     speak with Interpol would be apreciated. 

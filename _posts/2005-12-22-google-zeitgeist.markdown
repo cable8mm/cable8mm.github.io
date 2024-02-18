@@ -12,4 +12,4 @@ author: Samgu Lee
 
 아쉽게도 한국 검색어는 서비스되고 있지 않지만, 현재 영어 세부 자료와 [21개국의 상위 15개 검색어](http://www.google.com/intl/en/press/intl-zeitgeist.html#jp)를 알 수 있습니다.
 
-<p>이런 트랜드를 구글은 어떻게 계산을 하느냐 하는 것을 구글은 [피죤랭크(PigeonRank)라는 기술](http://www.google.com/technology/pigeonrank.html)로 한다고 하네요. 콜림비아에 사는 비둘기는 문서를 감성적으로 구분을 잘 해서 사용한다고 하는데... 비둘기들을 모아서 클러스터를 만들었다는 이름하여 피죤 클러스터(PCs)라고 합니다. 믿거나 말거나... :-)</p>
+이런 트랜드를 구글은 어떻게 계산을 하느냐 하는 것을 구글은 [피죤랭크(PigeonRank)라는 기술](http://www.google.com/technology/pigeonrank.html)로 한다고 하네요. 콜림비아에 사는 비둘기는 문서를 감성적으로 구분을 잘 해서 사용한다고 하는데... 비둘기들을 모아서 클러스터를 만들었다는 이름하여 피죤 클러스터(PCs)라고 합니다. 믿거나 말거나... :-)

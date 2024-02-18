@@ -63,6 +63,6 @@ Google이 그런 서비스를 넣어줄 리가 없습니다. 정말 한국적인
 
 [테스트 겸 만들어 본 앨범](http://picasaweb.google.com/cable8mm)을 보고 어떤 기능이 있는지 확인해 보세요. 현재까지는 검색이 제공되지 않기 때문에 누가 앨범을 만들었는지 알 수는 없지만, Google 검색을 이용해서 주소를 알 수 있습니다.
 
-[site:picasaweb.google.com](http://www.google.co.kr/search?hl=ko&#038;q=site%3Apicasaweb.google.com&#038;btnG=Google+%EA%B2%80%EC%83%89&#038;lr=)
+[site:picasaweb.google.com](http://www.google.co.kr/search?hl=ko&q=site%3Apicasaweb.google.com&btnG=Google+%EA%B2%80%EC%83%89&lr=)
 
 위의 것으로 검색하면 만들어진 앨범의 리스트를 얻을 수 있습니다.

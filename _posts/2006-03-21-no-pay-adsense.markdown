@@ -30,7 +30,7 @@ John은 애드센스에서 제공하는 통계에서 자신의 수익이 늘어�
 
 계정을 유지하는 방법에 대해서는 다음의 글들을 참고하세요.
 
-[구글 애드센스 계정삭제 당하지 않는 방법][the-way-adsense-not-baned]<br />
+[구글 애드센스 계정삭제 당하지 않는 방법][the-way-adsense-not-baned]
 
 [구글 애드센스에서 절대 하지 말아야 할 다섯가지][naver-do-it-in-adsense]
 

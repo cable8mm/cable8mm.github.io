@@ -10,7 +10,7 @@ author: Samgu Lee
 
 라이틀리 공지 인용:
 
-> This means you&#8217;ll need to use your Google Account password when signing in, not your Writely password (if they&#8217;re different).
+> This means you'll need to use your Google Account password when signing in, not your Writely password (if they're different).
 
 라이틀리는 [초대를 필요]({% post_url 2006-03-17-invite-writely %})로 하는 가입절차에서, [바로 가입]({% post_url 2006-08-21-writely-open-up %})을 지난 8월 공지했고, 9월 20일자로 구글 계정에 통합되었습니다.
 

@@ -18,9 +18,9 @@ author: Samgu Lee
 
 이메일에 관해서는 아래의 링크를 참조하세요.
 
-* Daniel’s Blog &#8211; [Gmail for your domain 서비스 리뷰](http://insoftwarehouse.com/blogs/brokenwings/archives/65)
-* ..luv4us 블로그 &#8211; [Gmail을 넘어 Google Apps for Your Domain](http://luv4.us/39)
-* [도메인용 구글 메일(Gmail) 사용 팁][gmail-complex]<br />
+* Daniel’s Blog - [Gmail for your domain 서비스 리뷰](http://insoftwarehouse.com/blogs/brokenwings/archives/65)
+* ..luv4us 블로그 - [Gmail을 넘어 Google Apps for Your Domain](http://luv4.us/39)
+* [도메인용 구글 메일(Gmail) 사용 팁][gmail-complex]
 
 ## 새로운 것
 
@@ -40,7 +40,7 @@ author: Samgu Lee
 
 구글 인증에 관해서는 아래의 링크를 참고하세요.(약간 기술적인 내용이 있을 수 있습니다.)
 
-* Korean Identity Management(KIM) &#8211; [Google Authentication 분석 part 1 : web-based application](http://ayo79.egloos.com/2541381)
+* Korean Identity Management(KIM) - [Google Authentication 분석 part 1 : web-based application](http://ayo79.egloos.com/2541381)
 * [구글(Google) 계정 인증 API 공개][google-auth-api-launched]
 * [구글 계정 통합 착수, 가이아 엔진 시동거나?][gaia-protocol-and-google-account]
 

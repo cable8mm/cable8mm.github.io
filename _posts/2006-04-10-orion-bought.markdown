@@ -20,4 +20,4 @@ Orion은 최근 빌게이츠가 차세대 검색엔진으로 사람의 생각까
 
 New South Wales대학은 2005년 9월 8일자 보도자료에 새로운 검색엔진 혁명이라는 제목으로 [Orion을 소개](http://www.unsw.edu.au/news/pad/articles/2005/sep/Orion.html)한 바 있습니다.
 
-via &#8211; [Haaretz Daily](http://www.haaretzdaily.com/hasen/spages/703986.html)
+via - [Haaretz Daily](http://www.haaretzdaily.com/hasen/spages/703986.html)

@@ -14,7 +14,7 @@ author: Samgu Lee
 
 [라이틀리 블로그(Writely Blog)](http://writely.blogspot.com/2006/08/writely-registration-is-now-open.html) 인용:
 
-> This week, we have finished inviting everyone who&#8217;s been patiently on the waiting list, and have reopened registration to the public. If you haven&#8217;t already, now is the time to sign up for the Writely beta! 
+> This week, we have finished inviting everyone who's been patiently on the waiting list, and have reopened registration to the public. If you haven't already, now is the time to sign up for the Writely beta! 
 
 이제 초청장이 없이도 라이틀리를 사용할 수 있게 되었습니다. 참고로, 구글 계정과의 통합은 되지 않고 있습니다.
 

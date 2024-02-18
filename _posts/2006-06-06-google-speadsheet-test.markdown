@@ -28,6 +28,6 @@ Google이 만들면 다르다라는 이야기가 있는데, 이번 프로젝트�
 
 Update 20060607.
 
-바로 아이디가 활성화 되었는데요, [Channy님이 멋진 리뷰](http://channy.tistory.com/23)를 올려주셨군요.<br />
+바로 아이디가 활성화 되었는데요, [Channy님이 멋진 리뷰](http://channy.tistory.com/23)를 올려주셨군요.
 
 이 리뷰로 설명은 대신할 까 합니다. :-p

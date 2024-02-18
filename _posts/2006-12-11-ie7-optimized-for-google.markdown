@@ -26,7 +26,7 @@ author: Samgu Lee
 
 ![구글에 최적화 된 파이어폭스2](/assets/google-homepage-ad-for-toolbar.jpg)
 
-&#8220;최적화 된&#8221;이라는 의미를 오해한다면 구글이 파이어폭스를 지원한다고 볼 수도 있지만, 구글이나 야후는 툴바와 검색엔진을 자사의 것으로 세팅했다는 것을 최적화 했다라고 말하고 있다. 파이어폭스 사용자라면 다소 김빠질 수도 있는 마케팅이라고 할 수 있다.
+"최적화 된"이라는 의미를 오해한다면 구글이 파이어폭스를 지원한다고 볼 수도 있지만, 구글이나 야후는 툴바와 검색엔진을 자사의 것으로 세팅했다는 것을 최적화 했다라고 말하고 있다. 파이어폭스 사용자라면 다소 김빠질 수도 있는 마케팅이라고 할 수 있다.
 
 이 페이지들은 야후의 경우 [한글](http://kr.downloads.yahoo.com/internetexplorer/)로도 보여지지만, 구글은 아직 [한글화가 안된 것](http://www.google.co.kr/toolbar/ie7/)으로 보인다.
 
@@ -44,7 +44,7 @@ Update2
 
 IE 블로그를 참고해 본다면 웨더닷컴도 이와 비슷한 브라우져를 배포할 것으로 보인다.([너른호수](http://widelake.net/)님 감사~)
 
-> In addition to our release of IE7, Yahoo! has a customized version of the browser available today and over the next few days partners such as Weather.com and USA TODAY will offer their own customized versions. These versions will tailor the user experience with specific toolbars, additional search engines, favorites, and RSS feeds&#8230;. [IE BLOG](http://blogs.msdn.com/ie/archive/2006/10/18/internet-explorer-7-for-windows-xp-available-now.aspx)
+> In addition to our release of IE7, Yahoo! has a customized version of the browser available today and over the next few days partners such as Weather.com and USA TODAY will offer their own customized versions. These versions will tailor the user experience with specific toolbars, additional search engines, favorites, and RSS feeds.... [IE BLOG](http://blogs.msdn.com/ie/archive/2006/10/18/internet-explorer-7-for-windows-xp-available-now.aspx)
 
 Update3
 

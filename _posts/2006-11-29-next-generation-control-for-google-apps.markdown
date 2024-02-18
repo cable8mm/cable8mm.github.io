@@ -6,11 +6,11 @@ categories: service
 tags: google
 author: Samgu Lee
 ---
-구글 도메인용 애플리케이션(Google Apps for domain &#8211; 줄여서 구글 앱스)에 [스타트 페이지]({% post_url 2006-11-15-add-startpage %})가 추가되었지만, 한글 사용자들은 여전히 스타트 페이지를 볼 수 없다. 그런데, 별다른 공지 없이 차세대 제어판(Next Generation Control Panel)이 생겼다.
+구글 도메인용 애플리케이션(Google Apps for domain - 줄여서 구글 앱스)에 [스타트 페이지]({% post_url 2006-11-15-add-startpage %})가 추가되었지만, 한글 사용자들은 여전히 스타트 페이지를 볼 수 없다. 그런데, 별다른 공지 없이 차세대 제어판(Next Generation Control Panel)이 생겼다.
 
 ![구글 도메인용 애플리케이션에 추가된 차세대 제어판](/assets/google_apps_new_control.jpg)
 
-그림 하단에 보면 제어판(Control panel)이라는 메뉴가 있고, &#8220;Next generation (US English only)&#8221;로 설정된 것을 알 수 있다. 구글의 서비스는 새로운 기능은 항상 미국 영어로 세팅해야만 활성화가 되었는데, 이번과 같은 경우 새로운 기능을 가장 먼저 사용해 볼 수 있는 별도의 제어판이 만들어진 것이다.
+그림 하단에 보면 제어판(Control panel)이라는 메뉴가 있고, "Next generation (US English only)"로 설정된 것을 알 수 있다. 구글의 서비스는 새로운 기능은 항상 미국 영어로 세팅해야만 활성화가 되었는데, 이번과 같은 경우 새로운 기능을 가장 먼저 사용해 볼 수 있는 별도의 제어판이 만들어진 것이다.
 
 이와 같은 컨셉이 최초로 시도된 서비스는 구글 페이지(Google Pages Creator)라고 할 수 있다. 구글 랩에서 처음 만들어진 구글 페이지는 매우 불안정하기 때문에 사용자에게 새로운 기능을 쓰겠냐고 별도로 물어본다. 그 기능설명에는 서비스가 불안정하다는 내용도 물론 포함되어 있다.
 

@@ -20,7 +20,7 @@ author: Samgu Lee
 
 [Google AnalyticsBlog](http://analytics.blogspot.com/2006/08/were-open-instant-access-now-available_15.html) 인용:
 
-> When we founded Urchin we actually had an ad-based business model where we were able to give the product away for free. It didn&#8217;t last and we eventually went with a paid model. But when our company was acquired in April 2005 we worked with Google to determine a way to give it away for free again, this time with no ads. By doing this, we&#8217;re able to give all websites &#8212; large and small &#8212; the tools you need to better serve your customers, make more money, and improve the web experience for everyone.
+> When we founded Urchin we actually had an ad-based business model where we were able to give the product away for free. It didn't last and we eventually went with a paid model. But when our company was acquired in April 2005 we worked with Google to determine a way to give it away for free again, this time with no ads. By doing this, we're able to give all websites - large and small - the tools you need to better serve your customers, make more money, and improve the web experience for everyone.
 
 구글 서버를 잡아먹는 3대 서비스 중 하나인 구글 분석기(나머지 두개는 웹 검색과 구글 비디오)가 현재대로라면 도중 하차하지 않아 다행스런 일입니다.
 

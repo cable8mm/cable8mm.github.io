@@ -14,7 +14,7 @@ author: Samgu Lee
 
 피카사를 이용하면 15개국의 인화 웹사이트를 이용할 수 있어서 외국에 사진을 보낼 때도 매우 유용합니다.
 
-피카사 한글버젼의 인화 [업체소개 페이지](http://picasa.google.co.kr/support/bin/answer.py?answer=18518&#038;topic=1037)에는 아직 추가되지 않고 있군요. 구글 한국팀은 부탁합니다.
+피카사 한글버젼의 인화 [업체소개 페이지](http://picasa.google.co.kr/support/bin/answer.py?answer=18518&topic=1037)에는 아직 추가되지 않고 있군요. 구글 한국팀은 부탁합니다.
 
 피카사로 인화를 해 보신 분은 트랙백 부탁드립니다. :-)
 

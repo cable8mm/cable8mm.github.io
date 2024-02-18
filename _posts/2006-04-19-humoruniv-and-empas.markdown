@@ -10,7 +10,7 @@ author: Samgu Lee
 
 웃긴대학은 구글 애드센스에 가입하고 부정클릭으로 인해 계정이 박탈당해서 2000만원을 받지 못했다면서 보도자료와 인터뷰 그리고 공정거래위원회에 심사를 의뢰하고 별도의 게시판을 만들어서 회원에게 호소하는 등 할 수 있는 [모든 방법을 동원해서 구글을 압박][after-humoruniv-vs-google]했습니다. 반면 구글은 한국에 영업 사무소 밖에 없기 때문에 법적으로 부딪히지 않았고, 웃긴대학은 구글을 위한 게시판을 도메인 변경 즈음에 앞서 삭제해 버렸습니다.
 
-팔글에서는 [구글이 웃긴대학 계정을 박탈한 이유][publisher-must-do-it-for-google-adsense]와 웃긴대학의 마지막 공지사항을 끝으로 [이 사건이 일단락되었다는 사실][humoruniv-forgive]을 알려드렸는데, 웃긴대학은 그 후 공지사항을 통해서 [도메인 변경 사실을 공지](http://web.humoruniv.com/board/humor/read.html?table=notice&#038;number=420)했습니다.
+팔글에서는 [구글이 웃긴대학 계정을 박탈한 이유][publisher-must-do-it-for-google-adsense]와 웃긴대학의 마지막 공지사항을 끝으로 [이 사건이 일단락되었다는 사실][humoruniv-forgive]을 알려드렸는데, 웃긴대학은 그 후 공지사항을 통해서 [도메인 변경 사실을 공지](http://web.humoruniv.com/board/humor/read.html?table=notice&number=420)했습니다.
 
 > 사과드릴 점은 미리 공지를 못해드린 점인데 내부사정이 있어 미리 공지를 못해드렸습니다.
 >

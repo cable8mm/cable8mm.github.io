@@ -6,7 +6,7 @@ categories: service
 tags: google
 author: Samgu Lee
 ---
-구글 애드워즈(Google Adwords)는 [애드워즈와 애드센스의 계정이 구글 계정으로 통합된다는 사실을 공지](https://adwords.google.com/support/bin/answer.py?answer=24823&#038;hl=ko)했고, 애드워즈는 현재 강제로 구글 계정으로 통합할 수 있도록 하는 페이지가 메인페이지에 나타납니다. 이와는 별도로 dJOEk이라는 블로거가 2006년 2월 4일 SSL기반의 X-GOOGLE-TOKEN라고 이름붙여진 토큰을 잡아냈습니다. 이 것은 구글토크를 위한 것같다는 설명도 있습니다.
+구글 애드워즈(Google Adwords)는 [애드워즈와 애드센스의 계정이 구글 계정으로 통합된다는 사실을 공지](https://adwords.google.com/support/bin/answer.py?answer=24823&hl=ko)했고, 애드워즈는 현재 강제로 구글 계정으로 통합할 수 있도록 하는 페이지가 메인페이지에 나타납니다. 이와는 별도로 dJOEk이라는 블로거가 2006년 2월 4일 SSL기반의 X-GOOGLE-TOKEN라고 이름붙여진 토큰을 잡아냈습니다. 이 것은 구글토크를 위한 것같다는 설명도 있습니다.
 
 구글의 모든 계정 즉, 구글 애드워즈와 애드센스, 구글메일(GMail) 그리고 나머지 서비스의 계정을 단일 구글 계정으로 통합한다는 내용은 이미 알려져 있습니다. 하지만, 구글에서 MS의 패스포트와 같은 인증프로토콜을 개발한다는 사실은 거의 알려져 있지 않습니다.
 

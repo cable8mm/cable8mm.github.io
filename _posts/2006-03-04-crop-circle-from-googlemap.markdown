@@ -12,7 +12,7 @@ author: Samgu Lee
 
 ![구글맵에 나타난 크롭서클(Crop Circle)](/assets/crop_circle_from_googlemap.jpg)
 
-위의 그림은 [구글맵에서 제공한 위성사진](http://maps.google.co.uk/maps?f=q&#038;hl=en&#038;t=k&#038;ll=53.531758,-1.356699&#038;spn=0.001121,0.002838&#038;t=k)의 화면을 캡쳐한 그림으로 위치는 역시 [크롭서클이 자주 나온다는 영국](http://myhome.naver.com/2yoho/circle.htm)입니다. 크롭서클은 세계 곳곳에서 발견되고 있지만 주로 영국의 휠트셔, 세일즈베리 평원 지역과 그 주위에서 많이 나타난다고 합니다.
+위의 그림은 [구글맵에서 제공한 위성사진](http://maps.google.co.uk/maps?f=q&hl=en&t=k&ll=53.531758,-1.356699&spn=0.001121,0.002838&t=k)의 화면을 캡쳐한 그림으로 위치는 역시 [크롭서클이 자주 나온다는 영국](http://myhome.naver.com/2yoho/circle.htm)입니다. 크롭서클은 세계 곳곳에서 발견되고 있지만 주로 영국의 휠트셔, 세일즈베리 평원 지역과 그 주위에서 많이 나타난다고 합니다.
 
 한국에도 있으면 트랙백해주는 센스~! ^^
 

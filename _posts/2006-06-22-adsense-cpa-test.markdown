@@ -10,7 +10,7 @@ author: Samgu Lee
 
 Google의 가장 강력한 비지니스 모델임과 동시에 가장 많은 자원을 투입하고 있는 Adwords/AdSense가 제휴마케팅으로 알려져 있는 CPA광고의 테스트를 시작했습니다. AdSense for Feed 때와 마찬가지로 특정한 사용자들을 대상으로 먼저 컨택을 시도하고 있습니다.
 
-CPA광고는 특정한 행위(Action-회원 가입이나 물품 구입 등)가 발생할 경우 수익을 나누는 형태로, Amazon이 네트워크 마케팅을 온라인에 적용하여 급속하게 전세계적으로 전파된 인터넷에선 역사가 꽤 되는 비지니스 모델입니다. 한국에서도 [링크프라이스](http://click.linkprice.com/click.php?m=linkprice&#038;a=A100118762&#038;l=0000&#038;u_id=)나 아이라이크클릭 같은 업체가 영업을 진행하고 있습니다.
+CPA광고는 특정한 행위(Action-회원 가입이나 물품 구입 등)가 발생할 경우 수익을 나누는 형태로, Amazon이 네트워크 마케팅을 온라인에 적용하여 급속하게 전세계적으로 전파된 인터넷에선 역사가 꽤 되는 비지니스 모델입니다. 한국에서도 [링크프라이스](http://click.linkprice.com/click.php?m=linkprice&a=A100118762&l=0000&u_id=)나 아이라이크클릭 같은 업체가 영업을 진행하고 있습니다.
 
 Google의 초대를 받은 사람은 David Jackson이라는 사람으로 Internet Stocks의 필자로 있습니다. 이 분이 [초대장의 중요 부분](http://internet.seekingalpha.com/article/12363)을 올려주었습니다.
 

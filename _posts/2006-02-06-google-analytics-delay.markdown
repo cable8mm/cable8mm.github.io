@@ -34,7 +34,7 @@ Update 2. 2월 7일 13시
 
 Update 2. 2월 8일
 
-이번 사건으로 구글은 발빠르게 구글 Analytics 도움말에 [공지사항](https://www.google.com/support/analytics/bin/answer.py?answer=32828&#038;hl=ko_KR)을 추가했습니다. 한글화가 되지 않은 공지는 영문으로도 나와주는 센쓰가 있군요 :-)
+이번 사건으로 구글은 발빠르게 구글 Analytics 도움말에 [공지사항](https://www.google.com/support/analytics/bin/answer.py?answer=32828&hl=ko_KR)을 추가했습니다. 한글화가 되지 않은 공지는 영문으로도 나와주는 센쓰가 있군요 :-)
 
 [google-analytics-stopped]: {% post_url 2005-11-24-google-analytics-stopped %}
 

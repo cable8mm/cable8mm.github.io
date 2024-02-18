@@ -10,7 +10,7 @@ author: Samgu Lee
 
 Gordon은 2004년 구글이 운영하는 유즈넷과 웹검색 서버에 자신의 저작물이 저장되어 있기 때문에 자신의 저작권이 침해되었다고 법원에 소송을 냈습니다.
 
-이 소송은 그동안 공정한 이용이라고 알려진 검색엔진의 존폐가 걸려있는 대리전 양상이었기 때문에 많은 기업에 관심의 대상이 되었습니다. 연방법원은 [구글의 승소를 선언](http://dw.com.com/redir?destUrl=http%3A%2F%2Fwww.paed.uscourts.gov%2Fdocuments%2Fopinions%2F06D0306P.pdf&#038;siteId=3&#038;oId=2100-1030-6050667&#038;ontId=1023&#038;lop=nl.ex)했습니다.
+이 소송은 그동안 공정한 이용이라고 알려진 검색엔진의 존폐가 걸려있는 대리전 양상이었기 때문에 많은 기업에 관심의 대상이 되었습니다. 연방법원은 [구글의 승소를 선언](http://dw.com.com/redir?destUrl=http%3A%2F%2Fwww.paed.uscourts.gov%2Fdocuments%2Fopinions%2F06D0306P.pdf&siteId=3&oId=2100-1030-6050667&ontId=1023&lop=nl.ex)했습니다.
 
 이 외에도 11건의 소송에 대부분 승리를 했다고 하는데 자세한 내용은 다른 분이 번역을 해 주실 것으로 믿겠습니다.(법률용어는 어렵군요)
 

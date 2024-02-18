@@ -26,7 +26,7 @@ Amazon은 클릭 후 24시간 실정을 인정합니다.
 
 ![Amazon affiliate ratio](/assets/amazon_affiliate_ratio.png)
 
-<strong>국내 마켓플래이스들</strong>
+## 국내 마켓플래이스들
 
 국내 기업들은 자체적으로 어필리에이트 프로그램을 진행하지는 않습니다. 대행사를 통하고 있는데, 보통 모든 대행사에 가입을 하는 경우가 많습니다. 대표적인 기업이 [링크프라이스](http://www.linkprice.com/)인데, 그곳의 조건을 보도록 하죠.
 

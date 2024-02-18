@@ -20,7 +20,7 @@ author: Samgu Lee
 > (인터넷의 끝을 방문해셔서 감사드리며, 더 이상의 링크는 없습니다.)  
 > You must now turn off your computer and go do something productive.  
 > (당신은 컴퓨터를 끄고 생산적인 다른 일을 하셔야 합니다.)  
-> Go read a book, for pete&#8217;s sake.  
+> Go read a book, for pete's sake.  
 > (제발 책 읽으러 가세요)
 
 이스터 에그라고 하기엔 발견하기가 너무 쉽군요.

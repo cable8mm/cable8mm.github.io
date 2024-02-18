@@ -6,7 +6,7 @@ categories: service
 tags: adsense adwards
 author: Samgu Lee
 ---
-사람의 손을 전혀 거치지 않고 [클러스터링 알고리즘](http://www.google.co.kr/search?hl=ko&#038;q=%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98&#038;lr=lang_ko)이라는 기술만으로 뉴스를 편집하는것으로 유명한 구글뉴스에 최근 조그만 변화가 생겼습니다.
+사람의 손을 전혀 거치지 않고 [클러스터링 알고리즘](http://www.google.co.kr/search?hl=ko&q=%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98&lr=lang_ko)이라는 기술만으로 뉴스를 편집하는것으로 유명한 구글뉴스에 최근 조그만 변화가 생겼습니다.
 
 [구글](http://www.google.com/)은 원래 검색엔진에서 출발했고, 국제적인 표준이나 약속을 어기지 않는 기업으로 유명합니다. 검색엔진은 다른 사이트의 저작물을 보관해서 일정한 분량의 컨텐츠를 보여주는 것으로 암묵적인 국제적 합의에 의해 합법적으로 진행되는 사업입니다.
 

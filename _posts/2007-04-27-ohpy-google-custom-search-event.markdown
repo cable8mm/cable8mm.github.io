@@ -6,7 +6,7 @@ categories: advertising
 tags: google
 author: Samgu Lee
 ---
-나우콤에서 야심차게 준비한 카페형 서비스인 오피(ohpy)에서, [구글 커스텀 검색 이벤트](http://www.ohpy.com/#post:/opbbs/index.php?control=List&#038;op_no=2&#038;bbs_no=142583&#038;nocache=0.7710762810693232:undefined:undefined:control=List&#038;op_no=2&#038;bbs_no=142583&amp;branch=:opm)를 실시한다.
+나우콤에서 야심차게 준비한 카페형 서비스인 오피(ohpy)에서, [구글 커스텀 검색 이벤트](http://www.ohpy.com/#post:/opbbs/index.php?control=List&op_no=2&bbs_no=142583&nocache=0.7710762810693232:undefined:undefined:control=List&op_no=2&bbs_no=142583&amp;branch=:opm)를 실시한다.
 
 ![오피](/assets/ohpy-icon.jpg)
 

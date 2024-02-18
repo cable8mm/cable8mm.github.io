@@ -31,6 +31,6 @@ author: Samgu Lee
 
 연관링크
 
-[구글 페이지 크리에이터(GPC)로 만든 페이지 보기](http://www.google.co.kr/search?hs=pUy&#038;hl=ko&#038;q=site%3A.googlepages.com)
+[구글 페이지 크리에이터(GPC)로 만든 페이지 보기](http://www.google.co.kr/search?hs=pUy&hl=ko&q=site%3A.googlepages.com)
 
 [gpc-launching]: {% post_url 2006-02-23-gpc-launching %}

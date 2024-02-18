@@ -18,6 +18,6 @@ author: Samgu Lee
 
 이번 컨퍼런스는 구글 리서치팀이 참석했고, 관련 내용은 [리서치 공식 블로그](http://googleresearch.blogspot.com/2006/04/our-conference-on-automated-testing.html)를 참고하세요. 얼마전에 다음에서 주최한 컨퍼런스가 연상되는데, 컨퍼런스 주최는 훌륭한 일입니다만, 역시 발제는 유명인 보다는 실제 개발자나 담당자가 하는 것이 더 재밌는 것 같습니다. 그런 면에서 [KLDP 컨퍼런스](http://wiki.kldp.org/wiki.php/KLDP10YearAnniversary)의 발전을 기원합니다.
 
-구글 비디오 소식을 하나 더 전하자면, 2005년 5월 19일에 있은 5시간 40분 분량의 <a href="https://www.youtube.com/watch?v=zRwPSFpLX8I">구글 팩토리 투어</a>(Google Factory Tour) 행사의 동영상이 공개되었습니다.
+구글 비디오 소식을 하나 더 전하자면, 2005년 5월 19일에 있은 5시간 40분 분량의 [구글 팩토리 투어](https://www.youtube.com/watch?v=zRwPSFpLX8I)(Google Factory Tour) 행사의 동영상이 공개되었습니다.
 
 {% youtube "https://www.youtube.com/watch?v=zRwPSFpLX8I" %}

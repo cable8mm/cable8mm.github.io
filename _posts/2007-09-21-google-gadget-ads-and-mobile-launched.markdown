@@ -42,6 +42,6 @@ _IG_RegisterOnloadHandler(function() {
 
 구글 가젯 광고의 [갤러리](http://www.google.com/adwords/gadgetads/gallery.html)를 방문하면 실제 어떻게 광고가 적용되는지를 볼 수 있다.
 
-구글 가젯 광고료는 사용자가 가젯 내에서 하는 엑션에 대해서는 요금이 부과되지 않으며, 원하는 주소로 이동했을 때 발생하고, 과금 체계는 기존 애드워즈와 동일하다.([가젯 광고 비용은 얼마나 됩니까?](https://adwords.google.com/support/bin/answer.py?answer=74802&#038;topic=12549) 참고)
+구글 가젯 광고료는 사용자가 가젯 내에서 하는 엑션에 대해서는 요금이 부과되지 않으며, 원하는 주소로 이동했을 때 발생하고, 과금 체계는 기존 애드워즈와 동일하다.([가젯 광고 비용은 얼마나 됩니까?](https://adwords.google.com/support/bin/answer.py?answer=74802&topic=12549) 참고)
 
 구글 가젯 광고는 현재까지 애드워즈의 모두에게 적용되는 것은 아니고, 리치 콘텐트(동영상이나 플래쉬 광고를 말함)로 광고를 진행해 본 적이 있는 광고주에게만 초대 메일이 발송된다고 한다.

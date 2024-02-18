@@ -16,7 +16,7 @@ author: Samgu Lee
 
 ## 채널 관리자 대폭 개선
 
-채널 관리자는 완전히 바뀌었습니다. 구글 애드센스의 광고 세가지 &#8211; 컨텐츠, 검색 그리고 추천을 위한 애드센스가 독립되어 탭으로 보여집니다.
+채널 관리자는 완전히 바뀌었습니다. 구글 애드센스의 광고 세가지 - 컨텐츠, 검색 그리고 추천을 위한 애드센스가 독립되어 탭으로 보여집니다.
 
 ![구글 애드센스의 채널 탭](/assets/channel_tab.jpg)
 
@@ -26,6 +26,6 @@ author: Samgu Lee
 
 아이프레임 가로 사이즈를 넣고, 구글에서 제공하는 코드를 기존의 검색 HTML에 삽입하는 것으로 마무리됩니다.
 
-이 기능을 이용하면 검색 결과의 외부 디자인을 마음대로 정할 수 있고, [매크로미디어의 검색과 같은 화면](http://www.adobe.com/cfusion/search/index.cfm?loc=en_us&#038;term=google&#038;action=Search)을 구현할 수 있습니다.
+이 기능을 이용하면 검색 결과의 외부 디자인을 마음대로 정할 수 있고, [매크로미디어의 검색과 같은 화면](http://www.adobe.com/cfusion/search/index.cfm?loc=en_us&term=google&action=Search)을 구현할 수 있습니다.
 
 더 자세한 설정 방법은 [애드센스 도움말](https://www.google.com/support/adsense/bin/answer.py?answer=43862)을 참고하세요.

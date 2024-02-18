@@ -22,9 +22,9 @@ Google의 제휴는 말하자면 윈윈을 추구합니다. 예를 들어서 Moz
 
 Google과 Dell은 이미 PC의 브라우져 첫화면에 Google의 개인화페이지를 제공함으로서 실질적인 제휴가 이루어 졌습니다. 외신은 이 것으로 인해 Google이 3년간 10억불을 Dell에 지출할 것이라고 했는데, 그것은 이것 뿐만이 아니라 Dell에게 독점적인 PC를 공급받는 등의 조건이 포함되어 있습니다. Google은 마케팅 때문에 수익을 포기하는 회사는 아니죠.
 
-이런 제휴에서 드디어 어플리케이션이 PC에 기본으로 삽입되게 되었습니다. 그 종류를 [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000103&#038;sid=aYXSAFW1emuM&#038;refer=news_index)에서는 이렇게 나타냈습니다.
+이런 제휴에서 드디어 어플리케이션이 PC에 기본으로 삽입되게 되었습니다. 그 종류를 [Bloomberg](http://quote.bloomberg.com/apps/news?pid=10000103&sid=aYXSAFW1emuM&refer=news_index)에서는 이렇게 나타냈습니다.
 
-> Under the three-year agreement, Google will pay to have Dell PCs sold with its programs for searching a user&#8217;s hard drive and e-mail systems as well as its Web browser tool bar, the person said today. Google spokesman Jon Murchinson declined to comment. Bob Pearson, a spokesman for Dell, declined to comment.
+> Under the three-year agreement, Google will pay to have Dell PCs sold with its programs for searching a user's hard drive and e-mail systems as well as its Web browser tool bar, the person said today. Google spokesman Jon Murchinson declined to comment. Bob Pearson, a spokesman for Dell, declined to comment.
 
 3년간 하드와 이메일의 검색프로그램을 공급한다는 이야기입니다. Google의 프로그램에서 이런 일을 하는 것은 바로 [Google 툴바][google-toolbar-beta-launching]와 [Google 데스크탑][google-desktop-international]입니다. 혹시 Google Pack이 들어있을지도 모른다고 생각할 수도 있겠지만, 그런 일은 결코 일어나지 않을 것입니다. 왜냐하면, 어플리케이션을 공급한다는 얘기는 A/S도 동시에 해야한다는 의미입니다. 만약 어플리케이션에 문제가 생길 경우 다른 회사의 것을 Google이나 Dell이 해야 한다는 의미죠. 그것은 불가능한 일입니다.
 

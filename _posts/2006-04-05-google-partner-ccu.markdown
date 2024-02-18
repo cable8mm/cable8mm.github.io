@@ -6,7 +6,7 @@ categories: news
 tags: google
 author: Samgu Lee
 ---
-700만명의 청취자를 자랑하는 Clear Channel Radio가 구글과 CPC광고를 포함한 검색 독점 계약(exclusive deal)을 했다고 [로이터가 3일 보도](http://today.reuters.com/business/newsArticle.aspx?type=media&#038;storyID=nN03297500)했습니다.
+700만명의 청취자를 자랑하는 Clear Channel Radio가 구글과 CPC광고를 포함한 검색 독점 계약(exclusive deal)을 했다고 [로이터가 3일 보도](http://today.reuters.com/business/newsArticle.aspx?type=media&storyID=nN03297500)했습니다.
 
 Clear Channel Radio는 라디오 방송국과 미국 옥외 광고, 그리고 국제 옥외 광고 등을 영업하는 미디어 회사입니다. 이 계약으로 700만의 청취자가 접속하는 웹사이트의 검색광고를 구글이 담당하게 되었고, 애드센스 광고가 들어가게 되었습니다.
 

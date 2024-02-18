@@ -17,7 +17,7 @@ author: Samgu Lee
 우리는 가능한 빨리 재오픈 하기위해서 정말 열심히 용량을 늘리고 있습니다. 만약 여러분이 가입이 다시 활성화될 때 공지를 받고 싶어 한다면 가입페이지에 이메일주소를 입력해 주세요. 당신과 모든 온라인 커뮤니티가 Google Analytics에 관심을 가져주셔서 매우 고마와하고 있답니다.
 
 > We are also diligently adding more capacity so that we can re-open signups as soon as possible. If you want to be notified about when signups will re-open, please enter your e-mail address on our signup page. We are grateful for the interest that you and the entire online community has in Google Analytics.
-> &#8212; The Google Analytics Team
+> - The Google Analytics Team
 
 
 이 글은 기존의 회원들에게 공지로 일괄 이메일 전송되었습니다.
@@ -30,8 +30,8 @@ author: Samgu Lee
 
 번역을 하자면 이렇습니다.
 
-> 1. &#8216;상태 체크&#8217;버튼은 설치된 트랙킹코드를 올바르게 체크할 수 있도록 다시 작업하고 있습니다. 이것은 11월 말까지 고쳐질 것입니다.
-> 2. &#8216;프로필 추가&#8217; 링크는 용량이 늘어날 때 까지 임시로 삭제되었습니다. 우리는 모든 유저에게 복구되는데로 알려드릴 것입니다.
+> 1. &#8216;상태 체크'버튼은 설치된 트랙킹코드를 올바르게 체크할 수 있도록 다시 작업하고 있습니다. 이것은 11월 말까지 고쳐질 것입니다.
+> 2. &#8216;프로필 추가' 링크는 용량이 늘어날 때 까지 임시로 삭제되었습니다. 우리는 모든 유저에게 복구되는데로 알려드릴 것입니다.
 > 3. 우리가 용량을 늘리는 동안 당신은 데이터에서 리포트에서 볼 수 있는 데이터의 지연시간이 더 늘어날 수 있을지도 모릅니다.
 
 기존의 회원들은 모든 서비스를 이용하는데 지장은 없는것으로 파악되지만, 도메인을 추가하는 링크가 사라졌습니다.

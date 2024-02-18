@@ -40,7 +40,7 @@ author: Samgu Lee
 
 ## 삼성전자와 LG전자
 
-삼성전자는 안드로이드 폰을 생산함과 동시에 자사의 플랫폼인 [바다(bada)](http://www.bada.com)를 론칭했다고 [공식 블로그](http://www.bada.com/samsung-unveils-new-smartphone-platform/)를 통해 알려왔다. 바다는 현재 멤버십에 한해서 SDK를 배포하고 있어서 정확한 사양은 알 수 없으나, [레퍼런스](http://developer.bada.com/apis/docs/commonpage.do?menu=MC01010000&#038;mtb1=&#038;mtb2=)를 통해 어떤 환경인지 가늠해 볼 수는 있다.
+삼성전자는 안드로이드 폰을 생산함과 동시에 자사의 플랫폼인 [바다(bada)](http://www.bada.com)를 론칭했다고 [공식 블로그](http://www.bada.com/samsung-unveils-new-smartphone-platform/)를 통해 알려왔다. 바다는 현재 멤버십에 한해서 SDK를 배포하고 있어서 정확한 사양은 알 수 없으나, [레퍼런스](http://developer.bada.com/apis/docs/commonpage.do?menu=MC01010000&mtb1=&mtb2=)를 통해 어떤 환경인지 가늠해 볼 수는 있다.
 
 ![바다 UI](/assets/bada_ui.jpg)
 

@@ -14,7 +14,7 @@ author: Samgu Lee
 
 우선 구글의 SMTP를 사용하기 위한 준비물을 살펴보도록 합니다. 만약 경험이 있다면 아래의 링크만으로도 원활한 제작이 가능할 것 같습니다.
 
-연관링크 : [GMail 도움말 센터 &#8211; 기타 메일 클라이언트 설정](http://mail.google.com/support/bin/answer.py?answer=13287&#038;query=smtp&#038;topic=&#038;type=f&#038;ctx=search)
+연관링크 : [GMail 도움말 센터 - 기타 메일 클라이언트 설정](http://mail.google.com/support/bin/answer.py?answer=13287&query=smtp&topic=&type=f&ctx=search)
 
 당연한 것이지만, 우선 구글 메일의 계정이 있어야 합니다. 그리고, 구동하려하는 웹서버가 SSL 모듈이 설치되어 있어야 합니다.
 
@@ -29,11 +29,11 @@ PHP의 경우는 [XPertMailer](http://xpertmailer.sourceforge.net/)가 이를 �
 미리 만들어 본 설정 예제는 다음과 같습니다.
 
 ```sh
-XPertMailer : SMTP_RELAY_CLIENT, &#8216;66.249.93.109&#8217;, 1, true<br />
-auth : $sender_email, $password, AUTH_LOGIN, SSL_TRUE, 465<br />
-from : $sender_email, $sender<br />
-header[&#8216;Reply-To&#8217;] : $sender_email<br />
-header[&#8216;X-Whatever&#8217;] : &#8216;description&#8217;
+XPertMailer : SMTP_RELAY_CLIENT, &#8216;66.249.93.109', 1, true
+auth : $sender_email, $password, AUTH_LOGIN, SSL_TRUE, 465
+from : $sender_email, $sender
+header[&#8216;Reply-To'] : $sender_email
+header[&#8216;X-Whatever'] : &#8216;description'
 ```
 
 위의 코드에서 IP 주소는 GMail을 nslookup한 값입니다. 만약 웹서버가 nslookup과 비슷한 함수를 지원한다면 gmail.com을 이용해서 IP를 자동으로 뽑아올 수도 있습니다.

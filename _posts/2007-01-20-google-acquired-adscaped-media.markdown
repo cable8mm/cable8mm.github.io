@@ -24,4 +24,4 @@ MSN은 매시브(Massive Inc.)를 작년 약 미화 300만불에 인수했다. �
 
 아무튼, 그 어떤 서비스보다 광고에 집중하고 있는 구글이 게임을 놓칠리는 없을 것이다.
 
-양키그룹은 게임 광고 시장이 2004년 3400만불에서 2005년 5600만불로 증가했다고 [발표](http://www.yankeegroup.com/pressReleaseDetail.do?actionType=getDetailPressRelease&#038;ID=PressReleases/news_4172006_InGameAdvertising.htm)한 바 있다.
+양키그룹은 게임 광고 시장이 2004년 3400만불에서 2005년 5600만불로 증가했다고 [발표](http://www.yankeegroup.com/pressReleaseDetail.do?actionType=getDetailPressRelease&ID=PressReleases/news_4172006_InGameAdvertising.htm)한 바 있다.

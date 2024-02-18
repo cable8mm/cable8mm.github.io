@@ -20,4 +20,4 @@ author: Samgu Lee
 
 이 기능에 대한 구글의 코멘트를 꼭 읽어보세요.
 
-> 참고사항: Google 툴바를 통해 메시지를 무료로 보낼 수 있습니다. 그러나 이동통신사가 메시지당 또는 월별로 수신 메시지에 대해 요금을 부과할 수도 있습니다. &#8211; via [Google](http://www.google.com/support/toolbar/bin/static.py?page=features.html&#038;hl=kr&#038;v=4)
+> 참고사항: Google 툴바를 통해 메시지를 무료로 보낼 수 있습니다. 그러나 이동통신사가 메시지당 또는 월별로 수신 메시지에 대해 요금을 부과할 수도 있습니다. - via [Google](http://www.google.com/support/toolbar/bin/static.py?page=features.html&hl=kr&v=4)

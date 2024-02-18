@@ -32,7 +32,7 @@ PHPBB는 한국에서는 많이 쓰이지는 않지만 영어권 웹사이트에
 
 ## 삽입 코드(includes/page_header.php)
 
-page_header.php 파일의 가장 마지막 코드는 $template->pparse(&#8216;overall_header&#8217;); 이것입니다. 이 줄 바로 전에 다음과 같은 코드를 추가합니다.
+page_header.php 파일의 가장 마지막 코드는 $template->pparse(&#8216;overall_header'); 이것입니다. 이 줄 바로 전에 다음과 같은 코드를 추가합니다.
 
 ```php
 if(preg_match('/\/(index|viewtopic|viewforum|search)/',$_SERVER['REQUEST_URI']) || $_SERVER['REQUEST_URI']=='/') {

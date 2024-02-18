@@ -8,7 +8,7 @@ author: Samgu Lee
 ---
 구글 어스의 상세화면에선 컴파스와 구글로고등이 나와야 합니다. 이 이미지는 "Image not found"라는 에러 메세지가 표시될 수도 있습니다. 더불어서, 구글 어스에서 나올 때 "Could not save My Places" 에러 메세지가 보여질 수도 있습니다. 이 두가지 문제는 유저이름이 일본어나 한글처럼 영문(ASCII)이 아닐 때 발생하게 됩니다.
 
-다음의 해결책은 두가지로 이루어져 있으며, [구글 어스의 support페이지](http://earth.google.com/support/bin/answer.py?answer=29573&#038;query=korean&#038;topic=0&#038;type=f)를 참조했음을 밝힙니다.
+다음의 해결책은 두가지로 이루어져 있으며, [구글 어스의 support페이지](http://earth.google.com/support/bin/answer.py?answer=29573&query=korean&topic=0&type=f)를 참조했음을 밝힙니다.
 
 구글 어스를 한국어, 중국어, 또는 일본어 윈도우즈에 설치할 때 이런 문제점을 고치는 방법은 두가지가 있습니다. 첫번째 해결책은 영문 유저이름으로 새로운 계정을 만들어서 설치하는 것입니다. 이것은 가장 단순한 해결책이지만, 관리자 권한이 필요합니다. 그리고, 구글 어스를 사용하기 위해서 다른 계정으로 재로그인해야 합니다.
 

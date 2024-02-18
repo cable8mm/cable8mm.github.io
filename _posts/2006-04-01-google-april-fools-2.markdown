@@ -14,7 +14,7 @@ author: Samgu Lee
 
 ## 1. 구글의 광고 프로그램인 애드워즈의 두가지 새로운 이미지 광고
 
-광고 뉴스를 전문으로 하는 [adotas](http://www.adotas.com/2006/03/google-adwords-unveils-two-new-image-sizes/)는 2560 x 1920과 1 x 1 픽셀 광고를 테스트하고 있다고 알려왔습니다. 물론 뉴스 출처는 구글 애드워즈 직원들&#8230;
+광고 뉴스를 전문으로 하는 [adotas](http://www.adotas.com/2006/03/google-adwords-unveils-two-new-image-sizes/)는 2560 x 1920과 1 x 1 픽셀 광고를 테스트하고 있다고 알려왔습니다. 물론 뉴스 출처는 구글 애드워즈 직원들...
 
 ## 2. 구글의 퀀텀 기반 스팸 필터 공개
 
@@ -24,7 +24,7 @@ author: Samgu Lee
 
 ![너무하지않습니까? -_-;;](https://blogoscoped.com/files/rooms/1.jpg)
 
-[Philipp](http://blog.outer-court.com/archive/2006-04-01-n20.html)은 구글이 만우절 웹사이트인 룸 서치를 런칭했다고 알려왔습니다. [스크린샷](http://googlerooms.blogspot.com/)은 여기에서&#8230;
+[Philipp](http://blog.outer-court.com/archive/2006-04-01-n20.html)은 구글이 만우절 웹사이트인 룸 서치를 런칭했다고 알려왔습니다. [스크린샷](http://googlerooms.blogspot.com/)은 여기에서...
 
 ## 4. Ask의 라임랭크(RhymeRank) 런칭
 
@@ -50,7 +50,7 @@ author: Samgu Lee
 
 ## 8. 중국이 구글을 사버리다
 
-여기에 대해서는 <a href="http://itviewpoint.com/tt/index.php?pl=1321">떡이떡이님의 블로그</a>를 참고해주세요.
+여기에 대해서는 [떡이떡이님의 블로그](http://itviewpoint.com/tt/index.php?pl=1321)를 참고해주세요.
 
 ## 9. 달에 초대형 광고판을 만들기 위해서 구글과 미정부 협의중
 

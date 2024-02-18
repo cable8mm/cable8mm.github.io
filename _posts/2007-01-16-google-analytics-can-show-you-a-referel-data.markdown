@@ -12,13 +12,13 @@ author: Samgu Lee
 
 일반적으로 동적 주소를 사용해야만 하는 서비스 중 하나는 검색이다. 구글, 네이버, 다음 그리고 올블로그까지 검색어를 넣는다면 동적 주소를 사용해서 원하는 검색 결과를 보여준다. 검색 결과에서 클릭을 할 경우 구글의 로그 분석기는 모든 주소를 표현하지 않기 때문에 정확히 어떤 문서에서 클릭을 했는지를 알 수 없다.
 
-[팔글](https://palgle.com)은 이런 이유로 구글 로그 분석기 이외에 사이트미터(sitemeter)라는 무료 카운터를 달아놓았다. 사이트미터는 구글보다 단순한 통계를 보여주지만, 직관적이고 추천URL을 정확히 알 수 있다는 장점이 있다.
+[팔글](https://www.palgle.com)은 이런 이유로 구글 로그 분석기 이외에 사이트미터(sitemeter)라는 무료 카운터를 달아놓았다. 사이트미터는 구글보다 단순한 통계를 보여주지만, 직관적이고 추천URL을 정확히 알 수 있다는 장점이 있다.
 
 루벤(Reuben Yau)은 자신의 [블로그](http://www.reubenyau.com/google-analytics-hack-obtaining-full-referring-url/)에서, 구글 웹 로그 분석기의 [urchinTracker 명령어](http://www.google.com/support/analytics/bin/answer.py?answer=27229)를 이용해서 정확한 추천URL을 알 수 있는 방법을 알려왔다.
 
 루벤의 방법은 구글 분석 코드를 HEAD태그 안에 위치시킨 후 BODY 태그를 다음과 같이 수정한다는 내용이다.
 
-```htl
+```html
 <body onload=”javascript:urchinTracker(document.referrer);”>
 ```
 

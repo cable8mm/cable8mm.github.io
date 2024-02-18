@@ -6,7 +6,7 @@ categories: news
 tags: google china
 author: Samgu Lee
 ---
-구글의 중국 R&#038;D센터에서 새로운 서비스, [구글 열방(热榜 &#8211; rebang)](http://www.google.cn/rebang)을 [론칭](http://blogs.zdnet.com/Google/?p=488)했다고 ZDNET의 가렛 로져스(Garett Rogers)가 전했다.
+구글의 중국 R&D센터에서 새로운 서비스, [구글 열방(热榜 - rebang)](http://www.google.cn/rebang)을 [론칭](http://blogs.zdnet.com/Google/?p=488)했다고 ZDNET의 가렛 로져스(Garett Rogers)가 전했다.
 
 ![구글 열방 로고](/assets/logo-of-google-rebang.gif)
 
@@ -23,4 +23,4 @@ author: Samgu Lee
 
 구글 망참도항은 열방과는 달리 로그인도 존재하지 않고, 타국가를 위한 서비스도 계획되어 있지 않다.
 
-구글 중국의 R&#038;D 센터도 서비스 이름을 짓는 것이 예사롭지 않은데, 한국어로 서비스된다면 어떻게 변할지 사뭇 궁금해진다.
+구글 중국의 R&D 센터도 서비스 이름을 짓는 것이 예사롭지 않은데, 한국어로 서비스된다면 어떻게 변할지 사뭇 궁금해진다.

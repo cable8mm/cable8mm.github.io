@@ -38,7 +38,7 @@ SEW(Search Engine Watch)에서 블로그의 하일라이트 6종세트를 공개
 
 클릭지의 Rebecca는 구글 CFO인 George Reyes가 발표에서 "확실하게 우리의 성장률은 느려지고 있다"라고 언급했던 것과 관련된 뛰어난 기사인 "[검색은 줄어들고 있나?(Is Search Shrinking?)](http://www.clickz.com/experts/brand/buzz/article.php/3588886)"를 썼습니다. 이 기사에서도 검색은 느려지긴 하지만, 죽지는 않는다라는 글을 읽을 수 있습니다.
 
-<p>구글의 CFO의 언급으로 구글을 비롯한 많은 주식이 떨어지기도 했습니다.</p>
+구글의 CFO의 언급으로 구글을 비롯한 많은 주식이 떨어지기도 했습니다.
 
 ## 구글 사이트맵은 최고 상위 검색어와 최고 모바일 쿼리들 순위 그리고 CSV 다운로드를 추가(Google Sitemaps Adds Top Keyword Positions, Top Mobile Queries and CSV Downloads)
 
