@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "베스트 깃(Git) 커맨드"
+title:  "협업의 필수 도구가 되어 가는 Git, 베스트 깃(Git) 커맨드 몇가지"
 date:   2024-02-08 12:32:00
 categories: opinion
 tags: email team
