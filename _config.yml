@@ -79,6 +79,9 @@ naver_site_verification  : 6a91db8aa239b4fbfd3cb8bc6185f8d310844598
 yandex_site_verification : 3af070a1e21e0376
 baidu_site_verification  :
 
+# AdSense
+google_adsense_account   : ca-pub-5259088562906477
+
 # Social Sharing
 twitter:
   username               : palglekr
