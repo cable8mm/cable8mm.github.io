@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글과 결별한 웃긴대학, 엠파스와 조인?"
-date:   2006-04-18 17:20:08 +09:00
+date:   2006-04-18 17:20:08
 categories: opinion
 tags: 웃긴대학 엠파스
 author: Samgu Lee

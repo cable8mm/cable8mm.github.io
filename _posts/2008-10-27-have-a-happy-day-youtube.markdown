@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "유튜브에 번지는 웃음"
-date:   2008-10-27 11:35:38 +09:00
+date:   2008-10-27 11:35:38
 categories: service
 tags: youtube
 author: Samgu Lee

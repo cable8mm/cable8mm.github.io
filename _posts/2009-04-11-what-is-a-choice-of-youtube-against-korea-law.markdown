@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "대한민국 법률과 유튜브의 선택"
-date:   2009-04-10 15:23:40 +09:00
+date:   2009-04-10 15:23:40
 categories: opinion
 tags: youtube law
 author: Samgu Lee

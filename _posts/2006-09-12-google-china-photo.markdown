@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google) 베이징 사무소 사진 공개"
-date:   2006-09-12 08:28:19 +09:00
+date:   2006-09-12 08:28:19
 categories: company
 tags: google beijing
 author: Samgu Lee

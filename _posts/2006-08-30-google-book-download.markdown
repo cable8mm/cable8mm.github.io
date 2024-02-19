@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 도서 검색, 다운로드 허용"
-date:   2006-08-30 14:36:50 +09:00
+date:   2006-08-30 14:36:50
 categories: service
 tags: google search
 author: Samgu Lee

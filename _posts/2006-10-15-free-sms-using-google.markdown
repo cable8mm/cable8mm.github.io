@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google)을 이용해서 미국으로 무료 문자 보내기"
-date:   2006-10-15 12:07:38 +09:00
+date:   2006-10-15 12:07:38
 categories: service
 tags: google sms
 author: Samgu Lee

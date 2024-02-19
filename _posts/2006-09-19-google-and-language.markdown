@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google), 그리고 대안언어"
-date:   2006-09-19 03:45:05 +09:00
+date:   2006-09-19 03:45:05
 categories: opinion
 tags: google adsense
 author: Samgu Lee

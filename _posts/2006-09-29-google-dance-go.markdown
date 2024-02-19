@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 댄스(Google Dance) 스타트"
-date:   2006-09-29 12:58:14 +09:00
+date:   2006-09-29 12:58:14
 categories: service
 tags: google search
 author: Samgu Lee

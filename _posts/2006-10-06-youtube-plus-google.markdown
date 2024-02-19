@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "루머 - 구글(Google), 유투브(YouTube) 인수"
-date:   2006-10-06 10:51:02 +09:00
+date:   2006-10-06 10:51:02
 categories: gossip
 tags: google youtube
 author: Samgu Lee

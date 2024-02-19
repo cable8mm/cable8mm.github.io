@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스, 한국에서 동영상 광고 적용"
-date:   2007-02-08 02:58:02 +09:00
+date:   2007-02-08 02:58:02
 categories: advertising
 tags: google adsense
 author: Samgu Lee

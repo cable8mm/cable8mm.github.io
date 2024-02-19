@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "이종격투기, 인터넷에서 즐긴다"
-date:   2006-05-26 04:13:17 +09:00
+date:   2006-05-26 04:13:17
 categories: news
 tags: google
 author: Samgu Lee

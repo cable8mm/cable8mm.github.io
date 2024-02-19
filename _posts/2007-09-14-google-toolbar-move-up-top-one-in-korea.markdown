@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 툴바, 점유율 1위"
-date:   2007-09-14 01:11:47 +09:00
+date:   2007-09-14 01:11:47
 categories: service
 tags: google toolbar
 author: Samgu Lee

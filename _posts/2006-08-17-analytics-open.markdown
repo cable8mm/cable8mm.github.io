@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 웹 분석기, 바로 가입 가능"
-date:   2006-08-17 11:17:51 +09:00
+date:   2006-08-17 11:17:51
 categories: service
 tags: google analytics
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 사이트맵 자동 생성 프로그램 소개"
-date:   2006-03-28 13:34:01 +09:00
+date:   2006-03-28 13:34:01
 categories: service
 tags: google
 author: Samgu Lee

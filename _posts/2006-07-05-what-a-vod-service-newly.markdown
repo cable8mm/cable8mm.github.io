@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "동영상으로 수익을 내는 것은 전혀 새로운 것이 아니다"
-date:   2006-07-05 06:22:00 +09:00
+date:   2006-07-05 06:22:00
 categories: opinion
 tags: video
 author: Samgu Lee

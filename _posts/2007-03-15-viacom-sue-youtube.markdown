@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "비아콤의 유튜브 소송, 한국은 안전지대"
-date:   2007-03-15 05:32:00 +09:00
+date:   2007-03-15 05:32:00
 categories: service
 tags: youtube viacom law
 author: Samgu Lee

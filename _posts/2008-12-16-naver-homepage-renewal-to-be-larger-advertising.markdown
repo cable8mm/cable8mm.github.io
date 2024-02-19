@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "네이버 초기 화면, 광고는 더 크게"
-date:   2008-12-16 04:06:03 +09:00
+date:   2008-12-16 04:06:03
 categories: service
 tags: naver advertising
 author: Samgu Lee

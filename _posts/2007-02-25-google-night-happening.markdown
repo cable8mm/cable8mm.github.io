@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 나이트 해프닝"
-date:   2007-02-25 01:53:52 +09:00
+date:   2007-02-25 01:53:52
 categories: gossip
 tags: google night
 author: Samgu Lee

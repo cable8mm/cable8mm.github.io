@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "정보공유라이센스와 Creative Common Licence"
-date:   2005-12-19 17:41:00 +09:00
+date:   2005-12-19 17:41:00
 categories: opinion
 tags: ccl license
 author: Samgu Lee

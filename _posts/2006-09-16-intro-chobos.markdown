@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "산뜻한 개인 구글 블로그 소개, 컴맹구글 블로그"
-date:   2006-09-16 03:45:23 +09:00
+date:   2006-09-16 03:45:23
 categories: news
 tags: google blog
 author: Samgu Lee

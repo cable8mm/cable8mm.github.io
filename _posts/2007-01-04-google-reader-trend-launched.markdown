@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 리더 트랜드 론칭"
-date:   2007-01-04 05:55:00 +09:00
+date:   2007-01-04 05:55:00
 categories: service
 tags: google reader trend
 author: Samgu Lee

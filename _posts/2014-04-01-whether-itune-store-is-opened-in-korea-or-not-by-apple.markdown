@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "애플, 한국에서 아이튠스토어 오픈하나?"
-date:   2014-04-01 12:44:50 +09:00
+date:   2014-04-01 12:44:50
 categories: store
 tags: apple itune
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 오피스, 연합이 살길"
-date:   2007-03-02 05:37:29 +09:00
+date:   2007-03-02 05:37:29
 categories: service
 tags: google office
 author: Samgu Lee

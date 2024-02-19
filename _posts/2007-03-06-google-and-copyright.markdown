@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글과 저작권"
-date:   2007-03-06 05:18:40 +09:00
+date:   2007-03-06 05:18:40
 categories: opinion
 tags: google law
 author: Samgu Lee

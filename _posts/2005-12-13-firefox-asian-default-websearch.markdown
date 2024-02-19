@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "야후, 파이어폭스 아시아 지역의 디폴트 서치엔진으로 선정"
-date:   2005-12-13 05:06:08 +09:00
+date:   2005-12-13 05:06:08
 categories: advertising
 tags: advertising
 author: Samgu Lee

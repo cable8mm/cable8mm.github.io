@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "최고의 디지털 한류, 역시 비보이"
-date:   2006-10-01 03:02:12 +09:00
+date:   2006-10-01 03:02:12
 categories: gossip
 tags: google
 author: Samgu Lee

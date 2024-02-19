@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 만우절 서비스 공개 Ver.2"
-date:   2007-04-01 05:34:08 +09:00
+date:   2007-04-01 05:34:08
 categories: gossip
 tags: google fools
 author: Samgu Lee

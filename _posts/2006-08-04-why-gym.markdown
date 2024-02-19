@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 야후, MS 부정클릭 공동대체 왜하나?"
-date:   2006-08-04 04:05:19 +09:00
+date:   2006-08-04 04:05:19
 categories: opinion
 tags: google microsoft yahoo
 author: Samgu Lee

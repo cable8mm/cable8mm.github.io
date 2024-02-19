@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글과 옥션, 콘텐츠 광고 제휴"
-date:   2007-03-26 08:40:33 +09:00
+date:   2007-03-26 08:40:33
 categories: news
 tags: google auction
 author: Samgu Lee

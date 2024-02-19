@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 대 레인의 선물, 합의요청"
-date:   2006-03-09 04:47:19 +09:00
+date:   2006-03-09 04:47:19
 categories: news
 tags: google
 author: Samgu Lee

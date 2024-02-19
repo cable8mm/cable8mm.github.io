@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google) 페이지랭크에 대한 상식"
-date:   2006-07-19 10:03:00 +09:00
+date:   2006-07-19 10:03:00
 categories: tip
 tags: google search pagerank
 author: Samgu Lee

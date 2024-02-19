@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스의 플래쉬 프리젠테이션"
-date:   2005-12-15 10:11:53 +09:00
+date:   2005-12-15 10:11:53
 categories: advertising
 tags: google adsense
 author: Samgu Lee

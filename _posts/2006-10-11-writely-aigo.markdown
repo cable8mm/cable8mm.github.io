@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "라이틀리(Writely) 블로그의 재치"
-date:   2006-10-10 18:15:13 +09:00
+date:   2006-10-10 18:15:13
 categories: gossip
 tags: google writely
 author: Samgu Lee

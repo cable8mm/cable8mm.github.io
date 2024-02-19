@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "웹표준과 CSS"
-date:   2006-06-12 12:15:00 +09:00
+date:   2006-06-12 12:15:00
 categories: opinion
 tags: webstandard css
 author: Samgu Lee

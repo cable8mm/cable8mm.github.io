@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "애드센스의 구글 로고 테스트"
-date:   2006-12-11 10:15:35 +09:00
+date:   2006-12-11 10:15:35
 categories: news
 tags: google adsense
 author: Samgu Lee

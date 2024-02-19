@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google의 소송 그리고 네이버와 첫눈"
-date:   2006-05-07 07:49:08 +09:00
+date:   2006-05-07 07:49:08
 categories: opinion
 tags: google naver 1noon
 author: Samgu Lee

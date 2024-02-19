@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 개발자 포용 정책에 손대나?"
-date:   2006-12-22 10:07:40 +09:00
+date:   2006-12-22 10:07:40
 categories: opinion
 tags: google developer
 author: Samgu Lee

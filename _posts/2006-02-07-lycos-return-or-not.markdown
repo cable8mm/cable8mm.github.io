@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "라이코스, 부활하나?"
-date:   2006-02-07 22:51:00 +09:00
+date:   2006-02-07 22:51:00
 categories: company
 tags: daum lycos 바람
 author: Samgu Lee

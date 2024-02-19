@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "검색엔진에 잘 걸리는 사이트 제작방법... 있는가?"
-date:   2005-12-02 05:21:05 +09:00
+date:   2005-12-02 05:21:05
 categories: service
 tags: search seo
 author: Samgu Lee

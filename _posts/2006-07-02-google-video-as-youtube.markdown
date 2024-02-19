@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google Video(구글 비디오), YouTube와 닮아간다"
-date:   2006-07-02 02:24:38 +09:00
+date:   2006-07-02 02:24:38
 categories: service
 tags: google gpc adsense
 author: Samgu Lee

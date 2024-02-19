@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 오픈소스정책, Ajax에 올인"
-date:   2007-03-25 07:07:08 +09:00
+date:   2007-03-25 07:07:08
 categories: opinion
 tags: google api ajax
 author: Samgu Lee

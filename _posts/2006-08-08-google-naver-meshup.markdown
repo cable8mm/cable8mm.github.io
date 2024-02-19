@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 맵(Google Maps)과 네이버 지도 매쉬업"
-date:   2006-08-08 08:12:30 +09:00
+date:   2006-08-08 08:12:30
 categories: service
 tags: google naver map
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 계정 통합 착수, 가이아 엔진 시동거나?"
-date:   2006-02-10 05:05:59 +09:00
+date:   2006-02-10 05:05:59
 categories: service
 tags: google
 author: Samgu Lee

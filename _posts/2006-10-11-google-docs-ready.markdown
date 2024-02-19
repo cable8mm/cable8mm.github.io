@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 닥스(Google Docs), 조만간 런칭"
-date:   2006-10-11 03:33:31 +09:00
+date:   2006-10-11 03:33:31
 categories: service
 tags: google docs
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 공식 객원 블로거 될 수 있는 기회"
-date:   2006-05-21 14:49:55 +09:00
+date:   2006-05-21 14:49:55
 categories: news
 tags: google blogger
 author: Samgu Lee

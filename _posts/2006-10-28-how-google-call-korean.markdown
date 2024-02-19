@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google) 서비스의 한글 공식 명칭"
-date:   2006-10-28 04:21:29 +09:00
+date:   2006-10-28 04:21:29
 categories: tips
 tags: google search
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "메일발송과 문자셋 문제"
-date:   2006-06-19 22:18:00 +09:00
+date:   2006-06-19 22:18:00
 categories: opinion
 tags: email chatset
 author: Samgu Lee

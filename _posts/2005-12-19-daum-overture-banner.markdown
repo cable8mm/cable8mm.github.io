@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "다음커뮤니케이션, 오버추어와 개인정보를 이용한 배너 개시"
-date:   2005-12-18 15:49:59 +09:00
+date:   2005-12-18 15:49:59
 categories: advertising
 tags: daum overture
 author: Samgu Lee

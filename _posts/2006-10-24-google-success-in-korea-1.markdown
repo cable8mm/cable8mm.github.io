@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 성공신화, 한국에서도 통할까?(1)"
-date:   2006-10-24 02:36:46 +09:00
+date:   2006-10-24 02:36:46
 categories: opinion
 tags: google
 author: Samgu Lee

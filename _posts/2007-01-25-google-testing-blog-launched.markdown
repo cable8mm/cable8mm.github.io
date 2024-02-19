@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 테스팅 공식 블로그 론칭"
-date:   2007-01-25 03:53:16 +09:00
+date:   2007-01-25 03:53:16
 categories: service
 tags: google testing
 author: Samgu Lee

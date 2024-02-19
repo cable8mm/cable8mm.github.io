@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 새로운 광고, 아무에게도 말하지 마"
-date:   2006-11-30 03:06:40 +09:00
+date:   2006-11-30 03:06:40
 categories: advertising
 tags: google adwords
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google)이 길면 고글(gogle)로"
-date:   2006-10-08 06:38:32 +09:00
+date:   2006-10-08 06:38:32
 categories: gossip
 tags: google gogle
 author: Samgu Lee

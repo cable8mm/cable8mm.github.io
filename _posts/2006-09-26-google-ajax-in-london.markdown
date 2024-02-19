@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google), 영국에서 AJAX 개발 시연 동영상"
-date:   2006-09-26 02:21:40 +09:00
+date:   2006-09-26 02:21:40
 categories: news
 tags: google page
 author: Samgu Lee

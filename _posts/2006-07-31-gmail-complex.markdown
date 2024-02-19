@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "도메인용 구글 메일(Gmail) 사용 팁"
-date:   2006-07-31 07:13:07 +09:00
+date:   2006-07-31 07:13:07
 categories: tip
 tags: google gmail
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 메일(GMail), 위자드닷컴에 모듈 추가되다"
-date:   2007-01-07 14:19:43 +09:00
+date:   2007-01-07 14:19:43
 categories: service
 tags: google wizard
 author: Samgu Lee

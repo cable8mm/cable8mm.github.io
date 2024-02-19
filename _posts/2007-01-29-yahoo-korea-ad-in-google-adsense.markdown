@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "야후 코리아, 구글 애드센스에 광고 집행"
-date:   2007-01-29 03:16:31 +09:00
+date:   2007-01-29 03:16:31
 categories: news
 tags: google adsense yahoo
 author: Samgu Lee

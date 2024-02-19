@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google 검색에서 &quot;한국 토고&quot;를 검색해봐"
-date:   2006-06-09 02:22:39 +09:00
+date:   2006-06-09 02:22:39
 categories: gossip
 tags: google search
 author: Samgu Lee

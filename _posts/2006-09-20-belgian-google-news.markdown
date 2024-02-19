@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "벨기에 법원, 구글 뉴스의 위법 판결"
-date:   2006-09-20 12:55:19 +09:00
+date:   2006-09-20 12:55:19
 categories: news
 tags: google law
 author: Samgu Lee

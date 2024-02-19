@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 개발 매니져, KLDP 컨퍼런스 발제"
-date:   2006-09-15 13:19:11 +09:00
+date:   2006-09-15 13:19:11
 categories: news
 tags: google kldp
 author: Samgu Lee

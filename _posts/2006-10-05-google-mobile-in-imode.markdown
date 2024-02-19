@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 모바일, i모드에서 검색 가능"
-date:   2006-10-05 14:25:14 +09:00
+date:   2006-10-05 14:25:14
 categories: service
 tags: google mobile
 author: Samgu Lee

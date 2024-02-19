@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 리더, 카운터 기능 추가"
-date:   2007-02-17 10:29:03 +09:00
+date:   2007-02-17 10:29:03
 categories: service
 tags: google reader
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "애드센스와 트래픽, 그리고 무효클릭"
-date:   2007-07-24 08:15:00 +09:00
+date:   2007-07-24 08:15:00
 categories: advertising
 tags: adsense google
 author: Samgu Lee

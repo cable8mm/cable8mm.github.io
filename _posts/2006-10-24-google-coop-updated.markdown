@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 검색엔진을 내가 만든다, 업그래이드 구글 쿱(Co-op)"
-date:   2006-10-24 06:27:20 +09:00
+date:   2006-10-24 06:27:20
 categories: service
 tags: google
 author: Samgu Lee

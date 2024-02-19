@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 애드센스 상표 침해로 애드센스 계정 박탈"
-date:   2006-03-28 08:46:50 +09:00
+date:   2006-03-28 08:46:50
 categories: news
 tags: google adsense
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글은 개방형, 애플은 폐쇄형?"
-date:   2010-06-29 15:49:51 +09:00
+date:   2010-06-29 15:49:51
 categories: opinion
 tags: google apple
 author: Samgu Lee

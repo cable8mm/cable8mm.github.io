@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글을 지배하는 나무위키"
-date:   2017-01-22 14:50:15 +09:00
+date:   2017-01-22 14:50:15
 categories: google
 tags: google namuwiki
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 페이지 크리에이터(GPC) 패러디 사이트 오픈"
-date:   2006-02-26 15:54:02 +09:00
+date:   2006-02-26 15:54:02
 categories: service
 tags: google
 author: Samgu Lee

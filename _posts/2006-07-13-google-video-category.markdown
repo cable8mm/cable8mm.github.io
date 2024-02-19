@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 비디오(Google Video), 국가별 도메인 분할"
-date:   2006-07-13 02:59:17 +09:00
+date:   2006-07-13 02:59:17
 categories: service
 tags: google video
 author: Samgu Lee

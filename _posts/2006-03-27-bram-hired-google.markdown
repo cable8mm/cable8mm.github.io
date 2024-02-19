@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "VIM 개발자, Bram Moolenaar 구글 입사"
-date:   2006-03-27 08:24:06 +09:00
+date:   2006-03-27 08:24:06
 categories: gossip
 tags: google
 author: Samgu Lee

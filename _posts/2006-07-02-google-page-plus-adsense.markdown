@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 페이지 크리에이터(GPC), 애드센스 적용 가능"
-date:   2006-07-02 10:14:19 +09:00
+date:   2006-07-02 10:14:19
 categories: advertising
 tags: google gpc adsense
 author: Samgu Lee

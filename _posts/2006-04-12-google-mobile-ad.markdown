@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 일본, 휴대폰 광고 정식 서비스 개시"
-date:   2006-04-12 02:40:39 +09:00
+date:   2006-04-12 02:40:39
 categories: news
 tags: google advertising
 author: Samgu Lee

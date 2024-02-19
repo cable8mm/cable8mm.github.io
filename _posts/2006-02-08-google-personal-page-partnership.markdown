@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 개인화 페이지, 기업과 파트너십 추진"
-date:   2006-02-08 09:34:47 +09:00
+date:   2006-02-08 09:34:47
 categories: service
 tags: google
 author: Samgu Lee

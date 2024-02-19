@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 한국팀, 사용자 의견을 바란다."
-date:   2006-03-09 02:34:30 +09:00
+date:   2006-03-09 02:34:30
 categories: tip
 tags: google
 author: Samgu Lee

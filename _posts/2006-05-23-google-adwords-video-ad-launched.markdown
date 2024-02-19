@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "드디어 구글 애드워즈 동영상 광고 개시"
-date:   2006-05-23 06:38:04 +09:00
+date:   2006-05-23 06:38:04
 categories: news
 tags: google adwords video
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "야후!, 언제까지 Yahoo!와 따로 놀 것인가"
-date:   2006-02-06 20:09:00 +09:00
+date:   2006-02-06 20:09:00
 categories: opinion
 tags: law
 author: Samgu Lee

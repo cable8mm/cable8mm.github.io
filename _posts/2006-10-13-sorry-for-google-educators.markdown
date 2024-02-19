@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "실망스런, 선생님을 위한 구글"
-date:   2006-10-12 16:38:38 +09:00
+date:   2006-10-12 16:38:38
 categories: service
 tags: google
 author: Samgu Lee

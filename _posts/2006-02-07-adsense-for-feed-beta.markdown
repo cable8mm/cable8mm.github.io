@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "애드센스 피드버젼(AdSense for feed) 베타테스터 모집"
-date:   2006-02-07 04:06:20 +09:00
+date:   2006-02-07 04:06:20
 categories: service
 tags: google adsense
 author: Samgu Lee

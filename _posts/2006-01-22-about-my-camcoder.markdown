@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "자신의 촬영장비에 대한 스펙을 알자"
-date:   2006-01-22 00:09:00 +09:00
+date:   2006-01-22 00:09:00
 categories: opinion
 tags: video device
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 도서검색에 구글 맵 기능 추가"
-date:   2007-01-27 08:11:40 +09:00
+date:   2007-01-27 08:11:40
 categories: service
 tags: google search
 author: Samgu Lee

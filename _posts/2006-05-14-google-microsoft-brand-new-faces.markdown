@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google과 MS, 색다른 두 얼굴"
-date:   2006-05-13 15:47:59 +09:00
+date:   2006-05-13 15:47:59
 categories: opinion
 tags: google microsoft
 author: Samgu Lee

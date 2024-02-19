@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 비디오, RSS 알파 서비스 개시"
-date:   2006-03-14 10:04:26 +09:00
+date:   2006-03-14 10:04:26
 categories: service
 tags: google
 author: Samgu Lee

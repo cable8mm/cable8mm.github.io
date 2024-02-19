@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 앱스(Google Apps for your domain)"
-date:   2006-08-29 14:41:55 +09:00
+date:   2006-08-29 14:41:55
 categories: service
 tags: google apps
 author: Samgu Lee

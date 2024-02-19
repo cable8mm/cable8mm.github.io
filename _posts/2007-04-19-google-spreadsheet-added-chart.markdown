@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 스프레드쉬트, 차트기능 추가"
-date:   2007-04-19 06:38:09 +09:00
+date:   2007-04-19 06:38:09
 categories: company
 tags: google
 author: Samgu Lee

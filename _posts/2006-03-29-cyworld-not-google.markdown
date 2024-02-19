@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "싸이월드는 구글이 아니다"
-date:   2006-03-29 13:38:32 +09:00
+date:   2006-03-29 13:38:32
 categories: opinion
 tags: google
 author: Samgu Lee

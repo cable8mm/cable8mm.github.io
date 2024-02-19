@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드워즈, 공인 전문가 본격 가동"
-date:   2007-04-01 04:12:44 +09:00
+date:   2007-04-01 04:12:44
 categories: news
 tags: google adwords
 author: Samgu Lee

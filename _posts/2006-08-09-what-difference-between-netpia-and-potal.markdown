@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "포탈이나 넷피아나 도찐개찐"
-date:   2006-08-09 22:25:00 +09:00
+date:   2006-08-09 22:25:00
 categories: opinion
 tags: naver daum google yahoo netpia
 author: Samgu Lee

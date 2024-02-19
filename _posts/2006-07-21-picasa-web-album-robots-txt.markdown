@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google)은 정말 공정한가?"
-date:   2006-07-20 17:12:49 +09:00
+date:   2006-07-20 17:12:49
 categories: opinion
 tags: google search
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스 한국 공식 블로그 론칭, 포럼은 아직"
-date:   2007-04-03 15:35:59 +09:00
+date:   2007-04-03 15:35:59
 categories: news
 tags: google adsense blog
 author: Samgu Lee

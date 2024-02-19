@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "올블로그 구글 페이지랭크(Google Pagerank)가 3?"
-date:   2006-08-10 03:07:26 +09:00
+date:   2006-08-10 03:07:26
 categories: gossip
 tags: google allblog pagerank
 author: Samgu Lee

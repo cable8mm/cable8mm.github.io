@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 개발자 데이, 시작 30분 전"
-date:   2007-05-31 16:27:37 +09:00
+date:   2007-05-31 16:27:37
 categories: opinion
 tags: google
 author: Samgu Lee

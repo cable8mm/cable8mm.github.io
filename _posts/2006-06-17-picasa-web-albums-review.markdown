@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "피카사 웹 앨범의 최고 경쟁상대는 싸이 미니홈피"
-date:   2006-06-17 13:48:01 +09:00
+date:   2006-06-17 13:48:01
 categories: opinion
 tags: google picasa cyworld
 author: Samgu Lee

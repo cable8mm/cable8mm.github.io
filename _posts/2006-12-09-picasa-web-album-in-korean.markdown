@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "피카사 웹 앨범, 한글화"
-date:   2006-12-08 19:58:08 +09:00
+date:   2006-12-08 19:58:08
 categories: service
 tags: google picasa korean
 author: Samgu Lee

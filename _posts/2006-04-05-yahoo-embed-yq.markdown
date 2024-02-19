@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 연관링크에 이은 야후의 임베딩 Y!Q"
-date:   2006-04-05 03:08:06 +09:00
+date:   2006-04-05 03:08:06
 categories: tip
 tags: google yahoo
 author: Samgu Lee

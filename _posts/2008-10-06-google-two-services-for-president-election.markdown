@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 대선용 서비스 두가지"
-date:   2008-10-06 08:49:50 +09:00
+date:   2008-10-06 08:49:50
 categories: service
 tags: google
 author: Samgu Lee

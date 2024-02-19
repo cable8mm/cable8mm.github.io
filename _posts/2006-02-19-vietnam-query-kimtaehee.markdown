@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "김태희, 구글 베트남 키워드 순위 12위"
-date:   2006-02-19 13:50:06 +09:00
+date:   2006-02-19 13:50:06
 categories: service
 tags: google gmail
 author: Samgu Lee

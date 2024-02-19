@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "아쉬운 구글 캘린더(Google Calendar) 업데이트"
-date:   2006-09-26 16:57:20 +09:00
+date:   2006-09-26 16:57:20
 categories: service
 tags: google page
 author: Samgu Lee

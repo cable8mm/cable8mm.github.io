@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 이미지검색과 저작권, 구글만의 문제가 아니다."
-date:   2006-02-23 02:46:10 +09:00
+date:   2006-02-23 02:46:10
 categories: service
 tags: google search
 author: Samgu Lee

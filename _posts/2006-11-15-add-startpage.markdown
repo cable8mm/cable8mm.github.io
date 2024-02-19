@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 앱스(Google Apps), 스타트 페이지 추가"
-date:   2006-11-15 01:52:38 +09:00
+date:   2006-11-15 01:52:38
 categories: news
 tags: google apps
 author: Samgu Lee

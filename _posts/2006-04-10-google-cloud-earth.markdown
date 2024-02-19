@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 어스의 활용, 실시간 구름사진"
-date:   2006-04-09 20:28:30 +09:00
+date:   2006-04-09 20:28:30
 categories: gossip
 tags: google earth
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "북한은 더이상 위협적이지 않다. 왜?"
-date:   2006-12-06 02:27:05 +09:00
+date:   2006-12-06 02:27:05
 categories: advertising
 tags: google adwords
 author: Samgu Lee

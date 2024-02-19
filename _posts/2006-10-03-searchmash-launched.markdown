@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google)의 새로운 검색엔진?"
-date:   2006-10-03 04:27:35 +09:00
+date:   2006-10-03 04:27:35
 categories: service
 tags: google
 author: Samgu Lee

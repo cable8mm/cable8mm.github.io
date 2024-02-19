@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "웃긴대학, 구글 소송은 포기하나?"
-date:   2006-04-09 10:49:59 +09:00
+date:   2006-04-09 10:49:59
 categories: opinion
 tags: google adsense 웃긴대학
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 웹로그 분석기를 이용해서 밥 얻어먹기"
-date:   2007-01-05 16:26:06 +09:00
+date:   2007-01-05 16:26:06
 categories: gossip
 tags: google analytics
 author: Samgu Lee

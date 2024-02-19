@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "혼다, 구글 어스의 데이터로 네이게이션 제작"
-date:   2006-04-04 09:50:47 +09:00
+date:   2006-04-04 09:50:47
 categories: news
 tags: google
 author: Samgu Lee

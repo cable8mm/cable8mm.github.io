@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "애드클릭스로 인해 다음에서 원하는 것"
-date:   2007-04-08 10:22:41 +09:00
+date:   2007-04-08 10:22:41
 categories: opinion
 tags: daum adclix advertising
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "마케팅에 대한 흥미로운 통계"
-date:   2005-12-12 10:46:58 +09:00
+date:   2005-12-12 10:46:58
 categories: opinion
 tags: advertising
 author: Samgu Lee

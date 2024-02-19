@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글과 관계된 재미있는 말들"
-date:   2005-12-07 03:51:21 +09:00
+date:   2005-12-07 03:51:21
 categories: gassip
 tags: google gassip
 author: Samgu Lee

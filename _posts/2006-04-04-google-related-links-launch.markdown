@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 새로운 서비스, 연관링크(Related Links)"
-date:   2006-04-04 08:12:14 +09:00
+date:   2006-04-04 08:12:14
 categories: service
 tags: google
 author: Samgu Lee

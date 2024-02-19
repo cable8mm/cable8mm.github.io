@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "비디오를 위한 애드센스, 베타테스트 중"
-date:   2006-02-28 05:07:19 +09:00
+date:   2006-02-28 05:07:19
 categories: advertising
 tags: google
 author: Samgu Lee

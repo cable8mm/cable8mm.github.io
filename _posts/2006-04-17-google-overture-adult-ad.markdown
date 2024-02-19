@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글과 오버추어에 성인 광고?"
-date:   2006-04-17 08:51:07 +09:00
+date:   2006-04-17 08:51:07
 categories: gossip
 tags: google overture
 author: Samgu Lee

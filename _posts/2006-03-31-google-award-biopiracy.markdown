@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 생물자원수탈상 수상"
-date:   2006-03-31 05:28:45 +09:00
+date:   2006-03-31 05:28:45
 categories: news
 tags: google
 author: Samgu Lee

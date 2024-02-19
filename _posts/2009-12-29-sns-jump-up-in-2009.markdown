@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "SNS의 성과가 돋보이는 2009년"
-date:   2009-12-29 04:24:00 +09:00
+date:   2009-12-29 04:24:00
 categories: opinion
 tags: sns twitter advertising
 author: Samgu Lee

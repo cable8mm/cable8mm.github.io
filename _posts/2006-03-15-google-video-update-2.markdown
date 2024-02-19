@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글비디오, 국제화 개시"
-date:   2006-03-15 05:51:46 +09:00
+date:   2006-03-15 05:51:46
 categories: news
 tags: google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "한국발 블로그 전쟁"
-date:   2007-01-07 02:34:00 +09:00
+date:   2007-01-07 02:34:00
 categories: opinion
 tags: google
 author: Samgu Lee

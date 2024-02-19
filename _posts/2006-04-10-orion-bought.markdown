@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 새로운 검색 알고리즘 인수"
-date:   2006-04-10 09:03:13 +09:00
+date:   2006-04-10 09:03:13
 categories: news
 tags: google
 author: Samgu Lee

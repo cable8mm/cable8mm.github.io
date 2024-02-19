@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "한국에 퍼지는 반구글 정서"
-date:   2006-10-20 06:18:18 +09:00
+date:   2006-10-20 06:18:18
 categories: opinion
 tags: google
 author: Samgu Lee

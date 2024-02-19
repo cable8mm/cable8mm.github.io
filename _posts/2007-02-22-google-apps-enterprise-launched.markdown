@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 앱스(Apps), 엔터프라이즈 버젼 공개"
-date:   2007-02-22 08:42:25 +09:00
+date:   2007-02-22 08:42:25
 categories: service
 tags: google apps
 author: Samgu Lee

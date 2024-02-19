@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 한국 블로그, 사용자에 귀 기울이다."
-date:   2006-03-20 08:05:59 +09:00
+date:   2006-03-20 08:05:59
 categories: news
 tags: google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "표준은 어디에나 존재한다 그러나..."
-date:   2006-06-15 10:49:00 +09:00
+date:   2006-06-15 10:49:00
 categories: opinion
 tags: webstandard css
 author: Samgu Lee

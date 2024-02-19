@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 시스템을 사용할 때 아쉬운 티스토리"
-date:   2006-12-02 02:26:12 +09:00
+date:   2006-12-02 02:26:12
 categories: service
 tags: google blog tistory 
 author: Samgu Lee

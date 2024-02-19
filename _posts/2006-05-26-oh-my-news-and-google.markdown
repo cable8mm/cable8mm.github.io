@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "오마이뉴스, 구글 회의에 참석"
-date:   2006-05-26 04:33:08 +09:00
+date:   2006-05-26 04:33:08
 categories: news
 tags: google
 author: Samgu Lee

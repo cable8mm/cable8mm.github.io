@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 한국어 Q&A 서비스, 작동 불능"
-date:   2007-01-17 05:21:04 +09:00
+date:   2007-01-17 05:21:04
 categories: news
 tags: google qna
 author: Samgu Lee

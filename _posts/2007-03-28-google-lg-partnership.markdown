@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글과 LG, 무선 단말기 파트너십 체결"
-date:   2007-03-28 05:23:05 +09:00
+date:   2007-03-28 05:23:05
 categories: news
 tags: google lg partnership
 author: Samgu Lee

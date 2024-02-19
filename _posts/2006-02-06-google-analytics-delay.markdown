@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 Analytics, 서비스 정지"
-date:   2006-02-06 07:56:35 +09:00
+date:   2006-02-06 07:56:35
 categories: service
 tags: google analytics
 author: Samgu Lee

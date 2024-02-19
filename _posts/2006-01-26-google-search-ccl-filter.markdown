@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 웹서치, CCL에 근거한 사용권한"
-date:   2006-01-25 15:36:54 +09:00
+date:   2006-01-25 15:36:54
 categories: service
 tags: google search
 author: Samgu Lee

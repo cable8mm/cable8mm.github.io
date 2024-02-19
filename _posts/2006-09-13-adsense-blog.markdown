@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스(Google AdSense)가 블로그를 광고판으로 만드나?"
-date:   2006-09-12 08:28:19 +09:00
+date:   2006-09-12 08:28:19
 categories: opinion
 tags: google adsense
 author: Samgu Lee

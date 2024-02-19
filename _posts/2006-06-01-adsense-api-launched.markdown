@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 애드센스(AdSense) API Beta 공개"
-date:   2006-05-31 16:00:37 +09:00
+date:   2006-05-31 16:00:37
 categories: service
 tags: google adsense api
 author: Samgu Lee

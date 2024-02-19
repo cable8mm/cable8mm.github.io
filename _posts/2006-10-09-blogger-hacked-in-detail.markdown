@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 공식 블로그(googleblog) 해킹의 전말"
-date:   2006-10-09 06:21:14 +09:00
+date:   2006-10-09 06:21:14
 categories: opinion
 tags: google blog
 author: Samgu Lee

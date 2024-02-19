@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 사이트맵, robots.txt 분석툴 제공"
-date:   2006-02-08 02:49:14 +09:00
+date:   2006-02-08 02:49:14
 categories: service
 tags: google
 author: Samgu Lee

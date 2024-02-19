@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 비디오, 약발이 안받네"
-date:   2006-05-25 02:43:57 +09:00
+date:   2006-05-25 02:43:57
 categories: service
 tags: google video
 author: Samgu Lee

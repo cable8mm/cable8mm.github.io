@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 블로그 검색의 기술적인 발전"
-date:   2007-01-26 02:40:24 +09:00
+date:   2007-01-26 02:40:24
 categories: service
 tags: google search
 author: Samgu Lee

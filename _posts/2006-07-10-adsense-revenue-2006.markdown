@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "팔글 블로그, 애드센스(AdSense) 상반기 수입 공개"
-date:   2006-07-10 02:30:31 +09:00
+date:   2006-07-10 02:30:31
 categories: opinion
 tags: google adsense
 author: Samgu Lee

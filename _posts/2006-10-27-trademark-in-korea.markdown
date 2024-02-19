@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글? 오 노, Google!"
-date:   2006-10-27 06:20:09 +09:00
+date:   2006-10-27 06:20:09
 categories: news
 tags: google search
 author: Samgu Lee

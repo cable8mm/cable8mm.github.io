@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 한국 블로그 컨테스트 결과 발표"
-date:   2006-08-17 12:27:31 +09:00
+date:   2006-08-17 12:27:31
 categories: news
 tags: google korea
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "프린팅닷컴, 구글 검색결과에서 삭제"
-date:   2006-03-31 04:43:00 +09:00
+date:   2006-03-31 04:43:00
 categories: news
 tags: google
 author: Samgu Lee

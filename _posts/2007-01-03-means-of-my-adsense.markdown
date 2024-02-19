@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "자신의 웹사이트에 애드센스를 붙인다는 의미"
-date:   2007-01-03 08:58:52 +09:00
+date:   2007-01-03 08:58:52
 categories: service
 tags: google picassa
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 비디오의 기술적인 분석"
-date:   2006-01-12 09:01:34 +09:00
+date:   2006-01-12 09:01:34
 categories: service
 tags: google video
 author: Samgu Lee

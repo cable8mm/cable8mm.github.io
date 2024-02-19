@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 가장 아름다운 로고"
-date:   2006-03-14 09:50:16 +09:00
+date:   2006-03-14 09:50:16
 categories: gossip
 tags: google
 author: Samgu Lee

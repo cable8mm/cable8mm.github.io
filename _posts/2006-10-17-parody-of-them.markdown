@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google)과 MS 패러디"
-date:   2006-10-17 02:58:58 +09:00
+date:   2006-10-17 02:58:58
 categories: gossip
 tags: google pagerank
 author: Samgu Lee

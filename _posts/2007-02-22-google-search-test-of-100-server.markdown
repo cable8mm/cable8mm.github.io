@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 100번 서버 검색 테스트"
-date:   2007-02-22 05:11:20 +09:00
+date:   2007-02-22 05:11:20
 categories: opinion
 tags: google search
 author: Samgu Lee

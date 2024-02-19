@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google Video, 오늘만 무료"
-date:   2006-06-23 13:09:00 +09:00
+date:   2006-06-23 13:09:00
 categories: news
 tags: google video
 author: Samgu Lee

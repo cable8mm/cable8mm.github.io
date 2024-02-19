@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "다음의 화끈한 광고, 그리고 Google"
-date:   2006-05-15 14:01:14 +09:00
+date:   2006-05-15 14:01:14
 categories: opinion
 tags: google daum advertising
 author: Samgu Lee

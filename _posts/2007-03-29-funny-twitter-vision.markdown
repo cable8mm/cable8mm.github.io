@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "재미있는 매쉬업, 트위터 비젼(Twittervision)"
-date:   2007-03-29 08:17:31 +09:00
+date:   2007-03-29 08:17:31
 categories: gossip
 tags: twitter meship
 author: Samgu Lee

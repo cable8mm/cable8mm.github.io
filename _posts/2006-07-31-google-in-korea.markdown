@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google), 한국 진출은 새롭게..."
-date:   2006-07-31 14:14:16 +09:00
+date:   2006-07-31 14:14:16
 categories: news
 tags: google korea
 author: Samgu Lee

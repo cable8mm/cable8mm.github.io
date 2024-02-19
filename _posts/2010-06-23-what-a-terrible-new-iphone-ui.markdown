@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "새로운 아이폰 OS인 iOS4, 뛰어난 기능과 실망스런 UI"
-date:   2010-06-23 12:17:10 +09:00
+date:   2010-06-23 12:17:10
 categories: opinion
 tags: apple iphone
 author: Samgu Lee

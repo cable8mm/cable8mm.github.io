@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "GMail의 메일 제목이 깨지는 현상, 혹시 버그?"
-date:   2006-06-19 13:18:57 +09:00
+date:   2006-06-19 13:18:57
 categories: gossip
 tags: google gmail
 author: Samgu Lee

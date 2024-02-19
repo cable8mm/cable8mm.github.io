@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "웹검색 APIs, 구글과 네이버 비교"
-date:   2006-03-27 06:37:12 +09:00
+date:   2006-03-27 06:37:12
 categories: service
 tags: google
 author: Samgu Lee

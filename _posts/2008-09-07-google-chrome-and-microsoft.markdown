@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 크롬과 마이크로소프트"
-date:   2008-09-07 12:49:01 +09:00
+date:   2008-09-07 12:49:01
 categories: service
 tags: google chrome microsoft
 author: Samgu Lee

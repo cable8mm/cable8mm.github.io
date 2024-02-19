@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "폭스바겐, 구글과 네이게이션 개발"
-date:   2006-03-15 09:39:06 +09:00
+date:   2006-03-15 09:39:06
 categories: news
 tags: google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "엠파스 구글 광고프로그램 재계약"
-date:   2006-05-22 04:53:38 +09:00
+date:   2006-05-22 04:53:38
 categories: news
 tags: google adsense empas
 author: Samgu Lee

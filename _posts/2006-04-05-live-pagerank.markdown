@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "원하는 웹페이지의 페이지랭크(PR) 알기"
-date:   2006-04-05 05:30:02 +09:00
+date:   2006-04-05 05:30:02
 categories: tip
 tags: google
 author: Samgu Lee

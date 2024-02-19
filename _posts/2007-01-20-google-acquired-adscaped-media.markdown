@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스, 게임 시장까지 진출하나?"
-date:   2007-01-20 10:26:06 +09:00
+date:   2007-01-20 10:26:06
 categories: opinion
 tags: google adsense game
 author: Samgu Lee

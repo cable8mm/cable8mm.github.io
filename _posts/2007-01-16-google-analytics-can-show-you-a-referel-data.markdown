@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 웹 로그 분석기에 웹주소 나타내기"
-date:   2007-01-16 05:34:01 +09:00
+date:   2007-01-16 05:34:01
 categories: tips
 tags: google analytics
 author: Samgu Lee

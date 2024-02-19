@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글과 마이크로소프트의 브라우져 검색 전쟁"
-date:   2006-12-04 06:38:43 +09:00
+date:   2006-12-04 06:38:43
 categories: opinion
 tags: google microsoft browser
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 어스를 이용한 Maxim의 100호 기념 행사"
-date:   2006-04-07 08:39:12 +09:00
+date:   2006-04-07 08:39:12
 categories: news
 tags: google earth
 author: Samgu Lee

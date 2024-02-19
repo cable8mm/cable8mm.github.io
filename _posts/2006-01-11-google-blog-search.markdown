@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "블로그 검색이 힘들면 구글 블로그 검색으로..."
-date:   2006-01-11 04:21:31 +09:00
+date:   2006-01-11 04:21:31
 categories: service
 tags: google search
 author: Samgu Lee

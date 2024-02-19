@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글에서 요구하는 인재상(via 구글 나이트)"
-date:   2007-03-09 05:45:52 +09:00
+date:   2007-03-09 05:45:52
 categories: opinion
 tags: google
 author: Samgu Lee

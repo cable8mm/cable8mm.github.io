@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 엔써(Google Answers), 스톱"
-date:   2006-11-29 10:22:57 +09:00
+date:   2006-11-29 10:22:57
 categories: service
 tags: google answers
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "피카사 웹 앨범을 이제 맥에서도..."
-date:   2006-08-14 15:11:55 +09:00
+date:   2006-08-14 15:11:55
 categories: service
 tags: google picasa
 author: Samgu Lee

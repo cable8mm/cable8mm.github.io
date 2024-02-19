@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드워즈, 로컬 비지니스 광고 개시"
-date:   2006-03-31 09:40:01 +09:00
+date:   2006-03-31 09:40:01
 categories: news
 tags: google adsense
 author: Samgu Lee

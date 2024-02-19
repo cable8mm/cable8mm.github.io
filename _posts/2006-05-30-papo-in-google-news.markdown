@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google 한국 뉴스에 X이 나와?"
-date:   2006-05-30 02:29:20 +09:00
+date:   2006-05-30 02:29:20
 categories: news
 tags: google news
 author: Samgu Lee

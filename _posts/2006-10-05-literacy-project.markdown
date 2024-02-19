@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 리터러시(Literacy) 프로젝트 런칭"
-date:   2006-10-04 16:18:19 +09:00
+date:   2006-10-04 16:18:19
 categories: service
 tags: google groups
 author: Samgu Lee

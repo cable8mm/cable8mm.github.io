@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "식스어파트의 트랙백 vs 구글의 백링크"
-date:   2007-02-11 03:09:44 +09:00
+date:   2007-02-11 03:09:44
 categories: service
 tags: google blogger
 author: Samgu Lee

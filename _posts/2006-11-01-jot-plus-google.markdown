@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google), 잣스팟(Jotspot) 인수"
-date:   2006-10-31 16:07:51 +09:00
+date:   2006-10-31 16:07:51
 categories: news
 tags: google
 author: Samgu Lee

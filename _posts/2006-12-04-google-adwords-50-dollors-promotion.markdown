@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드워즈, 50달러 무료 프로모션 진행"
-date:   2006-12-04 09:44:43 +09:00
+date:   2006-12-04 09:44:43
 categories: news
 tags: google adwords
 author: Samgu Lee

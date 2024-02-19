@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "센터장에게 듣는다, 구글코리아의 홈페이지 개편"
-date:   2007-06-13 15:27:10 +09:00
+date:   2007-06-13 15:27:10
 categories: service
 tags: google
 author: Samgu Lee

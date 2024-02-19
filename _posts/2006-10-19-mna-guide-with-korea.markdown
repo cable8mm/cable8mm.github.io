@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "기업 인수 금액 가이드"
-date:   2006-10-19 05:17:28 +09:00
+date:   2006-10-19 05:17:28
 categories: opinion
 tags: google microsoft yahoo
 author: Samgu Lee

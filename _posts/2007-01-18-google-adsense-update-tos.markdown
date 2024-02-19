@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스, 약관 변경"
-date:   2007-01-18 02:46:30 +09:00
+date:   2007-01-18 02:46:30
 categories: news
 tags: google adsense toc
 author: Samgu Lee

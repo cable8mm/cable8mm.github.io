@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "미국 법원, 구글에 특정인 이메일 자료 요구"
-date:   2006-03-18 05:29:54 +09:00
+date:   2006-03-18 05:29:54
 categories: news
 tags: google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google AdSense, 계정 박탈은 옛말?"
-date:   2006-06-10 06:28:23 +09:00
+date:   2006-06-10 06:28:23
 categories: opinion
 tags: google adsense
 author: Samgu Lee

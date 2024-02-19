@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "마이스페이스, 구글과 MS 누구 손을 들어주나?"
-date:   2006-05-24 03:11:26 +09:00
+date:   2006-05-24 03:11:26
 categories: news
 tags: google myspace
 author: Samgu Lee

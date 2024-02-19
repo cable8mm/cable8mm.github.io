@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애플리케이션을 편하게 세팅하는 방법"
-date:   2007-10-08 15:20:34 +09:00
+date:   2007-10-08 15:20:34
 categories: service
 tags: google
 author: Samgu Lee

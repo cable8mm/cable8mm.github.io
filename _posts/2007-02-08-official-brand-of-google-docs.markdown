@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 닥스의 공식적인 명칭 확정"
-date:   2007-02-08 02:34:22 +09:00
+date:   2007-02-08 02:34:22
 categories: news
 tags: google docs
 author: Samgu Lee
