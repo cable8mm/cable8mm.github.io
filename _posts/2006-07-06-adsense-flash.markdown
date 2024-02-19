@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스(Google AdSense) 플래시 광고"
-date:   2006-07-06 02:40:42 +09:00
+date:   2006-07-06 02:40:42
 categories: gossip
 tags: google
 author: Samgu Lee

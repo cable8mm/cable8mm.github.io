@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "GMail, 구글 Calendar와의 절묘한 결합"
-date:   2006-04-23 13:27:24 +09:00
+date:   2006-04-23 13:27:24
 categories: service
 tags: google gmail calendar
 author: Samgu Lee

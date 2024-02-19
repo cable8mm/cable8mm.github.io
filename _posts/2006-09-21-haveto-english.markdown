@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "영문판을 써야하는 구글(Google) 서비스들"
-date:   2006-09-21 03:19:39 +09:00
+date:   2006-09-21 03:19:39
 categories: tips
 tags: google law
 author: Samgu Lee

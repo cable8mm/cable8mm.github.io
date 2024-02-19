@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "메일발송에 관한 간단한 팁"
-date:   2005-01-05 14:32:53 +0900
+date:   2005-01-05 14:32:53
 categories: service
 tags: 이메일 인코딩
 author: Samgu Lee

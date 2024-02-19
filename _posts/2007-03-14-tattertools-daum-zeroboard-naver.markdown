@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "다음이 태터툴즈라면, 네이버는 제로보드"
-date:   2007-03-14 03:42:36 +09:00
+date:   2007-03-14 03:42:36
 categories: opinion
 tags: daum tattertools naver zeroboard
 author: Samgu Lee

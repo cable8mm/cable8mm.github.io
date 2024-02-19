@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google AdSense, CPA 광고 테스트"
-date:   2006-06-22 02:46:38 +09:00
+date:   2006-06-22 02:46:38
 categories: service
 tags: google adsense
 author: Samgu Lee

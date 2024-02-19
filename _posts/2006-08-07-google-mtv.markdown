@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "MTV와 구글(Google)의 비지니스 모델"
-date:   2006-08-07 08:23:11 +09:00
+date:   2006-08-07 08:23:11
 categories: advertising
 tags: google mtv
 author: Samgu Lee

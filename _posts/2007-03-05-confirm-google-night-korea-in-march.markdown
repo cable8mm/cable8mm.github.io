@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 나이트, 3월 개최 확정"
-date:   2007-03-05 03:25:43 +09:00
+date:   2007-03-05 03:25:43
 categories: service
 tags: google night
 author: Samgu Lee

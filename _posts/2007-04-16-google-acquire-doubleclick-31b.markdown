@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 최고의 인수가격을 갈아치운 더블클릭은 어떤 회사?"
-date:   2007-04-16 13:38:49 +09:00
+date:   2007-04-16 13:38:49
 categories: advertising
 tags: google
 author: Samgu Lee

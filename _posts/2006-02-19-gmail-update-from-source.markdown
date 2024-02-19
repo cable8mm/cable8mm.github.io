@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "소스로 예측하는 구글메일(GMail)의 업데이트"
-date:   2006-02-19 13:06:51 +09:00
+date:   2006-02-19 13:06:51
 categories: service
 tags: google gmail
 author: Samgu Lee

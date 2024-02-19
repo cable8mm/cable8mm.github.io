@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "블로깅과 수익의 진실"
-date:   2006-11-30 02:27:58 +09:00
+date:   2006-11-30 02:27:58
 categories: opinion
 tags: blog
 author: Samgu Lee

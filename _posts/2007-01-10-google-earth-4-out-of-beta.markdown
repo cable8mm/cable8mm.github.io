@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글어스4, 베타 떼다"
-date:   2007-01-10 07:14:35 +09:00
+date:   2007-01-10 07:14:35
 categories: service
 tags: google earth
 author: Samgu Lee

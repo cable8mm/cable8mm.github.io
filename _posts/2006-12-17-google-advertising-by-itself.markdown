@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google) 자체 광고 테스트?"
-date:   2006-12-16 16:18:41 +09:00
+date:   2006-12-16 16:18:41
 categories: advertising
 tags: google advertising
 author: Samgu Lee

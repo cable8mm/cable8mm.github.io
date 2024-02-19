@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 검색 결과에 내 기업 정보가 무료"
-date:   2006-12-10 14:01:26 +09:00
+date:   2006-12-10 14:01:26
 categories: service
 tags: google search
 author: Samgu Lee

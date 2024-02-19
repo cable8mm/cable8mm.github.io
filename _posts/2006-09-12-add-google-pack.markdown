@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스 추천에 구글 패키지 추가"
-date:   2006-09-12 03:57:30 +09:00
+date:   2006-09-12 03:57:30
 categories: advertising
 tags: google adsense referrer
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "두들 구글(Doodle for Google)"
-date:   2006-10-06 10:23:10 +09:00
+date:   2006-10-06 10:23:10
 categories: gossip
 tags: google doodle
 author: Samgu Lee

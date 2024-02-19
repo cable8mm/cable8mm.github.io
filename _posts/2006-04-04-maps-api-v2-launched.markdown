@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 공식 블로그, 구글 맵스 API 버젼 2 공개"
-date:   2006-04-04 05:27:43 +09:00
+date:   2006-04-04 05:27:43
 categories: news
 tags: google maps
 author: Samgu Lee

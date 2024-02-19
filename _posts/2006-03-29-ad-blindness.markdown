@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "아이트래킹으로 유추해보는 구글 광고"
-date:   2006-03-29 08:08:04 +09:00
+date:   2006-03-29 08:08:04
 categories: gossip
 tags: google
 author: Samgu Lee

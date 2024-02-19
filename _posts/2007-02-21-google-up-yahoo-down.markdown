@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "뜨는 구글, 지는 야후"
-date:   2007-02-21 02:39:34 +09:00
+date:   2007-02-21 02:39:34
 categories: opinion
 tags: google yahoo
 author: Samgu Lee

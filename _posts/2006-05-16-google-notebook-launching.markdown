@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 노트북(Google Notebook) 런칭"
-date:   2006-05-16 08:05:05 +09:00
+date:   2006-05-16 08:05:05
 categories: service
 tags: google notebook
 author: Samgu Lee

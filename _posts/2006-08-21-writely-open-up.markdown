@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 웹 프로세서(Writely), 즉시 가입 가능"
-date:   2006-08-21 03:34:07 +09:00
+date:   2006-08-21 03:34:07
 categories: service
 tags: google writely
 author: Samgu Lee

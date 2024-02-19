@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "이삼구글 블로그가 워드프레스에서 티스토리로 이전합니다"
-date:   2006-11-21 02:31:43 +09:00
+date:   2006-11-21 02:31:43
 categories: news
 tags: blog
 author: Samgu Lee

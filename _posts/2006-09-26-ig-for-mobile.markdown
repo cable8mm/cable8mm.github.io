@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 휴대폰용 개인화 홈페이지(ig), 한글 지원"
-date:   2006-09-26 08:29:48 +09:00
+date:   2006-09-26 08:29:48
 categories: service
 tags: google page
 author: Samgu Lee

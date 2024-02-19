@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "숨은 서비스, 구글의 상위 검색어 알기"
-date:   2005-12-22 12:36:45 +09:00
+date:   2005-12-22 12:36:45
 categories: service
 tags: google search
 author: Samgu Lee

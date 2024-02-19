@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google)의 맨하탄 오피스"
-date:   2006-10-03 15:49:39 +09:00
+date:   2006-10-03 15:49:39
 categories: company
 tags: google
 author: Samgu Lee

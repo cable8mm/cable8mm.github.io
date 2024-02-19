@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "[온라인 광고 집행하는 법] 무료 배포"
-date:   2006-06-26 01:03:00 +09:00
+date:   2006-06-26 01:03:00
 categories: opinion
 tags: advertising paper
 author: Samgu Lee

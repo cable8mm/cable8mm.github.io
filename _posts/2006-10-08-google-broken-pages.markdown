@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google), 일 고따구로 할꺼야?"
-date:   2006-10-08 07:41:59 +09:00
+date:   2006-10-08 07:41:59
 categories: gossip
 tags: google gogle
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "우리는 왜 구글에 환호하는가?"
-date:   2006-11-02 06:21:27 +09:00
+date:   2006-11-02 06:21:27
 categories: opinion
 tags: google
 author: Samgu Lee

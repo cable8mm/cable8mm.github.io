@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 닥스(D-S), 공식 블로그 오픈"
-date:   2006-10-11 14:23:00 +09:00
+date:   2006-10-11 14:23:00
 categories: service
 tags: google docs
 author: Samgu Lee

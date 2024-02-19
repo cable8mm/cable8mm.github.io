@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 Talk, 업데이트 - 아바타 기능 되구요"
-date:   2006-04-07 04:56:39 +09:00
+date:   2006-04-07 04:56:39
 categories: news
 tags: google talk
 author: Samgu Lee

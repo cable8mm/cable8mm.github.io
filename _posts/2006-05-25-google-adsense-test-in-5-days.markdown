@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 새로운 광고 레이아웃의 5일간의 테스트"
-date:   2006-05-25 02:31:06 +09:00
+date:   2006-05-25 02:31:06
 categories: advertising
 tags: google
 author: Samgu Lee

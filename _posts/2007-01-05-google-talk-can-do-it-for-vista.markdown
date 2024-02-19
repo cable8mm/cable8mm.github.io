@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 토크, 비스타(Vista) 지원"
-date:   2007-01-05 02:51:53 +09:00
+date:   2007-01-05 02:51:53
 categories: service
 tags: google talk vista
 author: Samgu Lee

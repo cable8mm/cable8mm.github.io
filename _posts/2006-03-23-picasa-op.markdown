@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 피카사 사진인화 서비스업체, 일본은 하나 한국은 둘"
-date:   2006-03-23 07:16:12 +09:00
+date:   2006-03-23 07:16:12
 categories: service
 tags: google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 새로운 공식 블로그 오픈 - 리서치"
-date:   2006-02-23 04:06:19 +09:00
+date:   2006-02-23 04:06:19
 categories: service
 tags: google
 author: Samgu Lee

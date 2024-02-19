@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "한국 인터넷 광고시장, 대체 어디로 갈려는지..."
-date:   2004-01-17 15:29:58 +0900
+date:   2004-01-17 15:29:58
 categories: advertising
 author: Samgu Lee
 ---

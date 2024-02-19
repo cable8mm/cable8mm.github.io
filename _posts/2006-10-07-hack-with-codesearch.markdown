@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 코드 검색(Google Code Search)의 공포"
-date:   2006-10-07 02:56:37 +09:00
+date:   2006-10-07 02:56:37
 categories: opinion
 tags: google code
 author: Samgu Lee

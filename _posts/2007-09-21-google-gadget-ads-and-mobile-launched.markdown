@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 가젯 광고 론칭과 모바일용 애드센스 추가"
-date:   2007-09-21 01:50:15 +09:00
+date:   2007-09-21 01:50:15
 categories: service
 tags: google adsense
 author: Samgu Lee

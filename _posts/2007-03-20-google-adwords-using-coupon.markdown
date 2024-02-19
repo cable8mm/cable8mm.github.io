@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드워즈, 저렴하게 광고하기"
-date:   2007-03-20 04:20:38 +09:00
+date:   2007-03-20 04:20:38
 categories: advertising
 tags: google adwords
 author: Samgu Lee

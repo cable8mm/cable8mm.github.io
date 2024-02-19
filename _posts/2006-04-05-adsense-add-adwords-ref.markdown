@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스, 애드워즈 추천에 한국 지원"
-date:   2006-04-05 02:15:36 +09:00
+date:   2006-04-05 02:15:36
 categories: news
 tags: google adsense adwords
 author: Samgu Lee

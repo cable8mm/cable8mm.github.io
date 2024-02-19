@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드워즈(adwords), 전문가 프로그램 업데이트"
-date:   2006-04-07 03:28:11 +09:00
+date:   2006-04-07 03:28:11
 categories: news
 tags: google adwords
 author: Samgu Lee

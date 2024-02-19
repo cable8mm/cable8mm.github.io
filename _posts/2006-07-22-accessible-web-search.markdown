@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google)의 접근성 좋은 문서 검색"
-date:   2006-07-21 16:36:16 +09:00
+date:   2006-07-21 16:36:16
 categories: tip
 tags: google search
 author: Samgu Lee

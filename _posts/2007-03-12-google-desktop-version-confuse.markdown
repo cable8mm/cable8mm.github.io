@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "혼란스러운 구글의 데스크톱 버젼"
-date:   2007-03-12 03:03:56 +09:00
+date:   2007-03-12 03:03:56
 categories: opinion
 tags: google desktop
 author: Samgu Lee

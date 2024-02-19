@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "드디어 Dell과 Google, 전략적 제휴에 한걸음 다가서다"
-date:   2006-05-26 09:26:13 +09:00
+date:   2006-05-26 09:26:13
 categories: news
 tags: google dell
 author: Samgu Lee

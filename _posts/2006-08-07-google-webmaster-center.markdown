@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 웹마스터 센터(Google Webmaster Center) 공개"
-date:   2006-08-07 02:23:17 +09:00
+date:   2006-08-07 02:23:17
 categories: service
 tags: google mtv
 author: Samgu Lee

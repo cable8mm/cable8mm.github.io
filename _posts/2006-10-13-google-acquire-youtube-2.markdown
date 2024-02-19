@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 유투브 인수, 벤처 거품의 재현?"
-date:   2006-10-13 06:16:40 +09:00
+date:   2006-10-13 06:16:40
 categories: service
 tags: google youtube
 author: Samgu Lee

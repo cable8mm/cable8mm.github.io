@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 중국 R&D센터, 열방 서비스 론칭"
-date:   2007-03-19 04:04:15 +09:00
+date:   2007-03-19 04:04:15
 categories: news
 tags: google china
 author: Samgu Lee

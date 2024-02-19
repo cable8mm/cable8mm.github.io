@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google), 야후, MS와의 두번째 결혼"
-date:   2006-11-18 06:44:43 +09:00
+date:   2006-11-18 06:44:43
 categories: service
 tags: google yahoo microsoft
 author: Samgu Lee

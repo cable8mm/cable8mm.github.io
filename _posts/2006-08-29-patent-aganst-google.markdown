@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google) vs 파캔오피씨 파이트"
-date:   2006-08-29 03:29:16 +09:00
+date:   2006-08-29 03:29:16
 categories: news
 tags: google 파캔오피씨
 author: Samgu Lee

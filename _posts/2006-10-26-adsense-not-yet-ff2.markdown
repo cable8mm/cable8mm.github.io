@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "파이어폭스 2.0과 구글 애드센스"
-date:   2006-10-24 02:39:54 +09:00
+date:   2006-10-24 02:39:54
 categories: news
 tags: google firefox adsense
 author: Samgu Lee

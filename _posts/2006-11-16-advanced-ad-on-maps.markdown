@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 맵(Google Maps)의 특색있는 광고들"
-date:   2006-11-16 08:38:45 +09:00
+date:   2006-11-16 08:38:45
 categories: gossip
 tags: google maps
 author: Samgu Lee

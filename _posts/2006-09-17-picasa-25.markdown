@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "피카사 2.5 베타 딱지 떼다"
-date:   2006-09-16 17:55:28 +09:00
+date:   2006-09-16 17:55:28
 categories: service
 tags: google picasa
 author: Samgu Lee

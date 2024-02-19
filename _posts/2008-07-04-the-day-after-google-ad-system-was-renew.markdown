@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 광고 시스템 개편... 그 후..."
-date:   2008-07-04 11:29:30 +09:00
+date:   2008-07-04 11:29:30
 categories: service
 tags: google advertising
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "국내 블로그, 페이지랭크 업(Pagerank Up)"
-date:   2007-01-11 03:01:55 +09:00
+date:   2007-01-11 03:01:55
 categories: service
 tags: google search pagerank
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "웹 2.0시대를 여는 10가지 거대한 변화의 반론"
-date:   2006-06-11 20:26:00 +09:00
+date:   2006-06-11 20:26:00
 categories: opinion
 tags: web20
 author: Samgu Lee

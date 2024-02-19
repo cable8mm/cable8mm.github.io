@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 메일, 초대장 없이 가입 가능"
-date:   2007-02-14 15:11:53 +09:00
+date:   2007-02-14 15:11:53
 categories: news
 tags: google gmail
 author: Samgu Lee

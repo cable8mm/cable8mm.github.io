@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "홈페이지를 사랑한 구글 가제트(Google Gadget)"
-date:   2006-10-03 18:02:51 +09:00
+date:   2006-10-03 18:02:51
 categories: service
 tags: google
 author: Samgu Lee

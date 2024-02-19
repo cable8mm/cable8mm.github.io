@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 어스(Google Earth) 2종 세트"
-date:   2006-08-28 02:55:31 +09:00
+date:   2006-08-28 02:55:31
 categories: service
 tags: google earth
 author: Samgu Lee

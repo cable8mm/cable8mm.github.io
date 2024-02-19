@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 메일(GMail) 초대장 충전"
-date:   2006-10-26 09:57:15 +09:00
+date:   2006-10-26 09:57:15
 categories: tips
 tags: google gmail
 author: Samgu Lee

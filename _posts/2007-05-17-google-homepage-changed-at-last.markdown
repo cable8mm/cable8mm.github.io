@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "드디어 구글 검색 디자인 변경, 그리고 진화하는 검색"
-date:   2007-05-17 04:47:19 +09:00
+date:   2007-05-17 04:47:19
 categories: service
 tags: google search
 author: Samgu Lee

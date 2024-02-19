@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글이 NHN을 인수? 엠파스도?"
-date:   2006-04-05 09:30:52 +09:00
+date:   2006-04-05 09:30:52
 categories: gossip
 tags: google
 author: Samgu Lee

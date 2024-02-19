@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "티스토리(Tistory)와 구글 블로거(Blogger)"
-date:   2006-07-15 05:29:26 +09:00
+date:   2006-07-15 05:29:26
 categories: service
 tags: tistory blogger google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글로 부터의 교훈"
-date:   2006-12-24 02:31:03 +09:00
+date:   2006-12-24 02:31:03
 categories: opinion
 tags: google
 author: Samgu Lee

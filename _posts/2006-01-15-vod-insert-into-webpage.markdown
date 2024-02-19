@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "웹사이트에 동영상 삽입하기"
-date:   2006-01-15 15:05:00 +09:00
+date:   2006-01-15 15:05:00
 categories: opinion
 tags: video upload
 author: Samgu Lee

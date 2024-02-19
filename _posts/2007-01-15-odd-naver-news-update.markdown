@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "네이버 뉴스 개편의 함정"
-date:   2007-01-15 02:35:36 +09:00
+date:   2007-01-15 02:35:36
 categories: gossip
 tags: naver news
 author: Samgu Lee

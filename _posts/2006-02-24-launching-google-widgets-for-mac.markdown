@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글랩, 맥을 위한 대쉬보드 위젯 3종세트 출시"
-date:   2006-02-24 08:44:21 +09:00
+date:   2006-02-24 08:44:21
 categories: service
 tags: google
 author: Samgu Lee

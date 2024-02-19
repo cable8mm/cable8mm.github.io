@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글맵을 이용해서 웹페이지에 지도를 넣어보자"
-date:   2006-02-02 08:47:09 +09:00
+date:   2006-02-02 08:47:09
 categories: service
 tags: google map
 author: Samgu Lee

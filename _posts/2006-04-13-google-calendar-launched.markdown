@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 Calendar 조용한 런칭"
-date:   2006-04-13 07:52:28 +09:00
+date:   2006-04-13 07:52:28
 categories: news
 tags: google calendar
 author: Samgu Lee

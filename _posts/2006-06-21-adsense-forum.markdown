@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "한국 비공식 AdSense 포럼"
-date:   2006-06-21 03:29:45 +09:00
+date:   2006-06-21 03:29:45
 categories: news
 tags: google adsense
 author: Samgu Lee

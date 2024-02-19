@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "드디어 구글, MSN을 제치다"
-date:   2006-03-31 17:19:37 +09:00
+date:   2006-03-31 17:19:37
 categories: news
 tags: google
 author: Samgu Lee

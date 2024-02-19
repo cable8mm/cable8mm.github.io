@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글이 온라인 쇼핑몰을 준비?"
-date:   2006-03-19 05:28:24 +09:00
+date:   2006-03-19 05:28:24
 categories: news
 tags: google
 author: Samgu Lee

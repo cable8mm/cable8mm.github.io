@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "야후!보다 더 야후!같은 하나포스 검색"
-date:   2006-02-12 22:54:00 +09:00
+date:   2006-02-12 22:54:00
 categories: service
 tags: hanaforce yahoo search
 author: Samgu Lee

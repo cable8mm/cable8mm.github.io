@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 팩(Google Pack) 국제화 버젼 그리고 번들"
-date:   2006-07-08 01:50:55 +09:00
+date:   2006-07-08 01:50:55
 categories: service
 tags: google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 기어스(Google Gears), 구글의 새로운 실험"
-date:   2007-06-11 15:37:53 +09:00
+date:   2007-06-11 15:37:53
 categories: service
 tags: google gears
 author: Samgu Lee

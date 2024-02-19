@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글과 네이버의 컬럼에 대한 잘못된 사실들"
-date:   2006-02-13 02:47:48 +09:00
+date:   2006-02-13 02:47:48
 categories: opinion
 tags: google naver
 author: Samgu Lee

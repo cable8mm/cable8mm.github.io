@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스에 대한 블로거의 공포"
-date:   2007-09-06 00:44:01 +09:00
+date:   2007-09-06 00:44:01
 categories: service
 tags: google adsense
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "널리 퍼져 있는 구글에 대한 오해"
-date:   2006-09-23 06:12:56 +09:00
+date:   2006-09-23 06:12:56
 categories: opinion
 tags: google
 author: Samgu Lee

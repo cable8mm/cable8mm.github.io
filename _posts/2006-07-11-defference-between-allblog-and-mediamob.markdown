@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "올블로그와 미디어몹, 인간과 프로그램의 신뢰도"
-date:   2006-07-11 22:59:00 +09:00
+date:   2006-07-11 22:59:00
 categories: opinion
 tags: blog
 author: Samgu Lee

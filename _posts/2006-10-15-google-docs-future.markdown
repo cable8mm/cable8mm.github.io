@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google) 닥스의 한계와 미래"
-date:   2006-10-10 18:15:13 +09:00
+date:   2006-10-10 18:15:13
 categories: opinion
 tags: google docs
 author: Samgu Lee

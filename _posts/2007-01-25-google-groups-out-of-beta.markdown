@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 그룹스, 베타 떼고 한글 서비스 개시"
-date:   2007-01-25 03:18:00 +09:00
+date:   2007-01-25 03:18:00
 categories: service
 tags: google groups
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스 vs 다음 애드클릭스"
-date:   2006-12-07 07:46:35 +09:00
+date:   2006-12-07 07:46:35
 categories: advertising
 tags: google daum adsense adclix
 author: Samgu Lee

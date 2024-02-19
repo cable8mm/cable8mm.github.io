@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 FORM-10K 공개"
-date:   2006-03-22 04:20:02 +09:00
+date:   2006-03-22 04:20:02
 categories: news
 tags: google
 author: Samgu Lee

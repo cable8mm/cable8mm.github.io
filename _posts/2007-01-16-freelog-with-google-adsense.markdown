@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "프리로그, 구글 애드센스 지원"
-date:   2007-01-16 08:27:43 +09:00
+date:   2007-01-16 08:27:43
 categories: news
 tags: naver freelog
 author: Samgu Lee

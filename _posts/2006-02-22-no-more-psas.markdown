@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "애드센스, 공익광고 제거하기"
-date:   2006-02-22 07:32:22 +09:00
+date:   2006-02-22 07:32:22
 categories: advertising
 tags: google adsense
 author: Samgu Lee

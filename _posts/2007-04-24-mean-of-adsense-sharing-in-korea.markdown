@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "실적으로 분석한 애드센스 수익 배분율의 의미"
-date:   2007-04-24 10:38:33 +09:00
+date:   2007-04-24 10:38:33
 categories: advertising
 tags: google
 author: Samgu Lee

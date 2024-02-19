@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 갭마인더 인수"
-date:   2007-03-17 07:39:35 +09:00
+date:   2007-03-17 07:39:35
 categories: company
 tags: youtube gapminder
 author: Samgu Lee

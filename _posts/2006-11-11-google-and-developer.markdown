@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 한국 개발자에게 기회인가?"
-date:   2006-11-11 06:22:29 +09:00
+date:   2006-11-11 06:22:29
 categories: opinion
 tags: google
 author: Samgu Lee

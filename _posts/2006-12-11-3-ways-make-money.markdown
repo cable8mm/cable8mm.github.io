@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글로 수익내는 세가지 방법"
-date:   2006-12-11 02:27:10 +09:00
+date:   2006-12-11 02:27:10
 categories: opinion
 tags: google adsense
 author: Samgu Lee

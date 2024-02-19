@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 엔독슨(Endoxon) 인수"
-date:   2006-12-19 05:21:35 +09:00
+date:   2006-12-19 05:21:35
 categories: news
 tags: google endoxon
 author: Samgu Lee

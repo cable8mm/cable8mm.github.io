@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "새로운 두가지 인터넷 광고 소개 - 문맥광고와 스마트배너"
-date:   2005-12-11 05:40:05 +09:00
+date:   2005-12-11 05:40:05
 categories: advertising
 tags: google
 author: Samgu Lee

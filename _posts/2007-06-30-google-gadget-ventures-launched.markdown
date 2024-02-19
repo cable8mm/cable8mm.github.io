@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 가제트 벤처, 돈으로 개발자의 환심을 사라"
-date:   2007-06-30 02:14:59 +09:00
+date:   2007-06-30 02:14:59
 categories: service
 tags: google
 author: Samgu Lee

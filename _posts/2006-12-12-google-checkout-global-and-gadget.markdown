@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 체크아웃, 글로벌과 가제트"
-date:   2006-12-12 07:17:47 +09:00
+date:   2006-12-12 07:17:47
 categories: service
 tags: google gadget
 author: Samgu Lee

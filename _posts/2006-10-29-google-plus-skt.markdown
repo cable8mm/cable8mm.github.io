@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google)과 SKT 제휴 확정"
-date:   2006-10-29 01:21:09 +09:00
+date:   2006-10-29 01:21:09
 categories: news
 tags: google
 author: Samgu Lee

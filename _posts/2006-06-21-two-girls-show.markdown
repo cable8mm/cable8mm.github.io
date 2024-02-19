@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "한국 최초의 Google Video Top 100 영상"
-date:   2006-06-21 14:01:57 +09:00
+date:   2006-06-21 14:01:57
 categories: gossip
 tags: google video
 author: Samgu Lee

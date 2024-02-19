@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "공정한 구글 검색의 음모론"
-date:   2007-03-25 09:08:01 +09:00
+date:   2007-03-25 09:08:01
 categories: gossip
 tags: google search
 author: Samgu Lee

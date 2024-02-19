@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글보다 더 구글같은 검색엔진, 애스크(Ask)"
-date:   2006-12-10 04:01:38 +09:00
+date:   2006-12-10 04:01:38
 categories: service
 tags: ask search
 author: Samgu Lee

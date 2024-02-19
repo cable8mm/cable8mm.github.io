@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스, 갯수에 관한 진실"
-date:   2007-01-20 01:58:46 +09:00
+date:   2007-01-20 01:58:46
 categories: tips
 tags: google adsense
 author: Samgu Lee

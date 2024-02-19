@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "robots.txt 지켜야 되는 것인가 말아도 되는 것인가"
-date:   2006-02-07 22:45:00 +09:00
+date:   2006-02-07 22:45:00
 categories: opinion
 tags: law
 author: Samgu Lee

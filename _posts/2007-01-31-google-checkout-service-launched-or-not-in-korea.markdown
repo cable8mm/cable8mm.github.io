@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 체크아웃, 한국 지원하는건가 마는건가"
-date:   2007-01-31 05:24:42 +09:00
+date:   2007-01-31 05:24:42
 categories: opinion
 tags: google checkout
 author: Samgu Lee

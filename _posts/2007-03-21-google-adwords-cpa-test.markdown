@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 광고, CPA 베타테스트"
-date:   2007-03-21 04:20:46 +09:00
+date:   2007-03-21 04:20:46
 categories: advertising
 tags: google cpa
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "피카사 웹 앨범, 웹 업로더 전진배치"
-date:   2006-11-20 02:11:28 +09:00
+date:   2006-11-20 02:11:28
 categories: service
 tags: google picasa
 author: Samgu Lee

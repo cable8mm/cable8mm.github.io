@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "와우, 구글 홈페이지 리뉴얼 for 그리스몽키"
-date:   2006-03-15 14:51:48 +09:00
+date:   2006-03-15 14:51:48
 categories: news
 tags: google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "웹 2.0은 무엇을 바라는가"
-date:   2006-05-23 03:33:51 +09:00
+date:   2006-05-23 03:33:51
 categories: opinion
 tags: google web20
 author: Samgu Lee

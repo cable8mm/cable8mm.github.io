@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 자신의 블로그를 삭제?"
-date:   2006-03-28 14:06:23 +09:00
+date:   2006-03-28 14:06:23
 categories: gossip
 tags: google
 author: Samgu Lee

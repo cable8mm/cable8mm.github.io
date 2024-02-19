@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 상표권, 개인에게 빼앗기나?"
-date:   2006-04-26 09:39:28 +09:00
+date:   2006-04-26 09:39:28
 categories: gossip
 tags: google law
 author: Samgu Lee

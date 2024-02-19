@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "MSDN과 닮아가는 구글 도움말(Google Help)"
-date:   2006-12-04 04:47:01 +09:00
+date:   2006-12-04 04:47:01
 categories: service
 tags: google help
 author: Samgu Lee

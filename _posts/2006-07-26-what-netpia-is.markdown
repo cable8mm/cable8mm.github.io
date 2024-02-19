@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "넷피아(netpia)는 외계인인가?"
-date:   2006-07-26 22:54:00 +09:00
+date:   2006-07-26 22:54:00
 categories: opinion
 tags: netpia
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "일본어로만 보이는 멋진 애드센스 광고"
-date:   2007-02-14 02:41:47 +09:00
+date:   2007-02-14 02:41:47
 categories: gossip
 tags: google adsense japan
 author: Samgu Lee

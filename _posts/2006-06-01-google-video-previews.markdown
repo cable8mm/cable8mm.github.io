@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google Video, 영화 예고편 모음서비스"
-date:   2006-06-01 14:21:10 +09:00
+date:   2006-06-01 14:21:10
 categories: gossip
 tags: google video
 author: Samgu Lee

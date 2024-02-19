@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 도메인용 애플리케이션, 차세대 제어판"
-date:   2006-11-29 05:29:11 +09:00
+date:   2006-11-29 05:29:11
 categories: service
 tags: google
 author: Samgu Lee

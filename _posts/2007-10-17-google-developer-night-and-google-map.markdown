@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google Developer Night, 그리고 구글 맵"
-date:   2007-10-17 04:39:55 +09:00
+date:   2007-10-17 04:39:55
 categories: service
 tags: google googlemap
 author: Samgu Lee

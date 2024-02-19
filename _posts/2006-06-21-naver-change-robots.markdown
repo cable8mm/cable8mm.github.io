@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "네이버의 robots.txt 정책 변경에 즈음한 Google 검색"
-date:   2006-06-21 08:51:20 +09:00
+date:   2006-06-21 08:51:20
 categories: opinion
 tags: google search naver
 author: Samgu Lee

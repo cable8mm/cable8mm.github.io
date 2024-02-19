@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "개인 저작자 전성시대, 무엇을 알아야 하나"
-date:   2006-02-01 00:13:00 +09:00
+date:   2006-02-01 00:13:00
 categories: opinion
 tags: law
 author: Samgu Lee

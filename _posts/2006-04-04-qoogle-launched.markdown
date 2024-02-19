@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 동영상 검색? No, 쿠글 검색"
-date:   2006-04-04 09:25:01 +09:00
+date:   2006-04-04 09:25:01
 categories: news
 tags: google maps
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 맵을 이용한 여행 검색, 월드씨티와 플래이톡"
-date:   2007-03-14 06:47:11 +09:00
+date:   2007-03-14 06:47:11
 categories: service
 tags: google maps worldcity playtalk
 author: Samgu Lee

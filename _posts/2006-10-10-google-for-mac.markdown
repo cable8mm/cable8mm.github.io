@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google), 맥(Mac) 블로그 런칭"
-date:   2006-10-10 05:10:41 +09:00
+date:   2006-10-10 05:10:41
 categories: service
 tags: google blog
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 토크(Google Talk), 지메일 계정과 분리"
-date:   2006-09-29 08:16:28 +09:00
+date:   2006-09-29 08:16:28
 categories: service
 tags: google talk
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글은 어떻게 돈을 벌까?"
-date:   2006-09-29 06:14:52 +09:00
+date:   2006-09-29 06:14:52
 categories: opinion
 tags: google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google)의 글로벌 전략, 그리고 한국"
-date:   2006-10-18 14:51:43 +09:00
+date:   2006-10-18 14:51:43
 categories: news
 tags: google
 author: Samgu Lee

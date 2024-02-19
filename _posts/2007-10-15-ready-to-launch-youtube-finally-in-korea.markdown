@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "유튜브, 한국 론칭 임박"
-date:   2007-10-15 04:26:24 +09:00
+date:   2007-10-15 04:26:24
 categories: service
 tags: youtube korea
 author: Samgu Lee

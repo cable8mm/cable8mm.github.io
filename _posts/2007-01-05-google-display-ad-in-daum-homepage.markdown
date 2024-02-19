@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 광고, 다음(Daum)에 노출"
-date:   2007-01-04 16:22:32 +09:00
+date:   2007-01-04 16:22:32
 categories: advertising
 tags: google daum advertising
 author: Samgu Lee

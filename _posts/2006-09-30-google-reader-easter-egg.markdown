@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 리더의 이스터 에그(Easter Egg)"
-date:   2006-09-29 12:58:14 +09:00
+date:   2006-09-29 12:58:14
 categories: gossip
 tags: google
 author: Samgu Lee

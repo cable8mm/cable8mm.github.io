@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 진실도 시간이 변화시킨다."
-date:   2006-03-22 09:06:17 +09:00
+date:   2006-03-22 09:06:17
 categories: news
 tags: google
 author: Samgu Lee

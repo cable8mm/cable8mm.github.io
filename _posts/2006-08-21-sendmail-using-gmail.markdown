@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 메일(GMail)의 SMTP를 이용한 메일발송하기"
-date:   2006-08-21 08:51:59 +09:00
+date:   2006-08-21 08:51:59
 categories: tip
 tags: google gmail
 author: Samgu Lee

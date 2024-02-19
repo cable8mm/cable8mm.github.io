@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google)의 모바일 광고 확장"
-date:   2006-11-16 04:51:00 +09:00
+date:   2006-11-16 04:51:00
 categories: advertising
 tags: google mobile advertising
 author: Samgu Lee

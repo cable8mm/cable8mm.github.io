@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 공식적으로 웹검색 테스트 인정"
-date:   2006-04-26 07:33:39 +09:00
+date:   2006-04-26 07:33:39
 categories: news
 tags: google law
 author: Samgu Lee

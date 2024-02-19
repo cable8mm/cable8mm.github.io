@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글과 마이크로소프트의 첫번째 전쟁, 오피스2.0"
-date:   2006-11-27 02:02:38 +09:00
+date:   2006-11-27 02:02:38
 categories: news
 tags: google microsoft
 author: Samgu Lee

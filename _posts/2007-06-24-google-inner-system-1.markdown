@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 이해되지 않는 인재와 프로젝트 관리"
-date:   2007-06-24 11:03:47 +09:00
+date:   2007-06-24 11:03:47
 categories: service
 tags: google
 author: Samgu Lee

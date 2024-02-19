@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글비디오를 이용해서 블로그에 동영상 넣기"
-date:   2006-01-16 02:41:36 +09:00
+date:   2006-01-16 02:41:36
 categories: service
 tags: google video
 author: Samgu Lee

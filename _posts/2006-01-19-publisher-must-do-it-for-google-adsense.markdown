@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글과 웃대(웃긴대학)의 사건, 구글이 왜 그랬을까"
-date:   2006-01-18 15:15:27 +09:00
+date:   2006-01-18 15:15:27
 categories: service
 tags: google 웃긴대학
 author: Samgu Lee

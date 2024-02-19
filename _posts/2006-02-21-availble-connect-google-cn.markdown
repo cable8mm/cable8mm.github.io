@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "중국판 구글 접속방법"
-date:   2006-02-21 04:02:54 +09:00
+date:   2006-02-21 04:02:54
 categories: tip
 tags: google gmail
 author: Samgu Lee

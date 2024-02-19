@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "팔글이 본 구글과 네이버의 경쟁"
-date:   2006-10-04 15:43:37 +09:00
+date:   2006-10-04 15:43:37
 categories: opinion
 tags: google naver
 author: Samgu Lee

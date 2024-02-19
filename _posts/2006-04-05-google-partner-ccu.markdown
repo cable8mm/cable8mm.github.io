@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Clear Channel Radio, 구글과 검색 독점 계약"
-date:   2006-04-05 07:43:24 +09:00
+date:   2006-04-05 07:43:24
 categories: news
 tags: google
 author: Samgu Lee

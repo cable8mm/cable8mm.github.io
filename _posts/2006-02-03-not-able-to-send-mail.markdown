@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글메일(GMail)에서 타메일로 발송이 안되는 이유"
-date:   2006-02-03 07:01:14 +09:00
+date:   2006-02-03 07:01:14
 categories: service
 tags: google gmail
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "태국의 유튜브 접속 차단, 국왕은 건드리지마"
-date:   2007-04-06 16:37:15 +09:00
+date:   2007-04-06 16:37:15
 categories: gossip
 tags: youtube thailand
 author: Samgu Lee

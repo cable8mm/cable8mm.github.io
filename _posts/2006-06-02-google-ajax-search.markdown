@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google AJAX 검색 API 공개"
-date:   2006-06-02 10:41:49 +09:00
+date:   2006-06-02 10:41:49
 categories: service
 tags: google search api
 author: Samgu Lee

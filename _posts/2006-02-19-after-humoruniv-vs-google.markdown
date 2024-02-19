@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글과 웃긴대학의 애드센스사건, 그 후..."
-date:   2006-02-19 09:06:00 +09:00
+date:   2006-02-19 09:06:00
 categories: advertising
 tags: google adsense 웃긴대학
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글도 어쩔 수 없는 엑티브엑스"
-date:   2007-02-07 07:06:11 +09:00
+date:   2007-02-07 07:06:11
 categories: opinion
 tags: google yahoo finance
 author: Samgu Lee

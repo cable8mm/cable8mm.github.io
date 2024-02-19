@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 웹마스터 툴, 업데이트"
-date:   2006-10-18 15:59:38 +09:00
+date:   2006-10-18 15:59:38
 categories: service
 tags: google webmaster
 author: Samgu Lee

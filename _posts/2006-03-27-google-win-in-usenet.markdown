@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 유즈넷 저작권 소송 승리"
-date:   2006-03-27 14:39:40 +09:00
+date:   2006-03-27 14:39:40
 categories: news
 tags: google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "다음과 구글의 진실 게임"
-date:   2006-12-18 02:29:19 +09:00
+date:   2006-12-18 02:29:19
 categories: gossip
 tags: google daum
 author: Samgu Lee

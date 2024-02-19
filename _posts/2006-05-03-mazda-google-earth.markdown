@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Google Earth와 Mazda 게임 이벤트 진행"
-date:   2006-05-03 10:06:13 +09:00
+date:   2006-05-03 10:06:13
 categories: news
 tags: google earth mazda
 author: Samgu Lee

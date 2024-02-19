@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google) 검색, 가이드라인 수정"
-date:   2006-10-26 07:48:52 +09:00
+date:   2006-10-26 07:48:52
 categories: news
 tags: google search
 author: Samgu Lee

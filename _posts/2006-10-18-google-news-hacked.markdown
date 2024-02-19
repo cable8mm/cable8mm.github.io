@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 뉴스(Google News)도 해킹"
-date:   2006-10-18 02:32:39 +09:00
+date:   2006-10-18 02:32:39
 categories: news
 tags: google news hacking
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "라이틀리(Writely), 구글 계정에 통합"
-date:   2006-09-20 02:45:35 +09:00
+date:   2006-09-20 02:45:35
 categories: service
 tags: google writely
 author: Samgu Lee

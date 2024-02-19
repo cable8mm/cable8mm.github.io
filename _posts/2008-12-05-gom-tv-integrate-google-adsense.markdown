@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "곰TV, 플래이어에 구글 애드센스 탑재"
-date:   2008-12-05 04:56:55 +09:00
+date:   2008-12-05 04:56:55
 categories: service
 tags: gomtv advertising google
 author: Samgu Lee

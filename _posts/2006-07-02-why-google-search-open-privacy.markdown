@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google)로 개인정보가 유출되는 이유"
-date:   2006-07-02 01:36:45 +09:00
+date:   2006-07-02 01:36:45
 categories: opinion
 tags: google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 코리아(Google Korea), 진격 앞으로"
-date:   2007-04-10 03:21:03 +09:00
+date:   2007-04-10 03:21:03
 categories: company
 tags: google korea
 author: Samgu Lee

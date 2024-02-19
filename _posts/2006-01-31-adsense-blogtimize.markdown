@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "블로거를 위한 구글 애드센스 최적화(Blogtimize)"
-date:   2006-01-25 15:36:54 +09:00
+date:   2006-01-25 15:36:54
 categories: tip
 tags: google adsense
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 데스크톱 4.5 버젼업"
-date:   2006-11-15 03:59:32 +09:00
+date:   2006-11-15 03:59:32
 categories: service
 tags: google desktop
 author: Samgu Lee

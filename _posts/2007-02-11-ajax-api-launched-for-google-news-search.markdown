@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 뉴스 검색 AJAX API 공개"
-date:   2007-02-11 10:31:35 +09:00
+date:   2007-02-11 10:31:35
 categories: service
 tags: google news api
 author: Samgu Lee

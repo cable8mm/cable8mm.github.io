@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "유튜브, 저작권 해결에 한발짝 다가서나?"
-date:   2007-07-12 07:05:54 +09:00
+date:   2007-07-12 07:05:54
 categories: service
 tags: youtube law
 author: Samgu Lee

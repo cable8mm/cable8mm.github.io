@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "블로그 마케팅이 뜨는 이유"
-date:   2006-06-23 12:06:00 +09:00
+date:   2006-06-23 12:06:00
 categories: opinion
 tags: blog marketing
 author: Samgu Lee

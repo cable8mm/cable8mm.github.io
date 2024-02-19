@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "파이어폭스용 구글 툴바 업데이트"
-date:   2006-12-13 09:10:04 +09:00
+date:   2006-12-13 09:10:04
 categories: service
 tags: google toolbar firefox
 author: Samgu Lee

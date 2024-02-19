@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "새 옷 입은 구글 그룹스(Groups)"
-date:   2006-10-05 14:06:35 +09:00
+date:   2006-10-05 14:06:35
 categories: service
 tags: google groups
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "애드센스 스탑 워즈(Stop Words)"
-date:   2006-12-05 14:18:34 +09:00
+date:   2006-12-05 14:18:34
 categories: tips
 tags: google adsense
 author: Samgu Lee

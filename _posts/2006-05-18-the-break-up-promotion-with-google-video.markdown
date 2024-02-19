@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글의 The Break-Up 프로모션"
-date:   2006-05-18 13:00:39 +09:00
+date:   2006-05-18 13:00:39
 categories: news
 tags: google
 author: Samgu Lee

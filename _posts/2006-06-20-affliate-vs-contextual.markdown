@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "제휴마케팅 vs 문맥광고"
-date:   2006-06-20 16:12:00 +09:00
+date:   2006-06-20 16:12:00
 categories: opinion
 tags: affiliate contextad
 author: Samgu Lee

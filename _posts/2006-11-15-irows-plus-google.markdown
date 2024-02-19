@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google), iRows 창립자 스카우트"
-date:   2006-11-15 02:44:20 +09:00
+date:   2006-11-15 02:44:20
 categories: news
 tags: google
 author: Samgu Lee

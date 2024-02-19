@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "애드센스 대체 광고"
-date:   2007-02-01 04:01:26 +09:00
+date:   2007-02-01 04:01:26
 categories: advertising
 tags: google adsense
 author: Samgu Lee

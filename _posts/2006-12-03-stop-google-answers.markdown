@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 엔써의 중지에서 오는 교훈들"
-date:   2006-12-03 02:04:16 +09:00
+date:   2006-12-03 02:04:16
 categories: opinion
 tags: google answers
 author: Samgu Lee

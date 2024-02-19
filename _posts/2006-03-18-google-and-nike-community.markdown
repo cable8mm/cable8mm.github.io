@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 나이키와 Joga 축구 커뮤니티 런칭"
-date:   2006-03-18 04:20:51 +09:00
+date:   2006-03-18 04:20:51
 categories: news
 tags: google
 author: Samgu Lee

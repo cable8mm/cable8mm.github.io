@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "놀라운 구글 맵스를 이용한 메쉬업 3종세트"
-date:   2006-03-29 14:21:19 +09:00
+date:   2006-03-29 14:21:19
 categories: news
 tags: google
 author: Samgu Lee

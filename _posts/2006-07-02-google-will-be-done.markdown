@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 서비스 중 60~80%는 없어질 것"
-date:   2006-07-02 11:55:33 +09:00
+date:   2006-07-02 11:55:33
 categories: opinion
 tags: google service
 author: Samgu Lee

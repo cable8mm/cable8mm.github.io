@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글은 블로그를 좋아해"
-date:   2007-01-02 02:32:33 +09:00
+date:   2007-01-02 02:32:33
 categories: gossip
 tags: google
 author: Samgu Lee

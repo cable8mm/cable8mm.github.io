@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 검색 데이터 중국에서 미국으로 이전"
-date:   2006-03-03 08:44:20 +09:00
+date:   2006-03-03 08:44:20
 categories: news
 tags: google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 블로거를 내 도메인으로 운영하자"
-date:   2007-01-06 01:18:59 +09:00
+date:   2007-01-06 01:18:59
 categories: opinion
 tags: google blogger domain
 author: Samgu Lee

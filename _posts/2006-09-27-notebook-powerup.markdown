@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "업그레이드 된 구글 노트북(Google Notebook)"
-date:   2006-09-26 16:07:05 +09:00
+date:   2006-09-26 16:07:05
 categories: service
 tags: google page
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 애드센스(AdSense), 광고 단위 추가"
-date:   2006-09-22 04:56:55 +09:00
+date:   2006-09-22 04:56:55
 categories: service
 tags: google adsense
 author: Samgu Lee

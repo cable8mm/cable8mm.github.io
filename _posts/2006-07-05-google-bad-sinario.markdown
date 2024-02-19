@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google)의 여덞가지 문제점과 위험한 시나리오"
-date:   2006-07-05 09:02:14 +09:00
+date:   2006-07-05 09:02:14
 categories: opinion
 tags: google
 author: Samgu Lee

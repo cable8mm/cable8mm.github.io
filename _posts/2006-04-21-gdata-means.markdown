@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 데이터 APIs 런칭, 그 이상의 의미"
-date:   2006-04-21 05:26:24 +09:00
+date:   2006-04-21 05:26:24
 categories: opinion
 tags: google api
 author: Samgu Lee

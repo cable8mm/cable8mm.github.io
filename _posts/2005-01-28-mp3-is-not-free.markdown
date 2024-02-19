@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "MP3 라이센스, 무료가 아니다"
-date:   2005-01-28 14:28:00 +09:00
+date:   2005-01-28 14:28:00
 categories: opinion
 tags: mp3 law
 author: Samgu Lee

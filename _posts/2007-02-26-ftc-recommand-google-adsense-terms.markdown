@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "공정위, 구글 애드센스 약관 시정 권고"
-date:   2007-02-26 11:09:42 +09:00
+date:   2007-02-26 11:09:42
 categories: advertising
 tags: google adsense 공정위
 author: Samgu Lee

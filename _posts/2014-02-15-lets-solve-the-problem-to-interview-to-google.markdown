@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "재미로 보는 구글 Job Interview 문제 풀이"
-date:   2014-02-14 16:39:51 +09:00
+date:   2014-02-14 16:39:51
 categories: gassip
 tags: google quiz
 author: Samgu Lee

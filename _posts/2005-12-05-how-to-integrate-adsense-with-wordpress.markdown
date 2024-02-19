@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "워드프레스에 애드센스를 삽입해보자."
-date:   2005-12-05 10:29:24 +09:00
+date:   2005-12-05 10:29:24
 categories: service
 tags: adsense wordpress
 author: Samgu Lee

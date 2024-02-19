@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 스프레드쉬트의 멋진 함수 기능"
-date:   2007-02-27 09:49:21 +09:00
+date:   2007-02-27 09:49:21
 categories: service
 tags: google spreadsheet
 author: Samgu Lee

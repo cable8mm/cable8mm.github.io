@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "다음과 구글 제휴 포인트"
-date:   2006-12-13 02:54:51 +09:00
+date:   2006-12-13 02:54:51
 categories: news
 tags: google daum
 author: Samgu Lee

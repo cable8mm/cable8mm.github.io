@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "[팁] 구글 애드센스를 위한 올바른 영문주소 얻기"
-date:   2005-12-16 07:34:18 +09:00
+date:   2005-12-16 07:34:18
 categories: advertising
 tags: google adsense
 author: Samgu Lee

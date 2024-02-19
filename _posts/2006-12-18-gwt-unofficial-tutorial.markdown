@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 웹 툴킷, 튜토리얼 비공식 한글판"
-date:   2006-12-18 04:48:12 +09:00
+date:   2006-12-18 04:48:12
 categories: news
 tags: google gwt
 author: Samgu Lee

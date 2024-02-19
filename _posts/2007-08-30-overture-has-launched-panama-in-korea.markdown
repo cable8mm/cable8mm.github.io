@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "오버추어, 파나마 시스템 한국에 적용 시작"
-date:   2007-08-30 03:59:06 +09:00
+date:   2007-08-30 03:59:06
 categories: advertising
 tags: overture panama
 author: Samgu Lee

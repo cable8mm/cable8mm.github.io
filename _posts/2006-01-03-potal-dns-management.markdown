@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "검색엔진들의 도메인 관리는 누구누구?"
-date:   2006-01-03 16:11:00 +09:00
+date:   2006-01-03 16:11:00
 categories: opinion
 tags: domain management
 author: Samgu Lee

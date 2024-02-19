@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "2% 부족한 야후!의 홈페이지 리뉴얼"
-date:   2006-06-01 12:13:00 +09:00
+date:   2006-06-01 12:13:00
 categories: opinion
 tags: yahoo renewal
 author: Samgu Lee

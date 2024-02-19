@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google), 3분기 실적 공개"
-date:   2006-10-20 06:23:23 +09:00
+date:   2006-10-20 06:23:23
 categories: company
 tags: google
 author: Samgu Lee

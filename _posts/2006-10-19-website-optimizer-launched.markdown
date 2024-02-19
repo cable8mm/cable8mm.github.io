@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글(Google), 웹사이트 옵티마이저 베타 런칭"
-date:   2006-10-19 03:15:31 +09:00
+date:   2006-10-19 03:15:31
 categories: service
 tags: google optimizer
 author: Samgu Lee

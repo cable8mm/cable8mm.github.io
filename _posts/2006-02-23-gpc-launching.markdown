@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글, 새로운 웹페이지 제작툴 공개"
-date:   2006-02-23 07:48:52 +09:00
+date:   2006-02-23 07:48:52
 categories: service
 tags: google
 author: Samgu Lee

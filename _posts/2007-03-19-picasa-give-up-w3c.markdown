@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "피카사, 웹표준 포기"
-date:   2007-03-19 02:50:18 +09:00
+date:   2007-03-19 02:50:18
 categories: service
 tags: google picasa
 author: Samgu Lee

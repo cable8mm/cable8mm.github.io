@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 페이지 크리에이터 보안홀 경험하기"
-date:   2006-03-07 09:58:27 +09:00
+date:   2006-03-07 09:58:27
 categories: service
 tags: google
 author: Samgu Lee

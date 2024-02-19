@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "위(Wii)와 구글 어스의 결합"
-date:   2006-12-13 09:51:55 +09:00
+date:   2006-12-13 09:51:55
 categories: gossip
 tags: google earth wii
 author: Samgu Lee
