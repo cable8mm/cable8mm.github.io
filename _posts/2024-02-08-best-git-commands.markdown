@@ -5,8 +5,12 @@ date:   2024-02-08 12:32:00
 categories: opinion
 tags: email team
 author: Samgu Lee
+header:
+    og_image: /assets/images/github_homepage.png
 ---
 Github이 Git의 생태계를 넒혀가고 있습니다. CI/CD가 보편화 되면서 소스 저장소의 역할이 버전 관리에만 국한되지 않고, 코드의 표준화와 각종 코드의 빌드 및 배포의 핵심이 되었습니다.
+
+![Github homepage]({{ page.header.og_image }})
 
 비단 개발자 뿐만이 아니라 각종 프로젝트 문서나 심지어 소설, 그림도 깃으로 관리하는 프로젝트가 생기고 있습니다. 마이크로소프트 오피스와 마찬가지로 협업을 하는 사람이라면 점점 깃에 익숙해 져야 할 필요가 있습니다.
 
