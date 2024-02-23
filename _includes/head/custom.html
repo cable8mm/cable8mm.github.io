@@ -22,5 +22,7 @@
 
 {% if jekyll.environment == 'production' and site.google_adsense_account %}
 <meta name="google-adsense-account" content="{{ site.google_adsense_account }}">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.google_adsense_account }}"
+     crossorigin="anonymous"></script>
 {% endif %}
 <!-- end custom head snippets -->
