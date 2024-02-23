@@ -1,9 +1,15 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "Contact"
-    url: /contact/
-  - title: "WHy"
-    url: /why/
+  - title: "Service"
+    url: /categories/#service
+  - title: "News"
+    url: /categories/#news
+  - title: "Opinion"
+    url: /categories/#opinion
+  - title: "Advertising"
+    url: /categories/#advertising
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   - title: "Github"
     url: https://github.com/cable8mm/cable8mm.github.io
