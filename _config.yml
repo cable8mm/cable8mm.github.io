@@ -116,9 +116,6 @@ author:
   location         : "Auckland, New Zealand"
   email            : cable8mm@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cable8mm@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.palgle.com"
@@ -147,9 +144,18 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/cable8mm
+    - label: "About"
+      icon: "fas fa-fw fa-link"
+      url: /about/
+    - label: "Contact"
+      icon: "fas fa-fw fa-link"
+      url: /contact/
+    - label: "Why"
+      icon: "fas fa-fw fa-link"
+      url: /why/
     - label: "Privacy Policy"
-      icon: "fab fa-fw fa-link"
-      url: /privacy-policy
+      icon: "fas fa-fw fa-link"
+      url: /privacy-policy/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
