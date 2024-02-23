@@ -5,6 +5,8 @@ date:   2017-01-16 07:27:34
 categories: service
 tags: youtube google
 author: Samgu Lee
+header:
+    og_image: /assets/power-of-youtube-music.png
 ---
 구글은 동영상 플랫폼인 유튜브를 음악서비스로 제공하는 과감한 실험으로 2015년 11월 12일 유튜브 뮤직을 론칭했다.
 
@@ -18,7 +20,7 @@ author: Samgu Lee
 
 유튜브에서 조회수는 구독자 다음으로 채널의 영향력을 반영한다. 그리고, 광고 수익과 맞물려 있다. 유튜브 뮤직에 노출되는 영상을 보면, 유명하다 싶은 뮤직비디오는 조회수 1억을 넘어서고 있다.
 
-![조회수 괴물, 유튜브 뮤직](/assets/power-of-youtube-music.png)
+![조회수 괴물, 유튜브 뮤직]({{ page.header.og_image }})
 
 같은 마이클잭슨의 비디오라도, 유튜브 뮤직에 포함된 비디오는 10배의 조회수를 기록한다.
 

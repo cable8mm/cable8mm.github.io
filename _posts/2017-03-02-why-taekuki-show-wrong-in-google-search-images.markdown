@@ -5,6 +5,8 @@ date:   2017-03-02 03:21:05
 categories: opinion
 tags: google search
 author: Samgu Lee
+header:
+    og_image: /assets/xxxxxxxxxxxx-2017-03-02-xxxxxx-11.46.28.png
 ---
 [구글을 지배하는 나무위키][namuwiki-dominate-google]라는 글이 소개되고 난 후에 삼일절을 맞이하여 구글에서 태극기를 검색하면 잘못 된 태극기 이미지가 최상단에 노출된다는 JTBC 방송국 관계자의 문의가 있었습니다. 뉴스에서 소개는 되지 못했지만, 관련된 내용을 알려드리고자 합니다.
 
@@ -20,7 +22,7 @@ author: Samgu Lee
 
 나무위키의 태극기 문서를 보면 과거의 많은 태극기 이미지가 노출됩니다.
 
-![나무위키에 소개 된 태극기 이미지들](/assets/xxxxxxxxxxxx-2017-03-02-xxxxxx-11.46.28.png)
+![나무위키에 소개 된 태극기 이미지들]({{ page.header.og_image }})
 
 네가지 이미지 중에서 왜 하필이면 1948년~1949년 까지 사용되었던 이미지의 가중치가 가장 높은 것일까요? 그 이유는 이 이미지가 어떤 서버에 올라가 있는지와 관계가 있습니다.
 

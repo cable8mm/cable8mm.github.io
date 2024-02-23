@@ -5,6 +5,8 @@ date:   2017-01-22 14:50:15
 categories: google
 tags: google namuwiki
 author: Samgu Lee
+header:
+    og_image: /assets/xxxxxxxxxxxx-2017-01-22-xxxxxx-11.38.47.png
 ---
 검색할 웹문서의 부족에 허덕이고 있는 구글 웹검색이 나무위키로 지배당하고 있습니다.
 
@@ -52,6 +54,6 @@ author: Samgu Lee
 
 구글은 위키 정보를 검색 최상단 혹은 우측에 노출하고 있습니다. 다음넷도 위키 정보를 활용하고 있죠. 여러 서비스에서 위키를 인용함에도 불구하고, [위키와 비교를 해 볼 때](https://www.similarweb.com/website/namu.wiki?competitors=ko.wikipedia.org) 나무위키의 트래픽은 위키의 4배 이상입니다.
 
-![나무위키와 위키의 트래픽](/assets/xxxxxxxxxxxx-2017-01-22-xxxxxx-11.38.47.png)
+![나무위키와 위키의 트래픽]({{ page.header.og_image }})
 
 나무위키는 다섯명의 개발자에 의해서 the seed라는 자체 위키엔진으로 만들어졌으나, 여러가지 이슈(특히 법적인 문제)로 인해서 현재는 umanle S.R.L.이라는 파라과이 소재의 법인에 소유권이 넘어간 상태입니다.

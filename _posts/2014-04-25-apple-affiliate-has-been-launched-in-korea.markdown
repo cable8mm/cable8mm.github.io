@@ -5,12 +5,14 @@ date:   2014-04-25 03:38:23
 categories: service
 tags: apple advertising
 author: Samgu Lee
+header:
+    og_image: /assets/apple-affiliate-overview.png
 ---
 애필리에이트란 링크를 따라 구매를 할 경우 링크를 만든 사람에게 일정한 금액의 리워드를 제공하는 것을 말합니다. 애플도 매출의 7%를 리워드하는 애필리에이트 프로그램을 운영하고 있는데, 2014년 4월에 [한국이 추가](https://www.apple.com/itunes/affiliates/resources/blog/korea-and-19-other-countries-added-this-week.html)되었습니다.
 
 과거에도 애필리에이트에 가입은 되었으나, 국내에서 발생하는 매출에 대해서는 통계에 잡히지 않았죠.
 
-![애플 애필리에이트 관리자 화면](/assets/apple-affiliate-overview.png)
+![애플 애필리에이트 관리자 화면]({{ page.header.og_image }})
 
 아이튠즈를 통해 애플은 여러가지 유료 콘텐츠를 판매하고 있으나, 한국에는 앱만이 서비스 되고 있습니다.
 

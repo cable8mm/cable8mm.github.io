@@ -5,6 +5,8 @@ date:   2014-04-16 08:27:16
 categories: store
 tags: apple google appstore playstore
 author: Samgu Lee
+header:
+    og_image: /assets/xxxxxxxxxxxx-2017-01-24-xxxxxx-3.20.58.png
 ---
 애플이 2008년 7월 10일에 론칭한 앱스토어(App Store)는 개인이 빠르고 편리하게 외국에 제품을 파는 방법을 제공했다. 다시 말해서 앱스토어가 지원하는 국가들 사이에는 야한 콘텐츠나 마약, 저작권 등과 같은 몇가지 법적 규제를 받는 영역을 제외한 모든 디지털 콘텐트를 사고 팔 수 있다는 의미다. 어떤 무역 장벽도 존재하지 않는다. WTO도 FTA도 필요 없다.
 
