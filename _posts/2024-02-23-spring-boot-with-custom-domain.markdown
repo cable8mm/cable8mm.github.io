@@ -1,18 +1,23 @@
 ---
 layout: single
-title:  "스프링 부트 프로젝트 개발에 커스텀 도메인 연결하기"
-date:   2024-02-23 22:20:00
+title: "스프링 부트 프로젝트 개발에 커스텀 도메인 연결하기"
+date: 2024-02-23 22:20:00
 categories: development
 tags: spring laravel valet
 author: Samgu Lee
 header:
-    og_image: /assets/images/spring_boot_and_laravel_valet.png
+  og_image: /assets/images/spring_boot_and_laravel_valet.png
 ---
+
 스프링 부트 환경에서 `http://localhost:8080` 이 아닌 `https://spring-boot.test` 와 같은 도메인으로 개발할 수 있는 방법을 소개합니다.
 
 ![Spring boot and laravel valet]({{ page.header.og_image }})
 
-Laravel Valet을 설치한 후 아래의 순서대로 따라 하세요.
+웹사이트를 개발할 때 `localhost`나 `127.0.0.1`로 테스트를 하게 되면 쿠키와 세션, 그리고 카카오 로그인과 같은 외부 SDK와의 연동 문제 등이 생길 수 있습니다. 따라서, ssl과 커스텀 도메인은 라라벨 에코시스템에서는 필수이지만, 다른 프레임워크에서는 [공식 문서에서도 이 부분을 다루지 않습니다](https://docs.spring.io/spring-boot/docs/current/reference/html/using.html).
+
+이 글에서는 [라라벨 발렛](https://laravel.kr/docs/9.x/valet)을 이용해서 [스프링 부트](https://spring.io/projects/spring-boot)를 로컬에서 띄우는 방법을 설명합니다.
+
+[Laravel Valet](https://laravel.com/docs/10.x/valet)을 설치한 후 아래의 순서대로 따라 하세요.
 
 ## 1. `valet secure`를 실행합니다
 
@@ -69,7 +74,7 @@ location / {
 
 ## 3. 커스텀 도메인으로 접속합니다
 
-설정을 변경한 후 `valet restart` 실행 후 <https://spring-boot.test> 로 접속을 하면 <http://127.0.0.1:3000> 으로 접속됩니다.(proxy_pass)
+설정을 변경한 후 `valet restart` 실행 후 <https://spring-boot.test> 로 접속을 하면 <http://127.0.0.1:8080> 으로 접속됩니다.(proxy_pass)
 
 자, 이제 스프링 부트 프로젝트를 실행합니다.
 
@@ -79,9 +84,13 @@ location / {
 
 브라우져에 <https://spring-boot.test> 를 입력하면 스프링 부트 웹사이트를 볼 수 있습니다!
 
-개발할 때 도메인을 이용해야 하는 이유는 인증 관련 작업을 할 경우 IP나 localhost의 경우 개발을 하기가 매우 어렵기 때문입니다. 특히 카카오 로그인 등의 경우는 개발 자체가 불가능할 때도 있습니다.
+![https와 더불어 커스텀 도메인이 적용되었다](/assets/images/screenshot_custom_domain.png)
 
-부가적으로 Valet에는 `expose`를 이용해서 외부에서도 접속할 수 있거나 하는 기능이 있기 때문에 개발 편의성이 높아지는 장점도 있습니다.
+개발할 때 도메인을 이용해야 하는 이유는 인증 관련 작업을 할 경우 IP나 localhost의 경우 개발을 하기가 매우 어렵기 때문입니다. 특히 [카카오 로그인](https://developers.kakao.com/docs/latest/en/kakaologin/common) 등의 경우는 개발 자체가 불가능할 때도 있습니다.
+
+부가적으로 Valet에는 [`ngrok`](https://ngrok.com/)나 [`expose`](https://expose.dev/)를 이용해서 [외부에서도 접속할 수 있거나 하는 기능](https://laravel.com/docs/10.x/valet#sharing-sites)이 있기 때문에 개발 편의성이 높아지는 장점도 있습니다.
+
+라라벨 발렛을 사용하지 않아도 Ngnix나 Apache를 이용해서 [리버스 프록시를 구성할 수 있습니다](https://medium.com/@steelcityamir/using-apache-as-a-reverse-proxy-for-spring-boot-embedded-tomcat-f704da73e7c8).
 
 다음은 `spring-boot.test` 설정파일 전문입니다.
 
