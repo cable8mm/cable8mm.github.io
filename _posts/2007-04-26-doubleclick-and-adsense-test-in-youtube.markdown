@@ -1,18 +1,19 @@
 ---
 layout: single
-title:  "발빠른 구글 애드센스팀, 더블클릭 테스트 시작"
-date:   2007-04-26 07:20:32
+title: "발빠른 구글 애드센스팀, 더블클릭 테스트 시작"
+date: 2007-04-26 07:20:32
 categories: advertising
 tags: google
 author: Samgu Lee
 ---
+
 구글과 소니하면 생각나는 것이 무엇일까? 작년에 있었던 소니 픽처스와의 다빈치 코드 프로모션 정도가 있을 것이다.
 
 ![구글,소니,더블클릭,유튜브](/assets/youtube-sony-google-doubleclick.jpg)
 
 말하자면, 그다지 구글과 소니의 관계는 밀접한 것은 아니다. 하지만, 더블클릭과 소니의 관계는 구글보다 훨씬 가깝다.
 
-이런 배경때문일까, [더블클릭을 구글이 인수](https://www.palgle.com/2007/04/16/google-acquire-doubleclick-31b/)한 후, 유튜브의 상단 배너 모듈이 애드센스에서 더블클릭으로 변환되었다.
+이런 배경때문일까, [더블클릭을 구글이 인수]({% post_url 2007-04-16-google-acquire-doubleclick-31b %})한 후, 유튜브의 상단 배너 모듈이 애드센스에서 더블클릭으로 변환되었다.
 
 ![유튜브 상단의 더블클릭 광고 코드](/assets/youtube-adsense-sony.jpg)
 

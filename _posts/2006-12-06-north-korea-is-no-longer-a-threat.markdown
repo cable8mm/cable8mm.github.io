@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "북한은 더이상 위협적이지 않다. 왜?"
-date:   2006-12-06 02:27:05
+title: "북한은 더이상 위협적이지 않다. 왜?"
+date: 2006-12-06 02:27:05
 categories: advertising
 tags: google adwords
 author: Samgu Lee
 ---
+
 ![북한은 더이상 위협적이지 않다](/assets/north-korea-is-no-longer-a-threat.jpg)
 
 부시 : 북한은 더이상 위협적이지 않습니다.
@@ -18,7 +19,7 @@ Original - [wojciech.felendzer's photostream(Flickr)](http://www.flickr.com/phot
 
 ~~[공지]~~
 
-~~외국계 언론의 한국 지사에서 구글에 대한 질문을 본사에 직접 물어보기 위해서 [팔글](https://www.palgle.com)에 문의가 있었습니다.~~
+~~외국계 언론의 한국 지사에서 구글에 대한 질문을 본사에 직접 물어보기 위해서 [팔글]({% link index.html %})에 문의가 있었습니다.~~
 
 ~~정말 물어보고 싶은 것이 있으시다면 제 질문과 함께 전달하도록 하겠습니다. 덧글이나 이메일(cable8mm@gmail.com)을 이용해 주세요. 시한은 오늘 4시까지입니다.~~
 

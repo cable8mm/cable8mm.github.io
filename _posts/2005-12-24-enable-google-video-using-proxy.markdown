@@ -1,18 +1,19 @@
 ---
 layout: single
-title:  "구글 비디오, 한국에서 제대로 써보자"
-date:   2005-12-23 17:52:49
+title: "구글 비디오, 한국에서 제대로 써보자"
+date: 2005-12-23 17:52:49
 categories: service
 tags: google video
 author: Samgu Lee
 ---
+
 구글 비디오는 한국에서 서비스가 매우 제한적입니다. 구글 비디오를 제대로 서비스 받기 위해서는 어쩔 수 없이 IP를 숨기는 기술을 이용해야 하는데, 가장 쉬운 프록시서버를 사용해서 접속이 가능합니다.
 
 구글 비디오에서 검색을 하던, 첫페이지에서 클릭을 해 세부페이지로 들어가던 한국에서 접속을 하면 아래와 같은 메세지가 나오게 됩니다.
 
 > Thanks for your interest in Google Video.  
 > Currently, the playback feature of Google Video isn't available in your country.  
-> We hope to make this feature available more widely in the future, and we really appreciate your patience. 
+> We hope to make this feature available more widely in the future, and we really appreciate your patience.
 
 번역하자면 당신의 국가에선 구글 비디오를 플래이할 수 없다 이런 메세지인데, 이 문구 대신 플래이어가 뜨게 하려면 프록시 서버를 경우해서 접속하면 가능합니다. 다른 나라도 접속이 불가능할 것 같아서 이 글에선 미국에 있는 프록시 서버를 사용해 봅시다.
 
@@ -22,7 +23,7 @@ UPDATE.
 
 1. 프록시서버를 사용
 2. 구글 웹 엑셀러레이터를 사용
-3. [구글비디오의 클립들을 블로그에 옮겨서 사용](https://www.palgle.com/video_in_my_blog/2006/01/16/)
+3. [구글비디오의 클립들을 블로그에 옮겨서 사용]({% post_url 2006-01-16-video-in-my-blog %})
 
 ```sh
 209.86.122.224 80
@@ -46,11 +47,11 @@ UPDATE.
 
 > Hi,  
 > Thanks for your interest in Google Video. As you have discovered, the playback feature of Google Video currently isn't available in South Korea.  
-> However, we hope to make this feature available more widely in the future.  
+> However, we hope to make this feature available more widely in the future.
 >
-> We appreciate your patience.  
+> We appreciate your patience.
 >
-> Sincerely,  
+> Sincerely,
 >
 > The Google Video Team
 

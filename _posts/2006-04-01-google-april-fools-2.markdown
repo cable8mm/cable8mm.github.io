@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글의 2006년 만우절 거짓말"
-date:   2006-04-01 04:20:57
+title: "구글의 2006년 만우절 거짓말"
+date: 2006-04-01 04:20:57
 categories: news
 tags: google
 author: Samgu Lee
 ---
+
 이 글은 2006년 구글의 만우절 거짓말을 모으기 위해서 쓰여집니다. 계속 업데이트를 할 예정이니, 오늘 하루 다 지나갈 때까지 써보겠습니다.
 
 엄청 신기한 구글 애드워즈에 대한 기사를 토대로 글을 작성했습니다. 그런데, 결국 낚인 것이였더군요.(구글은 내 한시간 돌리도~~)
@@ -32,7 +33,7 @@ author: Samgu Lee
 
 ## 5. 구글의 큰어머니가 큰아버지와 궁합이 안맞는다?
 
-구글 웹검색에서 쓰는 용어중에 [빅대디(BigDaddy)라는 용어](http://www.palgle.com/index.php/google_buzz/2005/12/07/)가 있습니다. 웹검 알고리즘의 급격한 변화로 검색결과가 매우 많이 바뀌는 증상을 말한 것인데요, [David Zuls 그 단어로 기사를 작성](http://hawaii-online-advertising.com/blog/2006/04/01/bigmommy-refuses-to-interface-with-bigdaddy/)했군요. 큰어머니와 궁합이 맞지 않는 버그가 생겼답니다. -_-;; 아마추어라서 그런지 좀 어설프지만 귀엽네요.
+구글 웹검색에서 쓰는 용어중에 빅대디(BigDaddy)라는 용어가 있습니다. 웹검 알고리즘의 급격한 변화로 검색결과가 매우 많이 바뀌는 증상을 말한 것인데요, [David Zuls 그 단어로 기사를 작성](http://hawaii-online-advertising.com/blog/2006/04/01/bigmommy-refuses-to-interface-with-bigdaddy/)했군요. 큰어머니와 궁합이 맞지 않는 버그가 생겼답니다. -\_-;; 아마추어라서 그런지 좀 어설프지만 귀엽네요.
 
 ## 6. 구글 로멘스
 
@@ -69,4 +70,4 @@ via - 2.3.4 - [Matt Cutts: Gadgets, Google, and SEO](http://www.mattcutts.com/bl
 
 via - 7 - [Kevin.Jarnot.com](http://www.jarnot.com.nyud.net:8080/mt/archives/2006/04/they_come_in_pe.php)
 
-via - 9 -  [Meejaboy versus the World](http://meejaboy.blogspot.com/2006/04/google-to-advertise-on-moon.html)
+via - 9 - [Meejaboy versus the World](http://meejaboy.blogspot.com/2006/04/google-to-advertise-on-moon.html)

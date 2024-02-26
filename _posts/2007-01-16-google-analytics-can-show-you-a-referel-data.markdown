@@ -1,25 +1,26 @@
 ---
 layout: single
-title:  "구글 웹 로그 분석기에 웹주소 나타내기"
-date:   2007-01-16 05:34:01
+title: "구글 웹 로그 분석기에 웹주소 나타내기"
+date: 2007-01-16 05:34:01
 categories: tips
 tags: google analytics
 author: Samgu Lee
 ---
+
 구글의 웹 로그 분석기인 구글 Analytics는 완성도 높은 통계를 제공하고 있지만, 동적 주소를 지원하지 않는다는 단점이 있다. 동적 주소는 최근엔 일반적으로 사용되고 있고, 제로보드나 워드프레스와 같은 커뮤니티 툴에 사용된다.
 
 구글의 로그 분석기가 추천 메뉴에서 동적 주소를 지원하지 않아서 생기는 문제점은 한두가지가 아니다. 추천URL(Referer)은 마케팅에 있어서 매우 중요한 변수 중 하나이고, 상업적인 광고를 진행할 때 중요하게 다루어 진다. 구글도 [이런 문제점을 인지](http://analytics.blogspot.com/2006/11/tip-cross-segment-for-bloggers_12.html)하고는 있지만, 앞으로 지원한다는 발표는 아직까지 없다.
 
 일반적으로 동적 주소를 사용해야만 하는 서비스 중 하나는 검색이다. 구글, 네이버, 다음 그리고 올블로그까지 검색어를 넣는다면 동적 주소를 사용해서 원하는 검색 결과를 보여준다. 검색 결과에서 클릭을 할 경우 구글의 로그 분석기는 모든 주소를 표현하지 않기 때문에 정확히 어떤 문서에서 클릭을 했는지를 알 수 없다.
 
-[팔글](https://www.palgle.com)은 이런 이유로 구글 로그 분석기 이외에 사이트미터(sitemeter)라는 무료 카운터를 달아놓았다. 사이트미터는 구글보다 단순한 통계를 보여주지만, 직관적이고 추천URL을 정확히 알 수 있다는 장점이 있다.
+[팔글]({% link index.html %})은 이런 이유로 구글 로그 분석기 이외에 사이트미터(sitemeter)라는 무료 카운터를 달아놓았다. 사이트미터는 구글보다 단순한 통계를 보여주지만, 직관적이고 추천URL을 정확히 알 수 있다는 장점이 있다.
 
 루벤(Reuben Yau)은 자신의 [블로그](http://www.reubenyau.com/google-analytics-hack-obtaining-full-referring-url/)에서, 구글 웹 로그 분석기의 [urchinTracker 명령어](http://www.google.com/support/analytics/bin/answer.py?answer=27229)를 이용해서 정확한 추천URL을 알 수 있는 방법을 알려왔다.
 
 루벤의 방법은 구글 분석 코드를 HEAD태그 안에 위치시킨 후 BODY 태그를 다음과 같이 수정한다는 내용이다.
 
 ```html
-<body onload=”javascript:urchinTracker(document.referrer);”>
+<body onload="”javascript:urchinTracker(document.referrer);”"></body>
 ```
 
 위의 코드를 풀자면 구글 웹 로그 분석기에 정확한 추천URL을 현재페이지의 주소로 오인하게 만드는 것이다. 따라서, 위의 코드는 추천 메뉴에서 통계를 확인할 순 없고, 콘텐츠 실적이나 상위콘텐츠 메뉴에서 확인할 수 있다.
