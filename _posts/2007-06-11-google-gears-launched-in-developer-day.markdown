@@ -1,16 +1,17 @@
 ---
 layout: single
-title:  "구글 기어스(Google Gears), 구글의 새로운 실험"
-date:   2007-06-11 15:37:53
+title: "구글 기어스(Google Gears), 구글의 새로운 실험"
+date: 2007-06-11 15:37:53
 categories: service
 tags: google gears
 author: Samgu Lee
+header:
+  og_image: /assets/sundar-pichai.jpg
 ---
-![구글 기어스 로고](/assets/google-gears-logo.png)
 
 구글은 미국 시간으로 6월 1일 [구글 개발자 데이](https://www.palgle.com/2007/06/01/google-mission-through-developer-day/)에서 [구글 기어스(Google Gears)](http://gears.google.com/)를 공식적으로 [발표](http://googleblog.blogspot.com/2007/06/feeds-on-plane.html)했다.
 
-
+![구글 기어스 로고](/assets/google-gears-logo.png)
 
 구글 기어스는 지금까지 나왔던 구글의 서비스들과 몇가지 면에서 다르다. 정확히 말하자면, 구글 기어스는 구글의 이름을 빌리고 있긴 하지만, [오픈소스](http://code.google.com/p/google-gears/)로 기획된 개발 플랫폼이라고 할 수 있다. 물론, 이런 컨셉의 프로그램은 구글 기어스 이전에도 있었다.
 
@@ -24,7 +25,7 @@ author: Samgu Lee
 
 구글은 자사의 프리젠테이션 자료에서 마이크로소프트의 실버라이트, 어도비의 플래쉬와 아폴로를 경쟁상대로 지목하고 있다. 그리고, 구글 개발자 데이에서는 랜선을 뽑은 상태에서 구글 리더를 작동시키는 모습을 시연하기도 했다. 현재 구글 기어스가 적용된 구글 서비스는 구글 리더 뿐이고, [팔글](https://www.palgle.com)에서 사용해 본 결과로는 사용이 불편하긴 하지만, 장시간 통신이 불가능한 상태에서는 자료를 모두 다운받아서 읽을 때 유용했다.
 
-![구글 소프트웨어 프로덕트 디렉터, 선달 피차이](/assets/sundar-pichai.jpg)
+![구글 소프트웨어 프로덕트 디렉터, 선달 피차이]({{ page.header.og_image }})
 
 구글에서 클라이언트 소프트웨어 프로덕트 디렉터로 있는 선달 피차이(Sundar Pichai)는 팔글과의 인터뷰에서, 구글 기어스는 BSD 라이센스를 따르고 있으므로, 누구나 기어스를 기반으로 새로운 프로그램을 만들어서 오픈 기어스나 슈퍼 기어스 등으로 사용할 수 있다고 하고, 소스의 수정이나 새로운 버젼의 배포를 환영한다고 언급한 바 있다.
 

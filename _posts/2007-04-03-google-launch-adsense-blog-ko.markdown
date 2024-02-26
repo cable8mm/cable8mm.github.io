@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글 애드센스 한국 공식 블로그 론칭, 포럼은 아직"
-date:   2007-04-03 15:35:59
+title: "구글 애드센스 한국 공식 블로그 론칭, 포럼은 아직"
+date: 2007-04-03 15:35:59
 categories: news
 tags: google adsense blog
 author: Samgu Lee
+header:
+  og_image: /assets/images/dependency-management-configurations.png
 ---
-한국에서 가장 먼저 구글 광고팀(애드워즈 및 애드센스)이 운영되면서, 구글 애드센스의 [한국 공식 블로그](http://adsense-ko.blogspot.com/)가 [론칭](http://adsense.blogspot.com/2007/04/inside-adsense-launches-in-korean.html)됐다. 구글은 [블로그](http://adsense-ko.blogspot.com/2007/03/inside-adsense.html)에서 주 2-3회에 걸쳐서 애드센스에 관한 정책이나 최적화에 대한 글을 소개한다고 전했다.
+
+한국에서 가장 먼저 구글 광고팀(애드워즈 및 애드센스)이 운영되면서, 구글 애드센스의 [한국 공식 블로그](http://adsense-ko.googleblog.com/)가 [론칭](http://adsense.googleblog.com/2007/04/inside-adsense-launches-in-korean.html)됐다. 구글은 [블로그](http://adsense-ko.googleblog.com/2007/03/inside-adsense.html)에서 주 2-3회에 걸쳐서 애드센스에 관한 정책이나 최적화에 대한 글을 소개한다고 전했다.
 
 반면, 가장 중요한 한국어 포럼은 아직 개설되지 않고 있다. 구글 애드센스는 강력한 약관에 의해 애드센스 포럼을 운영하기가 껄끄러운 것이 사실이다. 운영한다고 해도 애드센스 계정의 박탈을 각오하고 운영해야 한다. 다행스럽게도 아직까지 이런 경우는 나오지 않고 있다. 한국에서 애드센스 관련 포럼은 [애드센스 인사이드](http://adsense-ko.com/)가 있다.
 

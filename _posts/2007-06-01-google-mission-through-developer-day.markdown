@@ -1,14 +1,19 @@
 ---
 layout: single
-title:  "개발자 데이로 보는 구글의 미션"
-date:   2007-05-31 21:43:54
+title: "개발자 데이로 보는 구글의 미션"
+date: 2007-06-01 09:43:54
 categories: opinion
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/images/adsense_korea.png
 ---
-구글 개발자 데이(Google Developer Day)라는 행사가 왜 만들어졌는지 궁금해 하는 분들이 많을 것 같다. 이 행사는 2006년 6월에 열렸던 [지도 개발자 데이(Geo Developer Day)](http://www.google.com/intl/en/press/pressrel/geoday.html)가 그 전신이라고 할 수 있다. 작년의 행사는 구글 어스와 구글 맵스 API가 나온지 1년이 되는 날로, 자축의 의미가 강했지만, 구글 어스의 새로운 버젼이 나왔고, 쉽게 3D 조형물을 만들 수 있는 스케치업이 구글의 제품군에 포함되어, 구글의 지도 관련 서비스와 연동이 된다는 점에서 많은 이들의 관심을 받았다.
 
-![구글 개발자 데이 로고](/assets/google-developer-day.gif)
+구글 개발자 데이(Google Developer Day)라는 행사가 왜 만들어졌는지 궁금해 하는 분들이 많을 것 같다. 이 행사는 2006년 6월에 열렸던 [지도 개발자 데이(Geo Developer Day)](http://www.google.com/intl/en/press/pressrel/geoday.html)가 그 전신이라고 할 수 있다.
+
+![구글 개발자 데이 로고]({{ page.header.og_image }})
+
+작년의 행사는 구글 어스와 구글 맵스 API가 나온지 1년이 되는 날로, 자축의 의미가 강했지만, 구글 어스의 새로운 버젼이 나왔고, 쉽게 3D 조형물을 만들 수 있는 스케치업이 구글의 제품군에 포함되어, 구글의 지도 관련 서비스와 연동이 된다는 점에서 많은 이들의 관심을 받았다.
 
 올해부터 이 행사를 일반 개발자들로 확대해서 열린 것이 바로 구글 개발자 데이(Google Developer Day 2007)이고, 미국, 중국, 일본을 포함한 전세계 10개국에서 6월 1일 동시에 열리게 되었는데, 국가마다 섹션엔 차이가 있지만, 공통적으로 구글 어스와 맵스 그리고 구글 API를 이용한 매쉬업이 중요하게 다루어진다.
 
