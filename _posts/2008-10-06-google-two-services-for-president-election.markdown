@@ -1,12 +1,17 @@
 ---
 layout: single
-title:  "구글의 대선용 서비스 두가지"
-date:   2008-10-06 08:49:50
+title: "구글의 대선용 서비스 두가지"
+date: 2008-10-06 08:49:50
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/images/labs-google-com-inquotes.png
 ---
+
 구글의 CEO인 에릭 슈미츠(Eric Schmidt)는 정치인이 한 이야기를 검색할 수 있는 서비스를 론칭하겠다고 서울 디지털 포럼에서 언급한 바 있다. 그리고, 미국 대선을 앞두고 구글은 구글 LABS이라는 타이틀을 달고 새로운 서비스, [인쿼츠(In Quotes)](http://labs.google.com/inquotes/)를 론칭했다.
+
+![인쿼츠(In Quotes)]({{ page.header.og_image }})
 
 이 서비스는 언론에 인용문구로 언급된 정치인의 언행을 데이터베이스화 해서 누가 언제 어떤 말을 했는지 매우 심플하게 보여준다. 이 서비스에 언급된 정치인은 현재까지 총 20명으로, 카테고리 최 상단에 대통령 후보 2명(맥케인와 오바마)과 부통령 후보 두명(바이든과 팰린)이 위치해 있다.
 

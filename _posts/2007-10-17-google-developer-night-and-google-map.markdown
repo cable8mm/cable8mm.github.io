@@ -1,14 +1,17 @@
 ---
 layout: single
-title:  "Google Developer Night, 그리고 구글 맵"
-date:   2007-10-17 04:39:55
+title: "Google Developer Night, 그리고 구글 맵"
+date: 2007-10-17 04:39:55
 categories: service
 tags: google googlemap
 author: Samgu Lee
+header:
+  og_image: /assets/google-developer-night-logo.jpg
 ---
+
 Google Developer Night은 구글 개발자 데이의 연장선에서 이루어진 한국만의 행사였다.
 
-![Google Deleloper Night 2007의 로고](/assets/google-developer-night-logo.jpg)
+![Google Deleloper Night 2007의 로고]({{ page.header.og_image }})
 
 구글 개발자의 밤에는 빈트 서프 (Vinton G. Cerf) 박사가 연사로 참가하여 많은 눈길을 끌었지만, 원래 구글 개발자 데이는 맵과 관련되어진다. 그 이유는 개발자 데이(Google Developer Day)의 시초가 구글 지오 데이(Google GeoDay)이기 때문일 것이다.
 

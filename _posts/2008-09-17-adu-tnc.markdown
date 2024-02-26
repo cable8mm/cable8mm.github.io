@@ -1,20 +1,23 @@
 ---
 layout: single
-title:  "아듀~ TNC"
-date:   2008-09-17 07:42:46
+title: "아듀~ TNC"
+date: 2008-09-17 07:42:46
 categories: service
 tags: google tnc
 author: Samgu Lee
+header:
+  og_image: /assets/google_and_tnc.gif
 ---
+
 구글코리아와 태터앤컴퍼니(이하 TNC)는 9월 12일자 [보도자료](http://docs.google.com/Doc?id=ajfjqkh5m8z8_93d5thkqhg)와 [공식 블로그](http://googlekoreablog.blogspot.com/2008/09/blog-post_12.html)를 통해 두 회사가 합병되었음을 알려왔고, TNC의 공동 대표인 김창원은 자신의 영문 블로그인 Web 2.0 Asia를 통해 상세한 내용을 [영문으로 제공](http://web20asia.com/321)했고, [로이터통신](http://www.reuters.com/article/technologyNews/idUSN1247430620080912)이나 [ZDNET](http://news.zdnet.co.uk/internet/0,1000000097,39488199,00.htm)과 같은 외신 Web 2.0 Asia의 글을 인용/보도했다. 이로서, 한국에서 첫번째 구글 인수가 마무리되었다.
 
-![TNC, 구글코리아에 인수](/assets/google_and_tnc.gif)
+![TNC, 구글코리아에 인수]({{ page.header.og_image }})
 
 [ITViewpoint.com](http://itviewpoint.com/74142)에 따르면, 이번 인수는 블로그 광고 솔루션인 테터앤미디어와 설치형 텍스트큐브를 개발하고 있는 TNF와는 관련이 없다고 한다. 말하자면, 핵심 개발자 위주의 인수인 셈인데, TNC는 이를 위해서 회사의 구조를 개편했다고 볼 수 있을 것이다.
 
 ## 구글 인수의 요건
 
-구글은 세가지 이유에서 인수를 결정하는데, 광고 기업(더블클릭)이나 지배적 사업자(유튜브/블로거)이거나 혹은 고급 개발자가 포진해 있을 경우다. TNC는 이 세가지 요건 중 마지막에 해당한다. 
+구글은 세가지 이유에서 인수를 결정하는데, 광고 기업(더블클릭)이나 지배적 사업자(유튜브/블로거)이거나 혹은 고급 개발자가 포진해 있을 경우다. TNC는 이 세가지 요건 중 마지막에 해당한다.
 
 특히, 구글코리아만의 독특한 구조(공동대표체제)로 인해 비영어권 국가 기업의 인수라는 쉽지 않은 일이 벌어졌다. 재미있는 것은 구글의 미국 법인은 이번 인수에 관한 어떤 코멘트도 하지 않았다는 점이고, 이 점은 향후 텍스트큐브닷컴과 이올린이라는 메타블로그 서비스의 향후 입지가 적어질 것이라는 추측을 가능케 한다.
 

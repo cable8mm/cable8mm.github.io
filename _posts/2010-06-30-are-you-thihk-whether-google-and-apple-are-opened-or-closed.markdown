@@ -1,12 +1,17 @@
 ---
 layout: single
-title:  "구글은 개방형, 애플은 폐쇄형?"
-date:   2010-06-29 15:49:51
+title: "구글은 개방형, 애플은 폐쇄형?"
+date: 2010-06-29 15:49:51
 categories: opinion
 tags: google apple
 author: Samgu Lee
+header:
+  og_image: /assets/images/iphone-black.png
 ---
+
 마케팅 느낌이 있긴 하지만, 애플 이외의 스마트폰 제작사들은 구글 안드로이드가 개방형이며, 애플의 아이폰은 폐쇄형이기 때문에 장기적으로 안드로이드가 이길 수 밖에 없다고 이야기 한다. 이 논리는 다름 이유가 있지만, 다른 관점에서 바라 볼 필요도 있다.
+
+![아이폰일까 안드로이드폰일까?]({{ page.header.og_image }})
 
 구글은 정말 많은 제품을 [서비스](http://en.wikipedia.org/wiki/List_of_Google_products)하고 있다. 광고를 제외하고도 메일, 버즈, 웨이브와 같은 커뮤니케이션 도구 부터 어스, 맵스, 피카사, 스케치업, 앱스 그리고 브라우져인 크롬와 크롬 OS, 안드로이드까지 다양할 뿐더러 제품의 일관성도 없다. 구글이 이런 제품을 서비스하고 있는 이유는 단순하다.
 

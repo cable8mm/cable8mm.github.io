@@ -1,21 +1,24 @@
 ---
 layout: single
-title:  "구글, 광고 시스템 개편... 그 후..."
-date:   2008-07-04 11:29:30
+title: "구글, 광고 시스템 개편... 그 후..."
+date: 2008-07-04 11:29:30
 categories: service
 tags: google advertising
 author: Samgu Lee
+header:
+  og_image: /assets/google_advertising_platform.gif
 ---
+
 21세기 북스에서 발행된 [위키노믹스(Wikinomics)](http://books.google.com/books?id=YPMwAAAACAAJ&dq=wikinomics&ei=LBduSLvGApTIsQPJp8C8Bg&hl=ko)는 구글을 기술회사가 아닌 광고회사로 언급한다. 이를 증명이라도 하듯 최근 구글은 지금까지 테스트로만 행하면 여러가지 광고 플랫폼을 정식으로 선보이고, 일부는 없애버리기까지 했다.
 
-구글이 오랜시간 테스트를 해 오던 동영상, TV, 인쇄물 그리고 라디오 광고가 정식으로 론칭되고, 이를 지원하기 위한 [블로그](http://google-tmads.blogspot.com/2008/06/google-offline-goes-online.html)를 7월 1일자로 론칭했다. 그리고, 추천 애드센스가 8월에 폐지된다고 메일링을 통해 알려왔으며, 대신 더블클릭의 광고주를 지원하기 위한 [구글 애필리에이트 네트워크](http://www.google.com/ads/affiliatenetwork/)가 론칭되었다.
+![구글 광고 플랫폼 2008]({{ page.header.og_image }})
 
-![구글 광고 플랫폼 2008](/assets/google_advertising_platform.gif)
+구글이 오랜시간 테스트를 해 오던 동영상, TV, 인쇄물 그리고 라디오 광고가 정식으로 론칭되고, 이를 지원하기 위한 [블로그](http://google-tmads.blogspot.com/2008/06/google-offline-goes-online.html)를 7월 1일자로 론칭했다. 그리고, 추천 애드센스가 8월에 폐지된다고 메일링을 통해 알려왔으며, 대신 더블클릭의 광고주를 지원하기 위한 [구글 애필리에이트 네트워크](http://www.google.com/ads/affiliatenetwork/)가 론칭되었다.
 
 2008년 7월은 구글이 광고라는 테마에 대한 공부를 끊내고 정식으로 광고 시장에 진출한 달로 기록될 것이다. 구글이 론칭한 광고 시스템, 즉 애드워즈와 애드센스는 현존하는 대부분의 매체에 광고를 진행할 수 있게 되었고, 텍스트만이 아닌 [음성](http://www.google.com/adwords/audioads/ads.html)과 [동영상](http://www.youtube.com/view_play_list?p=5D57BC1EADB79312)까지 포함할 수 있게 되었다. 특히, 동영상의 저장소로 활용되고 있는 유튜브는 안정적인 호스팅을 쉽게 사용할 수 있게 해주고 있다. 이 밖에도 구글은 동영상이나 라디오 광고 캠페인을 사고 팔 수 있는 시스템을 애드워즈 내에 만들어 놓기도 했다.(이 모든 것은 [이 링크](https://adwords.google.com/support/bin/topic.py?topic=1501)를 타고 들어가서 영문으로 세팅하면 자세한 설명을 볼 수 있다.)
 
 {% youtube "https://www.youtube.com/v/ymQoginnjcA" %}
-[구글이 광고 마켓플래이스를 통해 제작된 동영상 - SmartDiet]
+\[구글이 광고 마켓플래이스를 통해 제작된 동영상 - SmartDiet\]
 
 그렇다면, 구글이 지금까지 배운 점은 무엇일까? 구글은 왜 추천 애드센스를 없애고, 비디오를 위한 애드센스를 전세계를 대상으로 서비스하지 않는 것인가? 유튜브는 어떤 식으로 이용될 것이고, 오프라인(라디오나 TV, 잡지 등) 광고가 세계화가 이루어 질 것인가?
 
