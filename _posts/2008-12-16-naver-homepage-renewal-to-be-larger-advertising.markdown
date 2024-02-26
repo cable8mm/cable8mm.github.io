@@ -1,16 +1,19 @@
 ---
 layout: single
-title:  "네이버 초기 화면, 광고는 더 크게"
-date:   2008-12-16 04:06:03
+title: "네이버 초기 화면, 광고는 더 크게"
+date: 2008-12-16 04:06:03
 categories: service
 tags: naver advertising
 author: Samgu Lee
+header:
+  og_image: /assets/naver-new-homepage.gif
 ---
+
 다음과 야후, 네이버 모두 초기화면이 개편될 때 생기는 공통점은 흔히 배너라 불리우는 디스플래이 광고 사이즈의 확장에 있다. 광고주는 디자인 개편을 한두달 전에 알 필요가 있기 때문에 당연하겠지만 네이버 초기화면 개편에 대한 정확한 설명은 네이버 마케팅센터에서 얻을 수 있다.
 
-[네이버 마케팅센터의 공지사항 11월 19일자](http://displayad.naver.com/notice/view.nhn?article_id=75)에는 개편에 대한 내용이 거의 공개되지 않았던 시기였음에도 불구하고 개편의 방향과 내용, 광고 사이즈의 변화가 정확히 명시되어 있다.
+![네이버의 새로운 홈페이지]({{ page.header.og_image }})
 
-![네이버의 새로운 홈페이지](/assets/naver-new-homepage.gif)
+[네이버 마케팅센터의 공지사항 11월 19일자](http://displayad.naver.com/notice/view.nhn?article_id=75)에는 개편에 대한 내용이 거의 공개되지 않았던 시기였음에도 불구하고 개편의 방향과 내용, 광고 사이즈의 변화가 정확히 명시되어 있다.
 
 네이버의 새로운 홈페이지 상단 광고는 마케팅 측면에서 상당히 이례적이다. 595x100이라는 서브페이지에서나 사용될 만한 가로로 긴 배너인데, 네이버는 이런 비효율적인 사이즈를 내년 1사분기에 새로 선보일 리치미디어로 커버하고 있다.
 

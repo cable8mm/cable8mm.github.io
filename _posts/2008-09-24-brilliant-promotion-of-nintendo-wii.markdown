@@ -1,14 +1,17 @@
 ---
 layout: single
-title:  "닌텐도 Wii의 멋진 유튜브 프로모션"
-date:   2008-09-24 05:18:36
+title: "닌텐도 Wii의 멋진 유튜브 프로모션"
+date: 2008-09-24 05:18:36
 categories: gossip
 tags: youtube nintendo
 author: Samgu Lee
+header:
+  og_image: /assets/youtube-wii-commercial.gif
 ---
+
 디스플래이 광고는 전통적으로 야후가 강하지만, 지금 소개할 광고를 본다면 그렇지도 않다는 사실에 공감할지도 모르겠다. 유튜브는 닌텐도의 새로운 게임인 [와리오랜드(Warioland Shakeit)](http://www.wariolandshakeit.com/launch/index.html)의 [프로모션 페이지](http://www.youtube.com/experiencewii)를 공개했다.
 
-![유튜브와 닌텐도 위 광고](/assets/youtube-wii-commercial.gif)
+![유튜브와 닌텐도 위 광고]({{ page.header.og_image }})
 
 이 광고의 주소는 http://www.youtube.com/experiencewii. 조금 더 깊이 들어가 보자.
 

@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "워드프레스에 구글 사이트맵을 설치해보자"
-date:   2005-12-07 15:00:38
+title: "워드프레스에 구글 사이트맵을 설치해보자"
+date: 2005-12-07 15:00:38
 categories: service
 tags: google sitemap wordpress
 author: Samgu Lee
 ---
+
 필요한 기능은 플러그인으로 많은 프로그램이 오픈소스로 개발되어있는 공개 설치형 블로그 툴인 [워드프레스(wordpress)](http://www.wordpress.org/)의 플러그인을 이용해서 [구글 사이트맵 제네레이터(google sitemap generator)를 설치](http://www.arnebrachhold.de/2005/06/05/google-sitemaps-generator-v2-final)해 봅시다.
 
 구글 웹서치에 URL을 보내는 방법은 [URL을 스파이더(크롤러라고도 함)에 알리는 페이지](http://www.google.com/addurl/?continue=/addurl)에 홈페이지(보통 웹사이트의 의미로 사용되지만, 여기선 사전적 의미인 웹사이트 첫페이지를 말함) URL을 알려주거나, [구글 사이트맵](https://www.google.com/webmasters/sitemaps/login)을 이용하는 것 이렇게 두가지 방법이 있습니다.
@@ -18,6 +19,6 @@ author: Samgu Lee
 
 워드프레스의 구글 사이트맵 제네레이터 관련 플러그인은 몇종류가 나와있지만, 가장 완성도가 높다고 보여지는 프로그램은 워드프레스를 위한 [구글 사이트맵 제네레이터 V2.0 파이널버젼](http://www.arnebrachhold.de/2005/06/05/google-sitemaps-generator-v2-final)입니다.(현재 [2.5 버젼이 제작중](http://www.arnebrachhold.de/2005/06/15/google-sitemap-generator-for-wordpress-25)이라고 합니다.)
 
-워드프레스의 다른 플러그인 처럼 플러그인 폴더에 복사하고 플러그인 페이지에서 활성화를 시키면 설정탭에 Sitemap메뉴가 추가됩니다. 기본 설정으로 Rebuild 버튼을 누르면 루트에 sitemap.xml파일이 생성됩니다.(예를 들어 구글매니아 블로그의 경우라면 http://www.palgle.com/sitemap.xml파일이 생성됩니다.)
+워드프레스의 다른 플러그인 처럼 플러그인 폴더에 복사하고 플러그인 페이지에서 활성화를 시키면 설정탭에 Sitemap메뉴가 추가됩니다. 기본 설정으로 Rebuild 버튼을 누르면 루트에 sitemap.xml파일이 생성됩니다.(예를 들어 구글매니아 블로그의 경우라면 https://www.palgle.com/sitemap.xml 파일이 생성됩니다.)
 
 그 밖에 워드프레스로 만든 페이지가 아닌 것들도 하단의 옵션부분에서 추가할 수 있습니다. 이미 구글 사이트맵을 사용하고 있는 사용자는 간편하게 XML파일을 추가할 수 있습니다.

@@ -1,14 +1,17 @@
 ---
 layout: single
-title:  "유튜브, 한국 론칭 임박"
-date:   2007-10-15 04:26:24
+title: "유튜브, 한국 론칭 임박"
+date: 2007-10-15 04:26:24
 categories: service
 tags: youtube korea
 author: Samgu Lee
+header:
+  og_image: /assets/youtube-korea-help.jpg
 ---
+
 유튜브의 한국 론칭이 임박했다는 소식이 언론 및 구글 내부에서 흘러나오고 있다. 정확한 날짜는 미정이지만, 팔글에서는 유튜브 론칭이 임박한 몇가지 증거를 포착할 수 있었다.
 
-![유튜브, 한국어 도움말](/assets/youtube-korea-help.jpg)
+![유튜브, 한국어 도움말]({{ page.header.og_image }})
 
 현재까지 언론에 공개된 유튜브의 소식은 엠군미디어와의 콘텐츠 제휴설과 유튜브 대표의 입국 소식 정도. 구글 내부 소식에 따르면 올해 말 정도에 론칭이 확실하다고 한다.
 

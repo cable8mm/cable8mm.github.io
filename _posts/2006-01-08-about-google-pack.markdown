@@ -1,12 +1,13 @@
 ---
 layout: single
-title:  "구글팩(Google Pack), 그 베일을 벗다"
-date:   2006-01-07 17:47:32
+title: "구글팩(Google Pack), 그 베일을 벗다"
+date: 2006-01-07 17:47:32
 categories: service
 tags: google pack
 author: Samgu Lee
 ---
-일반적으로 구글은 서비스를 진행하기에 앞서 베타서비스를 진행하곤 합니다. [구글 맵이 그랬고, 구글 어스](http://www.palgle.com/index.php/all_korean_google_services/)도 그랬습니다. 이번 구글팩도 [영문버젼 베타 형식으로 서비스가 개시](http://pack.google.com/)되었습니다.
+
+일반적으로 구글은 서비스를 진행하기에 앞서 베타서비스를 진행하곤 합니다. 구글 맵이 그랬고, 구글 어스도 그랬습니다. 이번 구글팩도 [영문버젼 베타 형식으로 서비스가 개시](http://pack.google.com/)되었습니다.
 
 구글팩은 무료소프트웨어 패키지로 PC를 사용할 때 꼭 있어야 하는 프로그램들을 묶은 것입니다. 이번 버젼은 영문 베타버젼으로 몇번의 클릭만으로 웹서핑을 더욱 안전하고 빠르고 더 효과적으로 정보를 관리할 수 있도록 복구, 설치 할 수 있게 합니다.
 

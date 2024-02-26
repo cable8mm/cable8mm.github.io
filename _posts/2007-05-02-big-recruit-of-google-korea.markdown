@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글 코리아, 대규모 리쿠르트 개시"
-date:   2007-05-01 15:02:46
+title: "구글 코리아, 대규모 리쿠르트 개시"
+date: 2007-05-01 15:02:46
 categories: service
 tags: google
 author: Samgu Lee
 ---
+
 황정목(데니스 황)님이 언급한지 오래지 않아, 구글코리아의 리쿠르트 페이지에 대규모의 구인 관련 내용이 [업데이트](http://www.google.co.kr/support/jobs/bin/static.py?page=intl.html&jobslc=korea) 되었다.
 
 ![구글코리아 로고](/assets/google-korea-logo.jpg)
@@ -22,7 +23,7 @@ author: Samgu Lee
 
 ## 웹개발자(Web Developer)
 
-모든 개발팀과 협력해서 최종 산출물을 만들어 내는 직종인 웹개발자는 5년 이상의 경력과 PHP 혹은 Perl을 능숙하게 다루어야 한다. 재미있는 것은 한국에서는 거의 사용되지 않는 [GWT(Google Web Toolkit)](https://www.palgle.com/2006/05/18/gwt_launched/)를 다룰 줄 알아야 한다는 점인데, 그러기 위해서는 자바에 대한 기초적인 지식이 있어야 할 것이다.
+모든 개발팀과 협력해서 최종 산출물을 만들어 내는 직종인 웹개발자는 5년 이상의 경력과 PHP 혹은 Perl을 능숙하게 다루어야 한다. 재미있는 것은 한국에서는 거의 사용되지 않는 [GWT(Google Web Toolkit)]({% post_url 2006-05-18-gwt-launched %})를 다룰 줄 알아야 한다는 점인데, 그러기 위해서는 자바에 대한 기초적인 지식이 있어야 할 것이다.
 
 ## 시각 디자이너(Visual Designer)
 
@@ -38,6 +39,4 @@ author: Samgu Lee
 
 이번 리쿠르트의 특징이라면, 한국에서 자체적인 서비스를 선보일 준비를 하고 있다는 인상이 짙다. 웹개발자나 디자이너 등은 국내 서비스를 하지 않는다면 필요 없는 직군이라고 할 수 있다. 황정목님이 국내에서 언급한 바대로 국내만의 서비스가 나올지 주목된다.
 
-구글코리아는 [구글나이트][google-korea-require-about-people]에서, 구글코리아의 올해 목표가 인력충원이라고 밝힌 바 있다.
-
-[google-korea-require-about-people]: {% post_url 2007-03-09-google-korea-require-about-people %}
+구글코리아는 [구글나이트]({% post_url 2007-03-09-google-korea-require-about-people %})에서, 구글코리아의 올해 목표가 인력충원이라고 밝힌 바 있다.

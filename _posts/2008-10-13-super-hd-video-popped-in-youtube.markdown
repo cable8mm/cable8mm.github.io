@@ -1,16 +1,19 @@
 ---
 layout: single
-title:  "유튜브의 슈퍼 HD 영상 출현"
-date:   2008-10-13 04:08:32
+title: "유튜브의 슈퍼 HD 영상 출현"
+date: 2008-10-13 04:08:32
 categories: gassip
 tags: youtube
 author: Samgu Lee
+header:
+  og_image: /assets/youtube-super-hd.gif
 ---
+
 프로그램이라는 것은 불가능한 것을 가능케 하는 것과 상상한 것들을 현실화 하는 것으로 나눌 수 있을 것이다. 이 둘은 서로 보완 관계에 있지만, 이번에 소개할 영상을 본다면 **개발**이라는 것이 어떤 의미가 있는지 다른 관점에서 찾을 수 있을 것이다.
 
-Mr.doob라는 필명을 사용하는 플래쉬 개발자는 자신의 연구소인 http://mrdoob.com/ 에 유튜브에서 [슈퍼 HD급 영상 서비스를 한다고 공지](http://mrdoob.com/blog/post/597/)했다. 물론 이것은 낚시이지만, 실제로 굉장한 해상도의 영상을 볼 수 있다.
+![Youtube super HD]({{ page.header.og_image }})
 
-![Youtube super HD](/assets/youtube-super-hd.gif)
+Mr.doob라는 필명을 사용하는 플래쉬 개발자는 자신의 연구소인 http://mrdoob.com/ 에 유튜브에서 [슈퍼 HD급 영상 서비스를 한다고 공지](http://mrdoob.com/blog/post/597/)했다. 물론 이것은 낚시이지만, 실제로 굉장한 해상도의 영상을 볼 수 있다.
 
 이 페이지는 유튜브에 네개의 부분 동영상(1사분면에서 4사분면까지)과 한개의 음악파일을 올리고, 동시에 시작할 수 있는 버튼을 자바스크립트로 구현했다. 쉽게 말해서, 네개의 동영상을 테두리를 없애고 하나의 동영상으로 만든 것으로, 마치 모니터 네대를 하나의 화면으로 구성한 것이다.
 

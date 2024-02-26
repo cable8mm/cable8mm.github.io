@@ -1,18 +1,19 @@
 ---
 layout: single
-title:  "구글 개인화 홈페이지의 새로운 이름, 아이구글(iGoogle)"
-date:   2007-05-01 06:35:59
+title: "구글 개인화 홈페이지의 새로운 이름, 아이구글(iGoogle)"
+date: 2007-05-01 06:35:59
 categories: service
 tags: google
 author: Samgu Lee
 ---
+
 드디어 구글이 어처구니 없는 이름들을 포기하기 시작했다.
 
 ![아이구글 썸네일](/assets/igoogle-thumbnail.jpg)
 
 이름만 보면 구글 워드프로세스와 스프레드쉬트와 양대 산맥을 이루는 서비스, 구글 개인화 홈페이지가 아이구글(iGoogle)이라는 이름으로 새출발을 한다고 [공식 블로그](http://googleblog.blogspot.com/2007/04/youve-got-gadget-mail.html)를 통해 알려왔다.
 
-명칭이 바뀌면서 영어로만 서비스되던 [구글 테마](https://www.palgle.com/2007/03/21/google-ig-include-theme/)가 22개 국가에서 서비스되고 있고, 한글로도 물론 [가능](http://www.google.co.kr/ig?hl=ko)하게 되었다. 한편, 새로운 도메인, www.igoogle.com은 구글 소유로 등록되어 있고, 확인한 바로는 구글 검색으로 리다이렉트 되고 있다.
+명칭이 바뀌면서 영어로만 서비스되던 [구글 테마]({% post_url 2007-03-21-google-ig-include-theme %})가 22개 국가에서 서비스되고 있고, 한글로도 물론 [가능](http://www.google.co.kr/ig?hl=ko)하게 되었다. 한편, 새로운 도메인, www.igoogle.com은 구글 소유로 등록되어 있고, 확인한 바로는 구글 검색으로 리다이렉트 되고 있다.
 
 사실 지금까지 구글 개인화 홈페이지는 포지셔닝이 상당히 애매했다. 이 서비스에 접근하기 위해서는 www.google.com/ig라는 도메인을 입력해야 했는데, 얼마전부터 www.google.com이라는 도메인으로 직접 접근이 가능했다. 이런 접근방식의 애매함은 사용상의 불편함을 초래했다.
 
@@ -20,8 +21,8 @@ author: Samgu Lee
 
 서비스 내용은 둘째치고라도, 아이구글이라는 이름은 왠지 애플스럽다. 아래의 서비스 명칭은 무엇으로 바뀔 것인지 기대된다.
 
-* 구글 워드프로세서와 스프레드쉬트
-* 구글 도메인용 애플리케이션
+- 구글 워드프로세서와 스프레드쉬트
+- 구글 도메인용 애플리케이션
 
 P.S.
 

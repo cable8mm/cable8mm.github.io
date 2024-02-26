@@ -1,16 +1,21 @@
 ---
 layout: single
-title:  "자주 물어보는 구글에 대한 궁금증"
-date:   2008-09-18 12:20:01
+title: "자주 물어보는 구글에 대한 궁금증"
+date: 2008-09-18 12:20:01
 categories: opinion
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/images/google-korea-blog.png
 ---
-구글에 대한 블로그를 운영하면서 어떤 분들은 메일로 구글에 대한 질문을 보내곤 한다. 대부분 비슷비슷한 질문들인데 [구글 공식 블로그](http://googlekoreablog.blogspot.com/2008/09/blog-post_18.html)에 소개된 내용을 포함해서 열가지로 정리해 봤다.
+
+구글에 대한 블로그를 운영하면서 어떤 분들은 메일로 구글에 대한 질문을 보내곤 한다. 대부분 비슷비슷한 질문들인데 [구글 공식 블로그](https://korea.googleblog.com/2008/09/blog-post_18.html)에 소개된 내용을 포함해서 열가지로 정리해 봤다.
+
+![구글 한국 블로그]({{ page.header.og_image }})
 
 ## 1. 구글 검색결과에서 노출되고 싶지 않은데 어떻게 해야 하나?
 
-구글 검색결과에 노출되기 싫다면 robots.txt이나 메타태그를 이용하면 되지만, 기간이 오래 걸린다는 단점이 있다. 가장 빠른 방법은 [구글 웹마스터 도구(Google Webmaster Tools)](http://www.google.com/webmasters/)를 이용하는 것인데, 특정 페이지 혹은 디렉토리를 삭제할 수 있는 기능을 제공한다. 물론 아주 급하다면 구글코리아에 공문을 보내본다.(전화로 이런 업무를 해 주진 않는다.)
+구글 검색결과에 노출되기 싫다면 robots.txt이나 메타태그를 이용하면 되지만, 기간이 오래 걸린다는 단점이 있다. 가장 빠른 방법은 [구글 웹마스터 도구(Google Webmaster Tools)](https://developers.google.com/search)를 이용하는 것인데, 특정 페이지 혹은 디렉토리를 삭제할 수 있는 기능을 제공한다. 물론 아주 급하다면 구글코리아에 공문을 보내본다.(전화로 이런 업무를 해 주진 않는다.)
 
 ## 2. 구글 검색결과에 노출되지 않는다.
 

@@ -1,14 +1,17 @@
 ---
 layout: single
-title:  "야후코리아, 개인화 페이지 개편"
-date:   2007-10-09 01:00:32
+title: "야후코리아, 개인화 페이지 개편"
+date: 2007-10-09 01:00:32
 categories: service
 tags: yahoo
 author: Samgu Lee
+header:
+  og_image: /assets/my-yahoo.jpg
 ---
+
 야후의 개인화 페이지 개편에 맞추어서 야후 코리아의 개인화페이지도 비슷한 시기에 베타 딱지를 달고 론칭했다.
 
-![마이 야후](/assets/my-yahoo.jpg)
+![마이 야후]({{ page.header.og_image }})
 
 이전 버젼에 비하면 그야말로 용됐다라는 표현이 맞을 것 같다. 마이 야후는 야후에서 과감하게 추진중인 [Ajax용 자바스크립트 라이브러리(YUI)](http://developer.yahoo.com/yui/)를 적용해서 야후 첫페이지와 비슷한 효과를 구현하고 있다.
 

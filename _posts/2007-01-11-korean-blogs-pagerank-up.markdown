@@ -19,7 +19,7 @@ redirect_from:
 
 하지만, 최근 ZDNET에서 야심차게 준비한 ZDNET 전문블로그 서비스는 블로그스피어 전체적인 페이지랭크 값을 올리는데 일조할 가능성이 매우 높다. ZDNET 메인페이지의 랭크 값은 네이버, 다음보다 높은 무려 8점을 받고 있다. ZDNET 한국 서비스의 랭크값이 높은 이유는 ZDNET 영문페이지에 직접 링크를 받고 있기 때문으로, ZDNET 영문의 메인페이지는 랭크 9를 받고 있다.
 
-현재까지 ZDNET 전문블로그는 [ROBOT.txt](http://blog.naver.com/robots.txt)으로 막아놓은 네이버 블로그를 제외한다면, [팔글](https://www.palgle.com)을 포함해서 [ENTClic@blog](http://peterent.com/ENTClic/), [피플웨어](http://www.peopleware.co.kr/), [스마트플레이스](http://www.smartplace.co.kr/), [왕멀 블로그](http://wangmul.egloos.com/) 그리고 [Inuit Blogged](http://inuit.co.kr/). 이들 블로그의 현재 페이지랭크 값도 상당히 높은 편이기 때문에 ZDNET의 링크가 오랫동안 살아있다면 현재의 랭크 6을 받고 있는 네이버나 랭크 7인 다음보다 높은 점수를 받는 블로그의 출현도 불가능하진 않다.
+현재까지 ZDNET 전문블로그는 [ROBOT.txt](http://blog.naver.com/robots.txt)으로 막아놓은 네이버 블로그를 제외한다면, [팔글]({% link index.html %})을 포함해서 [ENTClic@blog](http://peterent.com/ENTClic/), [피플웨어](http://www.peopleware.co.kr/), [스마트플레이스](http://www.smartplace.co.kr/), [왕멀 블로그](http://wangmul.egloos.com/) 그리고 [Inuit Blogged](http://inuit.co.kr/). 이들 블로그의 현재 페이지랭크 값도 상당히 높은 편이기 때문에 ZDNET의 링크가 오랫동안 살아있다면 현재의 랭크 6을 받고 있는 네이버나 랭크 7인 다음보다 높은 점수를 받는 블로그의 출현도 불가능하진 않다.
 
 외국의 경우 페이지랭크 값을 올리기 위해 유료 광고를 진행하는 경우도 있다. 웹 표준을 만들어가는 월드 와이드 웹 컨소시움의 경우 최고 점수인 10점을 받고 있는데, W3C는 [페이지랭크 9점](http://www.w3.org/Consortium/sup)짜리 페이지에 1년 고정링크 광고를 년 1000달러를 받고 팔고 있다. 이 광고 페이지는 웹사이트 이름과 링크만 제공한다는 점을 상기한다면, 완전히 페이지랭크 상품이라고 할 수 있을 것이다.
 
