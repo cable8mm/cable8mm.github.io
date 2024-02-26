@@ -1,12 +1,19 @@
 ---
 layout: single
-title:  "국내 블로그, 페이지랭크 업(Pagerank Up)"
-date:   2007-01-11 03:01:55
+title: "국내 블로그, 페이지랭크 업(Pagerank Up)"
+date: 2007-01-11 03:01:55
 categories: service
 tags: google search pagerank
 author: Samgu Lee
+header:
+  og_image: /assets/images/zdnet-screenshot.png
+redirect_from:
+  - /358
 ---
+
 국내의 최고 페이지랭크 값은 몇일까? 현재까지는 6이라고 할 수 있다. 하지만, 6이라는 점수는 매우 특별한 경우라고 볼 수 있고, 대체적으로는 5를 받으면 최고 점수라고 볼 수 있다. 올블로그, 미디어몹 등도 모두 5점을 받고 있다.
+
+![Zdnet 기고]({{ page.header.og_image }})
 
 페이지랭크는 구글이 사용하는 검색 순위에 많은 영향을 미치는 일종의 알고리즘으로, 페이지랭크 값이 높으면 검색엔진의 상위 랭크가 가능하다. 그리고, 구글의 한국 공식 블로그의 메인페이지 랭크 값이 7이기 때문에 멀지 않아 7값을 갖는 블로그가 출현할 가능성도 있다.
 
