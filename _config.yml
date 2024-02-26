@@ -16,11 +16,11 @@ minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "ko-KR"
-title: "팔글 - 인사이드 구글"
+title: "팔글 인사이드 구글"
 title_separator: "-"
-subtitle: "Talk about IT news, tech, dev..." # site tagline that appears below site title in masthead
+subtitle: "Talk about tech & dev" # site tagline that appears below site title in masthead
 name: "Samgu Lee"
-description: "팔글-인사이드 구글은 구글의 국내 진출을 정확하게 전달합니다."
+description: "팔글 인사이드 구글은 구글의 국내 진출을 정확하게 전달합니다."
 url: "https://www.palgle.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: cable8mm/cable8mm.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
