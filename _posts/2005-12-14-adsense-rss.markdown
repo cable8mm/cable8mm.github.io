@@ -5,6 +5,8 @@ date: 2005-12-14 04:49:17
 categories: advertising
 tags: google adsense
 author: Samgu Lee
+redirect_from:
+  - /2005/12/14/adsense_rss/
 ---
 
 미국의 여러 블로거들의 증언에 따르면 구글 애드센스의 RSS피드버젼이 몇몇의 블로거들 사이에서 비공개로 진행중이라고 합니다.

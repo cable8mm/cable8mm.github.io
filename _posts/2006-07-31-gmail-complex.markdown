@@ -5,6 +5,8 @@ date: 2006-07-31 07:13:07
 categories: tip
 tags: google gmail
 author: Samgu Lee
+redirect_from:
+  - /2006/07/31/gmail_complex/
 ---
 
 최근 구글(Google) 서비스들이 간단히 리뷰를 할 만한 것들이 아니라서 팔글 블로그의 포스팅이 늦어지고 있습니다. 사용해 보고 리뷰를 하자라는 원칙 때문이니 이해해 주시리라 믿고, 그 사이에 자신의 도메인으로 메일을 만들 수 있는 도메인용 구글메일(GMail)의 팁 한가지를 소개합니다.

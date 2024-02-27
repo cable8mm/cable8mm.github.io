@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글 캘린더, 스크린샷 공개"
-date:   2006-03-08 16:13:40
+title: "구글 캘린더, 스크린샷 공개"
+date: 2006-03-08 16:13:40
 categories: news
 tags: google
 author: Samgu Lee
+redirect_from:
+  - /2006/03/09/unvail_cl2/
 ---
-지디넷에서 구글관련 블로그를 관리하는 Garett Rogers가 플리커에 올라온 [구글 캘린더 스크린샷을 보고 낚였던 사건](http://blogs.zdnet.com/Google/?p=122)이 있었습니다. 구글 캘린더는 [믿을 수 있는 테스터 프로그램][trusted-tester-faq]으로 베타테스트 중임이 알려졌는데, 테스터 중 한명의 노고로 매우 상세한 스크린샷이 공개되었습니다.
+
+지디넷에서 구글관련 블로그를 관리하는 Garett Rogers가 플리커에 올라온 [구글 캘린더 스크린샷을 보고 낚였던 사건](http://blogs.zdnet.com/Google/?p=122)이 있었습니다. 구글 캘린더는 [믿을 수 있는 테스터 프로그램]({% post_url 2006-03-09-trusted-tester-faq %})으로 베타테스트 중임이 알려졌는데, 테스터 중 한명의 노고로 매우 상세한 스크린샷이 공개되었습니다.
 
 구글 캘린더는 구글의 robots.txt파일 리스트에 들어있던 문구로 인해 일반인에게 알려지게 되었는데 어떤 구글러가 [CL2 서비스가 들어있는 구글 스크린샷의 공개](http://www.paulstone.net/files/Image/google/google_links_after.gif)로 인해 그 존재를 신뢰할 수 있게 되었습니다.
 
@@ -15,5 +18,3 @@ author: Samgu Lee
 ![구글 캘린더 스크린샷](/assets/cl2_screenshot.gif)
 
 낚시질은 외국이나 한국이나 마찬가지인 듯 하네요 :-)
-
-[trusted-tester-faq]: {% post_url 2006-03-09-trusted-tester-faq %}
