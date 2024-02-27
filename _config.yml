@@ -115,9 +115,9 @@ author:
   location: "Auckland, New Zealand"
   email: cable8mm@gmail.com
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.palgle.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/cable8mm/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/cable8mm"
@@ -130,10 +130,16 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.palgle.com"
 
 # Site Footer
 footer:
   links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/cable8mm/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/palgle_kr"
