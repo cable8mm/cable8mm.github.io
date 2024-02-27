@@ -11,7 +11,7 @@ author: Samgu Lee
 
 잦은 버그로 인해 탈도 많고 말도 많은 구글 연구소(Google Labs) 출신의 웹 페이지 제작 서비스인 구글 페이지 크리에이터(Google Page Creator)에 복수의 주소를 설정할 수 있는 기능이 추가되었습니다. 이로서 구글 유저는 여러가지 페이지들을 복수개의 주소에 나누어 담을 수 있게 됩니다.
 
-[구글 페이지]({% post_url 2006-02-23-gpc-launching %})는 제작 당시부터 버그가 너무 많아 이삼구글에선 사용하지 말것을 권고했는데, 이런 서비스가 [구글 앱스(Google Apps)]({% post_url 2006-08-29-introduce-google-apps %})에 추가되면서 쓰지 못할 정도의 버그는 고쳐진 상태입니다. 사용자의 요청으로 현재는 [구글 애드센스도 추가]({% post_url 2006-07-02-google-page-plus-adsense %})가 되며, 구글 가제트도 추가할 수 있습니다.
+[구글 페이지]({% post_url 2006-02-23-gpc-launching %})는 제작 당시부터 버그가 너무 많아 팔글에선 사용하지 말것을 권고했는데, 이런 서비스가 [구글 앱스(Google Apps)]({% post_url 2006-08-29-introduce-google-apps %})에 추가되면서 쓰지 못할 정도의 버그는 고쳐진 상태입니다. 사용자의 요청으로 현재는 [구글 애드센스도 추가]({% post_url 2006-07-02-google-page-plus-adsense %})가 되며, 구글 가제트도 추가할 수 있습니다.
 
 ![구글 페이지의 복수 주소 설정 링크](/assets/page_diff_url.jpg)
 

@@ -13,7 +13,7 @@ author: Samgu Lee
 
 ## Google 문서와 스프레드시트
 
-이 서비스는 가장 최근에 나온 것 중 하나인데, 이삼구글에서는 그 전까지 구글 독스(Google Docs)라는 이름으로 표현했습니다. 영문 표기는 Google Docs & Spreadsheets 입니다.
+이 서비스는 가장 최근에 나온 것 중 하나인데, 팔글에서는 그 전까지 구글 독스(Google Docs)라는 이름으로 표현했습니다. 영문 표기는 Google Docs & Spreadsheets 입니다.
 
 ## Google 도서 검색
 

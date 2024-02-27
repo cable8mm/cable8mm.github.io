@@ -1,12 +1,13 @@
 ---
 layout: single
-title:  "메일발송과 문자셋 문제"
-date:   2006-06-19 22:18:00
+title: "메일발송과 문자셋 문제"
+date: 2006-06-19 22:18:00
 categories: opinion
 tags: email chatset
 author: Samgu Lee
 ---
-예전 [PHPSCHOOL](http://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=tipntech&amp;wr_id=36689)에 적은 글을 [이삼구글]({% post_url 2006-06-19-gmail-and-encoding %})에 질문을 하시는 분이 계셔서 참고로 올립니다. 메일과 인코딩에 대한 정리입니다. 개발자 커뮤니티에 올린 글이니만큼 개발자가 아닌 분들에게는 다소 어지러워 보일 수도 있습니다.
+
+예전 [PHPSCHOOL](http://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=tipntech&wr_id=36689)에 적은 글을 [팔글]({% post_url 2006-06-19-gmail-and-encoding %})에 질문을 하시는 분이 계셔서 참고로 올립니다. 메일과 인코딩에 대한 정리입니다. 개발자 커뮤니티에 올린 글이니만큼 개발자가 아닌 분들에게는 다소 어지러워 보일 수도 있습니다.
 
 아래의 내용은 메일 발송시 참고해야 할 사항을 정리한 것입니다.
 

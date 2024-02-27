@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글 닥스(D-S), 공식 블로그 오픈"
-date:   2006-10-11 14:23:00
+title: "구글 닥스(D-S), 공식 블로그 오픈"
+date: 2006-10-11 14:23:00
 categories: service
 tags: google docs
 author: Samgu Lee
 ---
+
 구글 닥스(Google Docs & Spreadsheets)의 [공식 블로그](http://google-d-s.blogspot.com/2006/10/new-beginnings.html)가 [오픈했습니다](http://googleblog.blogspot.com/2006/10/better-together-docs-spreadsheets.html). 그리고, 구글 닥스에 스프레드시트 마이그레이션도 마감되었고, 이로서 구글 베타 서비스로서의 작업들이 마무리 되었습니다.
 
 구글의 서비스는 처음 만들어지면 웹사이트 외에 공지내용을 알리는 블로그, [토론을 위한 커뮤니티](http://groups.google.com/group/GoogleDocsSpreadsheets)가 만들어지는데, 구글 닥스도 이 두개의 세팅이 완료되었습니다.
@@ -16,7 +17,7 @@ author: Samgu Lee
 
 ## 구글의 서비스 이름, 99% 센스 부족
 
-처음 이 서비스가 나올 당시에 알려진 이름은 이삼구글에서 사용하는 구글 닥스(Google Docs)였습니다. 이 이름은 서비스의 URL인 docs.google.com에서 따온 것인데, 느닷없이 구글은 구글 닥스 엔 스프레드시트(Google Docs & Spreadsheets)라는 한글로는 따라하기도 힘든 이름을 서비스명으로 붙여버렸습니다.
+처음 이 서비스가 나올 당시에 알려진 이름은 팔글에서 사용하는 구글 닥스(Google Docs)였습니다. 이 이름은 서비스의 URL인 docs.google.com에서 따온 것인데, 느닷없이 구글은 구글 닥스 엔 스프레드시트(Google Docs & Spreadsheets)라는 한글로는 따라하기도 힘든 이름을 서비스명으로 붙여버렸습니다.
 
 공식 블로그의 URL이 google-d-s.blogspot.com입니다. 도대체 한글 공식 서비스 명칭은 어떻게 정해지게 될까요? 한글화가 궁금할 따름입니다. 차라리 지피스(Gffice)가 좋지 않을까요?
 

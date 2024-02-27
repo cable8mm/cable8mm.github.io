@@ -1,14 +1,15 @@
 ---
 layout: single
-title:  "구글(Google) 블로그, 개밥(Dogfood) 먹기"
-date:   2006-10-26 05:12:36
+title: "구글(Google) 블로그, 개밥(Dogfood) 먹기"
+date: 2006-10-26 05:12:36
 categories: gossip
 tags: google blog
 author: Samgu Lee
 ---
+
 구글의 블로그 서비스인 블로거(Blogger)에 [재미있는 글](http://buzz.blogger.com/2006/10/chowing-down-on-dogfood.html)이 포스팅 되었습니다.
 
-그 동안 구글 블로거가 보안문제로 인해 좋지 않은 글이 있었던 것은 사실이고, 이삼구글에서도 [몇]({% post_url 2006-10-09-blogger-hacked-in-detail %}) [번]({% post_url 2006-10-18-blogger-bugs %})에 걸처서 다룬 바 있습니다. 구글은 공식 블로그에서 구글 자신도 블로거를 사용하고 있다는 사실을 강조하면서, 블로거가 점점 발전되고 있다는 것을 솔직하게 보여주고 있습니다.
+그 동안 구글 블로거가 보안문제로 인해 좋지 않은 글이 있었던 것은 사실이고, 팔글에서도 [몇]({% post_url 2006-10-09-blogger-hacked-in-detail %}) [번]({% post_url 2006-10-18-blogger-bugs %})에 걸처서 다룬 바 있습니다. 구글은 공식 블로그에서 구글 자신도 블로거를 사용하고 있다는 사실을 강조하면서, 블로거가 점점 발전되고 있다는 것을 솔직하게 보여주고 있습니다.
 
 개밥(Dogfood)이라는 것은 원래 소프트웨어 제작에 있어서의 은어입니다. 개밥을 먹는다라는 뜻은 어떤 소프트웨어를 만들 때, 그 소프트웨어를 개발자 자신이 이용하는 것을 지칭합니다.
 

@@ -1,12 +1,13 @@
 ---
 layout: single
-title:  "구글 랩스의 사라진 프로젝트들"
-date:   2006-04-04 08:12:14
+title: "구글 랩스의 사라진 프로젝트들"
+date: 2006-04-04 08:12:14
 categories: gossip
 tags: google
 author: Samgu Lee
 ---
-비공식적이지만 흥미로운 글들을 포스팅하는 Googlist는 구글 랩스에 올라왔다가 사라진 서비스들을 조사해서 그 결과를 블로그에 올렸습니다. 흥미로운 서비스들이 많은데 이삼구글에서 간단히 소개합니다.
+
+비공식적이지만 흥미로운 글들을 포스팅하는 Googlist는 구글 랩스에 올라왔다가 사라진 서비스들을 조사해서 그 결과를 블로그에 올렸습니다. 흥미로운 서비스들이 많은데 팔글에서 간단히 소개합니다.
 
 ## [Google Voice Search(구글 음성 검색)](http://labs1.google.com/gvs.html)
 

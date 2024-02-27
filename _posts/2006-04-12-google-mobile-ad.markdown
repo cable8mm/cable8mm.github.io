@@ -9,7 +9,7 @@ header:
   og_image: /assets/images/japan-mobile-ads.png
 ---
 
-이삼구글 포럼에서 구글 일본의 휴대폰 광고를 간단히 소개한 적이 있는데 드디어 정식 서비스가 된다고 [구글 공식 웹사이트](http://www.google.com/press/annc/mobile_ads_jp.html)에 공지사항에 업데이트 되었습니다.
+팔글 포럼에서 구글 일본의 휴대폰 광고를 간단히 소개한 적이 있는데 드디어 정식 서비스가 된다고 [구글 공식 웹사이트](http://www.google.com/press/annc/mobile_ads_jp.html)에 공지사항에 업데이트 되었습니다.
 
 ![구글 일본에서 모바일 광고 런칭]({{ page.header.og_image }})
 
