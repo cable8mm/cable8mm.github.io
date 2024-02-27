@@ -7,6 +7,8 @@ tags: google adwords
 author: Samgu Lee
 ---
 
+한국에 대한 재미있는 글을 소개합니다.
+
 ![북한은 더이상 위협적이지 않다](/assets/north-korea-is-no-longer-a-threat.jpg)
 
 부시 : 북한은 더이상 위협적이지 않습니다.
@@ -17,7 +19,7 @@ via - [Google Blogoscoped](http://blog.outer-court.com/archive/2006-12-06.html#n
 
 Original - [wojciech.felendzer's photostream(Flickr)](http://www.flickr.com/photos/felendzer/315134177/)
 
-~~[공지]~~
+~~\[공지\]~~
 
 ~~외국계 언론의 한국 지사에서 구글에 대한 질문을 본사에 직접 물어보기 위해서 [팔글]({% link index.html %})에 문의가 있었습니다.~~
 

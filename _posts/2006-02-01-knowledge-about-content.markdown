@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "개인 저작자 전성시대, 무엇을 알아야 하나"
-date:   2006-02-01 00:13:00
+title: "개인 저작자 전성시대, 무엇을 알아야 하나"
+date: 2006-02-01 00:13:00
 categories: opinion
 tags: law
 author: Samgu Lee
 ---
-미국에선 디지털 전문의 저작권법인 [DMCA(Digital Millennium Copyright Act)](http://en.wikipedia.org/wiki/DMCA)가 개정에 개정을 거듭하고 있고, 한국에서도 저작권법 개정안이 발의되는 등 저작권에 관한 법률이 전세계적으로 강력해지고 있습니다. 이런 환경에서 독립작업으로 가능한 디지털 컨텐츠의 새로운 기회가 창출되고 있습니다.
+
+미국의 저작권법 개정에 따라서 디지털 컨텐츠 제작자에게 새로운 기회가 창출되고 있습니다.
+
+미국에선 디지털 전문의 저작권법인 [DMCA(Digital Millennium Copyright Act)](http://en.wikipedia.org/wiki/DMCA)가 개정에 개정을 거듭하고 있고, 한국에서도 저작권법 개정안이 발의되는 등 저작권에 관한 법률이 전세계적으로 강력해지고 있습니다.
 
 이 글에서는 디지털 컨텐츠에 관한 정의와 만들어지는 과정을 폭 넒게 확인하고 저작권자로서 무엇을 준비하고 어떻게 계약을 해야 하는지에 관해서 말해보겠습니다.
 

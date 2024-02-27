@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "유투브(YouTube), 구글(Google) 품안에"
-date:   2006-10-10 03:21:07
+title: "유투브(YouTube), 구글(Google) 품안에"
+date: 2006-10-10 03:21:07
 categories: company
 tags: google youtube
 author: Samgu Lee
 ---
-비디오 전문 공유 서비스를 제공하는 유투브(YouTube)가 구글(Google)에 인수되었습니다. 이 소식은 구글 프레스에서 처음 알려왔는데, 구글 프레스는 구글의 보도자료를 배포하는 공식적인 통로입니다. 한국에는 아마도 차니님의 블로그에 처음 포스팅 된 것으로 보이고, 보도자료의 내용을 [깔끔하게 정리](http://channy.tistory.com/85)해 주셨습니다.
+
+비디오 전문 공유 서비스를 제공하는 유투브(YouTube)가 구글(Google)에 인수되었습니다.
+
+이 소식은 구글 프레스에서 처음 알려왔는데, 구글 프레스는 구글의 보도자료를 배포하는 공식적인 통로입니다. 한국에는 아마도 차니님의 블로그에 처음 포스팅 된 것으로 보이고, 보도자료의 내용을 [깔끔하게 정리](http://channy.tistory.com/85)해 주셨습니다.
 
 ![구글이 제공한 유투브](/assets/youtube_powered_by_google.jpg)
 
@@ -16,7 +19,7 @@ author: Samgu Lee
 
 [구글 프레스](http://www.google.com/press/pressrel/google_youtube.html) 인용:
 
-> When the acquisition is complete, YouTube will retain its distinct brand identity, strengthening and complementing Google's own fast-growing video business.  YouTube will continue to be based in San Bruno, CA, and all YouTube employees will remain with the company.
+> When the acquisition is complete, YouTube will retain its distinct brand identity, strengthening and complementing Google's own fast-growing video business. YouTube will continue to be based in San Bruno, CA, and all YouTube employees will remain with the company.
 
 요약하면, 합병이 완료 후 유투브 브랜드는 계속 유지하고, 사무실과 직원도 유지된다고 하는 내용입니다. 유투브 직원이 65명으로 알려져 있고, 지금까지 인수나 합병을 한 기업의 직원은 모두 구글러가 된 것으로 볼 때 당연한 수순이겠죠.
 

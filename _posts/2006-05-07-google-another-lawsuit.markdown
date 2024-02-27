@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "Google, 또다시 소송"
-date:   2006-05-07 07:01:24
+title: "Google, 또다시 소송"
+date: 2006-05-07 07:01:24
 categories: news
 tags: google law
 author: Samgu Lee
 ---
-[Sign On Sandiego](http://hosted.ap.org/dynamic/stories/G/GOOGLE_CHILD_PORN_SUIT?SITE=CADIU&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT) 인용 :
+
+소송에 시달리는 구글이 또 다른 소송에 휘말렸습니다.
+
+[Sign On Sandiego](http://hosted.ap.org/dynamic/stories/G/GOOGLE_CHILD_PORN_SUIT?SITE=CADIU&SECTION=HOME&TEMPLATE=DEFAULT) 인용 :
 
 > A Long Island politician sued Google Inc. on Thursday claiming the search engine leader is profiting from illegal child pornography.
 

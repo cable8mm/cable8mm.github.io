@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글 어스(Google Earth) 2종 세트"
-date:   2006-08-28 02:55:31
+title: "구글 어스(Google Earth) 2종 세트"
+date: 2006-08-28 02:55:31
 categories: service
 tags: google earth
 author: Samgu Lee
 ---
-[구글 어스(Google Earth)와 네이버맵의 좌표변환을 이용한 매쉬업][google-naver-meshup]을 소개한지 얼마되지 않아 드디어 프로페셔널이라 할 수 있는 구글 어스와 관련된 내용 두가지를 소개해 드립니다.
+
+드디어 프로페셔널이라 할 수 있는 구글 어스와 관련된 내용 두가지를 소개해 드립니다.
+
+[구글 어스(Google Earth)와 네이버맵의 좌표변환을 이용한 매쉬업]({% post_url 2006-08-08-google-naver-meshup %})을 소개한지 얼마되지 않은 것 같은데, 서비스의 업데이트 소식이 워낙 많습니다.
 
 ## 1. Naver map on Google earth
 
@@ -41,5 +44,3 @@ KML은 최근 무료화된 스케치업 5(SketchUp 5)를 이용했다고 하며,
 
 - [공식 웹사이트](http://www.gemeauxgs.com/)
 - [피카사웹을 이용한 앨범](http://picasaweb.google.com/cable8mm/SeoulKMZ)
-
-[google-naver-meshup]: {% post_url 2006-08-08-google-naver-meshup %}

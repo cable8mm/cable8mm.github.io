@@ -5,7 +5,11 @@ date: 2007-05-17 04:47:19
 categories: service
 tags: google search
 author: Samgu Lee
+header:
+  og_image: /assets//assets/google-ux-forth.jpg
 ---
+
+구글 검색 디자인이 통합검색으로 진화하면서 드디어 변경되었다.
 
 구글 검색의 디자인은 한국인 황정목(데니스 황)씨가 전적으로 관리하고 있다. 심플한 그의 성격을 그대로 반영하듯이 구글의 홈페이지는 그 동안 수많은 변화 조짐에도 불구하고 전혀 변하지 않았지만, 구글의 부사장인 마리사 메이어(Marissa Mayer)는 구글 검색을 웹검색에서 [유니버셜 검색](http://googleblog.blogspot.com/2007/05/universal-search-best-answer-is-still.html)으로 전환하면서 검색 전반의 디자인을 수정해 버렸다. 물론, 황정목씨의 승인이 있어야 하는 [사항](http://googleblog.blogspot.com/2007/05/behind-scenes-with-universal-search.html)이지만, 전반적인 구글 프로덕트팀의 입김이 작용했을 것이라 추청된다.
 
@@ -21,7 +25,7 @@ author: Samgu Lee
 
 이로서 구글은 새로운 디자인에 기존의 [원박스(검색 최상단에 필요한 정보를 한개만 보여주는 것)]({% post_url 2007-02-22-google-search-test-of-100-server %})를 다중박스로 확장한 유니버셜 검색을 론칭했고, 그와 더불어 구글 연구소(Labs)에서는 사용자 UI를 테스트하기 위한 네가지 검색어군을 [공개](http://www.google.com/experimental/)했다.
 
-![구글의 네가지 새로운 검색 UX](/assets/google-ux-forth.jpg)
+![구글의 네가지 새로운 검색 UX]({{ page.header.og_image }})
 
 구글의 유니버셜 검색과 한국의 통합검색의 차이점은 무엇일까? 한국 포털들이 초창기부터 통합검색을 추진하고 있지만, 서비스 자체의 변화는 거의 없다. 있다고 하더라도 통합검색의 순서가 바뀌었거나 게시판이나 블로그 검색이 추가된 정도일 것이다. 둘의 차이라면 시간이 지나면서 개선이 되느냐 그렇지 않느냐로 바라볼 수 있을 것이다.
 

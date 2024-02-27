@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글(Google), 웹사이트 옵티마이저 베타 런칭"
-date:   2006-10-19 03:15:31
+title: "구글(Google), 웹사이트 옵티마이저 베타 런칭"
+date: 2006-10-19 03:15:31
 categories: service
 tags: google optimizer
 author: Samgu Lee
 ---
-무엇보다 광고에 많은 자원을 할당하고 있는 구글(Google)은, 웹사이트 옵티마이저라는 프로그램을 런칭했고, 그 사실을 [애드워즈(Adwords) 블로그](http://adwords.blogspot.com/2006/10/beta-testers-needed-for-new-website.html)에 올렸습니다. 애드워즈는 애드센스(AdSense)와 상대적인 개념으로, 광고주를 위한 관리 서비스라고 할 수 있습니다. 웹사이트 옵티마이저는 어떤 일을 할까요?
+
+무엇보다 광고에 많은 자원을 할당하고 있는 구글(Google)은, 웹사이트 옵티마이저라는 프로그램을 런칭했습니다.
+
+그 사실을 [애드워즈(Adwords) 블로그](http://adwords.blogspot.com/2006/10/beta-testers-needed-for-new-website.html)에 올렸습니다. 애드워즈는 애드센스(AdSense)와 상대적인 개념으로, 광고주를 위한 관리 서비스라고 할 수 있습니다. 웹사이트 옵티마이저는 어떤 일을 할까요?
 
 우선 웹사이트 옵티마이저에 대해 알기 위해서 몇가지 단어의 뜻을 알아야 합니다.
 

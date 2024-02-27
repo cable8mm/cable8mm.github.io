@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "Google Video, 오늘만 무료"
-date:   2006-06-23 13:09:00
+title: "Google Video, 오늘만 무료"
+date: 2006-06-23 13:09:00
 categories: news
 tags: google video
 author: Samgu Lee
 ---
+
+구글의 희귀한 프로모션, 구글 비디오를 오늘만 무료로 보세요.
+
 [Googling Google](http://blogs.zdnet.com/Google/?p=240) 인용:
 
 > Google is now offering "free today" ad-supported videos on Google Video. These videos, when purchased, can range from 97 cents to almost 15 dollars.

@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글 베이스 커넥터(Google Base Connector) 런칭"
-date:   2006-10-03 06:40:35
+title: "구글 베이스 커넥터(Google Base Connector) 런칭"
+date: 2006-10-03 06:40:35
 categories: service
 tags: google
 author: Samgu Lee
 ---
-사람이 만든 것이라면 어떤 것이던 등록할 수 있는 서비스인 구글 베이스에서 이미 등록한 아이템들을 손쉽게 다른 쇼핑몰 등에 올릴 수 있는 프로그램인 [구글 베이스 커넥터(Google Base Connector)](http://base.google.com/base/storeconnector/)가 런칭되었습니다. 이 프로그램을 이용하면 이베이, 아마존 그리고 야후 스토어에 물품을 손쉽게 등록할 수 있습니다.
+
+사람이 만든 것이라면 어떤 것이던 등록할 수 있는 서비스인 구글 베이스에서 이미 등록한 아이템들을 손쉽게 다른 쇼핑몰 등에 올릴 수 있는 프로그램인 구글 베이스 커넥터(Google Base Connector)가 런칭되었습니다.
+
+[이 프로그램](http://base.google.com/base/storeconnector/)을 이용하면 이베이, 아마존 그리고 야후 스토어에 물품을 손쉽게 등록할 수 있습니다.
 
 이 프로그램은 윈도우즈 2000/XP 이상에서 작동되는 설치형 프로그램으로 구글에서 제작되었습니다.
 

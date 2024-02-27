@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 웹로그 분석기를 이용해서 밥 얻어먹기"
-date:   2007-01-05 16:26:06
+title: "구글 웹로그 분석기를 이용해서 밥 얻어먹기"
+date: 2007-01-05 16:26:06
 categories: gossip
 tags: google analytics
 author: Samgu Lee
 ---
+
+구글 관련 블로그를 운영하면서 생긴 재미있는 에피소드를 소개합니다.
+
 팔글에서는 스폰서 광고를 진행하고 있다. 우측에 나오는 125픽셀짜리 광고인데, 최근 친구 여동생의 부탁으로 만화가 들어간 광고를 넣어봤다.(그녀의 남편이 오인용 멤버 중 한명이다) 웹마스터는 하루 몇명이 클릭을 했는지 궁금해 질 수가 있다. 일반적으로 로그 분석은 클릭을 한 후의 웹사이트에서 통계가 잡힌다. 하지만, 외부 링크(outbound link)로 나가는 통계는 웹마스터에게 새로운 재미를 줄 수 있을 것이다.
 
 만약, 구글 웹로그 분석기(Google Analytics)의 스크립트를 설치했다면 통계가 잡힐 것이다. 외부로 나가는 링크의 통계를 잡기 위해서는 링크에 자바스크립트 속성을 넣어야 한다. 쉽게 이해하기 위해서는 예를 드는 것 만큼 좋은 방법은 없을 것이다.
@@ -13,7 +16,9 @@ author: Samgu Lee
 팔글 우측에 있는 오인용 책광고를 보도록 하자. 그 광고의 링크는 예스24로 링크가 되고 있다. 이 링크에 다음과 같은 속성을 넣었다.
 
 ```html
-<a href=”[yes24 링크 주소]” onClick=”javascript:urchinTracker(‘/outgoing/yes24.com’);” rel=”external nofollow”>
+<a href=”[yes24 링크 주소]”
+onClick=”javascript:urchinTracker(‘/outgoing/yes24.com’);” rel=”external
+nofollow”>
 ```
 
 위의 소스 중 굵은 글자들이 추가된 속성인데, 이 스크립트를 추가하면 구글 웹로그 분석기에서 /outgoing/yes24.com 으로 통계가 잡히는 것을 알 수 있다.

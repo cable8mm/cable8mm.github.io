@@ -1,26 +1,27 @@
 ---
 layout: single
-title:  "구글 앱스(Google Apps for your domain)"
-date:   2006-08-29 14:41:55
+title: "구글 앱스(Google Apps for your domain)"
+date: 2006-08-29 14:41:55
 categories: service
 tags: google apps
 author: Samgu Lee
 ---
+
 구글의 공식적인 보도자료 배포처인 구글 프레스(Google Press)에서 모처럼 두가지 소식을 알려왔습니다. 이베이와의 제휴 소식과 구글 앱스 소식입니다. 그 중 구글 앱스에 대해서 자세히 알아보겠습니다.
 
 구글 앱스의 정식 명칭은 Google Apps for your domain http://www.google.com/a/ 입니다. 풀이하자면 내 도메인을 사용한 구글 어플리케이션들이라는 말이 됩니다. 구글 서비스를 자사의 도메인으로 사용한다는 것인데, 새로운 것도 있고 새롭지 않은 것도 있습니다.
 
 ## 새롭지 않은 것
 
-구글 앱스는 총 네가지 서비스로 구성되어 있습니다. 도메인을 위한 이메일, 구글 챗, 구글 캘린더 그리고 도메인 웹페이지입니다. 마지막 도메인 웹페이지는 예전에 소개한 [구글 페이지 크리에이터][gpc-launching]의 또다른 명칭입니다.
+구글 앱스는 총 네가지 서비스로 구성되어 있습니다. 도메인을 위한 이메일, 구글 챗, 구글 캘린더 그리고 도메인 웹페이지입니다. 마지막 도메인 웹페이지는 예전에 소개한 [구글 페이지 크리에이터]({% post_url 2006-02-23-gpc-launching %})의 또다른 명칭입니다.
 
 이 모두는 이미 있는 서비스이고, 그 중 구글 챗과 도메인을 위한 이메일은 전혀 바뀐 것이 없습니다. 구글 캘린더도 이미 있던 서비스에 로고를 바꿀 수 있게 한 정도의 변화입니다.
 
 이메일에 관해서는 아래의 링크를 참조하세요.
 
-* Daniel’s Blog - [Gmail for your domain 서비스 리뷰](http://insoftwarehouse.com/blogs/brokenwings/archives/65)
-* ..luv4us 블로그 - [Gmail을 넘어 Google Apps for Your Domain](http://luv4.us/39)
-* [도메인용 구글 메일(Gmail) 사용 팁][gmail-complex]
+- Daniel’s Blog - [Gmail for your domain 서비스 리뷰](http://insoftwarehouse.com/blogs/brokenwings/archives/65)
+- ..luv4us 블로그 - [Gmail을 넘어 Google Apps for Your Domain](http://luv4.us/39)
+- [도메인용 구글 메일(Gmail) 사용 팁]({% post_url 2006-07-31-gmail-complex %})
 
 ## 새로운 것
 
@@ -40,9 +41,9 @@ author: Samgu Lee
 
 구글 인증에 관해서는 아래의 링크를 참고하세요.(약간 기술적인 내용이 있을 수 있습니다.)
 
-* Korean Identity Management(KIM) - [Google Authentication 분석 part 1 : web-based application](http://ayo79.egloos.com/2541381)
-* [구글(Google) 계정 인증 API 공개][google-auth-api-launched]
-* [구글 계정 통합 착수, 가이아 엔진 시동거나?][gaia-protocol-and-google-account]
+- Korean Identity Management(KIM) - [Google Authentication 분석 part 1 : web-based application](http://ayo79.egloos.com/2541381)
+- [구글(Google) 계정 인증 API 공개]({% post_url 2006-06-29-google-auth-api-launched %})
+- [구글 계정 통합 착수, 가이아 엔진 시동거나?]({% post_url 2006-02-10-gaia-protocol-and-google-account %})
 
 ## 구글 앱스의 미래
 
@@ -57,8 +58,3 @@ author: Samgu Lee
 재미있는 사실은 과거 많은 기업들이 실패의 쓴 맛을 본 분야에서 구글은 나이스하게 사용자를 넒히고 있다는 사실이고, 광고 수익을 기반으로 회사의 강력함을 유지하려 노력한다는 점은 MS와 무척이나 닮았다는 사실입니다.
 
 틀린 점이라면 아마 음식에 많은 신경을 쓴다는 정도가 아닐까요?
-
-[gpc-launching]: {% post_url 2006-02-23-gpc-launching %}
-[gmail-complex]: {% post_url 2006-07-31-gmail-complex %}
-[google-auth-api-launched]: {% post_url 2006-06-29-google-auth-api-launched %}
-[gaia-protocol-and-google-account]: {% post_url 2006-02-10-gaia-protocol-and-google-account %}

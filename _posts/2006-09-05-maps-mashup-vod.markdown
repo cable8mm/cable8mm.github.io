@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글 어스와 콩나물의 만남 - 동영상"
-date:   2006-09-05 13:32:57
+title: "구글 어스와 콩나물의 만남 - 동영상"
+date: 2006-09-05 13:32:57
 categories: gossip
 tags: google earth
 author: Samgu Lee
 ---
-SsaZzang's Web Log에서 구글 어스와 콩나물을 매쉬업한 글이 포스팅되었습니다. 하지만, 불여우(Firefox)에서 동작하지 않아서 소개를 못해드렸는데, 無異님께서 "[구글 어스(Google Earth) 2종 세트][best-on-google-earth]" 덧글로 무시무시한 매쉬업 동영상 주소를 포스팅해 주셔서 소개합니다.
+
+SsaZzang's Web Log에서 구글 어스와 콩나물을 매쉬업한 글이 포스팅되었습니다.
+
+하지만, 불여우(Firefox)에서 동작하지 않아서 소개를 못해드렸는데, 無異님께서 "[구글 어스(Google Earth) 2종 세트]({% post_url 2006-08-28-best-on-google-earth %})" 덧글로 무시무시한 매쉬업 동영상 주소를 포스팅해 주셔서 소개합니다.
 
 콩나물은 웹2.0의 바람을 타고 얼마전 사용자의 웹페이지에 콩나물 지도 서비스를 할 수 있는 코드를 선보였습니다. 이삼구글에서도 확인했지만, 역시 불여우(Firefox)에서 제대로 서비스 되지 않았기 때문에 소개해 드리지 않았습니다.
 
@@ -18,7 +21,7 @@ SsaZzang's Web Log에서 구글 어스와 콩나물을 매쉬업한 글이 포�
 
 이 영상을 올리신 분은 예전 네이버 맵을 해킹해서 구글 어스에 연동시킨 영상을 올리신 [taekie님](http://www.youtube.com/profile?user=taekie)이십니다.
 
-"[구글 어스(Google Earth) 2종 세트][best-on-google-earth]"에서 소개한 적이 있는 네이버 맵과 구글 어스의 연동 동영상도 감상을 해 보도록 하죠.
+"[구글 어스(Google Earth) 2종 세트]({% post_url 2006-08-28-best-on-google-earth %})"에서 소개한 적이 있는 네이버 맵과 구글 어스의 연동 동영상도 감상을 해 보도록 하죠.
 
 {% youtube "http://www.youtube.com/v/fmbJIGT2MCo" %}
 
@@ -31,5 +34,3 @@ SsaZzang's Web Log에서 구글 어스와 콩나물을 매쉬업한 글이 포�
 아직은 상용 서비스로 진행될만한 기술은 나오지 않고 있지만, 벌써 이정도의 기술로도 서비스하는 회사가 있습니다.
 
 매쉬업이 실제 서비스로 진화하기 위해선 아직 가야할 길이 멀어 보이지만, 기존의 시스템에선 감히 시도조차 할 수 없는 일을 여러 회사 혹은 개인이 진행하고 있다는 것은 굉장한 일이 아닐 수 없습니다.
-
-[best-on-google-earth]: {% post_url 2006-08-28-best-on-google-earth %}

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 리더의 이스터 에그(Easter Egg)"
-date:   2006-09-29 12:58:14
+title: "구글 리더의 이스터 에그(Easter Egg)"
+date: 2006-09-29 12:58:14
 categories: gossip
 tags: google
 author: Samgu Lee
 ---
+
+구글 리더 업데이트에서 이스터 에그가 발견되었는데 무엇일까요?
+
 [구글 리더의 업데이트]({% post_url 2006-09-29-google-reader-powerup %})에 대한 글을 쓰기 위해 이것 저것 사용해 보다가 인터넷의 끝(The End of Internet)이라는 페이지를 봤는데, [Nathan Weinberg](http://google.blognewschannel.com/index.php/archives/2006/09/29/google-reader-easter-egg/)는 그것을 이스터 에그라고 하더군요. 이스터 에그는 보통 프로그램 제작자가 원래의 기능은 아니지만, 재미있는 기능을 숨겨놓는 것을 말합니다.
 
 한국의 대표적인 이스터 에그는 [KMPlayer](http://raonsky.com/tt/314)와 [곰플래이어의 게임 기능](http://monmorn.egloos.com/184874) 등이 있습니다. 구글 리더에 나오는 이 링크가 이스터 에그라고 말 할 수 있는 것인지는 모르겠습니다만, 재미있는 링크네요.

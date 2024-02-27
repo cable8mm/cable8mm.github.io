@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글, 새로운 검색 알고리즘 인수"
-date:   2006-04-10 09:03:13
+title: "구글, 새로운 검색 알고리즘 인수"
+date: 2006-04-10 09:03:13
 categories: news
 tags: google
 author: Samgu Lee
 ---
-이스라엘 신문 Haaretz Daily는 구글이 이스라엘 학생인 Ori Alon에 의해 발명된 검색 알고리즘을 구매했다고 [4월 9일 보도](http://www.haaretzdaily.com/hasen/spages/703986.html)했습니다. 이 신문은 구글, Alon, 그리고 대학 모두 논평을 거부했다고 전했고, 현재 Alon은 구글 마운틴 뷰의 캘리포니아 사무실에서 근무한다고 밝혔습니다.
+
+이스라엘 신문 Haaretz Daily는 구글이 이스라엘 학생인 Ori Alon에 의해 발명된 검색 알고리즘을 구매했다고 4월 9일에 보도 했습니다.
+
+이 신문은 [구글, Alon, 그리고 대학 모두 논평을 거부했다고 전했고](http://www.haaretzdaily.com/hasen/spages/703986.html), 현재 Alon은 구글 마운틴 뷰의 캘리포니아 사무실에서 근무한다고 밝혔습니다.
 
 Alon은 6개월 전 TheMarker와의 인터뷰에서 대학이 그 발명을 특허등록했다고 말했습니다. Alon이 발명한 검색알고리즘은 Orion이라 불리우는 것으로 기존의 검색이 키워드를 중심으로 결과를 알려줬다면 Orion은 문맥을 인지해서 연관된 문서들을 보여준다고 합니다. 즉, 단어의 연관성에 문서의 질을 포함한다는 개념이라고 합니다.
 

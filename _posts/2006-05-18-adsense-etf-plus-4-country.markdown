@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "애드센스의 전자송금, 4개국 확대"
-date:   2006-05-18 05:49:53
+title: "애드센스의 전자송금, 4개국 확대"
+date: 2006-05-18 05:49:53
 categories: news
 tags: google adsense
 author: Samgu Lee
 ---
+
+애드센스의 전자송금 국가에 뉴질랜드, 호주, 노르웨이, 폴란드 이렇게 4개국이 추가되었습니다.
+
 [Inside Adsense](http://adsense.blogspot.com/2006/05/eft-now-available-in-new-zealand.html) 인용:
 
 > As promised, we've introduced EFT in several new countries. Publishers located in New Zealand, Australia, Norway, and Poland can now have AdSense payments sent directly to their bank accounts while avoiding postal delays and check processing fees.

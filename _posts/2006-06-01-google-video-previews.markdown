@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "Google Video, 영화 예고편 모음서비스"
-date:   2006-06-01 14:21:10
+title: "Google Video, 영화 예고편 모음서비스"
+date: 2006-06-01 14:21:10
 categories: gossip
 tags: google video
 author: Samgu Lee
 ---
-Google Labs 출신의 서비스 중 가장 좋아하는 것 중 하나인 Google Video는 그 행보가 참 재미있습니다. 일반적으로 Google의 서비스는 "난 만든다, 좋으니까 써봐라."라는 식의 매우 도전적입니다. 기존의 서비스가 있어도 뭔가 특별한 것이 있다는 것을 지금까지의 서비스 출시로 보여주었습니다. 하지만, Google Video만큼은 Google에는 없는 무엇이 필요한가 봅니다.
+
+Google Labs 출신의 서비스 중 가장 좋아하는 것 중 하나인 Google Video는 그 행보가 참 재미있습니다.
+
+일반적으로 Google의 서비스는 "난 만든다, 좋으니까 써봐라."라는 식의 매우 도전적입니다. 기존의 서비스가 있어도 뭔가 특별한 것이 있다는 것을 지금까지의 서비스 출시로 보여주었습니다. 하지만, Google Video만큼은 Google에는 없는 무엇이 필요한가 봅니다.
 
 [Google Video][all-about-google-video]는 서비스의 정상화를 마치고 Google 식의 마케팅을 적용했습니다. 무제한 용량에 동영상을 올린 이가 허락만 하면 어떤 웹사이트에도 퍼갈 수 있습니다. 이는 GMail이 초창기 1기가의 용량으로 사용자들의 마음을 흔들어 놓는 것을 생각해 본다면 일리있는 방법입니다.
 
