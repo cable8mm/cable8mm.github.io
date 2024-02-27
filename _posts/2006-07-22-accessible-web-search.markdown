@@ -7,7 +7,7 @@ tags: google search
 author: Samgu Lee
 ---
 
-구글에게 웹 접근성이란 무엇일까요?
+구글 검색을 서비스하고 있는 구글에게 웹 접근성이란 무엇을 의미할까요?
 
 떡이떡이님이 구글 랩스(Google Labs)의 새로운 서비스인 Accessible Web Search에 대한 [소개글](http://itviewpoint.com/tt/index.php?pl=1641)을 포스팅 해 주셨습니다. 보통 Accessible을 '접근성 좋은'이라고 해석하기도 하는데, 웹 접근성이라는 것이 일반적으로 XHTML+CSS로 이루어진 웹페이지를 의미합니다. 딱히 두개의 의미가 같은 것은 아니지만, XHTML+CSS이라는 것이 접근성을 염두에 둔 가이드라인이기 때문입니다.
 
