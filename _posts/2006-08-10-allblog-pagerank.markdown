@@ -1,23 +1,24 @@
 ---
 layout: single
-title:  "올블로그 구글 페이지랭크(Google Pagerank)가 3?"
-date:   2006-08-10 03:07:26
+title: "올블로그 구글 페이지랭크(Google Pagerank)가 3?"
+date: 2006-08-10 03:07:26
 categories: gossip
 tags: google allblog pagerank
 author: Samgu Lee
 ---
+
 페이지랭크는 구글(Google)이 웹문서에 부여한 점수로, 이 점수를 기반으로 검색 결과의 순위를 메기게 됩니다. 한국은 구글의 검색 점유율이 미비해서 상대적으로 중요도가 덜 하지만, 일본을 제외한 외국의 경우는 페이지랭크에 많은 신경을 쓰고 있습니다.
 
-구글 툴바를 쓰는 이용자라면 현재 보는 페이지의 [페이지랭크][about-pagerank]를 탭에서 볼 수 있는데요, 올블로그의 경우 3점이 부여가 됩니다. 같은 블로그 메타 사이트인 미디어몹이 5점을 받은 것에 비한다면 매우 적은 점수입니다.
+구글 툴바를 쓰는 이용자라면 현재 보는 페이지의 [페이지랭크]({% post_url 2006-07-19-about-pagerank %})를 탭에서 볼 수 있는데요, 올블로그의 경우 3점이 부여가 됩니다. 같은 블로그 메타 사이트인 미디어몹이 5점을 받은 것에 비한다면 매우 적은 점수입니다.
 
 그렇다면, 올블로그의 페이지랭크는 3점이 맞을까요?
 
 진실을 이야기한다면 올블로그 메인 도메인의 페이지랭크는 3점이 아니라 5점입니다. 페이지랭크 측정기를 이용해서 살펴보면 쉽게 알 수 있습니다. 페이지랭크 측정기에서 베스트 300 페이지를 보게 되면 올블로그와 관계된 점수가 나오는데 아래와 같습니다.
 
-* allblog.net -> 5점
-* www.allblog.net -> 5점
-* allblog.net/Home/ -> 3점
-* allblog.net/Home -> 5점
+- allblog.net -> 5점
+- www.allblog.net -> 5점
+- allblog.net/Home/ -> 3점
+- allblog.net/Home -> 5점
 
 올블로그와 미디어몹 둘 다 5점으로 같다는 것을 알 수 있습니다. 다만, 올블로그가 첫페이지를 3점 도메인으로 자동 포워딩 시켜서 그렇데 나온다는 것을 알 수 있죠.(메인 페이지의 포워딩은 마케팅적으로 바람직한 것은 아닙니다.)
 
@@ -26,5 +27,3 @@ author: Samgu Lee
 전세계 최고 랭크 10에 올라와 있는 웹사이트도 몇개 되지 않죠.
 
 최고 페이지랭크는 [SearchEnginegenie](http://www.searchenginegenie.com/pagerank-10-sites.htm)에서 확인할 수 있습니다.
-
-[about-pagerank]: {% post_url 2006-07-19-about-pagerank %}

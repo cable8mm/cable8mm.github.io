@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글 워드프로세서로 티스토리 글올리기"
-date:   2007-02-28 08:57:18
+title: "구글 워드프로세서로 티스토리 글올리기"
+date: 2007-02-28 08:57:18
 categories: service
 tags: google wordprocessor tistory
 author: Samgu Lee
 ---
-라이틀리(Writely)를 [인수]{% post_url 2006-10-19-mna-guide-with-korea %}해서 구글에 편입시킨 구글 워드프로세서&스프레드쉬트는 블로그API를 이용해서 글을 올리는 기능을 제공한다. 하지만, 몇개의 블로그에서는 구글 워드프로세서로 글이 올라가지 않는다고 한다.
+
+라이틀리를 인수한 구글 워드프로세서에서 티스토리에 글을 올릴 수 있게 될까요?
+
+라이틀리(Writely)를 [인수]({% post_url 2006-10-19-mna-guide-with-korea %})해서 구글에 편입시킨 구글 워드프로세서&스프레드쉬트는 블로그API를 이용해서 글을 올리는 기능을 제공한다. 하지만, 몇개의 블로그에서는 구글 워드프로세서로 글이 올라가지 않는다고 한다.
 
 [VoIP on WEB2.0](http://mushman.tistory.com/entry/BlogAPI%EA%B0%80-%EA%B5%AC%EA%B8%80-%EB%8B%A5%EC%8A%A4%EC%97%90%EC%84%9C-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%88%EB%90%98%EB%8A%94%EA%B5%B0%EC%9A%94)에서는 자세한 그림과 함께 설명해 놓았는데, TNC의 개발자로 있는 [겐도사마님](http://gendoh.tistory.com/2510869)은 이 문제에 대해서 다음과 같은 답변을 남겼다.
 

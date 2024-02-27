@@ -9,7 +9,7 @@ header:
   og_image: /assets/mapin-and-wingbus.jpg
 ---
 
-팔글에서는 [구글 디벨로퍼 나이트][google-developer-night-and-google-map]의 맵 API 섹션에서 발표자였던 크리스 아테나시오(Chris Atenasio)에게, 현재 구글 맵을 API를 쓰지 않고 해킹하는 서비스들에 대해서 질문을 한 바 있다. 그리고, 당시 두개 정도의 사이트가 아직까지 정상적으로 운영되고 있다고 언급했다.
+팔글에서는 [구글 디벨로퍼 나이트]({% post_url 2007-10-17-google-developer-night-and-google-map %})의 맵 API 섹션에서 발표자였던 크리스 아테나시오(Chris Atenasio)에게, 현재 구글 맵을 API를 쓰지 않고 해킹하는 서비스들에 대해서 질문을 한 바 있다. 그리고, 당시 두개 정도의 사이트가 아직까지 정상적으로 운영되고 있다고 언급했다.
 
 ![맵인과 윙버스]({{ page.header.og_image }})
 
@@ -28,5 +28,3 @@ header:
 이런 서비스를 매쉬업이라고 해야할 지는 확신이 서질 않지만, 구글이 이런 식의 서비스를 강제로 막지는 않는다는 것은 현재까지 맞는 말인 것 같다.
 
 하지만, 해킹을 하지 않고 서비스를 하려는 회사들도 생기고 있다. 이 부분에 대해서는 다시 언급할 기회가 있을 것이다. 한편, 현재까지 구글 맵의 엔터프라이즈 유료 서비스는 아시아에서는 제공되지 않는다.
-
-[google-developer-night-and-google-map]: {% post_url 2007-10-17-google-developer-night-and-google-map %}
