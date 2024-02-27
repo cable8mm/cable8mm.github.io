@@ -15,7 +15,7 @@ author: Samgu Lee
 
 동영상 서비스 중에 유료 플랫폼이 갖추어져 있는 오픈 플랫폼형 비디오 서비스인 Google Video의 유료 영상 일부를 하루 무료로 서비스하는 [Google Video Free Today! 서비스](http://video.google.com/freetoday.html)가 오픈했습니다.
 
-![](/assets/google_video_free_today_screenshop.png)
+![구글 비디오 오늘만 무료](/assets/google_video_free_today_screenshop.png)
 
 일단은 한글 자막을 지원하지 않지만, Extreme Sports 섹션 같은 자막 없이도 즐길 수 있는 영상들도 구비한것 같으니 저같은 공짜족들은 구경해 보시기 바랍니다.
 
