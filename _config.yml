@@ -146,6 +146,9 @@ footer:
     - label: "About"
       icon: "fas fa-fw fa-link"
       url: /about/
+    - label: "Interview"
+      icon: "fas fa-fw fa-link"
+      url: /interview/
     - label: "Contact"
       icon: "fas fa-fw fa-link"
       url: /contact/
