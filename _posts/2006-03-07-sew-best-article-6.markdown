@@ -1,12 +1,13 @@
 ---
 layout: single
-title:  "SEW 블로그, 여섯가지 하이라이트 발표"
-date:   2006-03-07 05:23:33
+title: "SEW 블로그, 여섯가지 하이라이트 발표"
+date: 2006-03-07 05:23:33
 categories: news
 tags: google adsense
 author: Samgu Lee
 ---
-SEW(Search Engine Watch)에서 블로그의 하일라이트 6종세트를 공개했습니다. 이삼구글에서는 그 내용을 소개합니다.
+
+SEW(Search Engine Watch)에서 블로그의 하일라이트 6종세트를 공개했습니다. 팔글에서는 그 내용을 소개합니다.
 
 서치 엔진 워치의 약자인 [SEW(Search Engine Watch)](http://searchenginewatch.com/)는 검색엔진들의 뉴스만을 전문적으로 다루는 웹사이트입니다. 이 사이트는 굉장히 빠르면서도 전문적인 글을 쓰는 곳으로 유명한데, 자사 블로그의 하일라이트 6가지를 공개했습니다. 그 중 구글과 관련있는 것 다섯개를 발췌해서 그 내용을 제목은 그대로 쓰고 내용은 한국실정에 맞게 재구성합니다.
 
@@ -30,9 +31,9 @@ SEW(Search Engine Watch)에서 블로그의 하일라이트 6종세트를 공개
 
 > "우리는 이메일, 웹 히스토리, 그림, 북마크와 기타 모든 사용자 파일들을 무한정 저장할 수 있는 공간을 제공할 수 있고, 그 것들을 어떤 디바이스던지 어떤 플랫폼이던지 접근할 수 있게 할 수 있습니다. 우리는 이미 지드라이브, GDS(구글 데스크탑 서치를 말함), 등대 등의 말로 이 부분에 많은 노력을 기울였습니다만, 현재 대역폭과 저장공간의 제약에 직면하고 있습니다." - Analyst Day 프리젠테이션 노트 발췌
 >
-> "With infinite storage, we can house all user files, including: emails, web history, pictures, bookmarks, etc and make it accessible from anywhere (any device, any platform, etc). We already have efforts in this direction in terms of GDrive, GDS, Lighthouse, but all of them face bandwidth and storage constraints today."  — excerpt from Analyst Day presentation notes.
+> "With infinite storage, we can house all user files, including: emails, web history, pictures, bookmarks, etc and make it accessible from anywhere (any device, any platform, etc). We already have efforts in this direction in terms of GDrive, GDS, Lighthouse, but all of them face bandwidth and storage constraints today." — excerpt from Analyst Day presentation notes.
 
-위에서 나오는 등대(Lighthouse)라는 서비스명은 아직 무엇인지 발표되지 않았습니다만, 이삼구글은 개인화페이지와 관계된 서비스가 아닐까만 추측하고 있습니다.
+위에서 나오는 등대(Lighthouse)라는 서비스명은 아직 무엇인지 발표되지 않았습니다만, 팔글은 개인화페이지와 관계된 서비스가 아닐까만 추측하고 있습니다.
 
 ## 검색의 폭발적 성장은 끝났다. 하지만 성장은 계속(Search Hypergrowth Over; But Search Growth Continues)
 

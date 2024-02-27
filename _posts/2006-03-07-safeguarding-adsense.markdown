@@ -1,12 +1,13 @@
 ---
 layout: single
-title:  "만약 여러분이 애드센스를 보고 사이트를 구매한다면?"
-date:   2006-03-07 08:40:39
+title: "만약 여러분이 애드센스를 보고 사이트를 구매한다면?"
+date: 2006-03-07 08:40:39
 categories: gossip
 tags: google adsense
 author: Samgu Lee
 ---
-젠센스를 운영하는 Jennifer Slegg은 [애드센스를 염두에 두고 웹사이트를 인수](http://www.jensense.com/archives/2006/03/safeguarding_yo.html)할 때 확인할 수 있는 방법과 무엇을 확인해야 하는지를 알려왔습니다. 이삼구글에서는 그 내용을 요약해서 알려드립니다.
+
+젠센스를 운영하는 Jennifer Slegg은 [애드센스를 염두에 두고 웹사이트를 인수](http://www.jensense.com/archives/2006/03/safeguarding_yo.html)할 때 확인할 수 있는 방법과 무엇을 확인해야 하는지를 알려왔습니다. 팔글에서는 그 내용을 요약해서 알려드립니다.
 
 웹사이트를 인수했는데 그 사이트가 애드센스에 거부된 적이 있다면 난감할 것입니다. 난감하지 않다 하더라도 인수 전에는 그런 것들은 충분히 고려할 만한 가치가 있는 일입니다. 그럼, 몇가지 방법을 알려드립니다.
 
@@ -14,9 +15,10 @@ author: Samgu Lee
 
 인수할 웹사이트 몇페이지에 미리보기 도구를 사용하여 광고를 미리볼 경우 광고가 나오지 않거나 "e:-2146697208"같은 에러메세지가 나올 경우 그 웹사이트는 애드센스에서 거부된 적이 있다고 볼 수 있습니다. 이 에러메세지가 뜨지 않고 다음과 같은 메세지가 나올 수도 있습니다.
 
-> We are unable to show ads on this page. Possible reasons include:  
-    * No ads are currently available for the selected geographic region.  
-    * Page has not been crawled. Please try again later.  
+> We are unable to show ads on this page. Possible reasons include:
+
+    * No ads are currently available for the selected geographic region.
+    * Page has not been crawled. Please try again later.
     * This page contains sensitive content. Google AdSense filters ads from pages containing sensitive news items or content.
 
 ![웃긴대학에서 미리보기 한 화면](/assets/preview_in_humor.jpg)

@@ -1,12 +1,13 @@
 ---
 layout: single
-title:  "아이트래킹으로 유추해보는 구글 광고"
-date:   2006-03-29 08:08:04
+title: "아이트래킹으로 유추해보는 구글 광고"
+date: 2006-03-29 08:08:04
 categories: gossip
 tags: google
 author: Samgu Lee
 ---
-아이트래킹은 사람의 시선이 모니터의 어느 부분을 보고 있는지를 색깔로 보여주는 일종의 실험입니다. 실험팀은 웹의 유저빌러티를 보기위해 구글을 예로 들었는데, 이삼구글에서는 역으로 광고의 효과에 대해서 언급해보려 합니다.
+
+아이트래킹은 사람의 시선이 모니터의 어느 부분을 보고 있는지를 색깔로 보여주는 일종의 실험입니다. 실험팀은 웹의 유저빌러티를 보기위해 구글을 예로 들었는데, 팔글에서는 역으로 광고의 효과에 대해서 언급해보려 합니다.
 
 사진을 보기 전에 구글엔 크게 두가지 광고가 있습니다. 키워드광고라고도 불리우는 검색광고와 문맥을 분석해서 보여주는 [문맥광고][intellitxt-and-smartad], 그리고 둘을 합쳐서 애드센스라고 합니다.(구글 자체 사이트일 경우는 애드센스라 하지 않음)
 
@@ -39,7 +40,6 @@ Ad Blindness는 광고자가 가장 우려하는 것으로 초창기 이미지 �
 광고 게시자는 자신의 웹사이트가 검색형인지 컨텐츠형인지 알 필요가 있습니다. 그리고, 올블로그와 같은 메타사이트의 경우 검색결과의 최상단에 광고를 넣는다면 좋은 효과가 생길 수 있음을 이 결과를 통해서도 알 수 있습니다.
 
 via - [nngroup](http://www.nngroup.com/events/tutorials/eyetracking.html), [enquiro](http://www.enquiro.com/eye-tracking-pr.asp)
-
 
 [intellitxt-and-smartad]: {% post_url 2005-12-11-intellitxt-and-smartad %}
 [marketing-topic]: {% post_url 2005-12-12-marketing-topic %}

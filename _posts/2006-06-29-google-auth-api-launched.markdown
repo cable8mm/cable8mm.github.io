@@ -11,7 +11,7 @@ author: Samgu Lee
 
 [그 당시 스펙에 따르면][gdata-means] 인증 부분이 구현되어 있었지만, 실제 작동되지는 않았는데 이번 계정 인증(Google Account Authentication) API의 구현으로 인해서 구글의 계정 데이터를 이용해서 서비스를 개발할 수 있게 되었습니다.
 
-[구글 계정 인증](http://code.google.com/apis/accounts/Authentication.html)은 크게 두가지로 되어 있습니다. 어플리케이션(일반 프로그램) 인증과, 웹서비스 인증이 그것입니다. 둘은 각각 ClientLogin API와 AuthSub API로 작동되는데, 이삼구글에서는 웹서비스 인증에 대해서만 알아보겠습니다.
+[구글 계정 인증](http://code.google.com/apis/accounts/Authentication.html)은 크게 두가지로 되어 있습니다. 어플리케이션(일반 프로그램) 인증과, 웹서비스 인증이 그것입니다. 둘은 각각 ClientLogin API와 AuthSub API로 작동되는데, 팔글에서는 웹서비스 인증에 대해서만 알아보겠습니다.
 
 ## 구글 계정 인증 API의 프로세스
 

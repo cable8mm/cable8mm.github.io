@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "야후!보다 더 야후!같은 하나포스 검색"
-date:   2006-02-12 22:54:00
+title: "야후!보다 더 야후!같은 하나포스 검색"
+date: 2006-02-12 22:54:00
 categories: service
 tags: hanaforce yahoo search
 author: Samgu Lee
 ---
+
 하나포스는 포탈사이트 순위로는 높지 않지만 나름의 매니아를 가지고 있는 커뮤니티입니다. 그런 하나포스에서 웹검색을 해보면 꽤 괜찮은 검색결과가 나온다는 것을 확인해 볼 수 있습니다. 그런데 이상한 것은 국내 어떤 검색엔진과도 같지 않은 결과를 쏟아냅니다. 어떻게 된 것일까요?
 
 결과적으로 이야기하면 하나포스는 야후닷컴의 검색결과를 그대로 보여줍니다. [하나포스의 웹검색 도움말](http://search.hanafos.com/help/help_01_01_03.asp)을 보면 이런 문구를 확인할 수 있습니다.
@@ -20,7 +21,7 @@ author: Samgu Lee
 
 ## 그렇다면 야후코리아는 필터링을 하나?
 
-"이삼구글"로 검색한 결과는 [야후닷컴](http://search.yahoo.com/search?p=%EC%9D%B4%EC%82%BC%EA%B5%AC%EA%B8%80&amp;prssweb=Search&amp;ei=UTF-8&amp;meta=vl%3Dlang_ko&amp;fl=1&amp;vl=lang_ko&amp;fr=sfp&amp;b=1)(한글검색으로 세팅)이 6830건인데 반해 [야후코리아](http://kr.search.yahoo.com/search/web?p=%C0%CC%BB%EF%B1%B8%B1%DB&amp;ret=1&amp;fr=kr-search_top&amp;x=29&amp;y=16)는 2900건을 검색해냅니다. 반면 [하나포스](http://search.hanafos.com/Web/SC_Web.asp?cpage=3&amp;query=%C0%CC%BB%EF%B1%B8%B1%DB)는 42건을 검색해냅니다. 검색결과는 야후닷컴과 하나포스가 완전히 같고, 야후코리아는 차이가 납니다.
+"팔글"로 검색한 결과는 [야후닷컴](http://search.yahoo.com/search?p=%EC%9D%B4%EC%82%BC%EA%B5%AC%EA%B8%80&prssweb=Search&ei=UTF-8&meta=vl%3Dlang_ko&fl=1&vl=lang_ko&fr=sfp&b=1)(한글검색으로 세팅)이 6830건인데 반해 [야후코리아](http://kr.search.yahoo.com/search/web?p=%C0%CC%BB%EF%B1%B8%B1%DB&ret=1&fr=kr-search_top&x=29&y=16)는 2900건을 검색해냅니다. 반면 [하나포스](http://search.hanafos.com/Web/SC_Web.asp?cpage=3&query=%C0%CC%BB%EF%B1%B8%B1%DB)는 42건을 검색해냅니다. 검색결과는 야후닷컴과 하나포스가 완전히 같고, 야후코리아는 차이가 납니다.
 
 하나포스와 와이즈넛의 관계는?
 

@@ -1,20 +1,21 @@
 ---
 layout: single
-title:  "구글 애드센스의 플래쉬 프리젠테이션"
-date:   2005-12-15 10:11:53
+title: "구글 애드센스의 플래쉬 프리젠테이션"
+date: 2005-12-15 10:11:53
 categories: advertising
 tags: google adsense
 author: Samgu Lee
 ---
+
 구글 웹사이트 어디에도 링크가 되어 있지 않은 구글 애드센스 프리젠테이션의 플래쉬버젼과 그림버젼을 소개합니다.
 
 한국 블로거 사이에서 폭발적으로 늘고 있는 구글 애드센스의 프리젠테이션 플래쉬는 너무 쉽게 제작된 면도 없지 않아 있지만, 최소한 어떻게 구글 애드센스가 진행되는지 한국에 알아볼 수 있는 좋은 자료라고 생각됩니다.
 
 아래의 링크에서 보실 수 있습니다.
 
-[*구글 애드센스 프리젠테이션 플래쉬버젼*](http://services.google.com/demo/adsense/demo05?url=http%3A%2F%2Fblog.repl.net%2F&x=21&y=10)
+[_구글 애드센스 프리젠테이션 플래쉬버젼_](http://services.google.com/demo/adsense/demo05?url=http%3A%2F%2Fpalgle.com%2F&x=21&y=10)
 
-[*구글 애드센스 프리젠테이션 그림버젼*](http://services.google.com/marketing/links/as_demo_low/)
+[_구글 애드센스 프리젠테이션 그림버젼_](http://services.google.com/marketing/links/as_demo_low/)
 
 그림과 같이 봐야 되겠지만, 글만 우선 보려는 분들이나 영어는 싫다라고 하는 분들을 위해 번역문을 올립니다.
 
