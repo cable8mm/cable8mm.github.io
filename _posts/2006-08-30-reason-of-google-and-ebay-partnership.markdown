@@ -7,7 +7,7 @@ tags: google apps
 author: Samgu Lee
 ---
 
-왜 이베이와 구글이 제휴를 하게 되었을까요?
+제휴에 인색한 기술기업 구글이 왜 이베이와 구글이 제휴를 하게 되었는지 가볍고 얕게 알아보시죠.
 
 [Rationale 블로그](http://www.rtnl.info/207) 인용:
 
