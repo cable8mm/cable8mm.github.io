@@ -9,9 +9,11 @@ header:
   og_image: /assets/images/laravel7.png
 ---
 
-라라벨 HTTP 클라이언트는 Guzzle HTTP 클라이언트를 기반으로 하되 자주 쓰는 기능만 추리고, 더 사용하기 편하게 만든 도구입니다. 주로 외부 애플리케이션에 HTTP 요청을 보낼 때 사용합니다.
+라라벨 HTTP 클라이언트는 Guzzle HTTP 클라이언트를 기반으로 하되 자주 쓰는 기능만 추리고, 더 사용하기 편하게 만든 도구입니다.
 
 ![라라벨 7]({{ page.header.og_image }})
+
+주로 외부 애플리케이션에 HTTP 요청을 보낼 때 사용합니다.
 
 Guzzle HTTP 클라이언트에 의존하기 때문에 컴포저로 애플리케이션에 Guzzle HTTP 클라이언트를 설치해야 사용할 수 있습니다.
 
