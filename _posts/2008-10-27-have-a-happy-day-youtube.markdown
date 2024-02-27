@@ -7,6 +7,8 @@ tags: youtube
 author: Samgu Lee
 header:
   og_image: /assets/images/youtube-girl.png
+redirect_from:
+  - /2008/10/27/youtube-smile/
 ---
 
 프리헉스는 인터넷을 통해 많은 사람에게 감동을 준 대표적인 동영상 중 하나로 꼽힌다. 이와 비슷한 영상이 유튜브에 조용히 퍼지고 있어 팔글에서 소개해 본다.
