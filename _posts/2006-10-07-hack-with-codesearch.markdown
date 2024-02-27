@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글 코드 검색(Google Code Search)의 공포"
-date:   2006-10-07 02:56:37
+title: "구글 코드 검색(Google Code Search)의 공포"
+date: 2006-10-07 02:56:37
 categories: opinion
 tags: google code
 author: Samgu Lee
 ---
-구글 검색(Google Web Search)에 주민등록번호가 나온다는 이야기처럼, 웹 프로그래머도 자신의 소스를 웹서버에 올리면 안될 것 같습니다. 구글 코드 검색은 가장 많은 소스를 인덱싱하고 있는데, 그 중에는 공개를 원하지 않지만, 편리성을 위해서 웹에 올린 소스들(심지어 압축을 한 소스마져도)을 검색해 줍니다.
+
+구글 검색(Google Web Search)에 주민등록번호가 나온다는 이야기처럼, 웹 프로그래머도 자신의 소스를 웹서버에 올리면 안될 것 같습니다.
+
+구글 코드 검색은 가장 많은 소스를 인덱싱하고 있는데, 그 중에는 공개를 원하지 않지만, 편리성을 위해서 웹에 올린 소스들(심지어 압축을 한 소스마져도)을 검색해 줍니다.
 
 ![구글 코드 검색 로고](/assets/codesearch_logo.gif)
 

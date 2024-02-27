@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "Google과 MS, 색다른 두 얼굴"
-date:   2006-05-13 15:47:59
+title: "Google과 MS, 색다른 두 얼굴"
+date: 2006-05-13 15:47:59
 categories: opinion
 tags: google microsoft
 author: Samgu Lee
 ---
-[아이뉴스24](http://news.inews24.com/php/news_view.php?g_serial=204170&amp;g_menu=020600) 인용 :
+
+MS는 구글의 시장으로, 구글은 MS의 시장에 관심이 아주 많네요.
+
+[아이뉴스24](http://news.inews24.com/php/news_view.php?g_serial=204170&g_menu=020600) 인용 :
 
 > 스티브 발머 마이크로소프트(MS) 최고경영자(CEO)는 5년 내에 구글과 야후가 지배하고 있는 인터넷 광고 시장을 상당 부분 잠식할 계획이라고 말했다고 로이터통신이 11일(현지 시간) 보도했다.발머 CEO는 이날 실리콘밸리 기업인들과의 런천 모임에서 "구글, 야후 등 인터넷 광고 시장 강자들의 뒤를 쫓는 것을 즐기지는 않지만 조만간 이들을 따라잡을 수 있는 신기술을 내놓을 수 있을 것이다"라고 말했다.
 

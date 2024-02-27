@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글(Google), 영국에서 AJAX 개발 시연 동영상"
-date:   2006-09-26 02:21:40
+title: "구글(Google), 영국에서 AJAX 개발 시연 동영상"
+date: 2006-09-26 02:21:40
 categories: news
 tags: google page
 author: Samgu Lee
 ---
-변변한 개발 툴조차 없는 AJAX를, 구글은 London Test Automation Conference (LTAC)에서 테스트 어플리케이션을 만드는 시연을 보여주었습니다. 동영상은 2006년 9월 7일에 촬영된 것으로 발제자는 아담 코너스(Adam Connors)와 조 왈네스(Joe Walnes)입니다.
+
+변변한 개발 툴조차 없는 AJAX를, 구글은 London Test Automation Conference (LTAC)에서 테스트 어플리케이션을 만드는 시연을 보여주었습니다.
+
+동영상은 2006년 9월 7일에 촬영된 것으로 발제자는 아담 코너스(Adam Connors)와 조 왈네스(Joe Walnes)입니다.
 
 아래의 동영상은 [구글 비디오]({% post_url 2006-01-12-all-about-google-video %})에 공유된 것으로 구글 비디오에 접속하면 이것 말고도 몇개의 흥미로운 영상을 볼 수 있습니다. 이번 컨퍼런스는 실제 테스트 결과를 시연하는 것으로 이론에만 그치는 것이 아니기 때문에 실제 개발자들에 많은 도움이 되리라 생각합니다.
 

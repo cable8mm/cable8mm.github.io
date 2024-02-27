@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "차세대 RIA는 과연 Ajax가 될것인가?"
-date:   2007-03-27 09:34:42
+title: "차세대 RIA는 과연 Ajax가 될것인가?"
+date: 2007-03-27 09:34:42
 categories: opinion
 tags: ria ajax development
 author: Samgu Lee
 ---
+
+차세대 RIA로 플래시, 자바스크립트 중 최종 승자는 누가 될까요?
+
 RIA(Rich Internet Application)이라는 용어는 광고에서 주로 사용되었다. 인터넷 초창기 때는 회선이 느렸기 때문에 텍스트 위주의 홈페이지가 주를 이루었지만, 광고에서 만큼은 모션이 들어가야 했기 때문에 선두적인 광고 에이젼시들은 움직이는 광고물을 제작했고, 그 때 적당한 용어가 필요했기 때문에 나온 말이 RIA라고 할 수 있다. 당연하겠지만, 이 용어는 플래쉬의 개발사인 매크로미디어(현재 어도비에 인수됐다)가 만든 용어이고, 현재 RIA가 다른 의미로 사용되는 경우도 있기 때문에 광고에서는 리치 미디어(Rich Media)라는 용어를 사용한다.
 
 아무튼, 현재의 RIA는 컴퓨터에서 실행되는 프로그램과 비슷한 분위기를 풍기는 웹서비스를 지칭한다. 어떤 것이 RIA냐 하는 논쟁은 그다지 큰 의미가 없을 것이다. 일반적으로 링크를 클릭했을 경우 다른 화면이 나오지 않는 서비스를 RIA라고 말한다.
@@ -26,11 +29,11 @@ RIA라는 말이 매크로미디어에서 나온 이후, 시맨틱웹이라는 �
 
 ## Flash vs Ajax (Maps, Cart and OS)
 
-* Google Maps http://maps.google.com
-* Flash Earth http://www.flashearth.com
-* swiffCart https://www.swiffcart.com
-* highfdvd http://www.hidefdvd.com
-* eyeos.org http://eyeos.org/demo/desktop.php
-* snowMaker http://www.withsnow.net
-* Lanzlo Mail http://www.laszlomail.com/lzmail/
-* Yahoo Meta Beta http://mail.yahoo.com/
+- Google Maps http://maps.google.com
+- Flash Earth http://www.flashearth.com
+- swiffCart https://www.swiffcart.com
+- highfdvd http://www.hidefdvd.com
+- eyeos.org http://eyeos.org/demo/desktop.php
+- snowMaker http://www.withsnow.net
+- Lanzlo Mail http://www.laszlomail.com/lzmail/
+- Yahoo Meta Beta http://mail.yahoo.com/

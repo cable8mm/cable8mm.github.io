@@ -9,6 +9,8 @@ header:
   og_image: /assets/google_and_tnc.gif
 ---
 
+태터툴즈와 티스토리 운용사인 태터 앤 컴퍼니가 구글에 인수되었습니다.
+
 구글코리아와 태터앤컴퍼니(이하 TNC)는 9월 12일자 [보도자료](http://docs.google.com/Doc?id=ajfjqkh5m8z8_93d5thkqhg)와 [공식 블로그](http://googlekoreablog.blogspot.com/2008/09/blog-post_12.html)를 통해 두 회사가 합병되었음을 알려왔고, TNC의 공동 대표인 김창원은 자신의 영문 블로그인 Web 2.0 Asia를 통해 상세한 내용을 [영문으로 제공](http://web20asia.com/321)했고, [로이터통신](http://www.reuters.com/article/technologyNews/idUSN1247430620080912)이나 [ZDNET](http://news.zdnet.co.uk/internet/0,1000000097,39488199,00.htm)과 같은 외신 Web 2.0 Asia의 글을 인용/보도했다. 이로서, 한국에서 첫번째 구글 인수가 마무리되었다.
 
 ![TNC, 구글코리아에 인수]({{ page.header.og_image }})

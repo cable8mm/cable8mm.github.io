@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "피카사 웹 앨범을 이제 맥에서도..."
-date:   2006-08-14 15:11:55
+title: "피카사 웹 앨범을 이제 맥에서도..."
+date: 2006-08-14 15:11:55
 categories: service
 tags: google picasa
 author: Samgu Lee
 ---
+
+드디어 맥용 피카사 웹 앨범이 론칭되었습니다.
+
 팔글 블로그에선 피카사를 이용해서 편리하게 웹상의 앨범을 꾸밀 수 있는 [피카사 웹 앨범의 런칭 소식][picasa-web-albums-review]을 알려드린 바 있습니다. 피카사는 리눅스와 윈도우즈에서 작동되는 어플리케이션이기 때문에 맥 유저는 사용할 수 없었습니다. 하지만, iPhoto의 [익스포터(Exporter)와 업로더](http://picasa.google.com/web/mac_tools.html)로 피카사 웹 앨범(Picasa Web Albums)에 사진을 올릴 수 있게 되었습니다.
 
 피카사(Picasa)가 구글의 인수로 무료로 나왔을 때, 윈도우즈 유저들은 직관적인 UI와 편리성으로 대단한 찬사를 보냈지만, 상대적으로 맥 유저들은 iPhoto가 더 편하다며 [전혀 신경을 쓰지 않는 분위기][launching-google-widgets-for-mac]였습니다.

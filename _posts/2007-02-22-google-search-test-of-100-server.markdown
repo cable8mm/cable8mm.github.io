@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글의 100번 서버 검색 테스트"
-date:   2007-02-22 05:11:20
+title: "구글의 100번 서버 검색 테스트"
+date: 2007-02-22 05:11:20
 categories: opinion
 tags: google search
 author: Samgu Lee
 ---
+
+구글 검색이 신규 기능을 테스트할 때 어떤 상황이 발생할까 알아봅니다.
+
 구글은 약 70개의 데이터센터를 보유하고 있고, 대부분 그들은 같은 알고리즘을 사용하기 때문에 시기의 차이는 있지만 기본적으로 검색결과가 같다. 하지만, 구글은 새로운 기능을 테스트할 때 한두개의 데이터센터에만 적용을 하는 경우가 있는데, 최근 [Google Operation System 블로그](http://googlesystem.blogspot.com/2007/02/plus-boxes-new-way-to-look-at-search.html)에 따르면 100번 서버(72.14.207.100 - 현재는 )에서 흥미로운 기능을 볼 수 있다.
 
 이번에 추가된 기능으로 검색결과에 구글 파이넨스의 결과를 숨김기능을 이용해서 노출해 준다. 공식적인 명칭은 정해지지 않았지만, 플러스 표시가 있다고 해서 "플러스 박스(Plus Box)"라고도 부르고, URL에 manybox가 표시된다고 해서 매니박스(ManyBox)라고도 부른다. 아무튼, 100번 서버에 접속해서 "[phone company](http://72.14.207.100/search?hl=en&q=phone+company&btnG=Search)"로 검색해 보자.

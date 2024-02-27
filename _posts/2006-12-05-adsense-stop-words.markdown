@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "애드센스 스탑 워즈(Stop Words)"
-date:   2006-12-05 14:18:34
+title: "애드센스 스탑 워즈(Stop Words)"
+date: 2006-12-05 14:18:34
 categories: tips
 tags: google adsense
 author: Samgu Lee
 ---
-구글 그룹스에는 구글 관련 그룹이 존재하는데, 열심히;;(대화명)님은 구글 AdSense 그룹(비공개)에 흥미로운 정보를 알려주었다. 애드센스 스탑 워즈(AdSense Stop Words)라고 하는 것인데, 페이지 내에 어떤 단어가 삽입될 경우 어떤 광고도 뜨지 않거나, 또는 공익광고(PSA)가 뜨는 것을 말한다.
+
+구글 그룹스에는 구글 관련 그룹이 존재하는데, 열심히;;(대화명)님은 구글 AdSense 그룹(비공개)에 흥미로운 정보를 알려주었다.
+
+애드센스 스탑 워즈(AdSense Stop Words)라고 하는 것인데, 페이지 내에 어떤 단어가 삽입될 경우 어떤 광고도 뜨지 않거나, 또는 공익광고(PSA)가 뜨는 것을 말한다.
 
 이 이론이 나온 곳은 다름 아닌 [Vaughn's Summaries](http://www.vaughns-1-pagers.com/internet/adsense-stop-words.htm)라고 하는 곳으로, 정확한 정보는 아니고 글쓴이의 추측으로 작성된 자료라고 보여진다. 이 리스트는 2006년 8월 14일까지 업데이트가 됐고, 단어는 광고하기 부적합한 단어임에는 틀림없어 보인다.
 

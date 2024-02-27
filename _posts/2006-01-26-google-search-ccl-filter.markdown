@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 웹서치, CCL에 근거한 사용권한"
-date:   2006-01-25 15:36:54
+title: "구글 웹서치, CCL에 근거한 사용권한"
+date: 2006-01-25 15:36:54
 categories: service
 tags: google search
 author: Samgu Lee
 ---
+
+저작권으로 골치가 아픈 구글이 CCL 관련해서 허둥지둥 대는 모습을 보이고 있습니다.
+
 저작물의 이용허락 계약을 체결하기 위한 일종의 표준약관인 CCL(Creative Common License)은 저작물 검색엔진으로 야후 Creative Common Search를 사용해 왔습니다. 그런데, 소리소문없이 구글의 고급검색에 사용권한(Usage Rights) 필터가 추가되고 연관된 [도움말이 올라왔다가 현재는 사라지는 현상](http://www.google.com/support/bin/answer.py?answer=29508)이 발생했습니다.
 
 CCL은 인터넷 상에서 저작물 이용이 사실상 불가능하다는 것에 착안을 해서 하바드 로스쿨의 인터넷 사회를 위한 버그만 센터의 직원과 학생들의 도움하에 여러 방면의 전문가들이 [2001년도에 만들고 무료로 제공](http://www.creativecommons.or.kr/faq/faq.php)하는 일종의 이용허락 표준약관입니다. 초창기 때엔 자체적인 등록과 검색으로 CCL의 저작물을 검색했지만, 현재는 [야후에서 지원하는 Creative Common Search](http://search.yahoo.com/cc)가 사용되고 있습니다.

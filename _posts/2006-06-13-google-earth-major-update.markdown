@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "Google Earth의 이미지 메이져 업데이트"
-date:   2006-06-13 02:36:47
+title: "Google Earth의 이미지 메이져 업데이트"
+date: 2006-06-13 02:36:47
 categories: service
 tags: google earth
 author: Samgu Lee
 ---
-간간히 외국 블로거에 의해서 Google Earth의 메이져 업데이트가 있었다는 소식을 듣고, 한국은 어떻게 적용될까 오랫만에 Google Earth를 실행시켜 보았습니다. 예전엔 수도권과 부산 정도의 상세 지도를 보여주던 것이 지금은 왠만큼 큰 도시들의 상세 위성사진을 볼 수 있었습니다. Google은 이 소식을 [Google Press](http://www.google.com/intl/en/press/pressrel/geoday.html)와 [공식 블로그](http://googleblog.blogspot.com/2006/06/happy-birthday-google-earth.html)에 포스팅했습니다. 자세한 내용을 알아봅니다.
+
+간간히 외국 블로거에 의해서 Google Earth의 메이져 업데이트가 있었다는 소식을 듣고, 한국은 어떻게 적용될까 오랫만에 Google Earth를 실행시켜 보았습니다.
+
+예전엔 수도권과 부산 정도의 상세 지도를 보여주던 것이 지금은 왠만큼 큰 도시들의 상세 위성사진을 볼 수 있었습니다. Google은 이 소식을 [Google Press](http://www.google.com/intl/en/press/pressrel/geoday.html)와 [공식 블로그](http://googleblog.blogspot.com/2006/06/happy-birthday-google-earth.html)에 포스팅했습니다. 자세한 내용을 알아봅니다.
 
 이번 Google의 업데이트는 Google Earth, Google Maps 그리고 얼마전 인수한 SketchUp 이렇게 지도와 관계된 세가지 프로그램 혹은 서비스와 관련됩니다.
 
@@ -17,6 +20,7 @@ Google Press에 따르면, Google Earth의 업데이트의 내용은 다음과 �
 Google Earth나 Maps의 이미지들은 해상도가 지역에 따라서 다르게 나옵니다. 색깔로 쉽게 구분할 수 있는데요, 최고 해상도를 갖는 고해상도 사진이 예전에 비해 4배로 늘었다고 합니다. 지구 전체의 1/3 이상 고해상도 사진을 제공한다고 하네요. 현재까지는 Google Earth에만 적용되어 있지만, Google Maps에도 조만간 적용이 된다고 합니다.
 
 ## 2. Google Earth의 새로운 버젼
+
 유저 인터페이스의 변화가 있고, 서드파티나 사용자가 만들 수 있는 컨텐츠 제작 툴을 제공한다고 합니다. 윈도우즈, 맥 그리고 리눅스에서 작동되고, 프랑스어, 이탈리아어, 독일어, 스페인어로도 제공한다고 하네요.
 
 ![Google Earth Release 4 Beta](https://earth.google.com/images/callouts.gif)

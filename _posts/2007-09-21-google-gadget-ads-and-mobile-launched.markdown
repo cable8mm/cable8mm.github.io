@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글 가젯 광고 론칭과 모바일용 애드센스 추가"
-date:   2007-09-21 01:50:15
+title: "구글 가젯 광고 론칭과 모바일용 애드센스 추가"
+date: 2007-09-21 01:50:15
 categories: service
 tags: google adsense
 author: Samgu Lee
 ---
-이번 주에 구글 광고에 대한 커다란 업데이트가 있었다. 가젯 광고와 [모바일용 애드센스](http://adsense.blogspot.com/2007/09/here-comes-mobile.html)가 그것인데, 모바일용 애드센스는 현재 한국을 제외한 13개의 국가에서 론칭했다.(중국과 일본이 추가되었지만, 한국은 적용되지 않았다.) 국내 사정상 모바일용 애드센스가 국내에 적용되기까지는 오랜 시간이 걸릴 것 같다.
+
+이번 주에 구글 광고에 대한 커다란 업데이트가 있었다.
+
+가젯 광고와 [모바일용 애드센스](http://adsense.blogspot.com/2007/09/here-comes-mobile.html)가 그것인데, 모바일용 애드센스는 현재 한국을 제외한 13개의 국가에서 론칭했다.(중국과 일본이 추가되었지만, 한국은 적용되지 않았다.) 국내 사정상 모바일용 애드센스가 국내에 적용되기까지는 오랜 시간이 걸릴 것 같다.
 
 ![모바일용 애드센스와 구글 가젯 광고](/assets/google-mobile-and-gadget-ad.gif)
 
@@ -21,18 +24,27 @@ author: Samgu Lee
 우선 캐슁의 경우, 구글에 파일을 전송하지 않아도 특정 자바스크립트 코드를 이용하면 구글의 캐슁 서버에 자동으로 등록된다. 캐슁 서버는 1,2시간에 한번씩 파일을 받아서 구글의 캐싱 인프라를 통해서 사용자에게 보여지게 된다. 실제 작성된 코드를 보면 이해가 쉬울 것이다.
 
 ```js
-_IG_RegisterOnloadHandler(function() {
-    _gel("mainTbl").style.background = "transparent url(" + _IG_GetImageUrl("http://www.labpixies.com/gadgads/adsense/images/background.gif") + ") 0px 0px no-repeat";
-    _gel("logo").src = _IG_GetImageUrl("http://www.labpixies.com/gadgads/adsense/images/logo.jpg");
-    _gel("splashText").src = _IG_GetImageUrl("http://www.labpixies.com/gadgads/adsense/images/ad0.gif");
+_IG_RegisterOnloadHandler(function () {
+  _gel("mainTbl").style.background =
+    "transparent url(" +
+    _IG_GetImageUrl(
+      "http://www.labpixies.com/gadgads/adsense/images/background.gif"
+    ) +
+    ") 0px 0px no-repeat";
+  _gel("logo").src = _IG_GetImageUrl(
+    "http://www.labpixies.com/gadgads/adsense/images/logo.jpg"
+  );
+  _gel("splashText").src = _IG_GetImageUrl(
+    "http://www.labpixies.com/gadgads/adsense/images/ad0.gif"
+  );
 });
 ```
 
-이 코드는 현재 구글 애드센스 블로그에 예제로 나와있는 구글 애드센스 관련 가젯 광고의 코드 중 일부이다. 아주 간단한 내용인데, www.labpixies.com이라는 도메인에 올라와 있는 gif와 jpg로 된 이미지를 _IG_GetImageUrl이라는 함수로 불러오는 내용.
+이 코드는 현재 구글 애드센스 블로그에 예제로 나와있는 구글 애드센스 관련 가젯 광고의 코드 중 일부이다. 아주 간단한 내용인데, www.labpixies.com이라는 도메인에 올라와 있는 gif와 jpg로 된 이미지를 \_IG_GetImageUrl이라는 함수로 불러오는 내용.
 
 ![구글 가젯 광고 에디터의 팔글 RSS](/assets/palgle-in-google-gadget-ad.gif)
 
-그리고, Fetch 계열의 함수를 이용하면 실시간으로 다른 서버의 내용을 받아와서 처리할 수 있다. 예를 들어서, _IG_FetchFeedAsJSON 함수를 이용하면, 내 블로그의 RSS글들을 구글 가젯 광고 안에 넣을 수 있다. 좌측 그림은 구글 가젯 광고 에디터를 이용해서 팔글의 RSS 광고를 간단하게 만든 모습.
+그리고, Fetch 계열의 함수를 이용하면 실시간으로 다른 서버의 내용을 받아와서 처리할 수 있다. 예를 들어서, \_IG_FetchFeedAsJSON 함수를 이용하면, 내 블로그의 RSS글들을 구글 가젯 광고 안에 넣을 수 있다. 좌측 그림은 구글 가젯 광고 에디터를 이용해서 팔글의 RSS 광고를 간단하게 만든 모습.
 
 이와 별개로 구글 비디오가 아니라 유튜브의 스트리밍이 캐슁의 용도로 구글 가젯 광고에 적용된 모습도 이채롭다. 구글 가젯 광고주가 비디오를 광고에 삽입하고 싶다면 비디오 파일을 서버에 저장해야 한다. 구글 캐슁 인프라는 동영상 파일을 저장하진 않는데, 대신 유튜브에 동영상을 올려서 가젯 광고에 사용할 수 있다.
 

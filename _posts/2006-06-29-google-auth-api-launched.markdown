@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글(Google) 계정 인증 API 공개"
-date:   2006-06-29 04:47:53
+title: "구글(Google) 계정 인증 API 공개"
+date: 2006-06-29 04:47:53
 categories: service
 tags: google
 author: Samgu Lee
 ---
-팔글에서 4월 21일 GData라는 구글(Google)에서 데이터를 전송할 때 사용할 수 있는 [API의 공개][gdata-means]를 알려드린바 있습니다. 그 당시 스펙에 따르면 인증 부분이 구현되어 있었지만, 실제 작동되지는 않았는데 이번 계정 인증(Google Account Authentication) API의 구현으로 인해서 구글의 계정 데이터를 이용해서 서비스를 개발할 수 있게 되었습니다.
+
+팔글에서 4월 21일 GData라는 구글(Google)에서 데이터를 전송할 때 사용할 수 있는 API의 공개를 알려드린바 있습니다.
+
+[그 당시 스펙에 따르면][gdata-means] 인증 부분이 구현되어 있었지만, 실제 작동되지는 않았는데 이번 계정 인증(Google Account Authentication) API의 구현으로 인해서 구글의 계정 데이터를 이용해서 서비스를 개발할 수 있게 되었습니다.
 
 [구글 계정 인증](http://code.google.com/apis/accounts/Authentication.html)은 크게 두가지로 되어 있습니다. 어플리케이션(일반 프로그램) 인증과, 웹서비스 인증이 그것입니다. 둘은 각각 ClientLogin API와 AuthSub API로 작동되는데, 이삼구글에서는 웹서비스 인증에 대해서만 알아보겠습니다.
 

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 댄스(Google Dance) 스타트"
-date:   2006-09-29 12:58:14
+title: "구글 댄스(Google Dance) 스타트"
+date: 2006-09-29 12:58:14
 categories: service
 tags: google search
 author: Samgu Lee
 ---
+
+2006년 9월의 구글댄스가 드디어 시작되었습니다.
+
 Pankaj Gupta는 [자신의 블로그](http://www.linkbuilding.info/2006/google-pr-update-929/)에서 구글 댄스(Google Dance)가 드디어 시작되었다고 알려왔습니다. 구글 댄스는 구글 검색엔진의 순위에 기초가 되는 페이지랭크 값이 바뀌는 것을 의미합니다. 구글 댄스가 끝나게 되면 검색 결과의 순위가 바뀌기 때문에 검색엔진 마케터들은 많은 신경을 쓸 수 밖에 없습니다.
 
 한국은 그다지 관계없지만, 영어권 나라의 경우 구글로 부터 유입되는 트래픽이 많기 때문에 순위에서 밀리게 되면 매출에 치명적인 타격이 오게 됩니다. 어떤 회사는 이로 인한 손실로 인해 구글에 소송을 하기도 했습니다.

@@ -7,7 +7,9 @@ tags: google desktop
 author: Samgu Lee
 ---
 
-구글의 데이크톱 공식 블로그인 인사이드 구글 데스크톱(Inside Google Desktop)에서 [데스크톱 5.0 베타](http://googledesktop.blogspot.com/2007/03/new-sidebar-and-gadgets.html)의 론칭 소식을 알려왔다. 구글에 많은 관심이 있다면, 이 소식을 몇달 전에도 들었을지 모른다. 구글 데스크톱은 구글 툴바와 함께 복잡한 버젼으로 사용자에게 많은 혼란을 주고 있다.
+구글 데스크톱은 구글 툴바와 함께 복잡한 버젼으로 사용자에게 많은 혼란을 주고 있다.
+
+구글의 데이크톱 공식 블로그인 인사이드 구글 데스크톱(Inside Google Desktop)에서 [데스크톱 5.0 베타](http://googledesktop.blogspot.com/2007/03/new-sidebar-and-gadgets.html)의 론칭 소식을 알려왔다.
 
 이런 혼란은 여러가지에서 비롯되는데, 가장 큰 문제는 공식 웹사이트에서 버젼이 전혀 나와있지 않다는 점이다.
 

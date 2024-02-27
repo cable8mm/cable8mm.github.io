@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 최고의 인수가격을 갈아치운 더블클릭은 어떤 회사?"
-date:   2007-04-16 13:38:49
+title: "구글 최고의 인수가격을 갈아치운 더블클릭은 어떤 회사?"
+date: 2007-04-16 13:38:49
 categories: advertising
 tags: google
 author: Samgu Lee
 ---
+
+최고의 금액으로 인수한 더블클릭은 어떤 회사일까요?
+
 ![더블클릭 로고](/assets/double-click-logo.png)
 
 구글의 최고 인수가격을 기록했던 유튜브의 16억 5천만달러를 가볍게 제치고, 더블클릭이 무려 31억달러, 한화로 거의 3조에 육박하는 가격으로 구글에 매입되었다. 인터넷 광고계의 풍운아 더블클릭이 어떤 회사인지 [위키피디아](http://en.wikipedia.org/wiki/DoubleClick)를 참고로 알아보도록 하자.

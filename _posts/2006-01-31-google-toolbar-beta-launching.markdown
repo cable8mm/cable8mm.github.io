@@ -1,14 +1,17 @@
 ---
 layout: single
-title:  "구글 툴바 베타 새로운 버젼 발표"
-date:   2006-01-30 15:00:29
+title: "구글 툴바 베타 새로운 버젼 발표"
+date: 2006-01-30 15:00:29
 categories: service
 tags: google toolbar
 author: Samgu Lee
 ---
-2006년 1월 30일 구글은 [구글 툴바 베타의 새로운 버젼(Google Toolbar Beta Version 4)](http://toolbar.google.com/T4/)을 발표했고, 관리자 권한이 있는 [구글 툴바 베타의 엔터프라이즈 버젼](http://www.google.com/tools/toolbar/T4/enterprise/)도 같이 발표했습니다. 사용자는 새로운 익스플로러용 구글 툴바를 이용해서 검색결과를 커스터마이징할 수 있고 친구와 정보공유를 가능케 하는 기능이 추가되었습니다.
 
-이번 구글 툴바의 베타버젼의 가장 큰 특징은 사용자들이 툴바에서 제공하는 [오픈 API](http://www.google.com/tools/toolbar/buttons/apis/index.html)를 이용해서  특정 기능의 아이콘을 추가할 수 있고, 검색 결과를 커스터마이징 할 수 있다는 것과입니다.
+구글 툴바에 새로운 익스플로러용 구글 툴바를 이용해서 검색결과를 커스터마이징할 수 있고 친구와 정보공유를 가능케 하는 기능이 추가되었습니다.
+
+2006년 1월 30일 구글은 [구글 툴바 베타의 새로운 버젼(Google Toolbar Beta Version 4)](http://toolbar.google.com/T4/)을 발표했고, 관리자 권한이 있는 [구글 툴바 베타의 엔터프라이즈 버젼](http://www.google.com/tools/toolbar/T4/enterprise/)도 같이 발표했습니다.
+
+이번 구글 툴바의 베타버젼의 가장 큰 특징은 사용자들이 툴바에서 제공하는 [오픈 API](http://www.google.com/tools/toolbar/buttons/apis/index.html)를 이용해서 특정 기능의 아이콘을 추가할 수 있고, 검색 결과를 커스터마이징 할 수 있다는 것과입니다.
 
 이미 50개가 넘는 웹사이트들의 커스텀 버튼을 제공하고, 그것은 [버튼 갤러리](http://www.google.com/tools/toolbar/buttons/gallery)라고 불리우는 간단한 XML API로 구현할 수 있다고 합니다.
 

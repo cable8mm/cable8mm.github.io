@@ -7,7 +7,9 @@ tags: google
 author: Samgu Lee
 ---
 
-구글 애드센스팀의 뉴스그룹으로 [구글 사이트맵의 업데이트 소식](http://groups.google.com/group/Inside-AdSense/browse_thread/thread/c0e86a570c091554/c0e1c13a5c0c6b75#c0e1c13a5c0c6b75)을 알려왔습니다. 이 소식을 구글 애드센스팀에서 공지한 이유는 구글 크롤러 즉 웹사이트의 내용을 긁어가는 프로그램이 robots.txt으로 막혀있을 경우 내용을 알지 못해서 PSAs라 불리우는 공익광고나 잘못 타켓팅된 광고가 뜨기 때문입니다.
+구글 애드센스팀의 뉴스그룹으로 구글 사이트맵의 업데이트 소식을 알려왔습니다.
+
+[이 소식](http://groups.google.com/group/Inside-AdSense/browse_thread/thread/c0e86a570c091554/c0e1c13a5c0c6b75#c0e1c13a5c0c6b75)을 구글 애드센스팀에서 공지한 이유는 구글 크롤러 즉 웹사이트의 내용을 긁어가는 프로그램이 robots.txt으로 막혀있을 경우 내용을 알지 못해서 PSAs라 불리우는 공익광고나 잘못 타켓팅된 광고가 뜨기 때문입니다.
 
 robots.txt 파일은 검색엔진이 페이지를 복제해도 되는지 아닌지를 나타내는 웹퍼블리셔가 만드는 파일입니다. 즉, 웹퍼블리셔는 이 파일을 이용하면 원하는 검색엔진에 원하는 페이지만 올리는 것이 가능해집니다.
 

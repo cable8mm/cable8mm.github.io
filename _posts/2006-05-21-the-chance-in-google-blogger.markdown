@@ -7,11 +7,13 @@ tags: google blogger
 author: Samgu Lee
 ---
 
+Google 한국에서는 메일링을 통해 위의 사실을 알려왔습니다.
+
+확인해보니 공식 블로그에서도 확인할 수 있었습니다.
+
 [Google 한국 블로그](http://googlekoreablog.blogspot.com/2006/05/google.html) 인용:
 
 > Google-y하고 감각이 뛰어난 블로그를 만들어 주신 분들100명을 채택하여 Google Blogger 티셔츠를 보내드리고, 그 중 가장 멋진 블로그를 만들어준 5명에게는 Google 한국 블로그 객원 블로거로 한국 블로그에 고정적으로 참여하실 수 있는 기회를 드립니다.
-
-Google 한국에서는 메일링을 통해 위의 사실을 알려왔습니다. 확인해보니 공식 블로그에서도 확인할 수 있었습니다.
 
 위의 콘테스트에 지원하는 방법은 다음의 두가지 주제로 자신의 블로그에 글을 올린 후 메일을 보내기만 하면 됩니다.(자세한 내용은 [공식 블로그](http://googlekoreablog.blogspot.com/2006/05/google.html)를 참고하세요)
 

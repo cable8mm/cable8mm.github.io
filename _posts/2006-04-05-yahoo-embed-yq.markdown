@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글의 연관링크에 이은 야후의 임베딩 Y!Q"
-date:   2006-04-05 03:08:06
+title: "구글의 연관링크에 이은 야후의 임베딩 Y!Q"
+date: 2006-04-05 03:08:06
 categories: tip
 tags: google yahoo
 author: Samgu Lee
 ---
+
+급속히 몰락중인 야후에서 구글의 대항 서비스가 론칭되었습니다.
+
 [구글의 연관링크(Related Links)][google-related-links-launch]가 정식으로 구글 랩스에 리스팅 된 몇일 되지 않아서 야후에서도 비슷한 서비스인 임베딩 Y!Q라는 2005년 <ins datetime="2006-04-05T05:01:24+00:00">2월부터 시작한 </ins>서비스<del datetime="2006-04-05T04:58:34+00:00">를 시작했습니다</del><ins datetime="2006-04-05T04:58:34+00:00">가 있습니다</ins>. 사용법은 구글의 연관링크와 마찬가지로 자바스크립트 코드를 HTML에 넣기만 하면 됩니다. 하지만, 현재 결과값이 나타나진 않고 있습니다.
 
 구글의 연관링크는 뉴스, 웹페이지 그리고 검색 이렇게 세가지의 결과를 탭을 이용해서 보여주고 있습니다.(댄스 비디오 포드캐스트의 우측에 예시로 넣어놓았습니다.) 야후의 임베딩 Y!Q는 검색결과만을 보여주지만, 두가지 옵션 즉 인라인과 컨텐츠라는 형식을 지원합니다.
@@ -19,8 +22,11 @@ author: Samgu Lee
 1. 웹페이지의 헤드태그(head)에 다음과 같은 자바스크립트를 삽입합니다.
 
 ```html
-<script language="javascript" type="text/javascript"
-src="http://yq.search.yahoo.com/javascript/yq.js"></script>
+<script
+  language="javascript"
+  type="text/javascript"
+  src="http://yq.search.yahoo.com/javascript/yq.js"
+></script>
 ```
 
 2. 원하는 문단을 선택합니다.

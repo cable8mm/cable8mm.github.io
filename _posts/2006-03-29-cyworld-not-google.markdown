@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "싸이월드는 구글이 아니다"
-date:   2006-03-29 13:38:32
+title: "싸이월드는 구글이 아니다"
+date: 2006-03-29 13:38:32
 categories: opinion
 tags: google
 author: Samgu Lee
 ---
-[Goooood's weblog](http://blog.empas.com/goooood/)라는 블로그에 싸이월드에서의 광고프로그램-가칭 애드보드의 제안서가 비공식적으로 유출되는 일이 있었습니다. 그것이 블루문님의 블로그에 올라오고 급기야 [ZDNET 아스피린](http://www.zdnet.co.kr/microsite/aspirin/log/0,39035016,39145971,00.htm)에까지 올라오게 되었습니다. 비교적 자세히 쓰여진 블루문님의 내용을 토대로 CPC광고에 대해서 구글과의 비교를 통해 알아봅니다.
+
+싸이월드에서의 광고프로그램-가칭 애드보드의 제안서가 비공식적으로 유출되는 일이 있었습니다.
+
+처음 [Goooood's weblog](http://blog.empas.com/goooood/)라는 블로그에서 알려졌고, 그것이 블루문님의 블로그에 올라오고 급기야 [ZDNET 아스피린](http://www.zdnet.co.kr/microsite/aspirin/log/0,39035016,39145971,00.htm)에까지 올라오게 되었습니다. 비교적 자세히 쓰여진 블루문님의 내용을 토대로 CPC광고에 대해서 구글과의 비교를 통해 알아봅니다.
 
 블루문님의 블로그에 따르면 SK커뮤니케이션즈가 기획한 애드보드라는 광고프로그램은 다음과 같은 특징을 가지고 있습니다.
 

@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글의 새로운 광고, 아무에게도 말하지 마"
-date:   2006-11-30 03:06:40
+title: "구글의 새로운 광고, 아무에게도 말하지 마"
+date: 2006-11-30 03:06:40
 categories: advertising
 tags: google adwords
 author: Samgu Lee
 ---
-존 초우(John Chow)는 [자신의 블로그](http://www.johnchow.com/google%e2%80%99s-top-secret-advertising-network/)에서 구글 애드워즈(AdWords)의 또다른 상품인 구글 디스플래이 광고 네트웍(Google Display Advertising Network - 줄여서 GDAN)을 소개하는 글을 올렸다. 이 글은 몇가지 흥미로운 정보를 담고 있는데, 재미있는 것은 구글이 극도로 이 상품에 대한 노출을 꺼린다는 사실이다.
+
+구글이 다른 서비스와는 다르게 극도로 광고 상품에 대한 노출을 좋아하지 않습니다.
+
+존 초우(John Chow)는 [자신의 블로그](http://www.johnchow.com/google%e2%80%99s-top-secret-advertising-network/)에서 구글 애드워즈(AdWords)의 또다른 상품인 구글 디스플래이 광고 네트웍(Google Display Advertising Network - 줄여서 GDAN)을 소개하는 글을 올렸다.
 
 아무튼 이 상품의 내용을 보도록 하자.
 

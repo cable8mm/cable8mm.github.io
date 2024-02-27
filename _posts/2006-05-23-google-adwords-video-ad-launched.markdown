@@ -1,16 +1,17 @@
 ---
 layout: single
-title:  "드디어 구글 애드워즈 동영상 광고 개시"
-date:   2006-05-23 06:38:04
+title: "드디어 구글 애드워즈 동영상 광고 개시"
+date: 2006-05-23 06:38:04
 categories: news
 tags: google adwords video
 author: Samgu Lee
 ---
+
+Google의 광고주 프로그램인 Adwords에 동영상 광고가 추가되었다고 공식 블로그에서 알려왔습니다.
+
 [Inside Adwords](http://adwords.blogspot.com/2006/05/click-to-play-video-ads-for-adwords.html) 인용:
 
 > In the coming days, we will be adding click-to-play video ads to the line-up of text, Flash and image ad formats currently supported by the Google content network. At launch, video ads will be available to AdWords advertisers in the US, Canada and Japan - but we plan to roll them out to other regions shortly.
-
-Google의 광고주 프로그램인 Adwords에 동영상 광고가 추가되었다고 공식 블로그에서 알려왔습니다.
 
 현재는 미국, 캐나다 그리고 일본이 서비스 대상입니다. 조만간 전세계로 퍼진다고 하네요.
 

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 광고, 다음(Daum)에 노출"
-date:   2007-01-04 16:22:32
+title: "구글 광고, 다음(Daum)에 노출"
+date: 2007-01-04 16:22:32
 categories: advertising
 tags: google daum advertising
 author: Samgu Lee
 ---
+
+구글 광고가 드디어 다음(Daum)에 노출되기 시작했습니다.
+
 한국 제2의 포탈인 다음은 키워드 스폰서 광고 파트너를 오버추어에서 [구글로 바꾸었다]({% post_url 2006-12-13-partnership-between-google-and-daum %}). 현재 확인된 바로는 다음의 최상단 스폰서 링크에 구글 광고가 노출되고 있다. 이로서 구글은 엠파스, 에누리닷컴, 다나와닷컴, 조선닷컴, 한겨레, ZDnet korea에 이어서 다음과의 계약으로 그런데로 구색을 갖출 수 있게 되었다.
 
 그런데, 팔글의 몇가지 조사에서는 다음에서 진행되는 몇가지 재미있는 사실을 확인해 볼 수 있었다.

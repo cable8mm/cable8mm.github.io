@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글 페이지 크리에이터(GPC), 애드센스 적용 가능"
-date:   2006-07-02 10:14:19
+title: "구글 페이지 크리에이터(GPC), 애드센스 적용 가능"
+date: 2006-07-02 10:14:19
 categories: advertising
 tags: google gpc adsense
 author: Samgu Lee
 ---
-팔글에서 별 10개 만점 중 3개를 당당히 마크하고 있는 구글 페이지 크리에이터(Google Page Creator)에 드디어 구글(Google)의 광고 프로그램인 애드센스(AdSense) 적용이 가능하게 되었다고 [가렛 로져(Garett Rogers)](http://blogs.zdnet.com/Google/?p=250)가 알려왔습니다. 팔글에서는 바로 테스트를 해 보았습니다.
+
+구글 페이지 크리에이터(Google Page Creator)에 드디어 구글(Google)의 광고 프로그램인 애드센스(AdSense) 적용이 가능하게 되었습니다.
+
+가렛 로져(Garett Rogers)는 [ZDNet을 통해](http://blogs.zdnet.com/Google/?p=250) 이 소속을 알려왔고, 팔글에서는 바로 테스트를 해 보았습니다.
 
 구글 페이지 크리에이터는 구글 랩(Google Labs)에서 진행하고 있는 실험적인 프로젝트로 계정당 100메가를 부여하고, 손쉽게 인터넷에 원하는 컨텐츠를 올릴 수 있는 등 [가끔 쓸모가 있는 서비스][gpc-launching]/a>입니다. 이삼구글에서도 페이지 한장짜리 문서를 공개할 때 가끔 이용하는 것으로, 템플릿 형태이기 때문에 아래아 한글이나 MS워드 등과 같은 문서편집기 대용으로 사용하고 있습니다.
 

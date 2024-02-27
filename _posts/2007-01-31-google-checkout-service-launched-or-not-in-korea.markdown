@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글 체크아웃, 한국 지원하는건가 마는건가"
-date:   2007-01-31 05:24:42
+title: "구글 체크아웃, 한국 지원하는건가 마는건가"
+date: 2007-01-31 05:24:42
 categories: opinion
 tags: google checkout
 author: Samgu Lee
 ---
-전세계에서 가장 많이 사용하는 결제 수단은 무엇일까? 제이피 모건(JP Morgan)의 1월 17일자 보고서 [Google Checkout vs. Palpal](http://pull.jpmorgan-research.com/cgi-bin/pull/DocPull/575-50AE/11592130/Online_Shopping_and_Payment_Survey_011707_1_.pdf)에 따르면 77.1%로 여전히 신용카드가 압도적으로 많이 사용되고 있다. 그 다음은 페이팔로 42.1%. 구글 체크아웃은 5.9%로 4위를 달리고 있다. 하지만, 한국의 경우 페이팔이 사용되는 경우는 극히 드물고, 한국에서 구글 체크아웃으로 결제하는 것도 쉽지 않다.
+
+전세계에서 가장 많이 사용하는 결제 수단은 무엇일까?
+
+제이피 모건(JP Morgan)의 1월 17일자 보고서 [Google Checkout vs. Palpal](http://pull.jpmorgan-research.com/cgi-bin/pull/DocPull/575-50AE/11592130/Online_Shopping_and_Payment_Survey_011707_1_.pdf)에 따르면 77.1%로 여전히 신용카드가 압도적으로 많이 사용되고 있다. 그 다음은 페이팔로 42.1%. 구글 체크아웃은 5.9%로 4위를 달리고 있다. 하지만, 한국의 경우 페이팔이 사용되는 경우는 극히 드물고, 한국에서 구글 체크아웃으로 결제하는 것도 쉽지 않다.
 
 구글 체크아웃은 구글이 제공하는 결제수단이다. 현재에는 신용카드를 구글 체크아웃 계정과 연동해서 결제를 할 수 있는데, 한국의 경우는 제대로 서비스가 이루어지지 않고 있다. 따라서, 구글의 한국 결제는 간단하게 돌아가지 않는다.
 

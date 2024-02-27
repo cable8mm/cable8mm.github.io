@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "엠파스 구글 광고프로그램 재계약"
-date:   2006-05-22 04:53:38
+title: "엠파스 구글 광고프로그램 재계약"
+date: 2006-05-22 04:53:38
 categories: news
 tags: google adsense empas
 author: Samgu Lee
 ---
+
+구글이 엠파스와의 광고프로그램 재계약에 성공했습니다.
+
 [ETNEWS 전자신문](http://www.etnews.co.kr/news/detail.html?id=200605190085) 인용:
 
 > 21일 관련업계에 따르면 지난 4월부터 구글과 CPC(클릭당과금)방식의 검색광고 계약 협상을 진행해온 엠파스는 최근 구글과 재계약을 체결하기로 결정한 것으로 확인됐다.
