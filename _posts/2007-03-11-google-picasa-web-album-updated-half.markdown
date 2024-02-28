@@ -1,14 +1,19 @@
 ---
 layout: single
-title:  "구글에서 요구하는 인재상(via 구글 나이트)"
-date:   2007-03-09 05:45:52
-categories: opinion
-tags: google
+title: "구글 피카사 웹 앨범의 반쪽짜리 업데이트"
+date: 2007-03-11 06:21:58+00
+categories: news
+tags: google picasa
 author: Samgu Lee
+header:
+  og_image: /assets/picasa-web-album-upgrade.jpg
+redirect_from:
+  - /2007/03/08/google-picasa-web-album-updated-half.html
 ---
+
 전통적인 구글 제품과는 다른 형태의 서비스를 보여주고 있는 구글 피카사 웹 앨범이 오랫만에 업데이트를 단행했다. 250메가에서 1기가로 용량이 늘었으며, 검색이 가능해 졌다. 이전까지 피카사 웹 앨범은 내 앨범의 검색만 가능했다.
 
-![용량이 1기가로 늘었으며, 다른 사람의 검색도 지원된다](/assets/picasa-web-album-upgrade.jpg)
+![용량이 1기가로 늘었으며, 다른 사람의 검색도 지원된다]({{ page.header.og_image }})
 
 피카사 웹 앨범이 널리 사용되지 않는 가장 큰 이유가 아마도 커뮤니티 기능이 전혀 없었기 때문으로 풀이된다. 세계 최고의 사진 공유 사이트인 야후의 플리커는 플래시를 이용한 슬라이드나 블로그 기능이 내부 깊숙히 지원되기 때문에, 외부에 자신의 사진을 알리는 기능에 충실하다. 하지만, 피카사 웹 앨범은 내 사진을 관리하는 기능에 촛점이 맞추어져 있다.
 
