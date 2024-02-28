@@ -45,7 +45,7 @@ Java 관련 개발의 최고의 도구라고 할 수 있습니다. 기업용 도
 
 스프링 공식 홈페이지에서는 예전에는 Eclipse나 STS(Spring Tool Shite)를 우선했습니다. 예를 들어, 가이드가 도큐먼트에서 IDE를 설명할 때 Eclipse나 STS가 첫번째로 묘사가 되었는데요, 이 부분이 미묘하게 바뀌고 있습니다.
 
-![VSCode screenshot](https://code.visualstudio.com/assets/home/home-screenshot-mac-lg-2x.png)
+![VSCode screenshot](/assets/images/home-screenshot-mac-lg-2x.png)
 
 이미 STS라는 Eclipse를 기반으로 한 단독 IDE는 소개하고 있지 않습니다. 그리고, 도큐먼트에서도 이 자리를 Visual Studio Code(VSCode)가 대치하고 있습니다.
 

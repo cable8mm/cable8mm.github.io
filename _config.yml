@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name: "Samgu Lee"
-  avatar: https://github.com/cable8mm.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: /assets/images/bio-photo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Just another *boring, on-the-interneted, developer*."
   location: "Auckland, New Zealand"
   email: cable8mm@gmail.com

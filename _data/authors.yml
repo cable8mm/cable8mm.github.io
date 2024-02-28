@@ -1,7 +1,7 @@
 Samgu Lee:
-  name        : "Samgu Lee"
-  bio         : "Just another *boring, on-the-interneted, developer*."
-  avatar      : "https://github.com/cable8mm.png"
+  name: "Samgu Lee"
+  bio: "Just another *boring, on-the-interneted, developer*."
+  avatar: "/assets/images/bio-photo.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
