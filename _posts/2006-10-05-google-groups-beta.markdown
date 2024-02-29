@@ -5,6 +5,8 @@ date: 2006-10-05 14:06:35
 categories: service
 tags: google groups
 author: Samgu Lee
+header:
+  og_image: /assets/groups_home.jpg
 ---
 
 구글 그룹스는 유즈넷과 구글 토론장을 하나로 합친 오픈형 커뮤니티입니다.

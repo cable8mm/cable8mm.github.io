@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글 애드센스 vs 다음 애드클릭스"
-date:   2006-12-07 07:46:35
+title: "구글 애드센스 vs 다음 애드클릭스"
+date: 2006-12-07 07:46:35
 categories: advertising
 tags: google daum adsense adclix
 author: Samgu Lee
+header:
+  og_image: /assets/adsense-vs-adclix.gif
 ---
-최근 다음 커뮤니케이션의 행보를 보면 구글의 핵심 비지니스와 충돌하는 양상을 보이고 있다. 
+
+최근 다음 커뮤니케이션의 행보를 보면 구글의 핵심 비지니스와 충돌하는 양상을 보이고 있다.
 
 ![구글 애드센스와 다음 애드클릭스](/assets/adsense-vs-adclix.gif)
 

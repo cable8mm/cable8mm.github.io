@@ -5,6 +5,8 @@ date: 2006-11-16 08:38:45
 categories: gossip
 tags: google maps
 author: Samgu Lee
+header:
+  og_image: /assets/local_ad_on_maps.gif
 ---
 
 팔글에서는 구글이 무엇보다도 광고에 많은 신경을 쓴다고 누차 언급한 바 있습니다. 그런 구글이 지도 서비스에는 어떤 광고를 넣고 있을까요? 구글이 현재 진행하고 있는 유료와 무료 광고들을 살펴봅니다.

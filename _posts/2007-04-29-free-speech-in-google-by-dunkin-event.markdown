@@ -5,6 +5,8 @@ date: 2007-04-29 09:20:26
 categories: opinion
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/dunkin-in-google.jpg
 ---
 
 응큼한 서비스를 운영해 본 사람이라면, 한국이 얼마나 사후검열이 심한 국가인지 알 수 있을 것이다.

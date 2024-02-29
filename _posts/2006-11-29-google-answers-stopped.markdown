@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 엔써(Google Answers), 스톱"
-date:   2006-11-29 10:22:57
+title: "구글 엔써(Google Answers), 스톱"
+date: 2006-11-29 10:22:57
 categories: service
 tags: google answers
 author: Samgu Lee
+header:
+  og_image: /assets/google-answers-stopped.gif
 ---
+
 구글의 지식인이라고 할 수 있는 구글 엔써(Google Answers)가 더이상의 질문을 받지 않는다고 [구글 공식 블로그](http://googleblog.blogspot.com/2006/11/adieu-to-google-answers.html)에 포스팅되었다.
 
 ![구글 엔써(Google Answers) 로고](/assets/google-answers-stopped.gif)

@@ -5,6 +5,8 @@ date: 2006-01-07 17:47:32
 categories: service
 tags: google pack
 author: Samgu Lee
+header:
+  og_image: /assets/google_pack.jpg
 ---
 
 일반적으로 구글은 서비스를 진행하기에 앞서 베타서비스를 진행하곤 합니다. 구글 맵이 그랬고, 구글 어스도 그랬습니다. 이번 구글팩도 [영문버젼 베타 형식으로 서비스가 개시](http://pack.google.com/)되었습니다.

@@ -5,6 +5,8 @@ date: 2007-08-27 04:01:08
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google-coop-business-editio.jpg
 ---
 
 구글은 대부분의 서비스들이 무료지만, 광고 이외에도 몇가지 서비스는 기업용의 유료 상품이 존재한다. 특히 구글 애플리케이션은 구글의 유료 서비스 중 가장 유명할 것이다. 널리 알려지진 않았지만, 구글은 ASP용의 유료 검색인 구글 개인화 검색의 비즈니스 에디션을 조용히 [론칭](http://googlecustomsearch.blogspot.com/2007/07/now-cse-for-businesses.html)했다.

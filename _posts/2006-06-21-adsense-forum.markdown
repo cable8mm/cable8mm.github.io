@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "한국 비공식 AdSense 포럼"
-date:   2006-06-21 03:29:45
+title: "한국 비공식 AdSense 포럼"
+date: 2006-06-21 03:29:45
 categories: news
 tags: google adsense
 author: Samgu Lee
 ---
+
 재치있는 프로그래머 겸 블로거로 알려진 화니님이 [AdSense 포럼](http://adsense.d-3-b.com/)을 개설했습니다. 이 포럼은 포럼의 기능만이 아니라 AdSense의 여러가지 팁들을 알려주고 있습니다.
 
 포럼은 크게 FAQ, 팁&노하우, 환전정보 그리고 커뮤니티와 자잘한 정보들이 함께 올라와 있네요.

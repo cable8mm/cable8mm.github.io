@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "재미있는 매쉬업, 트위터 비젼(Twittervision)"
-date:   2007-03-29 08:17:31
+title: "재미있는 매쉬업, 트위터 비젼(Twittervision)"
+date: 2007-03-29 08:17:31
 categories: gossip
 tags: twitter meship
 author: Samgu Lee
+header:
+  og_image: /assets/twitter-vision-logo.jpg
 ---
+
 [한국]({% post_url 2006-08-08-google-naver-meshup %})에서는 인기가 시들해진 감이 있지만, 영어권 국가의 경우엔 재미있는 [매쉬업 서비스]({% post_url 2006-03-29-google-mesh-up-3 %})가 지속적으로 개발되고 있다.
 
 ![트위터 비젼 로고](/assets/twitter-vision-logo.jpg)

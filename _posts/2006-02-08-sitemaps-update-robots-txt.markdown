@@ -5,6 +5,8 @@ date: 2006-02-08 02:49:14
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_sitemap_robots_txt.jpg
 ---
 
 구글 애드센스팀의 뉴스그룹으로 구글 사이트맵의 업데이트 소식을 알려왔습니다.

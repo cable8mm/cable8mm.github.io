@@ -5,6 +5,8 @@ date: 2006-09-25 02:29:18
 categories: service
 tags: google page
 author: Samgu Lee
+header:
+  og_image: /assets/page_diff_url.jpg
 ---
 
 구글 페이지 서비스에 여러개의 도메인을 연결할 수 있다면 어떨까요? 그것이 가능해 졌습니다.

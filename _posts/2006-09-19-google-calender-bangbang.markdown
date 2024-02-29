@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "전세계로 막가는 구글 캘린더(Google Calendar)"
-date:   2006-09-19 13:11:34
+title: "전세계로 막가는 구글 캘린더(Google Calendar)"
+date: 2006-09-19 13:11:34
 categories: opinion
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/calendar_unstyle_china.jpg
 ---
+
 오늘 하루 블로고스피어에선 구글 캘린더에 한글이 적용된다는 반가운 소식과 더불어 글자가 커졌다는 소식이 동시에 퍼졌습니다. 지금까지 그래왔던 것처럼 조만간 고쳐지겠지 했는데 아직까지 고쳐질 기미가 보이질 않고 있어서 그 내용을 알아봅니다.
 
 [구글 캘린더(Google Calendar)]({% post_url 2006-04-13-google-calendar-launched %})는 구글의 대표적인 AJAX를 이용한 서비스로 자바스크립트를 꺼두면 서비스 자체가 아예 작동하지 않습니다. 그런 구글 캘린더는 중소기업용 패키지 서비스라 할 수 있는 [구글 앱스(Google Apps)]({% post_url 2006-08-29-introduce-google-apps %})의 소속 서비스로 자리잡고 있는데, 캘린더 서비스가 9월 19일 드디어 다국어를 지원하게 되었습니다.

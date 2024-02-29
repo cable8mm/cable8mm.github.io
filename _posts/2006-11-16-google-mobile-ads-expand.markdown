@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글(Google)의 모바일 광고 확장"
-date:   2006-11-16 04:51:00
+title: "구글(Google)의 모바일 광고 확장"
+date: 2006-11-16 04:51:00
 categories: advertising
 tags: google mobile advertising
 author: Samgu Lee
+header:
+  og_image: /assets/google_mobile_ads.gif
 ---
+
 일본을 시작으로 구글은 미국, 영국, 독일까지 모바일 광고를 테스트한 바 있습니다. 이 테스트는 프랑스, 이탈리아, 네델란드, 스페인, 중국, 아일랜드, 인도 그리고 호주까지 확대된다고 구글 대변인이 밝혔습니다.
 
 모바일 검색과 광고는 구글의 차세대 비지니스 모델로 굉장히 신경쓰고 있는 분야입니다.

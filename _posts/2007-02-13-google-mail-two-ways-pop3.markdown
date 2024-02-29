@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 메일(GMail), POP3 양방향 지원"
-date:   2007-02-13 05:57:27
+title: "구글 메일(GMail), POP3 양방향 지원"
+date: 2007-02-13 05:57:27
 categories: service
 tags: google gmail
 author: Samgu Lee
+header:
+  og_image: /assets/gmail-logo.gif
 ---
+
 선택받은 자만의 서비스였던 구글 메일의 POP3 서비스가 영문 사용자에게 오픈되었다. 이로서 구글 메일은 다른 메일과 연동할 수 있는 포워딩, POP3 제공 및 가져오기, 메일 발송을 위한 [SMTP지원]({% post_url 2006-08-21-sendmail-using-gmail %})에 이르기까지 대부분의 기능을 지원하게 되었다.
 
 ![지메일 로고](/assets/gmail-logo.gif)
@@ -39,8 +42,7 @@ POP3라는 기술은 IMAP과 함께 메일함을 다른 프로그램이나 이�
 한글로 설정했을 경우 이 메뉴는 나타나지 않는다.
 
 6. 몇개까지 추가가 가능하나?
-7. 
-[구글 도움말](http://mail.google.com/support/bin/answer.py?ctx=%67mail&amp;hl=en&amp;answer=21288)을 참고해보면 다섯개의 외부 이메일을 추가할 수 있다.
+7. [구글 도움말](http://mail.google.com/support/bin/answer.py?ctx=%67mail&hl=en&answer=21288)을 참고해보면 다섯개의 외부 이메일을 추가할 수 있다.
 
 ## 7. SSL을 지원하나?
 

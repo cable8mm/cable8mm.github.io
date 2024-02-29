@@ -5,6 +5,8 @@ date: 2007-03-26 04:09:07
 categories: korea
 tags: korea law
 author: Samgu Lee
+header:
+  og_image: /assets/dns-block-of-koean-government.jpg
 ---
 
 최근 구글에 나오는 성인 키워드로 인해서 몇몇 블로그들의 유입량이 크게 늘었다.

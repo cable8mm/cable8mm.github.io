@@ -5,6 +5,8 @@ date: 2007-09-21 01:50:15
 categories: service
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/google-mobile-and-gadget-ad.gif
 ---
 
 이번 주에 구글 광고에 대한 커다란 업데이트가 있었다.

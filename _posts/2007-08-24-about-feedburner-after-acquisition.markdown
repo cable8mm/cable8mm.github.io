@@ -5,6 +5,8 @@ date: 2007-08-24 00:13:24
 categories: company
 tags: feedburner google
 author: Samgu Lee
+header:
+  og_image: /assets/blogger_can_burn_a_feed.jpg
 ---
 
 구글에 인수된 후 사랑스러운 서비스 피드버너에 어떤 변화가 있었는지 알아봅니다.

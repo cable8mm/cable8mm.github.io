@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "뜨는 구글, 지는 야후"
-date:   2007-02-21 02:39:34
+title: "뜨는 구글, 지는 야후"
+date: 2007-02-21 02:39:34
 categories: opinion
 tags: google yahoo
 author: Samgu Lee
+header:
+  og_image: /assets/original-yahoo-advertising-screen.jpg
 ---
-구글의 한국 사무소는 아직 별도의 법인을 만들지는 않았지만, 방문자의 말을 참고로 하자면 약 40명에서 50명이 근무하고 있다. 그리고, R&D 센터장이 공식적으로 취임하진 않았지만 역시 조원규님으로 내정되었다고 [서명덕기자](http://itviewpoint.com/tt/index.php?pl=2542&amp;stext=%EA%B5%AC%EA%B8%80)는 전하고 있다. 말하자면, 형태를 갖추고 있다고 할 수 있을 것이다.
+
+구글의 한국 사무소는 아직 별도의 법인을 만들지는 않았지만, 방문자의 말을 참고로 하자면 약 40명에서 50명이 근무하고 있다. 그리고, R&D 센터장이 공식적으로 취임하진 않았지만 역시 조원규님으로 내정되었다고 [서명덕기자](http://itviewpoint.com/tt/index.php?pl=2542&stext=%EA%B5%AC%EA%B8%80)는 전하고 있다. 말하자면, 형태를 갖추고 있다고 할 수 있을 것이다.
 
 반면 야후는 광고 파트가 오버추어에 이관된다고 하는데, 이 부분은 아마도 야후코리아의 실적 부진 보다는 야후 본사의 새로운 광고 플랫폼인 [파나마]({% post_url 2007-09-24-google-adsense-versus-yahoo-panama-in-korea %}) 때문일 것이다. 파나마로 인해서 야후와 오버추어로 이분화 되어 있는 광고 플랫폼은 단일화 될 것이고, 오랫동안 운영해 온 야후의 광고 플랫폼은 사라지게 된다. 단일 플랫폼에 두개의 영업팀이 있을 필요는 없으므로, 어쩌면 야후코리아의 광고 파트 이관 소식은 당연하다.
 

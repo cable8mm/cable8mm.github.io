@@ -5,6 +5,8 @@ date: 2007-03-25 09:08:01
 categories: gossip
 tags: google search
 author: Samgu Lee
+header:
+  og_image: /assets/google-search-result-english.jpg
 ---
 
 구글을 지지하는 사람들에게 그 이유를 묻는다면, 구글의 서비스가 공정하기 때문이라고 대답할 것이다. 적어도 한국에서라면 이 말은 상당한 진실을 담고 있다.

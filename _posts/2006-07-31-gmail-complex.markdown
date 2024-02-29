@@ -5,6 +5,8 @@ date: 2006-07-31 07:13:07
 categories: tip
 tags: google gmail
 author: Samgu Lee
+header:
+  og_image: /assets/gmail_custom_sender.jpg
 redirect_from:
   - /2006/07/31/gmail_complex/
 ---

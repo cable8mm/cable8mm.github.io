@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 토크, 비스타(Vista) 지원"
-date:   2007-01-05 02:51:53
+title: "구글 토크, 비스타(Vista) 지원"
+date: 2007-01-05 02:51:53
 categories: service
 tags: google talk vista
 author: Samgu Lee
+header:
+  og_image: /assets/google-talk-at-vista.jpg
 ---
+
 ZDNET의 가렛 로져스(Garett Roger)는 블로그에서 [구글 토크](http://www.google.com/talk/)의 [비스타 지원 소식](http://blogs.zdnet.com/Google/?p=440)을 알려왔다. 구글 토크 버젼은 1.0.0.104.
 
 ![구글 토크, 비스타 지원](/assets/google-talk-at-vista.jpg)

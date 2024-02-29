@@ -5,6 +5,8 @@ date: 2006-12-05 14:18:34
 categories: tips
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/adsense-stop-words.gif
 ---
 
 구글 그룹스에는 구글 관련 그룹이 존재하는데, 열심히;;(대화명)님은 구글 AdSense 그룹(비공개)에 흥미로운 정보를 알려주었다.

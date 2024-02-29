@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "구글의 오픈소스정책, Ajax에 올인"
-date:   2007-03-25 07:07:08
+title: "구글의 오픈소스정책, Ajax에 올인"
+date: 2007-03-25 07:07:08
 categories: opinion
 tags: google api ajax
 author: Samgu Lee
+header:
+  og_image: /assets/open-ajax-logo.jpg
 ---
-구글이 Ajax를 처음 만든 기업은 아니지만, 구글 맵의 성공적인 론칭 이후로 OpenAPI 정책은 OpenAjax로 [급격하게 이동]({% post_url 2006-12-22-google-change-developer-policy %})하고 있다. 
+
+구글이 Ajax를 처음 만든 기업은 아니지만, 구글 맵의 성공적인 론칭 이후로 OpenAPI 정책은 OpenAjax로 [급격하게 이동]({% post_url 2006-12-22-google-change-developer-policy %})하고 있다.
 
 ![OpenAjax 연합 로고](/assets/open-ajax-logo.jpg)
 

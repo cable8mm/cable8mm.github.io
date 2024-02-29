@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글(Google), 맥(Mac) 블로그 런칭"
-date:   2006-10-10 05:10:41
+title: "구글(Google), 맥(Mac) 블로그 런칭"
+date: 2006-10-10 05:10:41
 categories: service
 tags: google blog
 author: Samgu Lee
+header:
+  og_image: /assets/google_for_mac.jpg
 ---
+
 [구글 공식 블로그(Google Official Blog)](http://googleblog.blogspot.com/2006/10/inside-macs-at-google.html)는 [맥(Mac)을 위한 블로그 런칭](http://googlemac.blogspot.com/2006/10/google-and-your-mac.html)을 알려왔고, 맥 사용자를 위한 프로그램만을 모은 페이지를 리뉴얼했습니다. 블로그의 첫 포스팅이 "차린 것은 없지만, 많이 드세요"라는 느낌입니다.
 
 구글은 나름대로 맥에 대한 지원을 하고 있습니다. 맥 뿐만은 아니고, 리눅스도 지원하고 있지만, 아무래도 윈도우즈에 비한다면 지원 규모가 미비하다고 할 수 있겠죠. 맥을 사랑하는 구글러(Googler)인 라이언 브라운(Ryan Brown)은 구글에서 지원하는 맥용 프로그램을 모아 페이지를 구성했고, 급기야 맥을 위한 블로그까지 개설했습니다.

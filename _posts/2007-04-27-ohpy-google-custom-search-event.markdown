@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "오피, 구글 커스텀 검색으로 수익만들기"
-date:   2007-04-27 10:18:33
+title: "오피, 구글 커스텀 검색으로 수익만들기"
+date: 2007-04-27 10:18:33
 categories: advertising
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/ohpy-icon.jpg
 ---
-나우콤에서 야심차게 준비한 카페형 서비스인 오피(ohpy)에서, [구글 커스텀 검색 이벤트](http://www.ohpy.com/#post:/opbbs/index.php?control=List&op_no=2&bbs_no=142583&nocache=0.7710762810693232:undefined:undefined:control=List&op_no=2&bbs_no=142583&amp;branch=:opm)를 실시한다.
+
+나우콤에서 야심차게 준비한 카페형 서비스인 오피(ohpy)에서, [구글 커스텀 검색 이벤트](http://www.ohpy.com/#post:/opbbs/index.php?control=List&op_no=2&bbs_no=142583&nocache=0.7710762810693232:undefined:undefined:control=List&op_no=2&bbs_no=142583&branch=:opm)를 실시한다.
 
 ![오피](/assets/ohpy-icon.jpg)
 

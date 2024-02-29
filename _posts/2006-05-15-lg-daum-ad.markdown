@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "다음의 화끈한 광고, 그리고 Google"
-date:   2006-05-15 14:01:14
+title: "다음의 화끈한 광고, 그리고 Google"
+date: 2006-05-15 14:01:14
 categories: opinion
 tags: google daum advertising
 author: Samgu Lee
+header:
+  og_image: /assets/google_adwords.jpg
 ---
+
 다음은 닉네임을 이용한 플래쉬 배너 등 자사 광고의 효율을 높이기 위해서 나름대로의 많은 기획을 하고 있습니다. 이번에 선보인 색다른 광고를 소개합니다.
 
 팔글에서는 광고의 효과를 측정하기 위해서 여러 방면으로 테스트를 진행하고 있습니다. 중간결과로는 이미지나 플래쉬 광고보다 텍스트 형태의 광고가 최소 5배의 클릭율을 올리고 있다는 자체 결과가 나왔습니다. 이런 통계를 반영이라도 하듯 Daum.net의 메인에 획기적일 만한 광고가 선보였습니다.

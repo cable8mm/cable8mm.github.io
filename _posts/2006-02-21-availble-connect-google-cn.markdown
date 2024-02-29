@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "중국판 구글 접속방법"
-date:   2006-02-21 04:02:54
+title: "중국판 구글 접속방법"
+date: 2006-02-21 04:02:54
 categories: tip
 tags: google gmail
 author: Samgu Lee
+header:
+  og_image: /assets/how_to_google_china.jpg
 ---
+
 구글 중국(google.cn)은 외국에서 접속이 차단되어 있습니다. 한국에서는 직접 구글 중국을 접속하게 되면 강제적으로 한국이나 미국 구글로 리다이렉트 됩니다. 간단한 구글 중국에 접속방법을 소개합니다.
 
 주소창에 구글 중국(http://www.google.cn)을 넣으면 구글닷컴으로 리다이렉트가 되는데 간단한 방법으로 중국에 서비스되는 구글을 볼 수 있습니다.

@@ -5,6 +5,8 @@ date: 2006-07-20 17:12:49
 categories: opinion
 tags: google search
 author: Samgu Lee
+header:
+  og_image: /assets/picasaweb_search.jpg
 ---
 
 구글의 발전 중 중요한 요인이라면 구글이 추구하는 사악해지지 말자라는 말도 압축되는 공정성에 있다고 볼 수 있습니다. 예를 들면, 구글 검색엔진은 [페이지 랭크라는 알고리즘][about-pagerank]으로 웹페이지의 랭킹을 메기며, 구글의 블로그 서비스인 블로거(Blogger)엔 강제적인 광고가 삽입되지 않습니다.

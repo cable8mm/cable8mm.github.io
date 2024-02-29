@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 툴바, 점유율 1위"
-date:   2007-09-14 01:11:47
+title: "구글 툴바, 점유율 1위"
+date: 2007-09-14 01:11:47
 categories: service
 tags: google toolbar
 author: Samgu Lee
+header:
+  og_image: /assets/toolbar-ranking-of-korean-click.gif
 ---
+
 국내 인터넷 트래픽을 분석 전문 서비스 업체 [코리안 클릭](http://www.koreanclick.com/)은 2007년 8월자 뉴스레터에서 구글 툴바가 6,338,000명이 설치해서 6,011,000명이 설치한 네이버 툴바를 제치고 1위를 밝혔다.
 
 ![코리안클릭의 2007년 8월 툴바 랭킹](/assets/toolbar-ranking-of-korean-click.gif)

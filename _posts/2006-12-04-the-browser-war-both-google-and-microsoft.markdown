@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글과 마이크로소프트의 브라우져 검색 전쟁"
-date:   2006-12-04 06:38:43
+title: "구글과 마이크로소프트의 브라우져 검색 전쟁"
+date: 2006-12-04 06:38:43
 categories: opinion
 tags: google microsoft browser
 author: Samgu Lee
+header:
+  og_image: /assets/ie-for-google.jpg
 ---
+
 인터넷 익스플로러 7(IE7)가 출시되고, 상단의 검색창에 대한 논의가 뜨겁다. IE7은 파이어폭스에서 기본으로 지원하는 검색어 쿼리 창이 삽입되어 있고, 기본으로 마이크로소프트 검색이 지원되고 있는데, 이런 논의에 구글이 강력하게 대처하는 이면에는 다름아닌 돈문제가 걸려있다.
 
 구글 전체 [매출]({% post_url 2006-10-20-google-q3-accouncement %})의 56% 정도가 자체 검색 광고에서 발생하고 있는데, 브라우져의 기본 검색이 마이크로소프트의 라이브 서치(Live Search)로 구성될 경우 직접적인 매출 타격을 입을 가능성이 높다. 구글과 야후는 이런 이유로 파이어폭스 제작단체인 모질라에 기본 검색과 홈페이지 구성에 대한 [스폰서 계약]({% post_url 2005-12-13-firefox-asian-default-websearch %})을 하고 있고, 이에 따라서, 구글은 작년 모질라에 [3000만불을 지불]({% post_url 2005-12-21-five-ways-use-google-money %})했고, 같은 조건으로 오페라 브라우저와 제휴하고 있다.

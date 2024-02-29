@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "자바를 위한 툴킷, GWT 공개"
-date:   2006-05-18 05:39:42
+title: "자바를 위한 툴킷, GWT 공개"
+date: 2006-05-18 05:39:42
 categories: service
 tags: google gwt
 author: Samgu Lee
+header:
+  og_image: /assets/gwt-architecture.png
 ---
+
 Google Code팀에서 GWT(Google Web Toolkit)을 런칭했습니다. Ajax를 겨냥해서 쉽게 제작하고 디버깅할 수 있다는 소개가 있네요. 사실 Ajax를 맨땅에 개발하는 것은 매우 어렵습니다. 많은 프로젝트가 표준 모듈화를 시도하고는 있지만, 한곳으로 뭉치지가 않네요.
 
 [Google Web Toolkit](http://code.google.com/webtoolkit/faq.html#what) 인용 :

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "Google, 드디어 SketchUp 무료화"
-date:   2006-04-27 07:25:44
+title: "Google, 드디어 SketchUp 무료화"
+date: 2006-04-27 07:25:44
 categories: news
 tags: google sketchup
 author: Samgu Lee
+header:
+  og_image: /assets/sketchup4.jpg
 ---
+
 Google Earth와 환상의 궁합을 만들어 내고 있는 3D 모델링 툴인 @Last사의 SketchUp 개인버젼이 전면 무료화되었습니다. 프로페셔널 버젼은 여전히 미화 495불에 팔고 있습니다.
 
 Google은 @Last사를 인수하고 그 동안 무료화 버젼이 나올 것이라는 추측이 있었는데 현실화되었고, SketchUp이라는 제품 이름 또한 Google SketchUp이라는 가칭을 사용하고 있습니다.

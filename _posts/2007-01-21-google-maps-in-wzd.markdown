@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "위자드닷컴, 구글맵 도구 추가"
-date:   2007-01-20 01:58:46
+title: "위자드닷컴, 구글맵 도구 추가"
+date: 2007-01-20 01:58:46
 categories: news
 tags: google map wizard
 author: Samgu Lee
+header:
+  og_image: /assets/google-maps-in-wzd.jpg
 ---
+
 시작페이지를 서비스하는 [위자드닷컴](http://wzd.com/)은 공식 블로그를 통해서 3.6버젼으로 업데이트 되었음을 알려왔다. 과거 [구글 메일을 지원]({% post_url 2007-01-07-gmail-gadget-in-private-service %})했던 것까지 한다면 구글 지원으론 두번째. 이번 업데이트에서는 구글 맵과 네이버 맵의 매쉬업 서비스 도구가 추가되었다.
 
 ![위자드닷컴에 추가된 구글 네이버의 매쉬업 맵 서비스](/assets/google-maps-in-wzd.jpg)

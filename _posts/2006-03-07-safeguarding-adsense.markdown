@@ -5,6 +5,8 @@ date: 2006-03-07 08:40:39
 categories: gossip
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/preview_in_humor.jpg
 ---
 
 젠센스를 운영하는 Jennifer Slegg은 [애드센스를 염두에 두고 웹사이트를 인수](http://www.jensense.com/archives/2006/03/safeguarding_yo.html)할 때 확인할 수 있는 방법과 무엇을 확인해야 하는지를 알려왔습니다. 팔글에서는 그 내용을 요약해서 알려드립니다.

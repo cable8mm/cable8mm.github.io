@@ -5,6 +5,8 @@ date: 2006-10-18 01:42:01
 categories: news
 tags: google blogger
 author: Samgu Lee
+header:
+  og_image: /assets/erase_blogger_buzz.jpg
 ---
 
 구글의 블로깅 서비스 블로거(Blogger) 버그로 보이는 글이 사라지는 현상이 알려졌습니다.

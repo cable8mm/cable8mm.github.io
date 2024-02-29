@@ -5,6 +5,8 @@ date: 2006-10-10 17:58:44
 categories: service
 tags: yahoo
 author: Samgu Lee
+header:
+  og_image: /assets/timecapsure_korea.jpg
 ---
 
 구글(Google)의 프로젝트를 지켜보면 어떤 일관성을 볼 수 있습니다. 재활용성. 구글은 1회성이 있는 서비스는 하지 않습니다.

@@ -5,6 +5,8 @@ date: 2006-10-03 06:40:35
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_base_connector.jpg
 ---
 
 사람이 만든 것이라면 어떤 것이던 등록할 수 있는 서비스인 구글 베이스에서 이미 등록한 아이템들을 손쉽게 다른 쇼핑몰 등에 올릴 수 있는 프로그램인 구글 베이스 커넥터(Google Base Connector)가 런칭되었습니다.

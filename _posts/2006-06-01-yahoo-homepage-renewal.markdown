@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "2% 부족한 야후!의 홈페이지 리뉴얼"
-date:   2006-06-01 12:13:00
+title: "2% 부족한 야후!의 홈페이지 리뉴얼"
+date: 2006-06-01 12:13:00
 categories: opinion
 tags: yahoo renewal
 author: Samgu Lee
+header:
+  og_image: /assets/800_yahoo_homepage-758206.png
 ---
+
 야후!의 홈페이지 개편이 Yahoo!와 거의 같아졌습니다. Ajax를 이용해서 멋지고도 약간은 개인화적인 면도 들어가 있습니다. 이번 개편과 더불어서 Yahoo!의 서비스들이 대거 한국에서도 서비스될 지도 모른다는 기대가 있었습니다만, 아직은 그런 일은 벌어지지 않고 있군요.
 
 ## Yahoo!(미국 야후 - http://www.yahoo.com/)
@@ -17,7 +20,11 @@ author: Samgu Lee
 요약하자면, 현재까지는 총 세개의 홈페이지 디자인이 있는 셈입니다. 옛날것, 신형 1024 이상일때, 신형 1024 미만일때...
 
 ```javascript
-YAHOO.Fp.bNarrow = (YAHOO.Fp.nScreenWidth ? (YAHOO.Fp.nScreenWidth<1024 ? 1 : 0) : -1);
+YAHOO.Fp.bNarrow = YAHOO.Fp.nScreenWidth
+  ? YAHOO.Fp.nScreenWidth < 1024
+    ? 1
+    : 0
+  : -1;
 ```
 
 ## 야후!(한국 야후 - http://kr.yahoo.com/)

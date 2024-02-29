@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글랩, 맥을 위한 대쉬보드 위젯 3종세트 출시"
-date:   2006-02-24 08:44:21
+title: "구글랩, 맥을 위한 대쉬보드 위젯 3종세트 출시"
+date: 2006-02-24 08:44:21
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_widget.jpg
 ---
+
 피카사 등 윈도우에서 작동하는 자사 어플리케이션을 리눅스와 맥으로 포팅하고 있는 구글랩에 말그대로 아무런 공지없이 맥을 위한 [대쉬보드 위젯 3가지를 출시](http://www.google.com/macwidgets/index.html)했습니다. 이 세가지는 각각 블로거닷컴, 지메일 그리고 검색 히스토리 등 구글의 웹서비스와 연동되는 위젯입니다.
 
 구글은 이미 [구글어스 맥버젼](http://earth.google.com/download-earth.html)을 출시한 바 있고, 피카사의 리눅스버젼을 제작하고 있습니다.

@@ -5,6 +5,8 @@ date: 2007-02-22 05:11:20
 categories: opinion
 tags: google search
 author: Samgu Lee
+header:
+  og_image: /assets/100-server-test-in-google-search.jpg
 ---
 
 구글 검색이 신규 기능을 테스트할 때 어떤 상황이 발생할까 알아봅니다.

@@ -5,6 +5,8 @@ date: 2006-10-19 03:15:31
 categories: service
 tags: google optimizer
 author: Samgu Lee
+header:
+  og_image: /assets/website_optimizer_ss.jpg
 ---
 
 무엇보다 광고에 많은 자원을 할당하고 있는 구글(Google)은, 웹사이트 옵티마이저라는 프로그램을 런칭했습니다.

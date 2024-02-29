@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 스프레드쉬트의 멋진 함수 기능"
-date:   2007-02-27 09:49:21
+title: "구글 스프레드쉬트의 멋진 함수 기능"
+date: 2007-02-27 09:49:21
 categories: service
 tags: google spreadsheet
 author: Samgu Lee
+header:
+  og_image: /assets/google-function-on-google-spreadsheet.jpg
 ---
+
 구글 오피스로도 불리우는 "구글 워드프로세서&스프레드쉬트"는 시험적이면서도 매우 독특한 두가지 함수를 제공한다. 이 함수들은 구글의 서로 다른 서비스를 이용한 것으로 MS오피스와 같은 설치형 프로그램에서는 구현하기 힘든, 온라인 오피스만의 기능이라고 할 수 있다.
 
 ![구글 스프레드쉬트의 구글 함수](/assets/google-function-on-google-spreadsheet.jpg)

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "피카사 웹 앨범, 한글화"
-date:   2006-12-08 19:58:08
+title: "피카사 웹 앨범, 한글화"
+date: 2006-12-08 19:58:08
 categories: service
 tags: google picasa korean
 author: Samgu Lee
+header:
+  og_image: /assets/picasa-web-korean.gif
 ---
+
 구글의 사진 공유 서비스인 피카사 웹 앨범(Picasa Web Albums)이 한글화 되었다고 [공식 블로그](http://googleblog.blogspot.com/2006/12/share-your-photos-in-more-languages.html)에서 알려왔다.
 
 ![피카사 웹 로고](/assets/picasa-web-logo.gif)

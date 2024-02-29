@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글의 크리스마스 로고"
-date:   2006-12-21 14:45:12
+title: "구글의 크리스마스 로고"
+date: 2006-12-21 14:45:12
 categories: gossip
 tags: google christmas logo
 author: Samgu Lee
+header:
+  og_image: /assets/google-christmas-logo.gif
 ---
+
 구글 웹사이트 메인의 로고에 트리가 드리워졌다. 구글의 기념 로고는 당일 새벽(미국 기준)에 바뀌는 것이 통례지만, 이번의 기념 로고는 크리스마스 기념이라기 보다는 트리를 보여준다는 의미인 것 같다.
 
 ![구글 크리스마스 로고](/assets/google-christmas-logo.gif)

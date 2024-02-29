@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "애드센스의 구글 로고 테스트"
-date:   2006-12-11 10:15:35
+title: "애드센스의 구글 로고 테스트"
+date: 2006-12-11 10:15:35
 categories: news
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/adsense-logo-test.jpg
 ---
+
 구글(Google)은 최근 자사의 광고 상품인 애드센스(AdSense)에 자사 광고를 싣고 있다. 국내만 그런 것이 아니라, 영어권 나라에서도 구글의 자체 광고에 대한 블로거의 글이 올라와 있는 상태. 게다가, 구글은 최근 애드센스의 로고를 이미지로 대치하는 테스트를 진행하고 있다.
 
 ![각각 다른 이미지의 애드센스 구글 로고](/assets/adsense-logo-test.jpg)

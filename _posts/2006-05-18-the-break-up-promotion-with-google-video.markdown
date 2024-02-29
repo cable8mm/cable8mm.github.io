@@ -5,6 +5,8 @@ date: 2006-05-18 13:00:39
 categories: news
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/breakupTile.png
 ---
 
 다빈치코드(Davinci Code)에 이어서 The Break-Up의 프로모션을 Google Video에서 진행합니다.

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글과 LG, 무선 단말기 파트너십 체결"
-date:   2007-03-28 05:23:05
+title: "구글과 LG, 무선 단말기 파트너십 체결"
+date: 2007-03-28 05:23:05
 categories: news
 tags: google lg partnership
 author: Samgu Lee
+header:
+  og_image: /assets/lg-google-logo.jpg
 ---
+
 LG는 구글을 위한 무선 단말기를 2007년 2분기에 출시한다는 보도자료를 미국 언론사에 배포하고, 자사의 [공식 웹사이트](http://www.lge.com/ir/news_ir/detail/PRO%7CNEWS%5EPRE%7CMENU%5EPRER%7CMENU_20357_PRER%7CMENU.jhtml)에 공개했다.
 
 ![구글,LG 로고](/assets/lg-google-logo.jpg)

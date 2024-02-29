@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "피카사 웹의 주목할만한 업데이트"
-date:   2007-01-01 17:51:33
+title: "피카사 웹의 주목할만한 업데이트"
+date: 2007-01-01 17:51:33
 categories: service
 tags: google picassa
 author: Samgu Lee
+header:
+  og_image: /assets/picasa-web-in-korean.gif
 ---
+
 구글은 년말을 맞이해서 휴가를 떠난하는 글을 공식 블로그에 올린 바 있다. 하지만, 피카사 웹 앨범 팀의 휴가는 내년으로 미루어진 것 같다.
 
 최근, 피카사 웹 앨범(Picasa Web Albums)은 주목할만한 [세가지 업데이트](http://picasa.google.com/intl/en_US/web/whatsnew.html)가 있었다. 이 모두는 간단한 기능이 아니다. 업데이트 내용을 살펴보도록 하자.

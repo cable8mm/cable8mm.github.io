@@ -5,6 +5,8 @@ date: 2006-05-30 02:29:20
 categories: news
 tags: google news
 author: Samgu Lee
+header:
+  og_image: /assets/papo_google_news.gif
 ---
 
 Google 뉴스는 뉴스의 정확한 출처를 제공한다는 점, 그리고 원하는 키워드의 뉴스를 메일로 보내주고, 피드(RSS 혹은 ATOM)로 제공한다는 점에서 팔글에서도 즐겨 사용하고 있습니다. 그런데, Google 뉴스의 한국어 버젼에 치명적인 오류가 있습니다.

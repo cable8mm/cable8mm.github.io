@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글이 사악해졌다고?"
-date:   2006-02-18 03:26:04
+title: "구글이 사악해졌다고?"
+date: 2006-02-18 03:26:04
 categories: company
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_koreamap_consor.jpg
 ---
+
 구글은 공기업이 아니라 기업공개를 한 사기업입니다. 일반적으로 기업을 공개한다는 이야기는 회사의 주인이 주주가 됨을 의미하는 것으로 모든 결정은 주주의 단기적인 영향을 받을 수 밖에 없습니다. 그로 인한 주가관리와 경영권 방어는 주식회사의 기초중의 기초입니다.
 
 구글이 사악해졌다는 글들이 최근 들어서 유행처럼 번지고 있는데 그 의미를 곱씹어 볼 필요가 있습니다.

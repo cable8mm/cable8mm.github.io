@@ -5,6 +5,8 @@ date: 2006-10-15 12:07:38
 categories: service
 tags: google sms
 author: Samgu Lee
+header:
+  og_image: /assets/smsmini.png
 ---
 
 구글 툴바 익스플로러 버젼 4에는 휴대폰 문자(SMS)를 보낼 수 있는 기능이 있습니다. 팔글에서는 치명적인 버그로 인해 사용하지 말기를 권고한 적이 있는데, 이 기능은 툴바를 사용하지 않고도 보낼 수 있습니다.

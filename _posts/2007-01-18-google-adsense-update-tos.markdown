@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 애드센스, 약관 변경"
-date:   2007-01-18 02:46:30
+title: "구글 애드센스, 약관 변경"
+date: 2007-01-18 02:46:30
 categories: news
 tags: google adsense toc
 author: Samgu Lee
+header:
+  og_image: /assets/karens-adsense.jpg
 ---
+
 구글에서 진행하는 광고 프로그램인 애드센스는 많은 최적화 방법이 나온 바 있고, 눈에 띄는 방법은 광고 단위 좌측이나 상단에 이미지를 붙이는 것이다. 이 방법을 이용하면 잘 생겼다라고 할 수 없는 구글 광고를 멋지게 포장하는 일이 가능하다.
 
 ![카렌 챙의 애드센스 디자인](/assets/karens-adsense.jpg)

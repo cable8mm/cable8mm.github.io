@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글(Google), 잣스팟(Jotspot) 인수"
-date:   2006-10-31 16:07:51
+title: "구글(Google), 잣스팟(Jotspot) 인수"
+date: 2006-10-31 16:07:51
 categories: news
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/jotspot_plus_google.jpg
 ---
+
 구글(Google)이 또하나의 기업을 인수했습니다. 이번에 인수한 잣스팟(Jotspot)은 사용자들이 위키(Wiki)를 손쉽게 만들어주는 툴을 서비스하는 업체로 알려져 있습니다.
 
 잣스팟의 인수는 유튜브(YouTube)의 인수 루머를 가장 먼저 알린 테크크런치의 마이클 앨링턴에 의해 10월 10일 알려졌습니다. 그렇지만, 인수자가 구글이 아닌 [야후(Yahoo)로 알려졌습니다](http://www.techcrunch.com/2006/05/10/rumor-yahoo-closed-jotspot-acquisition/).
@@ -26,7 +29,7 @@ author: Samgu Lee
 >
 > 나는 구글의 일원이 되서 황홀할 지경이고, 구글의 일부로서 우리가 시작했던 잣스팟을 계속 이어갈 것이다. - [스콧 존스턴(scott johnston)](http://www.happyinwater.com/life/archives/2006/10/31/googlespot/)의 블로그
 >
->나는 우리의 목표를 앞당기는데, 구글의 자원과 사람들에 참여(join)하는 것 보다 더 좋은 방법을 생각할 수 없다. - [스콧 맥뮬런(Scott McMullan)의 블로그](http://www.scottmcmullan.com/blog/2006/10/im_now_a_google.html)
+> 나는 우리의 목표를 앞당기는데, 구글의 자원과 사람들에 참여(join)하는 것 보다 더 좋은 방법을 생각할 수 없다. - [스콧 맥뮬런(Scott McMullan)의 블로그](http://www.scottmcmullan.com/blog/2006/10/im_now_a_google.html)
 
 잣스팟의 직원들은 구글에 인수된 것을 매우 기쁘게 생각하고 있습니다. 구글에 인수된 자체로 사용자는 크게 늘어나게 될 것이고, 블로거(Blogger)와 같이 시스템 자체를 바꾸어야 하는 상황이 오게 될지도 모르겠습니다. 구글의 인수로 잣스팟의 다국어화가 이루어지길 바랍니다.
 

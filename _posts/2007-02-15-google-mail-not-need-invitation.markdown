@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 메일, 초대장 없이 가입 가능"
-date:   2007-02-14 15:11:53
+title: "구글 메일, 초대장 없이 가입 가능"
+date: 2007-02-14 15:11:53
 categories: news
 tags: google gmail
 author: Samgu Lee
+header:
+  og_image: /assets/gmail-logo.gif
 ---
+
 구글 메일(GMail)이 드디어 초대장 없이 가입이 가능하게 되었다고 지메일 [공지사항](http://mail.google.com/mail/help/intl/ko/whatsnew.html)을 통해 알려왔다.
 
 ![구글메일(지메일) 로고](/assets/gmail-logo.gif)

@@ -5,6 +5,8 @@ date: 2006-03-30 08:48:36
 categories: news
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_adlink_in_python.jpg
 ---
 
 Garett Rogers은 ZDNET에서 구글이 테스트하고 있는 구글 연관된 링크(Google Related Content)를 소개했습니다. 팔글에서 또하나의 증거를 발견할 수 있었는데 바로 [파이썬 공식 웹사이트](http://www.python.org/)입니다. 테스트 된 웹사이트 둘 다 재밌게도 개발자를 위한 곳입니다.

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 맵을 이용한 여행 검색, 월드씨티와 플래이톡"
-date:   2007-03-14 06:47:11
+title: "구글 맵을 이용한 여행 검색, 월드씨티와 플래이톡"
+date: 2007-03-14 06:47:11
 categories: service
 tags: google maps worldcity playtalk
 author: Samgu Lee
+header:
+  og_image: /assets/worldct-and-playtalk.jpg
 ---
+
 [월드씨티(worldct.com)](http://inuit.co.kr/1069)은 엠엔씨소프트에서 제작한 지도를 공유해서 커뮤니티와 검색을 할 수 있게 한 서비스로, 플래시를 이용한 여행 전문 사이트인 [윙버스](http://www.wingbus.com/)와 비슷한 컨셉이다.
 
 ![월드씨티와 플래이톡](/assets/worldct-and-playtalk.jpg)

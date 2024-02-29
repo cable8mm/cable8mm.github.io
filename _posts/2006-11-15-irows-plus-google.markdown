@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글(Google), iRows 창립자 스카우트"
-date:   2006-11-15 02:44:20
+title: "구글(Google), iRows 창립자 스카우트"
+date: 2006-11-15 02:44:20
 categories: news
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/irows-small.jpg
 ---
+
 아이로우즈(iRows)의 창립자인 Yoah Bar-david과 Itai Raz가 구글에 합류했습니다. 아이로우즈는 웹에서 작동되는 엑셀과 같은 서비스로 구글에도 비슷한 서비스가 있습니다. 사용자는 구글의 스프레드시트가 더욱 좋아질 것이라는 기대를 하고 있습니다.
 
 이 소식은 [the.co.ils](http://www.thecoils.com/2006/11/14/irows_google/)라는 블로그에 처음 포스팅 되었는데, 그것을 [테크크런치](http://www.techcrunch.com/2006/11/13/google-takes-out-ajax-spreadsheet-irows/)에서 알렸고, 정확한 소식이 [Google Blogoscoped](http://blog.outer-court.com/archive/2006-11-14.html)에 포스팅되었습니다.

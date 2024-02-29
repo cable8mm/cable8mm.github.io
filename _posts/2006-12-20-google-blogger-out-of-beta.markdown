@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 블로거, 베타 딱지 떼다"
-date:   2006-12-20 02:57:55
+title: "구글 블로거, 베타 딱지 떼다"
+date: 2006-12-20 02:57:55
 categories: service
 tags: google blogger
 author: Samgu Lee
+header:
+  og_image: /assets/blogger-logo.jpg
 ---
+
 구글 블로거의 새로운 버전이 더이상 베타가 아니라는 소식을 [블로거 버즈](http://buzz.blogger.com/2006/12/new-version-of-blogger.html)에서 알려왔다.
 
 ![구글 블로거, 더이상 베타가 아니다](/assets/blogger-logo.jpg)
@@ -14,7 +17,7 @@ author: Samgu Lee
 
 [구글 블로거 베타에 관한 특징]({% post_url 2006-08-15-blogger-beta %})은 팔글에서도 이전에 언급한 바가 있는데, 이후 몇가지가 더 추가되었다.
 
-우선, 자체 도메인을 사용할 수 있는 외부 FTP를 이용한 업로드가 새로운 버젼에서도 작동된다. 그리고, 이전 버전에서의 이전도 지원되지만, 아직까지 전환 버튼(Switch)이 생기지 않는 블로그가 존재한다. [블로거 도움말](http://help.blogger.com/bin/answer.py?answer=44404&amp;topic=9085)에 따르면 팀블로그와 모바일 블로그는 아직까지 전환 링크가 나타나지 않는다고 한다.
+우선, 자체 도메인을 사용할 수 있는 외부 FTP를 이용한 업로드가 새로운 버젼에서도 작동된다. 그리고, 이전 버전에서의 이전도 지원되지만, 아직까지 전환 버튼(Switch)이 생기지 않는 블로그가 존재한다. [블로거 도움말](http://help.blogger.com/bin/answer.py?answer=44404&topic=9085)에 따르면 팀블로그와 모바일 블로그는 아직까지 전환 링크가 나타나지 않는다고 한다.
 
 새로운 버젼의 블로거의 특징 중에서 가장 인상적인 것은 HTML 직접 제작도 가능하지만, 마법사 형식도 가능하다는 점입니다. 이 기능은 네이버의 차세대 블로그에 적용된다는 내용과 비슷한 면이 있는데, 마우스로 위치를 지정할 수 있고, 여러개의 객체들을 마우스만으로 추가할 수 있게 되었다.
 

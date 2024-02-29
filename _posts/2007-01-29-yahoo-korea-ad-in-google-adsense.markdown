@@ -5,6 +5,8 @@ date: 2007-01-29 03:16:31
 categories: news
 tags: google adsense yahoo
 author: Samgu Lee
+header:
+  og_image: /assets/yahoo-ad-in-adsense.jpg
 ---
 
 미국의 인터넷 3사로 일컬어지는 구글, 야후 그리고 MSN은 여러가지 서비스에서 경쟁하고 있지만, 전쟁을 방불케 하는 분야는 다름아닌 광고 부분이다.

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 비디오(Google Video), 오늘만 무료"
-date:   2006-06-23 04:09:04
+title: "구글 비디오(Google Video), 오늘만 무료"
+date: 2006-06-23 04:09:04
 categories: news
 tags: google video
 author: Samgu Lee
+header:
+  og_image: /assets/google_video_free_today_screenshop.png
 ---
+
 동영상 서비스 중에 유료 플랫폼이 갖추어져 있는 오픈 플랫폼형 비디오 서비스인 Google Video의 유료 영상 일부를 하루 무료로 서비스하는 [Google Video Free Today! 서비스](http://video.google.com/freetoday.html)가 오픈했습니다.
 
 ![구글비디오 오늘만 무료](/assets/google_video_free_today_screenshop.png)

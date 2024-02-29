@@ -5,6 +5,8 @@ date: 2007-08-30 03:59:06
 categories: advertising
 tags: overture panama
 author: Samgu Lee
+header:
+  og_image: /assets/panama-launched-in-korea.jpg
 ---
 
 오버추어 코리아(유)는 8월 30일자로 전체 공지메일에 새로운 시스템이 국내에 적용됐다는 사실을 알려왔다.

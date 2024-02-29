@@ -5,6 +5,8 @@ date: 2006-08-14 15:11:55
 categories: service
 tags: google picasa
 author: Samgu Lee
+header:
+  og_image: /assets/sidegraphic.jpg
 ---
 
 드디어 맥용 피카사 웹 앨범이 론칭되었습니다.

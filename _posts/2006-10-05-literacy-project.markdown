@@ -5,6 +5,8 @@ date: 2006-10-04 16:18:19
 categories: service
 tags: google groups
 author: Samgu Lee
+header:
+  og_image: /assets/lit.jpg
 ---
 
 구글이 유네스코의 평생 교육 연구소와 협력해 만들고 론칭한 구글 리터러시가 무엇일까요?

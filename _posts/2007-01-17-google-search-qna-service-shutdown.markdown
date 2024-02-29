@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글의 한국어 Q&A 서비스, 작동 불능"
-date:   2007-01-17 05:21:04
+title: "구글의 한국어 Q&A 서비스, 작동 불능"
+date: 2007-01-17 05:21:04
 categories: news
 tags: google qna
 author: Samgu Lee
+header:
+  og_image: /assets/google-qna-service-shutdown.jpg
 ---
+
 구글의 [한국 공식 블로그](http://googlekoreablog.blogspot.com/2007/01/qa.html)를 통해 구글러 에릭 김(Eric Kim)은 자신의 최초 서비스로 "한국어 Q&A"가 론칭했다는 사실을 일반인에게 알렸다. 하지만, 팔글의 우연한 테스트로 에릭 김의 서비스는 몇일 만에 작동되지 않는다는 사실을 알 수 있었다.
 
 구글 검색 내의 Q&A 서비스는 검색창의 키워드를 분석해서 정답이라고 생각하는 답을 검색 최상단에 알려주는 편리한 서비스이고, 영문의 경우 오래전부터 지원해 왔다. 에릭 김은 블로그에서, 한국어 Q&amp;A 서비스를 만들 동안 고품질의 자료가 많지 않고, 있다 해도 접근이 막혀 있다고 언급했다.

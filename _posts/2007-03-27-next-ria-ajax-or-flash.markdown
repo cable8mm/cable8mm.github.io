@@ -5,6 +5,8 @@ date: 2007-03-27 09:34:42
 categories: opinion
 tags: ria ajax development
 author: Samgu Lee
+header:
+  og_image: /assets/combination-flash-and-ajax-in-google-finance.jpg
 ---
 
 차세대 RIA로 플래시, 자바스크립트 중 최종 승자는 누가 될까요?

@@ -1,12 +1,15 @@
 ---
 layout: single
-title:  "다음이 태터툴즈라면, 네이버는 제로보드"
-date:   2007-03-14 03:42:36
+title: "다음이 태터툴즈라면, 네이버는 제로보드"
+date: 2007-03-14 03:42:36
 categories: opinion
 tags: daum tattertools naver zeroboard
 author: Samgu Lee
+header:
+  og_image: /assets/zeroboard-and-naver.gif
 ---
-한국의 양대 오픈소스라면 단연 제로보드와 태터툴즈라고 할 수 있다. 태터툴즈는 TNC가 인수해서 현재 티스토리로 서비스하고 있고, 다음 커뮤니케이션이 서버와 같은 자원을 지원하고 있다. 반면, 제로보드도 네이버의 지원을 받게 되었다고 [제로보드 공식 사이트](http://www.nzeo.com/bbs/zboard.php?id=main_notice&amp;no=198)에서 알려왔다.
+
+한국의 양대 오픈소스라면 단연 제로보드와 태터툴즈라고 할 수 있다. 태터툴즈는 TNC가 인수해서 현재 티스토리로 서비스하고 있고, 다음 커뮤니케이션이 서버와 같은 자원을 지원하고 있다. 반면, 제로보드도 네이버의 지원을 받게 되었다고 [제로보드 공식 사이트](http://www.nzeo.com/bbs/zboard.php?id=main_notice&no=198)에서 알려왔다.
 
 ![NHN이 지원하는 제로보드](/assets/zeroboard-and-naver.gif)
 
@@ -31,7 +34,7 @@ author: Samgu Lee
 Update 20070315
 
 언론에 제로보드를 NHN이 인수를 했다는 기사가 나오고 있는데, 이 부분에 대한 출처는 NHN의 [보도자료](http://app.yonhapnews.co.kr/yna/basic/article/Press/YIBW_showPress.aspx?contents_id=RPR20070314009500353)입니다. 다음은 보도자료의 중요부분.
->
+
 > ......
 >
 > NHN(대표 최휘영 www.nhncorp.com)은 국내 인터넷 콘텐츠 생산환경을 개선하고 포털 외부 이용자들에게 콘텐츠 제작 편의를 제공하기 위해 인터넷 게시판 제작 솔루션인 &#8216;제로보드'를 인수하고, 올 하반기에 오픈 소스 형태로 지원할 예정이라고 밝혔다.

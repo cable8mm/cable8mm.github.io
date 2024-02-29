@@ -5,6 +5,8 @@ date: 2006-03-15 16:14:16
 categories: gossip
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/fish_one.jpg
 ---
 
 많은 초보 블로거들이 하는 것과 마찬가지로 팔글의 운영자인 이삼구도 이름으로 구글링을 가끔 합니다. 블로그의 이름으로 검색한 페이지가 늘어가는 재미가 채 가시기도 전에 구글의 낚시에 걸려버리는군요.

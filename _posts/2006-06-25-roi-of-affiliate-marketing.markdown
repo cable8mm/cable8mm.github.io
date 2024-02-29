@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "제휴마케팅의 ROI"
-date:   2006-06-25 12:06:00
+title: "제휴마케팅의 ROI"
+date: 2006-06-25 12:06:00
 categories: opinion
 tags: affiliate roi
 author: Samgu Lee
+header:
+  og_image: /assets/ilikeclick-roi-722672.png
 ---
+
 ROI는 광고비 지출로 얻은 이득을 말합니다. 보통 광고 대행사에서 광고주에게 제안서를 보낼 때 꼭 나오는 통계 지표가 됩니다. 한국의 양대 제휴마케팅 업체 중 한 곳인 ILikeClick의 정보가이드에 나오는 ROI가 의미하는 것이 무엇인지 알아봅니다.
 
 ILikeClick은 정보가이드에 2004년 5월 한달간 여러 매체에 광고를 진행한 업체의 통계를 공개했습니다. 이 자료는 제 데이터와 매우 흡사하기 때문에 믿을만 하다고 보여집니다.

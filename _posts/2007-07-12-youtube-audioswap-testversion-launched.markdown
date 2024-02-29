@@ -5,6 +5,8 @@ date: 2007-07-12 07:05:54
 categories: service
 tags: youtube law
 author: Samgu Lee
+header:
+  og_image: /assets/testtube.jpg
 ---
 
 구글이 유튜브를 인수하면서, 많은 블로거와 IT 평론가들은 악평을 서슴치 않았습니다. 왜 일까요?

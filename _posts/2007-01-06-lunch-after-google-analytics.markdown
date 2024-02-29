@@ -5,6 +5,8 @@ date: 2007-01-05 16:26:06
 categories: gossip
 tags: google analytics
 author: Samgu Lee
+header:
+  og_image: /assets/google-analytics-banner-static.jpg
 ---
 
 구글 관련 블로그를 운영하면서 생긴 재미있는 에피소드를 소개합니다.

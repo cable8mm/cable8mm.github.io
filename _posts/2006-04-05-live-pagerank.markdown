@@ -5,6 +5,8 @@ date: 2006-04-05 05:30:02
 categories: tip
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/live_pagerank.jpg
 redirect_from:
   - /2006/04/05/live_pagerank/
 ---

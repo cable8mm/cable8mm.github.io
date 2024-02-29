@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 리더 트랜드 론칭"
-date:   2007-01-04 05:55:00
+title: "구글 리더 트랜드 론칭"
+date: 2007-01-04 05:55:00
 categories: service
 tags: google reader trend
 author: Samgu Lee
+header:
+  og_image: /assets/gapminder-screenshot.jpg
 ---
+
 구글 리더에 자신의 과거를 통계로 알 수 있는 트랜드 소식을 [구글 리더 공식 블로그](http://googlereader.blogspot.com/2007/01/i-like-big-charts-and-i-cannot-lie.html)에서 알려왔다. 리더 트랜드라고 하는 이 기능은 자신이 구독하고 있는 RSS같은 피드의 흥미로운 통계들 - 예를 들어서 하루 평균 몇번의 글이 올라오고, 얼마의 글을 읽었는지를 보여준다.
 
 통계는 크게 세가지 부문으로 나뉘는데, (1) 구독하고 있는 피드의 모든 글에 대한 트랜드와 (2) 피드별로 나눈 트랜드, 그리고 (3) 각각의 피드에 대한 트랜드가 그것이다.

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "진화하는 구글 웹검색, 기간 필터 추가"
-date:   2006-03-07 07:33:25
+title: "진화하는 구글 웹검색, 기간 필터 추가"
+date: 2006-03-07 07:33:25
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_add_filter.jpg
 ---
+
 팔글에선 1월 구글 웹검색에 "[사용권한"이라는 필터가 추가][google-search-ccl-filter]됐음을 알린 바가 있습니다. 검색 필터는 또다시 날짜 필터가 추가되었습니다.
 
 구글이 이번에 추가한 필터는 날짜필터라고 하는 것입니다. 말하자면, 정해진 개월 안에 업데이트가 된 문서만을 검색해 줍니다.

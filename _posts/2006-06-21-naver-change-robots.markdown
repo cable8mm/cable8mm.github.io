@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "네이버의 robots.txt 정책 변경에 즈음한 Google 검색"
-date:   2006-06-21 08:51:20
+title: "네이버의 robots.txt 정책 변경에 즈음한 Google 검색"
+date: 2006-06-21 08:51:20
 categories: opinion
 tags: google search naver
 author: Samgu Lee
+header:
+  og_image: /assets/naver_old_homepage.png
 ---
+
 올블의 CEO이신 하늘이 님이 [네이버의 robots.txt 정책이 바뀌었다는 사실](http://ceo.blogcocktail.com/wp/archives/288/)을 알려주어서 Google로 검색해 본 결과 재미있는 결과를 얻었습니다. 5년여 전의 페이지들이 고스란히 살아있는 것을 알 수 있었는데, 구경 해 봐야겠죠?
 
 네이버의 서비스 중 많은 부분에 robots.txt 정책이 바뀌었는데요, www.naver.com 도메인의 robots.txt파일은 아예 삭제가 되었습니다. 아쉽게도 지식인 데이터는 막아놨지만, 기념으로 Googling을 해 보았습니다.(검색어 - site:www.naver.com)

@@ -5,6 +5,8 @@ date: 2006-07-06 02:40:42
 categories: gossip
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/adsense_flash.jpg
 ---
 
 구글 웹 엑셀러레이터(Google Web Accelerator)는 구글이 제공하는 프록시 서버로 프록시 서버의 캐쉬를 이용해서 얼마간의 인터넷 속도를 빠르게 해 주는 프로그램입니다.

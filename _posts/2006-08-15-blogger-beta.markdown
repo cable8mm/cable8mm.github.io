@@ -5,6 +5,8 @@ date: 2006-08-15 08:14:54
 categories: service
 tags: google blogger
 author: Samgu Lee
+header:
+  og_image: /assets/beta_buzz-706883.png
 ---
 
 구글 블로거닷컴이 기존 시스템과는 별도의 새로운 블로그의 베타서비스를 개시합니다. 이번 서비스는 기존의 시스템에 몇가지 기능이 추가되었고, 대쉬보드(관리자페이지)는 별도로 작동됩니다. 구글 계정이 있다면 바로 사용할 수 있는 새로운 블로거닷컴(Blogger.com)의 베타서비스를 소개합니다.

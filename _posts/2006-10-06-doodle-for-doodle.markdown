@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "두들 구글(Doodle for Google)"
-date:   2006-10-06 10:23:10
+title: "두들 구글(Doodle for Google)"
+date: 2006-10-06 10:23:10
 categories: gossip
 tags: google doodle
 author: Samgu Lee
+header:
+  og_image: /assets/dennis.jpg
 ---
+
 영국에서 구글 로고를 이용한 컨퍼런스인 두들 구글(Doodle for Google)이 지역 예선을 끝내고 투표에 돌입했습니다. 인터넷 사용자라면 누구나 두들 구글 페이지에서 투표를 하실 수 있습니다.
 
 ![황정목님 사진](/assets/dennis.jpg)

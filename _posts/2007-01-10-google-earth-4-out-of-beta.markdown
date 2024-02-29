@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글어스4, 베타 떼다"
-date:   2007-01-10 07:14:35
+title: "구글어스4, 베타 떼다"
+date: 2007-01-10 07:14:35
 categories: service
 tags: google earth
 author: Samgu Lee
+header:
+  og_image: /assets/high-resolution-in-google-earth4.jpg
 ---
+
 구글어스4에 베타가 사라졌다. 구글어스4는 3에 비해 많은 발전이 있었는데, 주목할 부분이 바로 KML 포멧의 확장성이 높아졌다는 점이다. 구글어스는 KML로 인해 매쉬업이 가능하게 되었는데, 버젼4에 와서는 스트리밍까지 지원되기 때문에 마음먹고 제작한다면 연동 서비스 제작도 가능하다.
 
 아무튼, 구글어스4는 베타를 떼어내고 몇가지 [주목할만한 변화](http://earth.google.com/earth4.html)가 있었다. 그 중 눈에 띄는 부분이 바로 3D 해상도가 굉장히 높아졌다. 다음 사진은 구글이 제공하는 구글 어스의 3D 구조물이다.

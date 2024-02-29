@@ -5,6 +5,8 @@ date: 2006-09-12 03:57:30
 categories: advertising
 tags: google adsense referrer
 author: Samgu Lee
+header:
+  og_image: /assets/adsense-referral.jpg
 ---
 
 구글 애드센스 추천(Google AdSense Referrals)에 구글 패키지(Google Pack)가 추가되었습니다. 이로서 추천에 의한 수익배분 프로그램은 총 다섯가지가 되었습니다.

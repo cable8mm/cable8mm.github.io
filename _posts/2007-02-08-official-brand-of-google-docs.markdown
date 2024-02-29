@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 닥스의 공식적인 명칭 확정"
-date:   2007-02-08 02:34:22
+title: "구글 닥스의 공식적인 명칭 확정"
+date: 2007-02-08 02:34:22
 categories: news
 tags: google docs
 author: Samgu Lee
+header:
+  og_image: /assets/google-office-korea-logo.gif
 ---
+
 [라이틀리(Writely)]({% post_url 2006-09-20-writely-google-account %})와 [잣스팟]({% post_url 2006-11-01-jot-plus-google %})을 인수해서 모양새를 갖추고 있는 구글의 웹오피스 서비스인 구글 닥스의 공식 한국 명칭이 결정되었다. 이 명칭은 아마도 구글의 모든 서비스 중 가장 긴 이름이고, 사실 혼란을 야기하기도 한다.
 
 ![구글 닥스의 한국 공식 명칭 로고](/assets/google-office-korea-logo.gif)

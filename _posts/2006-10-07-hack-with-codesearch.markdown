@@ -5,6 +5,8 @@ date: 2006-10-07 02:56:37
 categories: opinion
 tags: google code
 author: Samgu Lee
+header:
+  og_image: /assets/codesearch_logo.gif
 ---
 
 구글 검색(Google Web Search)에 주민등록번호가 나온다는 이야기처럼, 웹 프로그래머도 자신의 소스를 웹서버에 올리면 안될 것 같습니다.

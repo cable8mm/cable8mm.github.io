@@ -5,6 +5,8 @@ date: 2006-12-15 15:20:09
 categories: news
 tags: google domain
 author: Samgu Lee
+header:
+  og_image: /assets/domain-register-of-google.jpg
 ---
 
 구글(Google)이 도메인 레지스터(도메인을 등록할 수 있는 허가받은 업체)로 등록된 후 드디어 도메인을 저렴한 가격에 등록할 수 있는 서비스를 시작했다.

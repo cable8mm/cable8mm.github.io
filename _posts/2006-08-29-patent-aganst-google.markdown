@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글(Google) vs 파캔오피씨 파이트"
-date:   2006-08-29 03:29:16
+title: "구글(Google) vs 파캔오피씨 파이트"
+date: 2006-08-29 03:29:16
 categories: news
 tags: google 파캔오피씨
 author: Samgu Lee
+header:
+  og_image: /assets/patent_against_google.jpg
 ---
+
 여러 신문에 파캔오피씨의 구글에 대한 특허 소송이 잇달아 나오고 있습니다. 그것을 [스물 다섯의 경향 블로그](http://trend25.tistory.com/2630547)에서 다루어 주셨는데요, 팔글에서는 약간 깊에 들어가 보겠습니다.
 
 파켄오피씨가 소유했다는 특허는 특허 등록번호 10-0369436으로 표제는 신문에 나온 것과는 약간 다른 "동적 멀티 웹 표시 검색 방법"입니다. 이 특허는 2000년 3월 31일에 출원하여 2003년 1월 10일에 정식 등록되었습니다.

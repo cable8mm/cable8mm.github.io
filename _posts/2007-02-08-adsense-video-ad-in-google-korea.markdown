@@ -5,6 +5,8 @@ date: 2007-02-08 02:58:02
 categories: advertising
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/adsense-for-video-in-korean.jpg
 ---
 
 구글은 자사의 키워드 광고를 확대시켜서 애드센스라는 상품을 만들었다.

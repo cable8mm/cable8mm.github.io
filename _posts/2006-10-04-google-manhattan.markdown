@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글(Google)의 맨하탄 오피스"
-date:   2006-10-03 15:49:39
+title: "구글(Google)의 맨하탄 오피스"
+date: 2006-10-03 15:49:39
 categories: company
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_manhattan.jpg
 ---
+
 구글에서 광고 세일즈 부분만 분사한 오피스가 맨하탄에 오픈했습니다.
 
 ![맨하탄 사무소 먹거리](/assets/google_manhattan.jpg)

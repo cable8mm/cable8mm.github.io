@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 Talk, 업데이트 - 아바타 기능 되구요"
-date:   2006-04-07 04:56:39
+title: "구글 Talk, 업데이트 - 아바타 기능 되구요"
+date: 2006-04-07 04:56:39
 categories: news
 tags: google talk
 author: Samgu Lee
+header:
+  og_image: /assets/google_talk_updated.gif
 ---
+
 구글 Talk 공식 블로그인 talkabout에 Scott Ludwig는 4월 6일 [구글 Talk의 업데이트](http://googletalk.blogspot.com/2006/04/pictures-themes-and-more.html)를 알렸습니다. 가장 눈에 띄는 것이 아바타 기능이 가능하다는 것인데 팔글에서 알아봅니다.
 
 구글 Talk는 한국에서 쓰기에는 치명적인 버그가 존재했었는데, 새로운 버젼을 테스트 한 바로는 몇몇 부분의 버그는 고쳐졌습니다. 가장 불편했었던 두줄 이상 글을 쓸 경우 글자가 자음과 모음이 분리되는 현상인데 고쳐진것 같군요.
@@ -24,7 +27,7 @@ author: Samgu Lee
 
 ## 그 밖에 업데이트
 
-한글의 자모가 분리되는 버그가 수정되었고, [사용자의 허락없이 내용이 구글 메일로 전송되는 것][[save-chat-no-option]]이 설정창에 옵션으로 추가되었습니다.
+한글의 자모가 분리되는 버그가 수정되었고, [사용자의 허락없이 내용이 구글 메일로 전송되는 것][save-chat-no-option]]이 설정창에 옵션으로 추가되었습니다.
 
 한국에서는 쓸모는 없지만 BlackBerry제품용 구글 Talk가 출시되었군요.
 

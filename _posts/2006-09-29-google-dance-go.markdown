@@ -5,6 +5,8 @@ date: 2006-09-29 12:58:14
 categories: service
 tags: google search
 author: Samgu Lee
+header:
+  og_image: /assets/239gle_livepr.jpg
 ---
 
 2006년 9월의 구글댄스가 드디어 시작되었습니다.

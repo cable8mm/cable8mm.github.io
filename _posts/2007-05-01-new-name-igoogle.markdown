@@ -5,6 +5,8 @@ date: 2007-05-01 06:35:59
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/igoogle-thumbnail.jpg
 ---
 
 드디어 구글이 어처구니 없는 이름들을 포기하기 시작했다.

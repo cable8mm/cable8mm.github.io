@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 블로거를 내 도메인으로 운영하자"
-date:   2007-01-06 01:18:59
+title: "구글 블로거를 내 도메인으로 운영하자"
+date: 2007-01-06 01:18:59
 categories: opinion
 tags: google blogger domain
 author: Samgu Lee
+header:
+  og_image: /assets/google-blogger-in-my-domain.jpg
 ---
+
 [구글 블로거(Blogger) 공식 블로그](http://buzz.blogger.com/2007/01/blogger-custom-domains.html)에서는 커스텀 도메인을 이용해서 블로그를 설치할 수 있다고 알려왔다. 이로서 블로거 사용자는 두가지 방법으로 나만의 도메인을 사용할 수 있게 되었다.
 
 나만의 도메인으로 블로거를 만드는 방법은 FTP를 이용하는 방법이 있었다. FTP를 이용해서 블로거를 만들면 폴더에 설치가 가능하기 때문에 한개의 도메인에 여러개의 블로그를 운영할 수 있게 된다. 예를 들어서, 리플넷의 경우 다섯개의 블로그를 하나의 도메인에 묶어 놓았고, 첫페이지에선 RSS와 같은 피드를 해킹해서 포탈의 형태로 만드는 것이 어렵지 않게 구현된다.

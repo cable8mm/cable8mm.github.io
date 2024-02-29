@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 애플리케이션을 편하게 세팅하는 방법"
-date:   2007-10-08 15:20:34
+title: "구글 애플리케이션을 편하게 세팅하는 방법"
+date: 2007-10-08 15:20:34
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google-apps-partnership-with-domain-corp.jpg
 ---
+
 구글 애플리케이션(Google Apps)은 구글의 CEO인 에릭 슈미츠가 강력하게 드라이브를 거는 엔터프라이즈 서비스로, 자신의 도메인에서 메일, 웹페이지, 메신져, 캘린더, 오피스 그리고 시작페이지를 구성할 수 있는 강력한 웹 기반 솔루션으로, 팔글에서도 몇번 소개를 한 적이 있다.
 
 ![구글과 제휴한 도메인 회사의 설명](/assets/google-apps-partnership-with-domain-corp.jpg)

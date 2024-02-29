@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 중국 R&D센터, 열방 서비스 론칭"
-date:   2007-03-19 04:04:15
+title: "구글 중국 R&D센터, 열방 서비스 론칭"
+date: 2007-03-19 04:04:15
 categories: news
 tags: google china
 author: Samgu Lee
+header:
+  og_image: /assets/logo-of-google-rebang.gif
 ---
+
 구글의 중국 R&D센터에서 새로운 서비스, [구글 열방(热榜 - rebang)](http://www.google.cn/rebang)을 [론칭](http://blogs.zdnet.com/Google/?p=488)했다고 ZDNET의 가렛 로져스(Garett Rogers)가 전했다.
 
 ![구글 열방 로고](/assets/logo-of-google-rebang.gif)
@@ -17,7 +20,6 @@ author: Samgu Lee
 ![daohang-of-google-china.jpg](/assets/daohang-of-google-china.jpg)
 
 구글 중국어로만 서비스되는 또하나의 서비스는 [구글 망참도항(网站导航)](http://daohang.google.cn/). 이 서비스는 말 그대로 유명한 웹사이트만을 한 페이지로 모은 인터넷 시작페이지 서비스다.
-
 
 ![구글 중국의 시작 페이지](/assets/start-page-of-google-china.jpg)
 

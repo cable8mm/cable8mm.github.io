@@ -5,6 +5,8 @@ date: 2007-04-24 10:38:33
 categories: advertising
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/adsense-sharing-ratio.gif
 ---
 
 미국에선 [서치엔진저널](http://www.searchenginejournal.com/google-adsense-revenue-sharing-at-its-peak/4765/)이, 한국에선 알짜블로그(현재 폐쇄)에서 구글이 내놓은 파이넨셜 테이블을 기준으로 애드센스가 과연 얼마의 수익을 게시자에게 나누어주는지를 분석한 자료를 내놓았다.

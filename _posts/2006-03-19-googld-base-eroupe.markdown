@@ -5,6 +5,8 @@ date: 2006-03-19 05:28:24
 categories: news
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_base_homepage.jpg
 ---
 
 국내 언론에 구글베이스의 유럽어 지원을 마치 새로운 서비스로 소개하고 있습니다. 팔글에서 정확한 내용을 소개합니다.

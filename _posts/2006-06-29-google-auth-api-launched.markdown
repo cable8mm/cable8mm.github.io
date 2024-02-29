@@ -5,6 +5,8 @@ date: 2006-06-29 04:47:53
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/Authsub_diagram.jpg
 ---
 
 팔글에서 4월 21일 GData라는 구글(Google)에서 데이터를 전송할 때 사용할 수 있는 API의 공개를 알려드린바 있습니다.

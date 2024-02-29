@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 리더, 공유기능 추가"
-date:   2006-03-23 05:11:33
+title: "구글 리더, 공유기능 추가"
+date: 2006-03-23 05:11:33
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_reader_share.jpg
 ---
+
 구글의 웹기반 피드리더(RSS,ATOM)인 구글 리더에 공유기능이 추가되었습니다. 피드 주소에 레이블을 붙이면 그 리스트를 자신의 웹사이트에 붙일 수도 있고, 이메일로 친구에서 추천할 수 있습니다.
 
 구글 리더에서 라벨을 붙이거나 별표를 붙인 피드 주소는 공유기능을 이용하면 친구와 공유할 수 있게 되었습니다.

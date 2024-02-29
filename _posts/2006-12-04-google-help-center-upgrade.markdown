@@ -5,6 +5,8 @@ date: 2006-12-04 04:47:01
 categories: service
 tags: google help
 author: Samgu Lee
+header:
+  og_image: /assets/google-help-upgrade.gif
 ---
 
 구글(Google)은 지금까지 도움말에 관한 많은 문제점이 있었고, 이는 구글 대부분의 서비스가 글로벌하기 때문에 발생하고 있다.

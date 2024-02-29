@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "놀라운 구글 맵스를 이용한 메쉬업 3종세트"
-date:   2006-03-29 14:21:19
+title: "놀라운 구글 맵스를 이용한 메쉬업 3종세트"
+date: 2006-03-29 14:21:19
 categories: news
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_maps_meshup_1.jpg
 ---
+
 구글의 모든 서비스들 중에서 가장 광범위하게 Open APIs를 제공하는 서비스가 구글 맵스(Google Maps)와 구글 어스(Google Earth)입니다. 그 중에서 구글 맵스의 매쉬업 3종세트를 소개합니다. 정말 놀랍네요.
 
 Open API라는 것은 서비스를 제공하는 업체에서 자사의 서비스를 이용해서 또다른 서비스를 만들 수 있게 만드는 일종의 레고입니다. 레고를 받은 개발자는 그것을 이용해서 여러가지 서비스를 만들 수 있게 됩니다.

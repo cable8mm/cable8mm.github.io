@@ -5,6 +5,8 @@ date: 2007-04-26 07:20:32
 categories: advertising
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/youtube-sony-google-doubleclick.jpg
 ---
 
 구글과 소니하면 생각나는 것이 무엇일까? 작년에 있었던 소니 픽처스와의 다빈치 코드 프로모션 정도가 있을 것이다.
