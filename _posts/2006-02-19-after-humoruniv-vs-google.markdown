@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글과 웃긴대학의 애드센스사건, 그 후..."
-date:   2006-02-19 09:06:00
+title: "구글과 웃긴대학의 애드센스사건, 그 후..."
+date: 2006-02-19 09:06:00
 categories: advertising
 tags: google adsense 웃긴대학
 author: Samgu Lee
+header:
+  og_image: /assets/humoruniv_vs_google.jpg
 ---
+
 웃긴대학에 게시한 [구글 애드센스의 수익금이 핀번호가 오기 전에 계정삭제가 되는 사건][publisher-must-do-it-for-google-adsense]이 있었습니다. 웃긴대학에선 광고비가 두달 약 2000만원이라고 주장하고 있고, 아직까지 이 사건은 해결이 안되고 있습니다.
 
 웃긴대학은 자신이 당연히 받아야 할 광고비 2000만원을 주던지, 아니면 부정클릭에 대한 근거를 알려달라고 주장하고 있고, 구글은 약관에 따라 다른 애드센스 계정을 가지고 있는 사람과 마찬가지로 부정클릭에 대한 근거를 알려주지 않고 있습니다.

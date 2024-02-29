@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글의 가장 아름다운 로고"
-date:   2006-03-14 09:50:16
+title: "구글의 가장 아름다운 로고"
+date: 2006-03-14 09:50:16
 categories: gossip
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_poppy.gif
 ---
+
 구글의 얼굴이라고 할 수 있는 웹검색 페이지는 매우 단순하지만, 로고의 다양함은 이루말 할 수 없을 만큼 다양합니다. 물론 그 디자이너는 한국인인 황정목씨입니다.
 
 많은 로고를 봤지만, 개인적으로 가장 아름답게 보이는 구글의 로고를 소개합니다.

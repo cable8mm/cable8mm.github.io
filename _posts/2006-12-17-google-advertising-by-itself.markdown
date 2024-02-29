@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글(Google) 자체 광고 테스트?"
-date:   2006-12-16 16:18:41
+title: "구글(Google) 자체 광고 테스트?"
+date: 2006-12-16 16:18:41
 categories: advertising
 tags: google advertising
 author: Samgu Lee
+header:
+  og_image: /assets/google-self-ad.jpg
 ---
+
 몇 주 전부터 구글 애드센스에는 구글 자체 광고가 뜨기 시작했다. 한국에서만 그런 것은 아니고, 영어권 국가에서도 그렇다는 블로거들의 포스팅이 있는 것으로 보면, 구글도 본격적인 [개밥을 먹는 것]({% post_url 2006-10-26-google-dogfood %})이 아닌가 하는 추측을 갖게 된다.
 
 구글은 [FORM-10K]({% post_url 2006-03-22-google-form-10k %}) 문서에 나와있는 바와 같이 TV와 같은 전통적인 매체 광고 보다는 입소문 광고에 많이 의존해 온 것이 사실이다. 어떤 기업보다 구글은 자사의 서비스 홍보를 위해 블로그나 포럼([구글 그룹스]({% post_url 2006-10-05-google-groups-beta %}) 혹은 야후 그룹스) 등에 의존하고 있고, 자사 직원에 이런 면에서 많은 자유를 부여하고 있다.

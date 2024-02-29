@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "다음커뮤니케이션, 오버추어와 개인정보를 이용한 배너 개시"
-date:   2005-12-18 15:49:59
+title: "다음커뮤니케이션, 오버추어와 개인정보를 이용한 배너 개시"
+date: 2005-12-18 15:49:59
 categories: advertising
 tags: daum overture
 author: Samgu Lee
+header:
+  og_image: /assets/daum_overture_banner_01.gif
 ---
+
 구글에서 구글코리아(가칭)를 정식으로 오픈하려는 움직임을 보이면서 야후의 자회사 오버추어가 마케팅사이트를 런칭하면서 대대적인 홍보를 시작했습니다.
 
 구글의 홍보 특징은 온라인에서는 구글 애드센스만을 이용해서 자사 홍보를 진행하는데 비해, 오버추어는 자사의 광고매체 이외에 배너광고나 에이젼트를 두는 방향으로 진행을 하고 있는데, 이번에 선보인 다음과는 배너는 다음의 개인정보 중에서 닉네임을 이용했습니다.
@@ -18,17 +21,22 @@ author: Samgu Lee
 
 ```js
 var InternetExplorer = navigator.appName.indexOf("Microsoft") != -1;
-function drawFlash(){
-	var swf_url = 'http://amsimg.hanmail.net/www2/a40K/aRyP/overture_250250_1215_a.swf';
-	var html = '';
-	html += '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="250" height="250" id="banner" align="middle">';
-	html += '<param name="movie" value="'+swf_url+'" />';
-	html += '<param name="quality" value="high" />';
-	html += '<param name="bgcolor" value="#ffffff" />';
-	html += '<param name="flashVars" value="user_name=niio" />';
-	html += '<embed src="'+swf_url+'" quality="high" bgcolor="#ffffff" width="250" height="250" name="banner" align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />';
-	html += '</object>';
-	document.write(html);
+function drawFlash() {
+  var swf_url =
+    "http://amsimg.hanmail.net/www2/a40K/aRyP/overture_250250_1215_a.swf";
+  var html = "";
+  html +=
+    '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="250" height="250" id="banner" align="middle">';
+  html += '<param name="movie" value="' + swf_url + '" />';
+  html += '<param name="quality" value="high" />';
+  html += '<param name="bgcolor" value="#ffffff" />';
+  html += '<param name="flashVars" value="user_name=niio" />';
+  html +=
+    '<embed src="' +
+    swf_url +
+    '" quality="high" bgcolor="#ffffff" width="250" height="250" name="banner" align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />';
+  html += "</object>";
+  document.write(html);
 }
 drawFlash();
 ```
@@ -43,7 +51,7 @@ drawFlash();
 
 > 개인정보의 수집목적 및 이용  
 > Daum 이 회원님 개인의 정보를 수집하는 목적은 Daum 사이트를 통하여 회원님께 최적의 맞춤화된 서비스를 제공해드리기 위한 것입니다. Daum 은 각종의 컨텐츠를 무료로 서비스해 드리고 있습니다. 이때 회원님께서 제공해주신 개인정보를 바탕으로 회원님께 보다 더 유용한 정보를 선택적으로 제공하는 것이 가능하게 됩니다.  
-> Daum 은 무료로 서비스를 제공하기 위해서 광고를 게재합니다. 이때에도 회원님 개인에 대한 정보를 바탕으로 좀더 유용한 정보로서의 가치가 있는 광고를 선별적으로 전달할 수 있게 됩니다.  
+> Daum 은 무료로 서비스를 제공하기 위해서 광고를 게재합니다. 이때에도 회원님 개인에 대한 정보를 바탕으로 좀더 유용한 정보로서의 가치가 있는 광고를 선별적으로 전달할 수 있게 됩니다.
 
 이번 오버추어의 플래쉬 배너의 경우 오버추어에게 개인정보를 넘겨주는 형식은 아니지만, 오버추어에서 플래쉬의 스크립트를 코딩하고, 배너가 다음 서버에 올라가 있기 때문에 다음에서 쿠키로 저장하는 정보를 알 수 있습니다.
 

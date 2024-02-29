@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글, 만우절 서비스 공개 Ver.2"
-date:   2007-04-01 05:34:08
+title: "구글, 만우절 서비스 공개 Ver.2"
+date: 2007-04-01 05:34:08
 categories: gossip
 tags: google fools
 author: Samgu Lee
+header:
+  og_image: /assets/gmail-paper.jpg
 ---
+
 드디어 2007년 구글의 만우절 서비스가 공개되었다. 서비스는 지메일(GMail)이라 불리우는 구글메일. 만우절 서비스는 바로 [지메일 페이지(GMail Paper)](http://mail.google.com/mail/help/paper/)라는 서비스로, 메일을 프린트해서 무료로 배송해준다는 콘셉트다.
 
 [도움말](http://mail.google.com/mail/help/paper/more.html)을 참고하면, 사진이 첨부되어 있으면 고화질로 인화해서 보내준다고 한다. 부수에 제한이 없다고 하니 10만부도 가능할 것 같다.

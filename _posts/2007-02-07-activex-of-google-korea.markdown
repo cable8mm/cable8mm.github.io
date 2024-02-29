@@ -5,6 +5,8 @@ date: 2007-02-07 07:06:11
 categories: opinion
 tags: google yahoo finance
 author: Samgu Lee
+header:
+  og_image: /assets/google-korea-adwords-pay-system.jpg
 ---
 
 구글의 서비스들은 마치 레고로 건물을 만드는 것 처럼 차곡차곡 개발된다.

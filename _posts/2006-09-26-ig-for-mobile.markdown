@@ -5,6 +5,8 @@ date: 2006-09-26 08:29:48
 categories: service
 tags: google page
 author: Samgu Lee
+header:
+  og_image: /assets/ig_for_mobile.jpg
 ---
 
 [구글 한국 공식 블로그](http://googlekoreablog.blogspot.com/2006/09/google_26.html)에서 구글의 개인화 홈페이지 한글버젼의 사용법을 대화체를 통해서 알려 왔습니다. 그런데, 잘못된 링크가 걸려있어서 사용 방법을 알 수가 없습니다. 팔글 블로그에서 알려드립니다.

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글, 엔독슨(Endoxon) 인수"
-date:   2006-12-19 05:21:35
+title: "구글, 엔독슨(Endoxon) 인수"
+date: 2006-12-19 05:21:35
 categories: news
 tags: google endoxon
 author: Samgu Lee
+header:
+  og_image: /assets/google-acquisition-endoxon.jpg
 ---
+
 [인수 합병]({% post_url 2006-10-19-mna-guide-with-korea %})의 선두주자, 구글이 또다른 회사 엔독슨(Endoxon)을 인수했다고 [공식 블로그](http://googleblog.blogspot.com/2006/12/mapping-europe.html) 및 [엔독슨 웹사이트](http://www.endoxon.com/)에서 알려왔다. 엔독슨은 스위스에 소재해 있는 지도 매핑 서비스를 개발하는 회사로 알려져 있다.
 
 ![구글이 인수한 엔독슨(Endoxon)](/assets/google-acquisition-endoxon.jpg)

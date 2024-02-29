@@ -1,14 +1,17 @@
 ---
 layout: single
-title:  "비디오를 위한 애드센스, 베타테스트 중"
-date:   2006-02-28 05:07:19
+title: "비디오를 위한 애드센스, 베타테스트 중"
+date: 2006-02-28 05:07:19
 categories: advertising
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/adsense_videoad.jpg
 ---
+
 [구글 소문들(Google Rumors)](http://www.googlerumors.com/2006/02/25/google-testing-video-adsense-ads/)에서 구글 애드센스의 비디오버젼의 베타테스트 URL을 알려왔습니다. 피드를 위한 애드센스때와 마찬가지로 비디오를 위한 애드센스는 특정한 사용자의 계정으로 테스트 하는 것으로 보입니다.
 
-이번 테스트는 엔터테인먼트 뉴스를 알려주는 [The Superficial](http://www.thesuperficial.com/)이라는 웹사이트가 대상이고, 현재까지 300*250사이즈의 모든 에드센스 코드에 비디오광고가 나오고 있습니다.
+이번 테스트는 엔터테인먼트 뉴스를 알려주는 [The Superficial](http://www.thesuperficial.com/)이라는 웹사이트가 대상이고, 현재까지 300\*250사이즈의 모든 에드센스 코드에 비디오광고가 나오고 있습니다.
 
 광고주는 매거진닷컴이고 잡지를 온라인으로 판매하는 회사입니다.
 

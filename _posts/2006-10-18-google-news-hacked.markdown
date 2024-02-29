@@ -5,6 +5,8 @@ date: 2006-10-18 02:32:39
 categories: news
 tags: google news hacking
 author: Samgu Lee
+header:
+  og_image: /assets/google_news_bseo.jpg
 ---
 
 구글의 해킹 전성시대인가요? 구글 뉴스 알리미의 한글판으론 처음으로 악의적인 스팸 뉴스가 전송되었습니다. 이 뉴스는 자동화된 프로그램으로 기사가 만들어 진 것으로 보이고, 말도 안되는 뉴스를 구글 뉴스에서 인용해 알리미로 전송해 주었습니다. 몇가지 조사를 통해서 그 실체를 알아보겠습니다.

@@ -5,6 +5,8 @@ date: 2007-02-22 08:42:25
 categories: service
 tags: google apps
 author: Samgu Lee
+header:
+  og_image: /assets/google-apps-upgrade.jpg
 ---
 
 구글 앱스(정식 한글 명칭은 Google 도메인용 애플리케이션)의 유료버젼 출시 루머는 그동안 꾸준히 제기되어 왔는데, 드디어 소리소문없이 론칭되었다.

@@ -5,6 +5,8 @@ date: 2007-09-06 00:44:01
 categories: service
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/korean-blog-using-google-bl.jpg
 ---
 
 구글 애드센스를 경험해 본 사람은 애드센스를 이용해서 내 인생이 바뀔 수도 있겠다는 생각을 갖을 수도 있다.

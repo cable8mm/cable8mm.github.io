@@ -5,6 +5,8 @@ date: 2006-02-24 15:21:41
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_and_lenovo.jpg
 ---
 
 구글이 델과 개인화페이지에서 제휴를 하고, 두번째 기업으로 레노버를 선택할 것입니다. 델과의 파트너십에서도 그랬지만, 이 제휴는 언론의 발표가 전혀 없었지만 이미 레노버를 위한 개인화 페이지가 제작되었습니다.

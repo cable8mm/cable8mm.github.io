@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "피카사 리눅스버젼 등장"
-date:   2006-05-26 16:44:06
+title: "피카사 리눅스버젼 등장"
+date: 2006-05-26 16:44:06
 categories: news
 tags: google picasa
 author: Samgu Lee
 ---
+
 Channy님의 새로운 [tistory의 블로그](http://channy.tistory.com/8)에 Google Picasa의 리눅스버젼이 나왔다는 소식을 듣고 재빨리 확인을 해 보았습니다.
 
 아니다다를까, 구글 공식 블로그에 관련 글이 포스팅 되었군요.

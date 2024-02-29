@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "와우, 구글 홈페이지 리뉴얼 for 그리스몽키"
-date:   2006-03-15 14:51:48
+title: "와우, 구글 홈페이지 리뉴얼 for 그리스몽키"
+date: 2006-03-15 14:51:48
 categories: news
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_redux.jpg
 ---
+
 Andy Rutledge는 지난 1월 28일 자신의 블로그에 구글 홈페이지(첫페이지를 말함) 디자인의 실수들을 여러가지 각도에서 분석하고, 거기에서 그치지 않고 새로운 디자인을 보여주여 많은 이들의 호평을 받았습니다.
 
 이 디자인에 감명을 받은 Mr Tristan Dunn는 그리스몽키를 이용해서 파이어폭스 1.5버젼에서 구글의 디자인을 바꿀 수 있는 스크립트를 공개했습니다. 이 디자인은 구글X가 나온 이후로는 매우 주목할만한 버젼입니다.

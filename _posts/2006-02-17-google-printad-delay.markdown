@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글의 새로운 시도인 인쇄물 광고, 마감기한 연장"
-date:   2006-02-17 08:48:07
+title: "구글의 새로운 시도인 인쇄물 광고, 마감기한 연장"
+date: 2006-02-17 08:48:07
 categories: advertising
 tags: google print-ad
 author: Samgu Lee
+header:
+  og_image: /assets/google_printad_magazine.jpg
 ---
+
 2006년 2월 8일 애드워즈 공식 블로그를 통해서 공지된 구글의 새로운 시도 중 하나인 인쇄물 광고의 입찰 기간이 2월 20일에서 24일로 연장됐습니다. 구글은 그 이유를 새로운 광고 형태이기 때문에 입찰할 시간을 늘린 것이라고 말했습니다.
 
 구글 애드워즈는 구글 자체광고와 애드센스로 서비스가 되고 있는데 시험적인 서비스로 라디오 광고, 지도 광고, 책검색 광고, [피드 광고][adsense-for-feed-beta] 그리고 [인쇄물 광고를 테스트][google-printad-delay]하고 있습니다.

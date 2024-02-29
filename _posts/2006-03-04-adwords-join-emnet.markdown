@@ -5,6 +5,8 @@ date: 2006-03-04 06:08:50
 categories: opinion
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_notice_reseller.jpg
 ---
 
 구글한국은 [공식 블로그](http://googlekoreablog.blogspot.com/2006/03/google-adwords.html)를 통해 이엠넷이 한국 공식 리셀러로 선정되었음을 알려왔습니다. 그리고, 구글의 광고프로그램인 애드워즈가 국내 광고주에게 더 가깝게 다가갈 수 있다는 코멘트도 덧붙였습니다.

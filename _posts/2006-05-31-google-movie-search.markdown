@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "알려지지 않은 검색, Google 영화 검색"
-date:   2006-05-31 09:59:17
+title: "알려지지 않은 검색, Google 영화 검색"
+date: 2006-05-31 09:59:17
 categories: opinion
 tags: google movie search
 author: Samgu Lee
+header:
+  og_image: /assets/google_movie_search.png
 ---
+
 Google에 영화 검색([www.google.com/movies](http://www.google.com/movies))이 있다는 것을 아는 이는 많지 않은 것 같지만, 서비스된 지는 꽤 됐습니다. 어떻게 영화를 검색할 수 있는지 대략적인 것들을 알아봅니다.
 
 [Google의 웹검색][the-structure-of-google-web-search]은 중국 검열을 시작으로 많은 변화가 있었습니다. 예전에는 PageRank라는 백링크가 많은 웹페이지가 더 낳다라는 모토로 순위를 메겼지만, 지금은 문서 관련성에 많은 연구가 진행되고 있고, Google 알고리즘의 많은 변화(Big Daddy라고도 합니다.)도 실제 적용 되었습니다.
@@ -32,7 +35,7 @@ Google 영화 검색은 Google 뉴스와 마찬가지로 자체적인 알고리�
 
 ![Google 개봉관 검색](/assets/google_movie_maps.png)
 
-위의 그림은 영화 검색에서 지도를 클릭한 후 메쉬업에서 출발지로 "Los Angeles, CA"를 넣어본 화면입니다.  좌측에 정확하게 가능 방향을 설명해 주는 링크를 볼 수 있습니다.
+위의 그림은 영화 검색에서 지도를 클릭한 후 메쉬업에서 출발지로 "Los Angeles, CA"를 넣어본 화면입니다. 좌측에 정확하게 가능 방향을 설명해 주는 링크를 볼 수 있습니다.
 
 Google은 영화 검색에서 자체적인 데이터는 극장과 지도 뿐이지만, 매우 편한 서비스를 제공하고 있습니다. 이 서비스는 Google 웹검색에 자연스럽게 추가될 것이고, 검색어에 따라서 영화 검색이 검색 결과에 나오게 될 것입니다. 그 선택은 역시 알고리즘이 이루어 내겠죠.
 

@@ -5,6 +5,8 @@ date: 2006-02-12 22:54:00
 categories: service
 tags: hanaforce yahoo search
 author: Samgu Lee
+header:
+  og_image: /assets/wisenut_in_hanafos-732590.jpg
 ---
 
 하나포스는 포탈사이트 순위로는 높지 않지만 나름의 매니아를 가지고 있는 커뮤니티입니다. 그런 하나포스에서 웹검색을 해보면 꽤 괜찮은 검색결과가 나온다는 것을 확인해 볼 수 있습니다. 그런데 이상한 것은 국내 어떤 검색엔진과도 같지 않은 결과를 쏟아냅니다. 어떻게 된 것일까요?

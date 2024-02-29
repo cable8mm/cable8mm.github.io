@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 메일(GMail) 초대장 충전"
-date:   2006-10-26 09:57:15
+title: "구글 메일(GMail) 초대장 충전"
+date: 2006-10-26 09:57:15
 categories: tips
 tags: google gmail
 author: Samgu Lee
+header:
+  og_image: /assets/rebirth_gicket.jpg
 ---
+
 한국에선 지메일(GMail)이라 불리우는 구글 메일의 초대장이 재충전되었습니다. 모든 계정이 충전된 것인지는 확인되지 않았습니다.
 
 ![충전된 지메일 초대장](/assets/rebirth_gicket.jpg)

@@ -5,6 +5,8 @@ date: 2006-06-01 14:21:10
 categories: gossip
 tags: google video
 author: Samgu Lee
+header:
+  og_image: /assets/movie_previews.gif
 ---
 
 Google Labs 출신의 서비스 중 가장 좋아하는 것 중 하나인 Google Video는 그 행보가 참 재미있습니다.

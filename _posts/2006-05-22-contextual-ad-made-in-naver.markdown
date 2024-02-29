@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "네이버, Google Adsense처럼 문맥광고 시작하나?"
-date:   2006-05-22 22:46:00
+title: "네이버, Google Adsense처럼 문맥광고 시작하나?"
+date: 2006-05-22 22:46:00
 categories: advertising
 tags: naver smartad
 author: Samgu Lee
+header:
+  og_image: /assets/naver_smartlink_example-789315.jpg
 ---
+
 외국에서 동영상 광고와 함께 최고의 인터넷 광고로 평가받고 있는 [문맥광고]({% post_url 2005-12-11-intellitxt-and-smartad %})를 네이버에서 2006년 1월 17일자로 베타테스트를 시작했습니다. 현재까지 네이버의 키워드 CPC 광고상품인 클릭초이스의 광고주에게 무료로 서비스되고 있습니다.
 
 국내에서 문맥광고를 시작한 회사는 포털에서는 다음커뮤니케이션의 클릭스가 유일하고, 구글 애드센스와 오버추어의 Content Match가 국내 웹사이트에 서비스되고 있습니다. 다음은 클릭스라는 광고상품을 자체적으로 가지고 있지만, 다음의 광고 캐시카우가 되고 있는 미디어다음의 문맥광고는 오버추어가 진행하고 있습니다.

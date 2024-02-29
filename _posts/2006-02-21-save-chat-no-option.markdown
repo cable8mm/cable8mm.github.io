@@ -5,6 +5,8 @@ date: 2006-02-21 14:04:13
 categories: opinion
 tags: google googletalk
 author: Samgu Lee
+header:
+  og_image: /assets/chat_option_only_english.jpg
 ---
 
 구글톡을 사용하고 구글메일(GMail)을 한국어로 세팅하는 사용자들은 개인정보가 구글서버에 저장되고 있다는 사실을 알아야 할 필요가 있습니다. 구글이 메일 내용을 검열하지 않는다고 해도 개인정보의 의미가 있기 때문입니다.

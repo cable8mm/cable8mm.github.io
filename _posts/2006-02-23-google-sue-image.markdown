@@ -5,6 +5,8 @@ date: 2006-02-23 02:46:10
 categories: service
 tags: google search
 author: Samgu Lee
+header:
+  og_image: /assets/google_sue_image_1.jpg
 ---
 
 구글은 위성사진을 제공하는 구글어스나 구글맵을 제외하면 컨텐츠는 소유하지 않으면서 컨텐츠의 새로운 유통채널을 만들었다는 점에서 찬사를 받아왔습니다.

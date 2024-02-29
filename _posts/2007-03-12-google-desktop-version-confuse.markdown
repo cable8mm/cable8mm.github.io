@@ -5,6 +5,8 @@ date: 2007-03-12 03:03:56
 categories: opinion
 tags: google desktop
 author: Samgu Lee
+header:
+  og_image: /assets/google-desktop-not-visible-the-version.jpg
 ---
 
 구글 데스크톱은 구글 툴바와 함께 복잡한 버젼으로 사용자에게 많은 혼란을 주고 있다.

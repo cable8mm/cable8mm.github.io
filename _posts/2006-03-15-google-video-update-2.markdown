@@ -5,6 +5,8 @@ date: 2006-03-15 05:51:46
 categories: news
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_video_input.jpg
 ---
 
 구글 한국 블로그에서 [구글비디오가 한국에 정식 서비스](http://googlekoreablog.blogspot.com/2006/03/google-video.html)된다고 알려왔습니다. 블로그에서는 국가의 IP를 차단했기 때문에 구글비디오 이용이 불가능했었다고 알려왔는데요, 그것 이상으로 변화가 있습니다. 팔글에서 살펴봅니다.

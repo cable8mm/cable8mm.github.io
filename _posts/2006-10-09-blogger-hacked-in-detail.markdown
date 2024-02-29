@@ -5,6 +5,8 @@ date: 2006-10-09 06:21:14
 categories: opinion
 tags: google blog
 author: Samgu Lee
+header:
+  og_image: /assets/google_reader_error.jpg
 ---
 
 구글 공식 블로그 해킹에 대해서 이틀간의 블로고스피어의 내용을 정리해 봅니다.

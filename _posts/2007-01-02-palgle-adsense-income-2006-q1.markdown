@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "팔글 2006 하반기 애드센스 수입 공개"
-date:   2007-01-02 03:11:20
+title: "팔글 2006 하반기 애드센스 수입 공개"
+date: 2007-01-02 03:11:20
 categories: opinion
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/palgle-adsense-income-2006-q12.jpg
 ---
+
 팔글은 애드센스가 처음 서비스 될 때 부터 애드센스를 적용해 왔고, 애드센스 약관 7조(Confidentiality)에 따라서 정확한 수입 금액을 1년에 두차례씩 [공개]({% post_url 2006-07-10-adsense-revenue-2006 %})하고 있다.
 
 아래의 수익 금액은 애드센스의 관리자 페이지의 디자인이 개편되었기 때문에, CSV파일을 엑셀로 편집한 것이다. 블로그의 페이지뷰가 늘면서 블로그 쪽의 수익은 상승되었지만, 다른 쪽 웹사이트의 수익이 줄어들어서 상반기 수익과 비교한다면 증가세는 그리 크지 않다.

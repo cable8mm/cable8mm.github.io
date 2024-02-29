@@ -5,6 +5,8 @@ date: 2006-02-11 05:47:03
 categories: gossip
 tags: google search
 author: Samgu Lee
+header:
+  og_image: /assets/bmw-doorway-page.jpg
 ---
 
 구글은 자동차메이커 BMW의 독일 웹사이트를 검색결과에서 제외시킨다고 발표했습니다.

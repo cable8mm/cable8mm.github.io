@@ -5,6 +5,8 @@ date: 2006-03-08 16:13:40
 categories: news
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/cl2_screenshot.gif
 redirect_from:
   - /2006/03/09/unvail_cl2/
 ---

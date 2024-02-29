@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 체크아웃, 글로벌과 가제트"
-date:   2006-12-12 07:17:47
+title: "구글 체크아웃, 글로벌과 가제트"
+date: 2006-12-12 07:17:47
 categories: service
 tags: google gadget
 author: Samgu Lee
+header:
+  og_image: /assets/google-checkout-gadget.jpg
 ---
+
 최근의 구글 행보를 보면 가장 왕성한 업데이트를 보이고 있는 서비스가 구글 광고 프로그램인 애드센스/애드워즈 그리고 구글 베이스/체크아웃이다.
 
 ![구글 체크아웃 로고](/assets/google-checkout-logo.gif)

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "프린팅닷컴, 구글 검색결과에서 삭제"
-date:   2006-03-31 04:43:00
+title: "프린팅닷컴, 구글 검색결과에서 삭제"
+date: 2006-03-31 04:43:00
 categories: news
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/printing_banned.jpg
 ---
+
 예전에 [BMW 독일 웹사이트가 Blackhat SEO로 구글 검색에서 완전히 삭제되었다는 내용][bmw-doorway]을 알려드렸는데, 이번에는 프린팅닷컴(printing.com)이 히든링크로 인해서 구글 검색에서 완전히 삭제되었습니다.
 
 BMW는 자바스크립트를 이용해서 검색엔진과 일반 접속을 다르게 보여주는 방법으로 검색엔진 최적화를 시도했었지만, 이번의 경우는 방법이 매우 간단합니다.

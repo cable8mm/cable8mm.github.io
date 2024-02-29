@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글(Google), 일 고따구로 할꺼야?"
-date:   2006-10-08 07:41:59
+title: "구글(Google), 일 고따구로 할꺼야?"
+date: 2006-10-08 07:41:59
 categories: gossip
 tags: google gogle
 author: Samgu Lee
+header:
+  og_image: /assets/google_rutgum.jpg
 ---
+
 구글(Google)이 한국 서비스에 신경을 전혀 쓰지 않았던 시기에 존재했던 페이지를 소개합니다. 이 페이지는 다른 페이지에 어엿하게 링크가 되어 있지만, 저로선 전혀 읽을 수가 없습니다. 어떤 페이지일까요?
 
 첫번째로 소개할 페이지는 소위 "[Google 룃검](http://www.google.co.kr/stickers.html)"이라고 불리우는 페이지입니다.

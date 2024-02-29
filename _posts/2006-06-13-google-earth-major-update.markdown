@@ -5,6 +5,8 @@ date: 2006-06-13 02:36:47
 categories: service
 tags: google earth
 author: Samgu Lee
+header:
+  og_image: /assets/images/callouts.gif
 ---
 
 간간히 외국 블로거에 의해서 Google Earth의 메이져 업데이트가 있었다는 소식을 듣고, 한국은 어떻게 적용될까 오랫만에 Google Earth를 실행시켜 보았습니다.
@@ -23,7 +25,7 @@ Google Earth나 Maps의 이미지들은 해상도가 지역에 따라서 다르�
 
 유저 인터페이스의 변화가 있고, 서드파티나 사용자가 만들 수 있는 컨텐츠 제작 툴을 제공한다고 합니다. 윈도우즈, 맥 그리고 리눅스에서 작동되고, 프랑스어, 이탈리아어, 독일어, 스페인어로도 제공한다고 하네요.
 
-![Google Earth Release 4 Beta](https://earth.google.com/images/callouts.gif)
+![Google Earth Release 4 Beta](/assets/images/callouts.gif)
 
 ## 3. 빌딩을 만들 수 있는 SketchUp
 

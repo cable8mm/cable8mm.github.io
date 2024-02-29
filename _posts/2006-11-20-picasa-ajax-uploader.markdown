@@ -5,6 +5,8 @@ date: 2006-11-20 02:11:28
 categories: service
 tags: google picasa
 author: Samgu Lee
+header:
+  og_image: /assets/upload_in_picasa_albums.gif
 ---
 
 느리지만 꾸준히 업그레이드 되고 있는 사진 공유 서비스인 피카사 웹 앨범(Picasa Web Albums)은 더 편리한 웹 업로더 버튼을 메인페이지에 추가시켰습니다.

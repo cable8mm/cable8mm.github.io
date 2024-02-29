@@ -5,6 +5,8 @@ date: 2007-01-20 10:26:06
 categories: opinion
 tags: google adsense game
 author: Samgu Lee
+header:
+  og_image: /assets/adscapemedia-logo.jpg
 ---
 
 현재 온라인 광고 시장에서 메이저 업체라면 구글과 야후, 그리고 MSN으로 나눌 수 있다.

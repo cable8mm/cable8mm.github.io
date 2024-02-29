@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글(Google) 베이징 사무소 사진 공개"
-date:   2006-09-12 08:28:19
+title: "구글(Google) 베이징 사무소 사진 공개"
+date: 2006-09-12 08:28:19
 categories: company
 tags: google beijing
 author: Samgu Lee
+header:
+  og_image: /assets/233967178_7ef1be409b.jpg
 ---
+
 구글 중국 사무소가 베이징의 清华科技园(Tsinghua Science Park)으로 9월 9일 이사를 갔다는 소식이 현지 언론에 의해 알려졌는데, 사진이 공개되었습니다. 구글에서 제공하는 홍보 사진이 아니라 현지 언론 및 플리커(Flickr)에 나왔군요.
 
 ![구글 베이징 사무소 내부사진](/assets/233967178_7ef1be409b.jpg)

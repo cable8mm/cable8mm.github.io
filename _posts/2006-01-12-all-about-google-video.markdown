@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 비디오의 기술적인 분석"
-date:   2006-01-12 09:01:34
+title: "구글 비디오의 기술적인 분석"
+date: 2006-01-12 09:01:34
 categories: service
 tags: google video
 author: Samgu Lee
+header:
+  og_image: /assets/google_video_player.jpg
 ---
+
 구글비디오에 다운로드서비스가 개시되고, [한국에서 동영상을 제한하는 장치가 해재되었다는 소식][enable-google-video-using-proxy]을 알려드렸는데요, 이번에는 구글 비디오가 어떤 식으로 작동하는지를 알려드리겠습니다.
 
 다소 기술적인 내용도 담겨있기 때문에 모르는 부분은 덧글이나 트랙백을 이용해 주세요.
@@ -45,16 +48,16 @@ author: Samgu Lee
 
 따라서, 구글비디오의 다운로드서비스에 사용되는 코덱은 DIVX4이며, 자세한 스펙은 아래와 같습니다.
 
-|       | 컴퓨터용 |PSP와 iPod용 |
-| ----------- | ----------- |----------- |
-| 비디오 코덱      | DivX4       |MPEG4       |
-| 비디오 프레임레이트   | 30.00Fps        | 29.969 Fps        |
-| 비디오 Bit rate   | 500Kbps        |        |
-| 비디오  Bits/(Pixel*Frame)   | 0.125        |        |
-| 오디오 코덱      | MPEG1/2 L3(MP3)      | MPEG-4 AAC LC       |
-| 오디오 비트레이트   | 128 Kbps        | 62 Kbps        |
-| 오디오 채널   | 2        |        |
-| 오디오  샘플링레이트   | 44KHz        | 48 KHz       |
+|                            | 컴퓨터용        | PSP와 iPod용  |
+| -------------------------- | --------------- | ------------- |
+| 비디오 코덱                | DivX4           | MPEG4         |
+| 비디오 프레임레이트        | 30.00Fps        | 29.969 Fps    |
+| 비디오 Bit rate            | 500Kbps         |               |
+| 비디오 Bits/(Pixel\*Frame) | 0.125           |               |
+| 오디오 코덱                | MPEG1/2 L3(MP3) | MPEG-4 AAC LC |
+| 오디오 비트레이트          | 128 Kbps        | 62 Kbps       |
+| 오디오 채널                | 2               |               |
+| 오디오 샘플링레이트        | 44KHz           | 48 KHz        |
 
 위의 데이터는 높은 화질의 동영상을 기준으로 한 것으로, 그 기준은 바뀔 수도 있습니다.
 
@@ -67,7 +70,7 @@ author: Samgu Lee
 ![구글비디오의 오른쪽 홍보를 위한 링크들](/assets/google_video_right_link.jpg)
 
 ### 동영상 메타데이터 검색
-   
+
 1. "Send Link"버튼으로 이메일로 홍보하기
 2. "Put on site"버튼으로 자신의 사이트에 동영상 삽입하기
 3. " More from this user"버튼으로 같은 사용자가 올린 다른 동영상 리스트 보기

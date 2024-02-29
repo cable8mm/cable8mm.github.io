@@ -5,6 +5,8 @@ date: 2006-05-07 07:49:08
 categories: opinion
 tags: google naver 1noon
 author: Samgu Lee
+header:
+  og_image: /assets/fs_node_image.jpg
 ---
 
 Google이 불법적인 아동 포르노그라피로 부당이득을 취했다는 소송에 휘말렸습니다.

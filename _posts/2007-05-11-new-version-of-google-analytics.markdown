@@ -5,6 +5,8 @@ date: 2007-05-11 02:29:09
 categories: service
 tags: google analytics
 author: Samgu Lee
+header:
+  og_image: /assets/google-analytics-new-version.gif
 ---
 
 드디어 구글 로그 분석기(Google Analytics)의 완성판이 베타의 모습으로 공개되었다.

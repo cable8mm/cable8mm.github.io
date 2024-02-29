@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 로그분석기(Analytics), 새로운 파트너 프로그램"
-date:   2007-02-20 05:26:26
+title: "구글 로그분석기(Analytics), 새로운 파트너 프로그램"
+date: 2007-02-20 05:26:26
 categories: news
 tags: google analytics
 author: Samgu Lee
+header:
+  og_image: /assets/google-authorized-consultant.jpg
 ---
+
 구글은 자사의 광고 프로그램인 애드워즈를 서포트하기 위해서 아르킨을 인수했고, 서비스명 구글 어낼러틱스(Google Analytics)를 무료로 서비스하고 있다.
 
 ![구글의 새로운 구글 분석 전문가](/assets/google-authorized-consultant.jpg)

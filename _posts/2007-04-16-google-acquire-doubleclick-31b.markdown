@@ -5,6 +5,8 @@ date: 2007-04-16 13:38:49
 categories: advertising
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/double-click-logo.png
 ---
 
 최고의 금액으로 인수한 더블클릭은 어떤 회사일까요?

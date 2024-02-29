@@ -5,6 +5,8 @@ date: 2006-02-10 05:05:59
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/gaia.jpg
 ---
 
 구글은 개별 계정에서 하나의 시스템으로 통합하는 가이아 엔진 프로젝트가 론칭될 것 같습니다.

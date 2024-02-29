@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 검색, 성인 키워드 제한 시작과 칠링 이펙트"
-date:   2007-09-04 08:57:36
+title: "구글 검색, 성인 키워드 제한 시작과 칠링 이펙트"
+date: 2007-09-04 08:57:36
 categories: service
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/19.gif
 ---
+
 국내 검색 엔진 거의 전부가 성인 키워드의 인증 절차를 밟고 있는데 반해 구글 검색의 경우 해외 서비스라는 이유로 이에 해당되지 않았지만, 구글 코리아가 본격적으로 만들어지고 난 후 구글은 자사 검색엔진에 성인 키워드에 있어서 실명 인증하지 않으면 검색 결과를 보여주지 않게 됐다.
 
 ![구글의 키워드 검열](/assets/19.gif)
@@ -24,7 +27,7 @@ author: Samgu Lee
 
 ![구글 검색에 나타나는 칠리 이펙트 문구](/assets/chillingeffect_in_google_se.gif)
 
-이 메세지는 검색어 인증과는 별도로 웹사이트의 필터링이 이루어진다는 의미이고, 아쉽게도 구글이 제공하는 링크를 따라가면 관련 문서가 없다는 메세지가 나오지만, 검열을 요청한 기관이  Korea Internet Safety Commission 이라고 나온다.
+이 메세지는 검색어 인증과는 별도로 웹사이트의 필터링이 이루어진다는 의미이고, 아쉽게도 구글이 제공하는 링크를 따라가면 관련 문서가 없다는 메세지가 나오지만, 검열을 요청한 기관이 Korea Internet Safety Commission 이라고 나온다.
 
 ![칠리 이펙트 사이트에 설명된 한국 인터넷 안전 회의](/assets/kisc-in-chilling-effects.gif)
 

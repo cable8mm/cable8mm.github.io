@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 닥스(Google Docs), 조만간 런칭"
-date:   2006-10-11 03:33:31
+title: "구글 닥스(Google Docs), 조만간 런칭"
+date: 2006-10-11 03:33:31
 categories: service
 tags: google docs
 author: Samgu Lee
+header:
+  og_image: /assets/google_docs.jpg
 ---
+
 구글의 네가지 서비스를 합친 [구글 앱스(Google Apps)]({% post_url 2006-08-29-introduce-google-apps %})에 이어, 구글 스프레드시트(Google Spreadsheets)와 라이틀리(Writely)가 결합된 구글 닥스(Google Docs)가 런칭된다고 [스티브 브라이언트의 블로그](http://oraclewatch.eweek.com/blogs/google_watch/archive/2006/10/10/13814.aspx)에서 알려왔습니다.
 
 스티브는 블로그에서 구글이 내일 웹2.0 컨퍼런스에서 새로운 서비스인 구글 닥스(Google Docs)를 선보일 예정이며, 구글 닥스는 라이틀리와 구글 스프레드시트를 결합(Merge)한 것이라고 합니다.

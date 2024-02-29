@@ -5,6 +5,8 @@ date: 2006-10-24 06:27:20
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/coop_control_panel.jpg
 ---
 
 80개 이상의 웹문서를 검색하는 구글 검색엔진을 내 마음대로 조작할 수 있는 프로젝트인 구글 쿱(Google Co-op)에서 커스텀 검색 엔진이라는 이름으로 새로운 기능이 추가되었습니다. 이 소식은 [구글 공식 블로그](http://googleblog.blogspot.com/2006/10/eureka-your-own-search-engine-has.html)에서 알려왔지만, 이미 [CNET](http://news.com.com/2100-1038_3-6128807.html)과 [ZDNET](http://blogs.zdnet.com/Google/?p=366)에서 미리 소식을 알려왔습니다.

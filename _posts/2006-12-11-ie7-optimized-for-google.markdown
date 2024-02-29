@@ -5,6 +5,8 @@ date: 2006-12-11 14:22:41
 categories: service
 tags: google browser
 author: Samgu Lee
+header:
+  og_image: /assets/ie7-for-google.jpg
 ---
 
 구글은 자사 웹사이트의 첫페이지에 구글에 최적화된 파이어폭스 2.0이라는 상단 배너를 선보인 바 있다. 이 광고는 미국에 IE6 사용자에게 보여졌다고 알려져 있고, 많은 이에게 호응을 불렀다. 한국에서도 오픈소스에 많은 기여를 하고 있는 차니님이 관련 글을 [블로그](http://channy.tistory.com/105)에 올려주었다.

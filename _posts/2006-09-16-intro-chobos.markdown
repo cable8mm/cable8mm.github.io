@@ -5,6 +5,8 @@ date: 2006-09-16 03:45:23
 categories: news
 tags: google blog
 author: Samgu Lee
+header:
+  og_image: /assets/chobos_blog.jpg
 ---
 
 팔글 블로그에선 "구글"이나 "Google"로 검색된 대부분의 국내외 블로그를 살펴보고 있습니다. 그래서인지 가끔 구글에 대한 재미있는 글들을 볼 수 있는데, 몇달 전 컴맹대왕님이 운영하는 컴맹구글 블로그라는 곳이 생긴 것을 알게 되었습니다.

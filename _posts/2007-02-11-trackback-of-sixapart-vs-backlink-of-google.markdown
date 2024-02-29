@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "식스어파트의 트랙백 vs 구글의 백링크"
-date:   2007-02-11 03:09:44
+title: "식스어파트의 트랙백 vs 구글의 백링크"
+date: 2007-02-11 03:09:44
 categories: service
 tags: google blogger
 author: Samgu Lee
+header:
+  og_image: /assets/backlink-in-google-blogger.jpg
 ---
+
 1999년 8월은 파이라 랩에서 블로거(Blogger)라는 서비스를 공식적으로 론칭한 날이다.
 
 ![구글 블로거와 식스어파트의 로고](/assets/blogger-and-six-apart-logo.gif)

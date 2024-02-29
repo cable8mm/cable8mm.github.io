@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 토크(Google Talk), 지메일 계정과 분리"
-date:   2006-09-29 08:16:28
+title: "구글 토크(Google Talk), 지메일 계정과 분리"
+date: 2006-09-29 08:16:28
 categories: service
 tags: google talk
 author: Samgu Lee
+header:
+  og_image: /assets/gpc_login_error.jpg
 ---
+
 구글메일(GMail) 계정이 있어야 사용이 가능한 메신져인 구글 토크가 지메일 계정이 없이도 가입이 가능하게 되었습니다. 이 부분은 약간의 혼란을 야기하고 있는데, 명확히 정리해 봅니다.
 
 처음 구글이 계정 정책을 만들 때 나온 서비스가 [구글 메일(GMail)]({% post_url 2006-07-31-gmail-complex %})이었습니다. 따라서, 메일 주소가 gmail.com으로 끝나야 구글 계정이라고 생각할 수 있겠지만, 현재 구글 계정(Google Account)은 메일 주소가 어떤지는 관계 없이 만들 수 있습니다.

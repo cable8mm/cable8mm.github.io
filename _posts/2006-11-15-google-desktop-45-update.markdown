@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 데스크톱 4.5 버젼업"
-date:   2006-11-15 03:59:32
+title: "구글 데스크톱 4.5 버젼업"
+date: 2006-11-15 03:59:32
 categories: service
 tags: google desktop
 author: Samgu Lee
+header:
+  og_image: /assets/sidebar_refresh.gif
 ---
+
 구글 데스크톱(Google Desktop)의 4.5버젼이 몇가지 흥미로운 특징과 함께 업데이트 되었습니다. 물론 영문버젼만 적용된 상태지만, 한글 버젼도 가제트 추가라는 특징이 자동 업데이트 된 바 있습니다.
 
 구글 데스크톱은 어디에서도 버젼이 나오질 않습니다. 따라서, 현재 사용하는 데스크톱 버젼을 알 수는 없습니다. 이번의 경우 4.5라는 버젼도 구글 데스크톱 블로그에 공식적인 발표가 있었기 때문에 알 수 있었습니다.

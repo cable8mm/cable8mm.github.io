@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 대 레인의 선물, 합의요청"
-date:   2006-03-09 04:47:19
+title: "구글 대 레인의 선물, 합의요청"
+date: 2006-03-09 04:47:19
 categories: news
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_vs_lane.jpg
 ---
+
 작년 2월에 레인의 선물(Lane's Gifts and Collectibles - 이하 레인)이라는 웹사이트는 구글에 부정클릭으로 자신의 광고비 50만불을 손해봤다며 [법원에 고소장을 제출](http://blog.searchenginewatch.com/blog/050818-141702)했습니다.
 
 구글은 1년여가 흘러 구글 공식 블로그에 레인의 선물과 합의를 봤고, 그 합의를 승인해 줄 것을 법원에 요청했다고 밝했고, 구글이 밝은 비용은 9000만불을 넘지 않을 것이라고 구글 변호사 [Nicole Wong이 포스트](http://googleblog.blogspot.com/2006/03/update-lanes-gifts-v-google.html)했습니다.

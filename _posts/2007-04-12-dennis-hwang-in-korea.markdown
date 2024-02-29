@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글의 웹마스터, 데니스 황 내한"
-date:   2007-04-11 15:13:42
+title: "구글의 웹마스터, 데니스 황 내한"
+date: 2007-04-11 15:13:42
 categories: advertising
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/dennis-hwang.jpg
 ---
+
 한국에는 구글의 로고 디자이너로 알려진 데니스 황(Dennis Hwang, 황정목)이 내한한다.
 
 ![데니스 황](/assets/dennis-hwang.jpg)

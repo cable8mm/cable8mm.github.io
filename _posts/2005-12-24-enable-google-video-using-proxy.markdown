@@ -5,6 +5,8 @@ date: 2005-12-23 17:52:49
 categories: service
 tags: google video
 author: Samgu Lee
+header:
+  og_image: /assets/google_video.jpg
 ---
 
 구글 비디오는 한국에서 서비스가 매우 제한적입니다. 구글 비디오를 제대로 서비스 받기 위해서는 어쩔 수 없이 IP를 숨기는 기술을 이용해야 하는데, 가장 쉬운 프록시서버를 사용해서 접속이 가능합니다.

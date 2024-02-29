@@ -5,6 +5,8 @@ date: 2006-07-02 02:24:38
 categories: service
 tags: google gpc adsense
 author: Samgu Lee
+header:
+  og_image: /assets/youtube_pack.jpg
 ---
 
 한국어 서비스가 되지 않아서 구글 비디오가 이슈가 되지는 않지만, 구글 비디오는 소리소문없이 빠른 속도로 업데이트가 되고 있습니다.

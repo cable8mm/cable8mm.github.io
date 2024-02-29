@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 Calendar 조용한 런칭"
-date:   2006-04-13 07:52:28
+title: "구글 Calendar 조용한 런칭"
+date: 2006-04-13 07:52:28
 categories: news
 tags: google calendar
 author: Samgu Lee
+header:
+  og_image: /assets/google_cal_overview.jpg
 ---
+
 구글 Calendar는 많은 블로거들에게 [흥미를 오래전부터 유발시킨 프로젝트][unvail-cl2]입니다. 다름아닌 도메인 때문인데요, calendar.google.com이라는 도메인이 예약되어 있다는 증거가 있어서입니다.
 
 방금 구글 Calendar가 비공개 베타테스트를 끝내고 런칭되었다는 사실을 구글뉴스에서 알려드렸는데 자세한 내용을 알아보겠습니다.

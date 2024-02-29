@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글(Google)의 새로운 검색엔진?"
-date:   2006-10-03 04:27:35
+title: "구글(Google)의 새로운 검색엔진?"
+date: 2006-10-03 04:27:35
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/searchmesh_logo.gif
 ---
+
 구글의 새로운 검색엔진, 서치매쉬(Searchmash.com)의 출현을 [블로고스코프](http://blog.outer-court.com/archive/2006-10-02-n30.html)에서 알려왔습니다.
 
 ![서치매쉬 로고](/assets/searchmesh_logo.gif)

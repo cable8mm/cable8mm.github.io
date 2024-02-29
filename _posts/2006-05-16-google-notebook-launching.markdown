@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 노트북(Google Notebook) 런칭"
-date:   2006-05-16 08:05:05
+title: "구글 노트북(Google Notebook) 런칭"
+date: 2006-05-16 08:05:05
 categories: service
 tags: google notebook
 author: Samgu Lee
+header:
+  og_image: /assets/note_this.jpg
 ---
+
 Google Press Day에서 언급한 것처럼 Google Notebook이 오늘자로 런칭했습니다. 역시 가장 빠르게 이 소식을 전한 사람은 [Googling Google의 Rogers](http://blogs.zdnet.com/Google/?p=192)이고, 한국에선 [서명덕 세계일보 기자님](http://www.segye.com/Service5/ShellView.asp?TreeID=1052&PCode=0007&DataID=200605171429000113)이 알려주셨군요. Google Notebook에 대해서 알아봅니다.
 
 먼저 알아야 할 것은 Google Notebook은 Google의 정식 서비스가 아니라 Google Labs에서 진행하는 서비스라는 것을 알아야 합니다. Google Labs는 Google에서 운영하는 연구소인데, 여러가지 실험과 연구를 하고 색다른 아이디어를 실제 서비스로 구현하기도 합니다. 이 서비스들 중에서는 정식 서비스로 채택된 경우도 있고, 계속 개발상태로 머무는 서비스들도 있습니다.
@@ -29,7 +32,7 @@ Google Press Day에서 언급한 것처럼 Google Notebook이 오늘자로 런�
 
     Google Notebook = 메모장 + 스크랩
 
-사용법은 매우 간단합니다. Google Notebook에서 제공하는 [모듈을 설치](http://www.google.com/notebook/download)한 후 드래그해서 마우스  우측 버튼을 누르고 Note This를 선택하면 선택된 그림과 글들이 Google Notebook에 저장됩니다. 그림은 그대로 복사가 되기 때문에 원본이 사라진다 할지라도 노트가 사라지는 일은 생기지 않습니다. 하지만 그림 이외에 동영상이나 플래쉬 파일등은 복사되지 않습니다.
+사용법은 매우 간단합니다. Google Notebook에서 제공하는 [모듈을 설치](http://www.google.com/notebook/download)한 후 드래그해서 마우스 우측 버튼을 누르고 Note This를 선택하면 선택된 그림과 글들이 Google Notebook에 저장됩니다. 그림은 그대로 복사가 되기 때문에 원본이 사라진다 할지라도 노트가 사라지는 일은 생기지 않습니다. 하지만 그림 이외에 동영상이나 플래쉬 파일등은 복사되지 않습니다.
 
 ![Google Note의 테스트 화면](/assets/note_this.jpg)
 

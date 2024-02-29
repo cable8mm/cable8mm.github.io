@@ -5,6 +5,8 @@ date: 2006-06-23 13:09:00
 categories: news
 tags: google video
 author: Samgu Lee
+header:
+  og_image: /assets/google_video_free_today_screenshop.png
 ---
 
 구글의 희귀한 프로모션, 구글 비디오를 오늘만 무료로 보세요.

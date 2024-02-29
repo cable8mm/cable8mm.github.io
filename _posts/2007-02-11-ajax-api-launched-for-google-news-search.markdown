@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 뉴스 검색 AJAX API 공개"
-date:   2007-02-11 10:31:35
+title: "구글 뉴스 검색 AJAX API 공개"
+date: 2007-02-11 10:31:35
 categories: service
 tags: google news api
 author: Samgu Lee
+header:
+  og_image: /assets/google-ajax-bar-example.jpg
 ---
+
 구글은 공식 블로그를 통해 두가지 검색바가 [론칭](http://googleajaxsearchapi.blogspot.com/2007/02/adding-google-news-and-book-search.html)됐다고 알려왔다.
 
 ![구글 AJAX 검색 바 론칭](/assets/google-ajax-bar-example.jpg)

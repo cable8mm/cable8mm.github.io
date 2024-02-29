@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 검색 결과에 내 기업 정보가 무료"
-date:   2006-12-10 14:01:26
+title: "구글 검색 결과에 내 기업 정보가 무료"
+date: 2006-12-10 14:01:26
 categories: service
 tags: google search
 author: Samgu Lee
+header:
+  og_image: /assets/map-business-center.jpg
 ---
+
 구글 검색에 기업 정보를 무료로 등록할 수 있는 서비스가 테스트 중이라는 소식을 블로고스피어에 가장 영향력있는 구글러인 [매트 커츠(Matt Cutts)](http://www.mattcutts.com/blog/new-google-ui-feature-plus-box/)가 알려왔다. 이 서비스는 구글 맵(Google Maps)의 구글 로컬 비지니스 센터의 등록 자료를 이용하게 된다.
 
 구글 맵에 기업 정보를 넣으면 맵 서비스의 도로 정보에 주소라던지 전화번호가 나오는 무료 서비스인데, 검색에서도 나오게 된다. 이 서비스의 공식 명칭은 플러스 박스(Plus Box)이고, 9개 국가에서 보여지는 것으로, 한국에선 지원되지 않기 때문에, 작동되는 모습을 보려면 구글 첫페이지에서 우측 하단의 영문 구글로 가는 링크를 클릭한 후 알려진 검색어를 넣으면 된다.

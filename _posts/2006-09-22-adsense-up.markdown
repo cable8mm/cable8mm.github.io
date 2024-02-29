@@ -5,6 +5,8 @@ date: 2006-09-22 04:56:55
 categories: service
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/channel_tab.jpg
 redirect_from:
   - /2006/09/22/adsense_up/
 ---

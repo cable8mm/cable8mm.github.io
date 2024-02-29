@@ -5,6 +5,8 @@ date: 2006-03-08 15:43:36
 categories: news
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/trusted_tester_faq.jpg
 ---
 
 지디넷에 구글에 관련된 블로그를 책임지고 있는 Garett Rogers은 구글의 테스트 프로그램인 Google Trusted Tester program에 대한 글을 [포스팅](http://blogs.zdnet.com/Google/?p=109)했습니다. 구글은 공식적인 페이지에서 언급을 했는데, 그 페이지는 현재 삭제가 되어서 팔글에서 전체 페이지를 복구했습니다.

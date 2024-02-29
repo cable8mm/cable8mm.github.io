@@ -5,6 +5,8 @@ date: 2007-06-30 02:14:59
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/gadget-ventures-logo.gif
 ---
 
 많은 주목을 받고 있는 구글이라 할지라도 검색과 광고를 제외한 다른 분야의 프로젝트들은 그들에 비해 큰 성과를 내고 있지는 [못하고 있다](http://pages.palgle.com/google_misunderstand).

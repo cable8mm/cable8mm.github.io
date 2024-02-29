@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 패키지(Google Pack), 스카이프(Skype) 추가"
-date:   2006-11-16 02:06:16
+title: "구글 패키지(Google Pack), 스카이프(Skype) 추가"
+date: 2006-11-16 02:06:16
 categories: service
 tags: google pack skype
 author: Samgu Lee
+header:
+  og_image: /assets/gpack_plus_skype.gif
 ---
+
 구글이 추천하는 안전한 필수 프로그램을 모은 구글 패키지(Google Pack)에 스카이프(Skype)가 추가되었습니다. 스카이프는 인터넷과 전세계의 유무선 통신망을 연동해서 국가간 시내통화료 정도의 수준으로 통화를 가능케 하는 서비스입니다.
 
 ![구글 패키지와 스카이프](/assets/gpack_plus_skype.gif)

@@ -5,6 +5,8 @@ date: 2007-01-04 16:22:32
 categories: advertising
 tags: google daum advertising
 author: Samgu Lee
+header:
+  og_image: /assets/still-being-page-both-daum-and-overture.jpg
 ---
 
 구글 광고가 드디어 다음(Daum)에 노출되기 시작했습니다.

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 도메인용 애플리케이션, 차세대 제어판"
-date:   2006-11-29 05:29:11
+title: "구글 도메인용 애플리케이션, 차세대 제어판"
+date: 2006-11-29 05:29:11
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_apps_new_control.jpg
 ---
+
 구글 도메인용 애플리케이션(Google Apps for domain - 줄여서 구글 앱스)에 [스타트 페이지]({% post_url 2006-11-15-add-startpage %})가 추가되었지만, 한글 사용자들은 여전히 스타트 페이지를 볼 수 없다. 그런데, 별다른 공지 없이 차세대 제어판(Next Generation Control Panel)이 생겼다.
 
 ![구글 도메인용 애플리케이션에 추가된 차세대 제어판](/assets/google_apps_new_control.jpg)

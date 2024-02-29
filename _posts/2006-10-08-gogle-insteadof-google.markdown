@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글(Google)이 길면 고글(gogle)로"
-date:   2006-10-08 06:38:32
+title: "구글(Google)이 길면 고글(gogle)로"
+date: 2006-10-08 06:38:32
 categories: gossip
 tags: google gogle
 author: Samgu Lee
+header:
+  og_image: /assets/gogle_error.jpg
 ---
+
 일반적으로 어떤 웹서비스가 유명해지면 비슷한 도메인을 이용한 광고가 나타나게 됩니다. 구글은 그런 경우를 예상해서 몇가지 구글과 비슷한 도메인을 등록했는데, 구글닷컴(google.com)보다 더 짦은 고글닷컴(gogle.com)도 구글로 리다이렉트 됩니다.
 
 고글(gogle.com) 이외에 등록된 도메인은 구우글(gooogle.com), 구우우우우우우우우우우글(Goooooooooooogle.com, Gooooooooooooogle.com, 그리고 Gooooooooooooogle.com)등도 있고, googlr.com, goglr.com. 등도 모두 구글 검색 화면으로 전환됩니다.

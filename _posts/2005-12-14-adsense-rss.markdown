@@ -5,6 +5,8 @@ date: 2005-12-14 04:49:17
 categories: advertising
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/adsense.gif
 redirect_from:
   - /2005/12/14/adsense_rss/
 ---

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글(Google)을 편하게 쓰는 두가지 팁"
-date:   2006-05-07 06:41:13
+title: "구글(Google)을 편하게 쓰는 두가지 팁"
+date: 2006-05-07 06:41:13
 categories: tip
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/add_reader_in_personal.jpg
 ---
+
 Google은 홍보방법이 공식 문서에도 나와있듯이 서비스를 잘 만들면 소비자가 알아서 전파해 준다라는 것입니다. 이런 방법 때문에 많은 이들이 Google 서비스들을 모니터링 하고 있죠. 대부분의 사소한 업데이트도 블로거들에 의해서 알려지고 있습니다.
 
 소리소문 없이 업데이트 된 괜찮은 팁 두가지를 소개합니다.

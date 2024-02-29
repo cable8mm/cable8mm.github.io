@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "네이버 블로그, 외부 광고 현실화 될까"
-date:   2007-02-04 07:48:14
+title: "네이버 블로그, 외부 광고 현실화 될까"
+date: 2007-02-04 07:48:14
 categories: advertising
 tags: naver blog advertising
 author: Samgu Lee
+header:
+  og_image: /assets/naver-blog.jpg
 ---
+
 2월 2일, 네이버는 시즌2의 에피소드1을 런칭하고 수십명의 블로거를 초청하여 간담회를 열었다.
 
 ![네이버 블로그 시즌2](/assets/naver-blog.jpg)

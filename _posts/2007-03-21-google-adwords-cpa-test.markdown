@@ -5,6 +5,8 @@ date: 2007-03-21 04:20:46
 categories: advertising
 tags: google cpa
 author: Samgu Lee
+header:
+  og_image: /assets/cpa-ad-of-google.jpg
 ---
 
 구글광고에 드디어 CPA 광고가 베타테스트 됩니다.

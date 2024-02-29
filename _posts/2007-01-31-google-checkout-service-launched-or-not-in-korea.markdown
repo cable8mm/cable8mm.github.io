@@ -5,6 +5,8 @@ date: 2007-01-31 05:24:42
 categories: opinion
 tags: google checkout
 author: Samgu Lee
+header:
+  og_image: /assets/i-can-not-create-google-checkout-account.jpg
 ---
 
 전세계에서 가장 많이 사용하는 결제 수단은 무엇일까?

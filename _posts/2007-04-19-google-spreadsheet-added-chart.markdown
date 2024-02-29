@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 스프레드쉬트, 차트기능 추가"
-date:   2007-04-19 06:38:09
+title: "구글 스프레드쉬트, 차트기능 추가"
+date: 2007-04-19 06:38:09
 categories: company
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/chart-in-google-spreadsheet.gif
 ---
+
 매력적인 차트 기능이 구글 스프레드쉬트에 포함되었다. 이 기능은 MS의 엑셀를 벤치마킹한 듯한 인상을 주고 있다. 실제로 차트를 만든 결과 페이지는 엑셀에서 만든 것과 그다지 차이가 나지 않는다. 다만, 만들 수 있는 차트가 엑셀에 비해서 단순하다는 점이 다르지만, 이 정도로도 훌륭해 보인다.
 
 ![구글 스프레드쉬트로 만든 차트](/assets/chart-in-google-spreadsheet.gif)

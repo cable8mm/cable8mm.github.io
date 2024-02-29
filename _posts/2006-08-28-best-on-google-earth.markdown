@@ -5,6 +5,8 @@ date: 2006-08-28 02:55:31
 categories: service
 tags: google earth
 author: Samgu Lee
+header:
+  og_image: /assets/seoulkmz.jpg
 ---
 
 드디어 프로페셔널이라 할 수 있는 구글 어스와 관련된 내용 두가지를 소개해 드립니다.

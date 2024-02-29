@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "김태희, 구글 베트남 키워드 순위 12위"
-date:   2006-02-19 13:50:06
+title: "김태희, 구글 베트남 키워드 순위 12위"
+date: 2006-02-19 13:50:06
 categories: service
 tags: google gmail
 author: Samgu Lee
+header:
+  og_image: /assets/vietnam_kimtaehee_junjihyun.jpg
 ---
+
 구글은 Google Zeitgeist라는 서비스에서 키워드를 이용한 여러가지 통계를 보여줍니다. 미국 뿐만 아니라 20개국의 간단한 통계도 보여주는데, 베트남 키워드 순위 12위에 김태희가 올라와 있습니다.
 
 베트남에 한류열풍이 불고 있다는 기사를 스포츠신문 같은데서 보고 기획사에서 힘 좀 썼겠거니 라고 생각하고 있었는데 그게 완전한 거짓은 아닌 모양입니다.

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글, 중화텔레콤(CHT)과 제휴 확정"
-date:   2006-12-20T06:49:46
+title: "구글, 중화텔레콤(CHT)과 제휴 확정"
+date: 2006-12-20T06:49:46
 categories: news
 tags: google CHT
 author: Samgu Lee
+header:
+  og_image: /assets/cht-and-google.jpg
 ---
+
 최근 영국의 가디언 매체 중 하나인 옵져버에 구글과 오랜지 간의 제휴에 대한 [루머](http://www.guardian.co.uk/mobile/article/0,,1974094,00.html)가 기사화 되었다.
 
 ![중화텔레콤과 구글 제휴](/assets/cht-and-google.jpg)

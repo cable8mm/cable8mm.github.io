@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 애드센스 공익광고까지 수익으로?"
-date:   2006-01-25 09:04:37
+title: "구글 애드센스 공익광고까지 수익으로?"
+date: 2006-01-25 09:04:37
 categories: service
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/alternateurl.jpg
 ---
+
 구글 애드센스는 대표적인 [문맥광고][intellitxt-and-smartad]로서 웹페이지들의 문맥에 맞는 맞춤형 광고를 제공해 줍니다. 하지만, 웹사이트에 적당한 광고주가 없거나, 몇가지의 이유로 공익광고가 나타날 수 있습니다. 외국에서는 공익광고에서 나오는 대체광고로 수익을 발생시키려하는 회사가 만들어지고 있습니다.
 
 구글 애드센스가 있기 전 한국에선 일반인들이 광고주모집에 관여를 하지 않고 할 수 있는 광고로 제휴마케팅이라는 것이 있었습니다.

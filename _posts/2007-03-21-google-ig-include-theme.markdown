@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 개인화 홈페이지, 테마 추가"
-date:   2007-03-21 05:25:37
+title: "구글 개인화 홈페이지, 테마 추가"
+date: 2007-03-21 05:25:37
 categories: service
 tags: google igoogle
 author: Samgu Lee
+header:
+  og_image: /assets/igoogle-add-6-themes.jpg
 ---
+
 구글 개인화 홈페이지에 6가지 테마가 추가되었다. 구글은 [보도자료](http://www.google.com/intl/en/press/annc/personalized_themes.html)를 통해 이미지와 스타일을 쉽게 변경할 수 있는 CSS 프레임웍을 사용했다고 밝혔다. 이 말은 CSS 파일만 교체하면 테마가 바뀐다는 것을 의미한다.
 
 ![아이구글에 6가지 테마가 추가됐다](/assets/igoogle-add-6-themes.jpg)

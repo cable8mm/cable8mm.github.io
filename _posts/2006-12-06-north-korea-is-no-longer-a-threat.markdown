@@ -5,6 +5,8 @@ date: 2006-12-06 02:27:05
 categories: advertising
 tags: google adwords
 author: Samgu Lee
+header:
+  og_image: /assets/north-korea-is-no-longer-a-threat.jpg
 ---
 
 구글 블로고스피어 블로그에 소개된 한국에 대한 재미있는 글을 소개합니다.

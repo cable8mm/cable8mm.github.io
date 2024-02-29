@@ -5,6 +5,8 @@ date: 2006-08-07 02:23:17
 categories: service
 tags: google mtv
 author: Samgu Lee
+header:
+  og_image: /assets/sitemaps.gif
 ---
 
 구글 사이트맵(Google Sitemaps)가 없어지고, 그대신 구글 웹마스터 툴을 포함한 구글 웹마스터 센터가 공개되었습니다.

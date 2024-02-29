@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 메일(GMail), 위자드닷컴에 모듈 추가되다"
-date:   2007-01-07 14:19:43
+title: "구글 메일(GMail), 위자드닷컴에 모듈 추가되다"
+date: 2007-01-07 14:19:43
 categories: service
 tags: google wizard
 author: Samgu Lee
+header:
+  og_image: /assets/gmail-logbox-in-wzd.jpg
 ---
+
 위자드닷컴이 [베타 3.5를 공개](http://blog.wzd.com/77)하면서 구글 메일이 도구로 추가되었다. 이에 앞서 시작페이지와 블로그, 피드 리더 모두를 서비스하는 요즘엔은 2006년 12월에 이미 [구글 메일 모듈이 추가](http://blog.yozmn.com/870/6514)되었다.
 
 ![위자드닷컴에 추가된 구글 메일](/assets/gmail-logbox-in-wzd.jpg)

@@ -5,6 +5,8 @@ date: 2006-10-10 03:21:07
 categories: company
 tags: google youtube
 author: Samgu Lee
+header:
+  og_image: /assets/youtube_powered_by_google.jpg
 ---
 
 비디오 전문 공유 서비스를 제공하는 유투브(YouTube)가 구글(Google)에 인수되었습니다.

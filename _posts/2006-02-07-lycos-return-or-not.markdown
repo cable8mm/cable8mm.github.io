@@ -5,6 +5,8 @@ date: 2006-02-07 22:51:00
 categories: company
 tags: daum lycos 바람
 author: Samgu Lee
+header:
+  og_image: /assets/lycos_achive.jpg
 ---
 
 다음커뮤니케이션(이하 다음)이 라이코스를 인수 합병한 후 네이트가 소유하고 있던 라이코스 도메인이 어떻게 될 것인지 추측이 많았습니다.

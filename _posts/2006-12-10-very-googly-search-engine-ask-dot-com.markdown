@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글보다 더 구글같은 검색엔진, 애스크(Ask)"
-date:   2006-12-10 04:01:38
+title: "구글보다 더 구글같은 검색엔진, 애스크(Ask)"
+date: 2006-12-10 04:01:38
 categories: service
 tags: ask search
 author: Samgu Lee
+header:
+  og_image: /assets/ask-logo.gif
 ---
+
 [애스크닷컴](http://www.ask.com)은 미국에서는 상당한 점유율과 사랑을 받고 있는 검색엔진으로, 예전 이름은 애스크지브스(지브스군에게 물어봐 - askjeeves)였다.
 
 ![애스크 로고](/assets/ask-logo.gif)

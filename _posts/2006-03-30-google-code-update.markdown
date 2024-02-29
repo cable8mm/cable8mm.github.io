@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 코드 리뉴얼"
-date:   2006-03-30 07:29:41
+title: "구글 코드 리뉴얼"
+date: 2006-03-30 07:29:41
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/code_update.jpg
 ---
+
 구글의 공개 개발툴과 그것으로 만들어진 프로젝트를 소개하는 [구글 코드(http://code.google.com)](http://code.google.com)가 업데이트 됐습니다. 프로그래머를 위한 첫페이지에서 지금은 매우 깔끔하고 한눈에 내용이 들어오게 바뀌었네요.
 
 구글 코드는 한국에는 많이 알려져 있지 않지만, 구글의 공개 APIs를 포함해서 많은 개발툴과 개발중인 프로젝트들을 소개하는 페이지로 구글의 단독 서비스입니다.
@@ -19,7 +22,7 @@ author: Samgu Lee
 이 소식을 알려온 구글의 프로덕트 매니져인 Bret Taylor는 다음과 같이 코멘트 했습니다.
 
 > We just launched a redesign of Google Code to make the site a little friendlier and easier to navigate . We also plan on updating the [Featured Projects](http://code.google.com/) section more frequently going forward, so, if you haven't already, subcribe to the [featured projects feed](http://code.google.com/feeds/featured.xml).
-> 
+>
 > [Let us know what you think](mailto:code@google.com).
 
 다른건 몰라도 구글 맵 매쉬업과 사이드바에 들어가는 어플리케이션은 한번 만들어보고 싶군요. 아직 구글을 이용한 프로그램은 한국에선 알려진 것이 없는것 같아서 아쉽습니다.

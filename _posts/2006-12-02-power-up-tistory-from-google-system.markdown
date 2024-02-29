@@ -5,6 +5,8 @@ date: 2006-12-02 02:26:12
 categories: service
 tags: google blog tistory
 author: Samgu Lee
+header:
+  og_image: /assets/tistory_from_google_system.jpg
 ---
 
 구글의 서비스는 자신의 웹사이트에 끼워 넣을 수 있는 몇가지 기능이 있다.

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 RSS 리더, 대규모 업데이트"
-date:   2006-09-29 07:50:47
+title: "구글 RSS 리더, 대규모 업데이트"
+date: 2006-09-29 07:50:47
 categories: service
 tags: google rss
 author: Samgu Lee
+header:
+  og_image: /assets/help_1.jpg
 ---
+
 정식 명칭 구글 리더(Google Reader)가 대규모 업데이트를 단행했습니다. [공유기능이 추가]({% post_url 2006-03-23-google-reader-share %})되어 UI만이 바뀐 정도가 아니라 한국에서 가장 유명한 한RSS 리더와 형태면에선 매우 비슷해 졌고, 그 외에 재미있는 기능 몇가지가 추가되었습니다.
 
 우선 첫화면은 한RSS 리더와 비슷합니다. 피드를 폴더로 그룹화할 수 있게 되었고, 업데이트 된 피드만을 보여주는 기능도 추가되었습니다. 일반적인 기능은 [구글 리더의 도움말](http://www.google.com/help/reader/help.html)을 참고하면 쉽게 알 수 있습니다.

@@ -5,6 +5,8 @@ date: 2006-01-30 15:00:29
 categories: service
 tags: google toolbar
 author: Samgu Lee
+header:
+  og_image: /assets/googletoolbar_bata.jpg
 ---
 
 구글 툴바에 새로운 익스플로러용 구글 툴바를 이용해서 검색결과를 커스터마이징할 수 있고 친구와 정보공유를 가능케 하는 기능이 추가되었습니다.

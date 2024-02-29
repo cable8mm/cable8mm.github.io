@@ -5,6 +5,8 @@ date: 2006-03-21 07:34:29
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_finance_homepage.jpg
 ---
 
 구글의 새로운 파이넨스 프로그램인 구글 파이넨스가 베타 런칭했습니다. 어떨까요?

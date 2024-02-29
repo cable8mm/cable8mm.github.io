@@ -5,6 +5,8 @@ date: 2007-02-28 08:57:18
 categories: service
 tags: google wordprocessor tistory
 author: Samgu Lee
+header:
+  og_image: /assets/tistory-must-set-because-of-space.jpg
 ---
 
 라이틀리를 인수한 구글 워드프로세서에서 티스토리에 글을 올릴 수 있게 될까요?

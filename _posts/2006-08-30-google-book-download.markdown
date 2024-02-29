@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 도서 검색, 다운로드 허용"
-date:   2006-08-30 14:36:50
+title: "구글 도서 검색, 다운로드 허용"
+date: 2006-08-30 14:36:50
 categories: service
 tags: google search
 author: Samgu Lee
+header:
+  og_image: /assets/google_book_download.jpg
 ---
+
 미국 도서관과의 제휴로 책을 스캔해서 검색을 가능하게 하는 구글 도서 검색(Google Book Search) 서비스에서 PDF파일로의 다운로드가 가능해졌다는 소식이 [BBC](http://news.bbc.co.uk/1/hi/business/5297412.stm)에 의해 알려졌습니다. 어떤 내용인지 알아봅니다.
 
 구글 도서 검색(Google Book Search)은 초창기 구글 프린트(Google Print)로 개발되었으나, 사용자의 요청에 의해 구글 도서 검색이라는 이름으로 바뀌었습니다. 현재 구글 도서 검색은 세가지 URL로 사용할 수 있는데, print.google.com, book.google.com 그리고 공식 URL인 books.google.com입니다. 물론 앞의 두개는 모두 북스로 리다이렉트가 됩니다.

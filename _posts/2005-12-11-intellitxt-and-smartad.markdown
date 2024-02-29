@@ -5,6 +5,8 @@ date: 2005-12-11 05:40:05
 categories: advertising
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/smartad.gif
 ---
 
 검색광고와 더불어 디스플래이 광고의 강자 문맥광고와 스마트배너에 대해서 알고 계신가요?

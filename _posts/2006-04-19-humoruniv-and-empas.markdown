@@ -5,6 +5,8 @@ date: 2006-04-18 17:20:08
 categories: opinion
 tags: 웃긴대학 엠파스
 author: Samgu Lee
+header:
+  og_image: /assets/empas_ad_box_in_humoruniv.gif
 ---
 
 이번 글은 몇가지의 사실을 토대로 한 터무니없는 예측입니다. 이 글을 보시는 기자분이 계시다면 조사해도 괜찮을 듯 하네요. 구글 애드센스 프로그램에 거칠게 박탈당한 웃긴대학이 도메인을 바꾸었습니다. 그리고, 많은 광고를 몇개로 통폐합하고 체계적인 광고를 진행하기 위해서 한발짝 다가섰습니다.

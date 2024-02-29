@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글맵을 이용해서 웹페이지에 지도를 넣어보자"
-date:   2006-02-02 08:47:09
+title: "구글맵을 이용해서 웹페이지에 지도를 넣어보자"
+date: 2006-02-02 08:47:09
 categories: service
 tags: google map
 author: Samgu Lee
+header:
+  og_image: /assets/googlemaps_korea_vs_japan.jpg
 ---
+
 구글의 많은 서비스들은 개발자가 접속할 수 있도록 오픈 API를 제공하고 있습니다. 이 것을 소위 웹2.0이라고도 하는데, 구글맵에서 제공하는 API를 가지고 웹페이지에 지도를 넣어보도록 하겠습니다. 이리 말하지만, 매우 쉽습니다.
 
 구글맵은 미국과 캐나다에서 서비스를 하고 있고, 다른 국가에서는 위성지도를 주로 서비스하고 있습니다. 다만, 한국과는 틀리게 일본에선 지리정보데이터를 넣고 있는 것이 확인되었습니다.
@@ -32,16 +35,19 @@ author: Samgu Lee
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <script src="http://maps.google.com/maps?file=api&v=1&key=[API키]" type="text/javascript"></script>
+    <script
+      src="http://maps.google.com/maps?file=api&v=1&key=[API키]"
+      type="text/javascript"
+    ></script>
   </head>
   <body>
     <div id="map" style="width: [가로픽셀수]px; height: [세로픽셀수]px"></div>
     <script type="text/javascript">
-    //<![CDATA[
-    var map = new GMap(document.getElementById("map"));
-    map.addControl(new GSmallMapControl());
-    map.centerAndZoom(new GPoint([가로위치좌표], [세로위치좌표]), 4);
-    //]]>
+      //<![CDATA[
+      var map = new GMap(document.getElementById("map"));
+      map.addControl(new GSmallMapControl());
+      map.centerAndZoom(new GPoint([가로위치좌표], [세로위치좌표]), 4);
+      //]]>
     </script>
   </body>
 </html>

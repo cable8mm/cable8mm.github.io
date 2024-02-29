@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "실망스런, 선생님을 위한 구글"
-date:   2006-10-12 16:38:38
+title: "실망스런, 선생님을 위한 구글"
+date: 2006-10-12 16:38:38
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google_teacher.jpg
 ---
+
 구글(Google)은 최근 들어서 자사 서비스들을 단순히 모아놓아 새로운 도메인을 부여하는 버릇이 생긴 것 같습니다. 이런 서비스들은 초창기 구글과는 상당한 거리가 있는 서비스 들입니다.
 
 최근 런칭한 선생님을 위한 구글(Google for Educators)는 구글의 12가지 서비스들을 묶어서 선생님에게 도움이 된다는 페이지를 만든 것입니다.

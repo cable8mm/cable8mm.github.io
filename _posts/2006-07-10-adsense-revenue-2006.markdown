@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "팔글 블로그, 애드센스(AdSense) 상반기 수입 공개"
-date:   2006-07-10 02:30:31
+title: "팔글 블로그, 애드센스(AdSense) 상반기 수입 공개"
+date: 2006-07-10 02:30:31
 categories: opinion
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/adsense_revenue_2006_1.jpg
 ---
+
 팔 글 블로그에서는 [작년 하반기의 애드센스(AdSense) 수입을 공개][google-adsense-incoming]한 바 있습니다. 7월 들어 6월 까지의 수입이 관리자페이지에 게재된 관계로 상반기 수입을 공개합니다.
 
 팔글 블로그에서 수입을 공개하는 이유는 너무 많다고 혹은 너무 적다고 애드센스에 관한 오해를 하는 분에게 데이터적인 도움을 드리고자 하는 면에서 포스팅 하는 것입니다.

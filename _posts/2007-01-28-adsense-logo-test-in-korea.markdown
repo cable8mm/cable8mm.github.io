@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "한국에서도 애드센스 효과 테스트"
-date:   2007-01-28 07:54:53
+title: "한국에서도 애드센스 효과 테스트"
+date: 2007-01-28 07:54:53
 categories: advertising
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/adsense-logo-test-in-korea.jpg
 ---
+
 구글이 애드센스의 효과를 높이기 위해서 지금까지 많은 형태의 광고를 테스트해 왔다. 기본 골격은 같지만, 배경에 재미있는 그림을 넣는다던지, 아니면 "Google"이라는 로고를 이미지 형태로 넣는다던지 하는 UI적인 테스트인데, 한국에서도 이런 테스트가 진행되고 있다.
 
 다음에 나오는 애드센스 광고를 보도록 하자.

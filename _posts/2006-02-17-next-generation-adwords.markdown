@@ -5,6 +5,8 @@ date: 2006-02-17 08:59:57
 categories: advertising
 tags: google adwords
 author: Samgu Lee
+header:
+  og_image: /assets/adwords_next_generation_1.jpg
 ---
 
 구글의 광고주 프로그램인 구글 애드워즈는 여러가지 매체에 반영이 되고 있습니다.

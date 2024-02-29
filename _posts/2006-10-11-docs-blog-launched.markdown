@@ -5,6 +5,8 @@ date: 2006-10-11 14:23:00
 categories: service
 tags: google docs
 author: Samgu Lee
+header:
+  og_image: /assets/zohoshow.jpg
 ---
 
 구글 닥스(Google Docs & Spreadsheets)의 [공식 블로그](http://google-d-s.blogspot.com/2006/10/new-beginnings.html)가 [오픈했습니다](http://googleblog.blogspot.com/2006/10/better-together-docs-spreadsheets.html). 그리고, 구글 닥스에 스프레드시트 마이그레이션도 마감되었고, 이로서 구글 베타 서비스로서의 작업들이 마무리 되었습니다.

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글의 개인화 페이지, 기업과 파트너십 추진"
-date:   2006-02-08 09:34:47
+title: "구글의 개인화 페이지, 기업과 파트너십 추진"
+date: 2006-02-08 09:34:47
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/personalized_pages.jpg
 ---
+
 [구글과 델의 파트너십이 일제히 국내 언론사에 발표](http://news.inews24.com/php/news_view.php?g_serial=190604&g_menu=020600)가 되었습니다. 하지만, 이 기사는 월 스트리트 저널의 추측성 기사로 생긴 일이고, 구글과 델 양사는 어떠한 발표도 없었습니다. 따라서, WSJ를 제외한 어떤 언론도 이 이슈를 기사화 하지 않았습니다.
 
 이번 파트너십이 실질적으로 검증된 것은 한 블로거에 의해서 였고, 그 블로거는 자신이 새로 산 델 노트북에서 구글툴바, 구글데스크탑서치(GDS) 그리고 브라우져의 첫페이지가 델을 위한 개인화페이지라는 것을 [자신의 블로그에 올린 후](http://searchviews.com/archives/2006/01/dell_in_discree.php) 였습니다.

@@ -5,6 +5,8 @@ date: 2006-02-06 20:09:00
 categories: opinion
 tags: law
 author: Samgu Lee
+header:
+  og_image: /assets/yy-757568.jpg
 ---
 
 처음 야후에 대한 글을 쓴 것은 2003년 11월 5일 PHPSCHOOL이라는 개발 커뮤니티에서였습니다.

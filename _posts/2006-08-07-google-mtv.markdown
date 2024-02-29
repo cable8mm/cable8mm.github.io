@@ -5,6 +5,8 @@ date: 2006-08-07 08:23:11
 categories: advertising
 tags: google mtv
 author: Samgu Lee
+header:
+  og_image: /assets/google_video_with_mtv.png
 ---
 
 [Rationale 블로그](http://www.rtnl.info/154)에서 소개된 것 처럼 MTV가 구글의 비디오 네트웍을 활용한 제휴를 했다는 기사가 발표되었고, 현재 구글 비디오에는 MTV의 독립 부스가 생겼습니다.

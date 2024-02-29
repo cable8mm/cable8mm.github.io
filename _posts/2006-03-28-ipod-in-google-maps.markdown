@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 맵스에 나타난 아이포드"
-date:   2006-03-27 15:25:09
+title: "구글 맵스에 나타난 아이포드"
+date: 2006-03-27 15:25:09
 categories: gossip
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/ipod_in_google_maps.jpg
 ---
+
 구글 맵스가 처음 선보였을 때 거대한 문양을 만들어서 광고를 해도 되겠다는 생각을 했습니다. 실제로 그런 시도가 없었던 것은 아니지만, 이 것은 대단하군요. 아이포드를 만들어 놓았습니다.
 
 ![구글 맵스에 나타난 아이포드](/assets/ipod_in_google_maps.jpg)

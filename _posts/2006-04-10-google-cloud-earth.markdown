@@ -5,6 +5,8 @@ date: 2006-04-09 20:28:30
 categories: gossip
 tags: google earth
 author: Samgu Lee
+header:
+  og_image: /assets/google_cloud_map.jpg
 ---
 
 구글 어스 API를 이용한 멋진 서비스가 만들어 졌는데 확인 해 보시죠.

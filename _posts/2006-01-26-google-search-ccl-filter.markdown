@@ -5,6 +5,8 @@ date: 2006-01-25 15:36:54
 categories: service
 tags: google search
 author: Samgu Lee
+header:
+  og_image: /assets/google_search_ccl_filter.jpg
 ---
 
 저작권으로 골치가 아픈 구글이 CCL 관련해서 허둥지둥 대는 모습을 보이고 있습니다.

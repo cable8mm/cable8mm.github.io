@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 최초의 도전, 구글 Analytics의 미래"
-date:   2006-01-26t03:36:08
+title: "구글 최초의 도전, 구글 Analytics의 미래"
+date: 2006-01-26t03:36:08
 categories: service
 tags: google analytics
 author: Samgu Lee
+header:
+  og_image: /assets/google_analytics_small.jpg
 ---
+
 구글이 제공하는 서비스들 중에서 가장 많은 자원과 정치적인 이해관계가 얽혀있는 것이 구글비디오라면, 가장 크리티컬하고 가장 많은 데이터를 정확히 다루어야 하는 서비스는 다름아닌 구글 Analytics라고 할 수 있습니다.
 
 이 서비스가 개시 4개월째를 맞아서 유지에 심각한 도전을 받고 있습니다.
@@ -22,7 +25,7 @@ author: Samgu Lee
 
 Zaaz는 urchin과 비슷한 웹분석도구를 제공하는 업체이고, [구글 analytics의 인증회원사들](http://www.google.com/analytics/support_partner_provided.html) 중 유일하게 자체적인 분석 솔루션을 가지고 있는 회사입니다. 구글은 구글 analytics보다 [프로페셔널한 분석이 필요한 고객에게 Zaaz를 추천](http://www.zaaz.com/default.asp?pageID=googleanalytics)한다고 되어 있으나, 이미 urchin도 웹분석도구를 파는 회사들 중 상위권에 속하는 괜찮은 툴을 가지고 있었습니다.
 
-따라서, 이 의미는 구글 analytics의 서비스에 문제가 생겨서 급조된 해결책으로 볼 수도 있습니다. [팔글에서 구글 analytics의 가입이 불가능해졌다는  뉴스][google-analytics-stopped]를 당일에 올렸고, 그 날에 초청을 시도했으나 현재까지 초청장은 오지 않고 있습니다.
+따라서, 이 의미는 구글 analytics의 서비스에 문제가 생겨서 급조된 해결책으로 볼 수도 있습니다. [팔글에서 구글 analytics의 가입이 불가능해졌다는 뉴스][google-analytics-stopped]를 당일에 올렸고, 그 날에 초청을 시도했으나 현재까지 초청장은 오지 않고 있습니다.
 
 웹 로그 분석툴은 대단한 자원을 소비하는 서비스 중 하나로 대부분의 회사가 매달 20만원 이상을 받고 서비스를 하고 있습니다. 개인을 상대로 하는 서비스도 매달 3만원 이상을 받습니다. 무료로 제공하기에는 서버나 트래픽의 소모가 매우 큽니다. 기술적으로만 본다면 웹분석툴은 사용자가 많아질 경우 구글에서 세계 최강이라 불리우는 구글 웹서치보다 어렵거나 최소한 같은 정도의 기술과 자원이 필요합니다.
 

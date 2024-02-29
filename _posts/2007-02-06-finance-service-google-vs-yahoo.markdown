@@ -5,6 +5,8 @@ date: 2007-02-06 04:33:28
 categories: opinion
 tags: google yahoo finance
 author: Samgu Lee
+header:
+  og_image: /assets/google-finance-chart.gif
 ---
 
 구글과 야후의 경쟁은 야후에게 있어서는 피말리는 싸움이지만, 구경꾼들에게는 재미를 선사한다.

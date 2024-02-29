@@ -5,6 +5,8 @@ date: 2007-06-13 15:27:10
 categories: service
 tags: google
 author: Samgu Lee
+header:
+  og_image: /assets/google-korea-homepage.jpg
 ---
 
 조원규 구글 R&D센터장에게 직접 구글코리아 홈페이지 개편에 대한 이야기를 들어봅니다.

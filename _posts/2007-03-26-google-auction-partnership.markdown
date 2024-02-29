@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글과 옥션, 콘텐츠 광고 제휴"
-date:   2007-03-26 08:40:33
+title: "구글과 옥션, 콘텐츠 광고 제휴"
+date: 2007-03-26 08:40:33
 categories: news
 tags: google auction
 author: Samgu Lee
+header:
+  og_image: /assets/google-sponsor-link-of-auction.jpg
 ---
+
 구글은 오늘 날짜로 [보도자료](http://www.newswire.co.kr/read_sub.php?id=236625&no=0&tl=&nmode=&ca=&ca1=&ca2=&sf=&st=&of=&nwof=&conttype=&tm=1&type=&hotissue=&sdate=&eflag=&emonth=&spno=&exid=&rg1=&rg2=&rg3=&tt=)를 각 언론사에 배포했다. 보도자료 내용은 옥션과의 애드센스 광고 제휴. 이 소식은 도아의 세상사는 이야기라는 [블로그](http://offree.net/entry/%EC%98%A5%EC%85%98-AdSense%EB%A5%BC-%EB%8B%AC%EB%8B%A4)에 처음으로 노출되었다.
 
 ![옥션 검색 결과가 없을 경우 구글 스폰서 광고가 노출된다](/assets/google-sponsor-link-of-auction.jpg)

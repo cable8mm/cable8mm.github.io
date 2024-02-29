@@ -5,6 +5,8 @@ date: 2007-03-17 07:39:35
 categories: company
 tags: youtube gapminder
 author: Samgu Lee
+header:
+  og_image: /assets/trend-analytics-of-gapminder.jpg
 ---
 
 구글이 갭마인더라는 UX 소프트웨어 제작사를 인수했습니다.

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 오피스, 연합이 살길"
-date:   2007-03-02 05:37:29
+title: "구글 오피스, 연합이 살길"
+date: 2007-03-02 05:37:29
 categories: service
 tags: google office
 author: Samgu Lee
+header:
+  og_image: /assets/ibm-google-avaya.jpg
 ---
+
 국내에도 알려져 있는 다국적 기업 두곳이 구글과 파트너십을 맺었다고 발표했다. 그 주인공은 다름아닌 IBM과 어바이어(Avaya). 이들 회사는 자사의 솔루션에 구글의 서비스들을 넣거나, 구글의 솔루션에 자사의 서비스를 넣는 형태로 진행된다.
 
 ![IBM, 구글, 어바이어 로고](/assets/ibm-google-avaya.jpg)

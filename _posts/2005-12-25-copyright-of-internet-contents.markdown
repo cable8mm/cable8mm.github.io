@@ -5,6 +5,8 @@ date: 2005-12-25 05:56:35
 categories: opinion
 tags: law
 author: Samgu Lee
+header:
+  og_image: /assets/google_cache.jpg
 ---
 
 웹사이트 뿐만이 아니라 블로그 RSS서비스 등의 인터넷 저작권 문제는 한국의 경우 기존 저작권법 틀 안에서 생각해야 하므로 매우 복잡하게 되어 있습니다.

@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "Google판 엑셀, 추천 개시"
-date:   2006-06-06 03:42:59
+title: "Google판 엑셀, 추천 개시"
+date: 2006-06-06 03:42:59
 categories: service
 tags: google referrer
 author: Samgu Lee
+header:
+  og_image: /assets/google-spread-sheets-sneak.gif
 ---
+
 WSJ(월 스트리트 저널)과 AP에서 Google Speadsheet의 서비스 개시를 알려왔고, [Google Blogoscoped](http://blog.outer-court.com/archive/2006-06-06-n33.html)와 [Googling Google](http://blogs.zdnet.com/Google/?p=219)도 앞다투어 소개하고 있습니다. 팔글에서 확인해 본 결과 현재 이메일 입력 창이 활성화 되었습니다.
 
 우선 관심 있으신 분은 [Google Speadsheet 사용해보기 페이지](http://www.google.com/googlespreadsheets/try_out.html)로 들어가서 이메일을 입력해 놓으시기 바랍니다.

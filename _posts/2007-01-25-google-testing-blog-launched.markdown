@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 테스팅 공식 블로그 론칭"
-date:   2007-01-25 03:53:16
+title: "구글 테스팅 공식 블로그 론칭"
+date: 2007-01-25 03:53:16
 categories: service
 tags: google testing
 author: Samgu Lee
+header:
+  og_image: /assets/test-in-toilet.jpg
 ---
+
 구글의 기업 시스템을 주의깊게 본다면, 마이크로소프트와 비슷한 면을 보게 된다. 유일하게 틀린 점이라면 아마도 마이크로소프트는 판매를 통해 수익을 얻고, 구글은 광고를 통해 얻는 정도일 것이다. 물론 마케팅적인 면은 많이 다르긴 할 것 같다.
 
 ![구글 테스트 블로그 그림](/assets/test-in-toilet.jpg)

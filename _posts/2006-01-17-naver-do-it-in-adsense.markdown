@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 애드센스에서 절대 하지 말아야 할 다섯가지"
-date:   2006-01-17 03:48:49
+title: "구글 애드센스에서 절대 하지 말아야 할 다섯가지"
+date: 2006-01-17 03:48:49
 categories: service
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/humoruniv_google_account_ba.jpg
 ---
+
 2006년 1월 17일자로 [웃긴대학에 다섯개의 공지가 연달아 포스팅되는 초유의 사태](http://event.humoruniv.dreamwiz.com/list.html?code=google)가 발생했습니다. 애드센스를 설치한 후 PIN 번호를 받기 전에 부정클릭이 있다는 이유로 일방적으로 해지가 되었다는 다소 억울하고 분한 글들이었는데, 구글 애드센스에서 절대로 하지 말아야 할 것들을 알아보겠습니다.
 
 [애드센스는 웹 퍼블리셔(또는 웹사이트 소유주)들이 자신의 컨텐츠를 이용해서 광고수익을 얻을 수 있는 가장 큰 서비스][adsense-flash-presentation]입니다. 미국에는 이런 류의 서비스회사들이 더 있지만, 구글 애드센스가 가장 많은 광고주를 확보하고 있고, 한국에는 제휴마케팅이라는 이름으로 CPA가 중심이 된 회사들이 몇개 존재합니다.

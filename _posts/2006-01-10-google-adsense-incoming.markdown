@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "구글 애드센스로 벌어들인 수익 공개"
-date:   2006-01-10 02:38:10
+title: "구글 애드센스로 벌어들인 수익 공개"
+date: 2006-01-10 02:38:10
 categories: gossip
 tags: google adsense
 author: Samgu Lee
+header:
+  og_image: /assets/google_adsense_incoming.jpg
 ---
+
 애드센스에 대한 데이터는 [구글 약관의 기밀유지](https://www.google.com/adsense/localized-terms)로 인해서 공개할 수 없습니다만, 역시 약관에 따라 지불받는 총액은 공개할 수 있게 되어 있기 때문에 제가 애드센스로 얻은 이익을 공개하려 합니다.
 
 구글 애드센스를 다룬건 2004년 10월부터 입니다. 아마 한국에 들어오고 거의 바로 적용한 것으로 기억됩니다. 그 전에도 인터넷 마케팅에 관련된 일을 하고 있었기 때문에 수익도 수익이지만, 애드센스가 어떻게 돌아가고 수익이 어떻게 날런지 매우 궁금해했던 기억이 있습니다.

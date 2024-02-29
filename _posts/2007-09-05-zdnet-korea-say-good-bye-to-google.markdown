@@ -1,11 +1,14 @@
 ---
 layout: single
-title:  "한국 ZDNET, 구글과 결별"
-date:   2007-09-05 01:19:04
+title: "한국 ZDNET, 구글과 결별"
+date: 2007-09-05 01:19:04
 categories: service
 tags: google zdnet mootermedia
 author: Samgu Lee
+header:
+  og_image: /assets/cjmooter_logo.jpg
 ---
+
 현재 ZDNET 본사의 한국 지사는 공식적으로 폐쇄되었고, 대신 씨넥스트 미디어웍스(CNEXT Mediaworks)라는 한국 회사가 ZDNET에 라이센스를 받아 운영하고 있다.
 
 ![CJ무터의 로고](/assets/cjmooter_logo.jpg)
