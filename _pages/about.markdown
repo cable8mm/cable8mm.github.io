@@ -2,6 +2,7 @@
 layout: single
 title: About
 permalink: /about/
+description: "팔글은 2005년 11월 24일에 론칭되어 현재까지 운영되고 있는 구글 전문 블로그입니다."
 ---
 
 ## 팔글-인사이드 구글에 대해서

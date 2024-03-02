@@ -2,6 +2,7 @@
 layout: single
 title: Interview
 permalink: /interview/
+description: "TNC에서 블로그 얼라이언스 BM을 준비하고 있을 당시에 했던 언론사 인터뷰입니다."
 header:
   og_image: /assets/images/google-developer-day.jpg
 ---
