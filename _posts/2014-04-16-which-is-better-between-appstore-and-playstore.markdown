@@ -7,6 +7,8 @@ tags: apple google appstore playstore
 author: Samgu Lee
 header:
   og_image: /assets/xxxxxxxxxxxx-2017-01-24-xxxxxx-3.20.58.png
+redirect_from:
+  - /2014/04/16/app_store_vs_google_play_1/
 ---
 
 애플이 2008년 7월 10일에 론칭한 앱스토어(App Store)는 개인이 빠르고 편리하게 외국에 제품을 파는 방법을 제공했다.

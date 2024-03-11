@@ -7,6 +7,8 @@ tags: google earth
 author: Samgu Lee
 header:
   og_image: /assets/google_cloud_map.jpg
+redirect_from:
+  - /2006/04/10/google_cloud_earth/
 ---
 
 구글 어스 API를 이용한 멋진 서비스가 만들어 졌는데 확인 해 보시죠.

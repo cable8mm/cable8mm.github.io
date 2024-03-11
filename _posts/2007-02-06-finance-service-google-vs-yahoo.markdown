@@ -7,6 +7,8 @@ tags: google yahoo finance
 author: Samgu Lee
 header:
   og_image: /assets/google-finance-chart.gif
+redirect_from:
+  - /2007/02/06/finance-service-google-vs-yahoo/yahoo-finance-chart/
 ---
 
 구글과 야후의 경쟁은 야후에게 있어서는 피말리는 싸움이지만, 구경꾼들에게는 재미를 선사한다.
