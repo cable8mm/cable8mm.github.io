@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "피카사 웹 앨범의 최고 경쟁상대는 싸이 미니홈피"
-date:   2006-06-17 13:48:01
+title: "피카사 웹 앨범의 최고 경쟁상대는 싸이 미니홈피"
+date: 2006-06-17 13:48:01
 categories: opinion
 tags: google picasa cyworld
 author: Samgu Lee
 ---
+
 현재까지 최고의 웹기반 포토 앨범 서비스는 누가 뭐래도 Flickr입니다. 한국에서는 단연 미니홈피가 포토 앨범용으로 널리 사용되고 있습니다. 여기에 갑자기 출현한 Google의 새로운 서비스, Picasa Web Albums가 가세하고 있습니다.
 
 현재 Limited Test 중이지만, 테스트 결과로는 완성도는 상당하며, 일정부분 커뮤니티도 포함하고 있습니다. Flickr도 마찬가지지만 매우 깔끔한 디자인도 이상적이고, AJAX를 이용한 인터페이스도 매우 직관적입니다. Picasa Web Albums에 대해서 알아봅니다.
