@@ -64,7 +64,7 @@ git checkout main
 
 깃헙에서의 준비는 끝났습니다. 이제 깃헙 액션으로 doctum으로 만들어진 api 문서를 깃헙 페이지로 배포하는 액션을 `.github/workflows` 폴더에 넣습니다.
 
-```yml filename=deploy-to-github-pages.yml
+```yml
 name: deploy-to-github-pages
 
 on:
