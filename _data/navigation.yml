@@ -1,4 +1,6 @@
 main:
+  - title: "Dev"
+    url: /categories/#development
   - title: "Service"
     url: /categories/#service
   - title: "News"
