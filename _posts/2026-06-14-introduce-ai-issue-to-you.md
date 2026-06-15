@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "AI Issue Publisher: AI와의 대화, 3초 만에 깃헙 이슈(Issue)로 박아버리는 방법"
+title: "AI Issue Publisher: AI와의 대화, 3초 만에 깃헙 이슈(Issue) 등록하는 방법"
 date: 2026-06-14 23:36:00
 categories: development
 tags: ai-issue github issues ai development replworks
