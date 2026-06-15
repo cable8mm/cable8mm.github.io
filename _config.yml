@@ -10,17 +10,17 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "ko-KR"
-title: "팔글 인사이드 구글"
+title: "팔글 (Palgle)"
 title_separator: "-"
-subtitle: "Talk about tech & dev" # site tagline that appears below site title in masthead
+subtitle: "From Idea to Production: AI-Driven Workflows & Systems" # site tagline that appears below site title in masthead
 name: "Samgu Lee"
-description: "팔글 인사이드 구글은 구글의 국내 진출을 정확하게 전달합니다."
+description: "26년 차 테크 블로거 이삼구의 AI 기반 초고속 사업화(repl.net) 및 고퀄리티 서비스 현대화·운영 안정화(etern.co.kr) 인사이트."
 url: "https://www.palgle.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: cable8mm/cable8mm.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,7 +111,7 @@ analytics:
 author:
   name: "Samgu Lee"
   avatar: /assets/images/bio-photo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Just another *boring, on-the-interneted, developer*."
+  bio: "Just another context-driven, AI-architected, REPL-builder."
   location: "Inchon, South Korea"
   email: cable8mm@gmail.com
   links:
@@ -313,3 +313,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_label: "On this page"
+      toc_icon: "fas fa-fw fa-list"
+      toc_sticky: true
