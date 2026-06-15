@@ -98,7 +98,7 @@ social:
   links: # An array of links to social media profiles
     - https://facebook.com/cable8mm
     - https://www.linkedin.com/in/cable8mm/
-    - https://twitter.com/cable8mm
+    - https://x.com/cable8mm
     - https://github.com/cable8mm
 # Analytics
 analytics:
@@ -112,18 +112,18 @@ author:
   name: "Samgu Lee"
   avatar: /assets/images/bio-photo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Just another *boring, on-the-interneted, developer*."
-  location: "Auckland, New Zealand"
+  location: "Inchon, South Korea"
   email: cable8mm@gmail.com
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/cable8mm/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cable8mm"
+    - label: "X"
+      icon: "fa-brands fa-fw fa-square-x-twitter"
+      url: "https://x.com/cable8mm"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/cable8mm"
+      url: "https://www.facebook.com/cable8mm/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cable8mm"
@@ -140,30 +140,30 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/cable8mm/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/palgle_kr"
+    - label: "X"
+      icon: "fa-brands fa-fw fa-square-x-twitter"
+      url: "https://x.com/palgle_kr"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://facebook.com/cable8mm
+      url: "https://www.facebook.com/cable8mm"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/cable8mm
+      url: "https://github.com/cable8mm"
     - label: "About"
       icon: "fas fa-fw fa-link"
-      url: /about/
+      url: "/about/"
     - label: "Interview"
       icon: "fas fa-fw fa-link"
-      url: /interview/
+      url: "/interview/"
     - label: "Contact"
       icon: "fas fa-fw fa-link"
-      url: /contact/
+      url: "/contact/"
     - label: "Why"
       icon: "fas fa-fw fa-link"
-      url: /why/
+      url: "/why/"
     - label: "Privacy Policy"
       icon: "fas fa-fw fa-link"
-      url: /privacy-policy/
+      url: "/privacy-policy/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
