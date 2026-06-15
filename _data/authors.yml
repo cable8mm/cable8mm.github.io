@@ -1,6 +1,6 @@
 Samgu Lee:
   name: "Samgu Lee"
-  bio: "Just another *boring, on-the-interneted, developer*."
+  bio: "Just another context-driven, AI-architected, REPL-builder."
   avatar: "/assets/images/bio-photo.png"
   links:
     - label: "Email"
@@ -8,7 +8,7 @@ Samgu Lee:
       url: "mailto:cable8mm@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.palgle.com"
+      url: "https://www.repl.net"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cable8mm"

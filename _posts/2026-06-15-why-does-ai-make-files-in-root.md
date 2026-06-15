@@ -2,7 +2,7 @@
 layout: single
 title: "AI는 왜 자꾸 Root에 파일을 만들까: AI 시대의 시니어 개발자가 가져야 할 새로운 철학"
 date: 2026-06-15 16:30:00
-categories: development
+categories: development opinion
 tags: ai  developers
 author: Samgu Lee
 header:

@@ -1,2 +1,2 @@
----
-BUNDLE_CLEAN: "true"
+rm Gemfile.lock
+bundle install
