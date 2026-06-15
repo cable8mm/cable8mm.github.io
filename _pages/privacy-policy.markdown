@@ -2,37 +2,37 @@
 layout: single
 title: Privacy Policy
 permalink: /privacy-policy/
-description: "I takes your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used."
+description: "팔글(Palgle)의 개인정보처리방침입니다. 본 블로그는 방문자의 데이터를 상업적으로 추적하거나 무단 수집하지 않는 안전한 환경을 지향합니다."
 ---
 
-I takes your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
+본 개인정보처리방침은 [팔글(Palgle)]({% link index.html %})(이하 '본 블로그')이 방문자의 개인정보를 어떻게 존중하고 보호하는지 투명하게 고지하기 위해 작성되었습니다.
 
-## Collection of Routine Information
+본 블로그는 회원가입 제도를 운영하지 않으며, 구글 애드센스(Google AdSense) 등의 제3자 타깃팅 광고 및 구글 애널리틱스(Google Analytics)를 포함한 외부 사용자 추적 분석 도구를 일체 사용하지 않습니다.
 
-This "www.palgle.com" track basic information about their users. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific user to this "www.palgle.com". The information is tracked for routine administration and maintenance purposes.
+---
 
-## Cookies
+### 1. 개인정보의 수집 항목 및 이용 목적
 
-Where necessary, this "www.palgle.com" uses cookies to store information about a visitor’s preferences and history in order to better serve the user and/or present the user with customized content.
+본 블로그가 방문자로부터 수집하는 개인정보는 오직 사용자가 자발적으로 송신한 연락 데이터에 한합니다.
 
-## Advertisement and Other Third Parties
+* **수집 항목**: 방문자가 이메일(`editor@palgle.com`, `cable8mm@gmail.com`) 또는 소셜 채널(LinkedIn DM)을 통해 직접 발송한 성명, 이메일 주소, 메시지 본문 내용
+* **이용 목적**: 비즈니스 제안, 기술 자문, 프로젝트 제휴, 기사 제보 등에 대한 사실관계 확인 및 회신
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track user activities on this "www.palgle.com" in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This "www.palgle.com" has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+### 2. 개인정보의 제3자 제공 및 위탁
 
-## Links to Third Party Websites
+본 블로그는 수집된 이메일 문의 내용을 외부 상업 기업이나 마케팅 대행사 등 제3자에게 절대 제공하거나 공유하지 않습니다. 모든 문의는 발행인이 직접 관리하며 보안을 유지합니다.
 
-I have included links on this "www.palgle.com" for your use and reference. I are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from my own.
+### 3. 쿠키(Cookie) 운영 정책
 
-## Security
+본 블로그는 사용자의 행동 패턴을 추적하여 프로파일링하거나 맞춤형 광고를 노출하기 위한 상업적 추적 쿠키(Tracking Cookie)를 생성하거나 수집하지 않습니다.
 
-The security of your personal information is important to me, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
+### 4. 개인정보의 보유 및 파기
 
-## Changes To This Privacy Policy
+사용자가 자발적으로 송신한 이메일 및 소통 이력은 문의 사항에 대한 답변 및 비즈니스 협업 목적이 달성된 후, 혹은 송신자의 파기 요청이 있을 시 지체 없이 영구 파기됩니다.
 
-This Privacy Policy is effective as of febrary 20 2024 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+### 5. 관리자 및 개인정보 책임자 연락처
 
-I reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. If I make any material changes to this Privacy Policy, I will notify you either through the email address you have provided me, or by placing a prominent notice on my "www.palgle.com".
+본 블로그의 개인정보 보호 정책에 대한 문의나 본인이 제공한 메일 데이터의 삭제를 원하실 경우, 아래의 채널로 연락 주시면 즉시 조치하겠습니다.
 
-## Contact Information
-
-For any questions or concerns regarding the privacy policy, please send me an email to cable8mm@gmail.com.
+* **발행인 및 책임자**: 이삼구 (Samgu Lee)
+* **공식 연락처**: [editor@palgle.com](mailto:editor@palgle.com) / [cable8mm@gmail.com](mailto:cable8mm@gmail.com)
