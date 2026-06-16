@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "AI Agent 시대의 Git 워크플로우: AI 자동 커밋과 최적의 GitHub 머지 전략"
-date: 2026-06-16 00:12:00
+date: "2026-06-15 00:12:00"
 categories: development
 tags:  ai github workflow merge git squash
 author: Samgu Lee
