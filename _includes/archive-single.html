@@ -1,0 +1,47 @@
+{% comment %} {% endcomment %}
+{% if post.header.teaser %}
+  {% assign teaser = post.header.teaser %}
+{% elsif post.og_image %}
+  {% assign teaser = post.og_image %}
+{% else %}
+  {% comment %} 본문에서 첫 번째 <img> 태그나 마크다운 이미지 경로를 추출 {% endcomment %}
+  {% assign img_src = post.content | replace: '\"', '"' | split: '<img src="' %}
+  {% if img_src.size > 1 %}
+    {% assign teaser = img_src[1] | split: '"' | first %}
+  {% else %}
+    {% assign md_img_src = post.content | split: '![' %}
+    {% if md_img_src.size > 1 %}
+      {% assign teaser = md_img_src[1] | split: '](' | last | split: ')' | first | strip %}
+    {% else %}
+      {% assign teaser = site.teaser %} {% comment %} 이미지가 아예 없을 때 보여줄 기본 디폴트 이미지 {% endcomment %}
+    {% endif %}
+  {% endif %}
+{% endif %}
+
+{% if teaser %}
+  {% if teaser contains "://" %}
+    {% assign teaser_path = teaser %}
+  {% else %}
+    {% assign teaser_path = teaser | relative_url %}
+  {% endif %}
+{% endif %}
+
+{% comment %} 아래는 Minimal Mistakes의 기존 렌더링 코드입니다 {% endcomment %}
+<div class="{{ include.type | default: 'list' }}__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src="{{ teaser_path }}" alt="">
+      </div>
+    {% endif %}
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+      {% endif %}
+    </h2>
+    {% include page__meta.html type=include.type %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+  </article>
+</div>

@@ -239,7 +239,7 @@ sass:
 permalink: /:year/:month/:day/:title/
 paginate: 12 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Asia/Seoul"
 
 # Plugins (previously gems:)
 plugins:
@@ -298,6 +298,8 @@ compress_html:
     envs: development
 
 github: [metadata]
+
+date_format: "%Y년 %-m월 %-d일"
 
 # Defaults
 defaults:
