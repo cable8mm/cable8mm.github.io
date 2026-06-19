@@ -2,8 +2,8 @@
 layout: single
 title: "코드는 자산이 아니다 — 회계 장부가 말하는 AI 시대 개발자의 착각"
 date: "2026-06-20 05:10:00"
-categories: google
-tags: 중국구글, 중국여행, 중국출장, VPN, eSIM, 만리방화벽, Great Firewall
+categories: opinion
+tags: ai 바이브코딩 tco codex claude_code
 author: Samgu Lee
 header:
   og_image: /assets/images/code-is-not-an-asset.png
