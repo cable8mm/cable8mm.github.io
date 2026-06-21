@@ -30,7 +30,7 @@ masthead_title: # overrides the website title displayed in the masthead, use " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 100
 comments:
-  provider: facebook # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider: "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -44,12 +44,18 @@ comments:
     theme: # "github-light" (default), "github-dark"
     issue_term: # "pathname" (default)
   giscus:
-    repo_id: # Shown during giscus setup at https://giscus.app
-    category_name: # Full text name of the category
-    category_id: # Shown during giscus setup at https://giscus.app
-    discussion_term: # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled: # '1' for enabled (default), '0' for disabled
-    theme: # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    repo: "cable8mm/cable8mm.github.io"
+    repo_id: "R_kgDOLRlpMg" # Shown during giscus setup at https://giscus.app
+    category_name: "Comments" # Full text name of the category
+    category_id: "DIC_kwDOLRlpMs4C_mfL" # Shown during giscus setup at https://giscus.app
+    mapping: "pathname" # "pathname" (default), "url", "title", "og:title"
+    strict: "0" # options: 0, 1
+    reactions_enabled: "1" # '1' for enabled (default), '0' for disabled
+    emit-metadata: "0"
+    input_position: "bottom" # options: top, bottom
+    theme: "transparent_dark" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    lang: "ko" # options: en, ko, ja, etc.
+    loading: "lazy" # options: lazy, eager
   staticman:
     branch: # "master"
     endpoint: # "https://{your Staticman v3 API}/v3/entry/github/"
