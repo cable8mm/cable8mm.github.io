@@ -99,7 +99,7 @@ Run `ai-issue` to publish.
 
 린트 도구 하나 실행했을 뿐인데 프로젝트의 가독성이 무너지는 모습은 보고 싶지 않았습니다.
 
-다행히 올해 공개된 Go 1.24의 새로운 Tool 기능 덕분에 문제를 깔끔하게 해결할 수 있었습니다.
+그래서 선택한건 `homebrew` 였습니다.
 
 ```bash
 # 더러워진 go.mod 복구
@@ -109,7 +109,7 @@ go mod tidy
 brew install golangci-lint
 ```
 
-Makefile은 다음처럼 구성했습니다.
+`Makefile`은 다음처럼 구성했습니다.
 
 ```makefile
 lint: ## runs golangci-lint via go run
@@ -130,6 +130,6 @@ PAT 기반 인증은 단순하고 익숙하지만, 여러 조직을 오가며 �
 
 p.s.
 
-1인 개발 프로젝트지만, 제가 결정, 승인 및 테스트를 하고, AI는 제안과 코딩을 담당하는데요, 그것을 전통적인 개발팀이 개발하는 프로세스 그대로 운영하고 있습니다.
+1인 개발 프로젝트지만, [저는 결정, 승인 및 테스트를 하고, Discussion AI는 제안을, Execution AI는 코딩을 담당](https://www.repl.net/workflow/)하는데요, 그것을 전통적인 개발팀이 개발하는 Git 개발 프로세스 그대로 운영하고 있습니다.
 
 어떻게 운영되는지는 [replworks/ai-issue 의 이슈메뉴](https://github.com/replworks/ai-issue/issues?q=is%3Aissue%20state%3Aclosed)에서 보실 수 있습니다.
