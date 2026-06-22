@@ -23,3 +23,7 @@ build:
 clean:
 	bundle exec jekyll clean
 	rm -rf _site .jekyll-cache .jekyll-metadata
+
+return:
+	git checkout gh-pages
+	git pull

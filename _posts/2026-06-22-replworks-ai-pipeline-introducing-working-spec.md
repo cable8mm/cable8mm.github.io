@@ -3,7 +3,7 @@ layout: single
 title: "Replworks AI Pipeline: 왜 우리는 WORKING_SPEC이라는 중간 계층을 생각하게 되었나"
 date: "2026-06-22 12:25:00"
 categories: ai
-tags: ai, llm, prompt-engineering, software-architecture, compiler-thinking, replworks, working-spec
+tags: ai llm prompt-engineering software-architecture compiler-thinking replworks working-spec
 author: Samgu Lee
 header:
   og_image: /assets/images/llm-development-compiler.png
