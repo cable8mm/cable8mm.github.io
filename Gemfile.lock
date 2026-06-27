@@ -326,6 +326,7 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-paginate
   jekyll-redirect-from
+  jekyll-sitemap
   jekyll-youtube
   minima (~> 2.5)
   minimal-mistakes-jekyll
