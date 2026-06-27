@@ -8,7 +8,7 @@ layout: null
         <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
-    </url> {% for post in site.posts reversed %} <url>
+    </url> {% for post in site.posts %} <url>
         <loc>{{ site.url }}{{ post.url }}</loc> {% if post.lastmod %} <lastmod>{{ post.lastmod |
     date_to_xmlschema }}</lastmod> {% else %} <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     {% endif %} <changefreq>weekly</changefreq>
