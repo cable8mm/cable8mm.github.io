@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 어스와 콩나물의 만남 - 동영상"
-date: 2006-09-05 13:32:57
+date: 2006-09-05 13:32:57 +0900
 categories: gossip
 tags: google earth
 author: Samgu Lee

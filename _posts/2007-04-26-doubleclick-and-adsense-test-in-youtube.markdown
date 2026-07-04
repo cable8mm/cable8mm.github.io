@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "발빠른 구글 애드센스팀, 더블클릭 테스트 시작"
-date: 2007-04-26 07:20:32
+date: 2007-04-26 07:20:32 +0900
 categories: advertising
 tags: google
 author: Samgu Lee

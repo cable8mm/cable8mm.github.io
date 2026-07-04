@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글의 진실도 시간이 변화시킨다."
-date:   2006-03-22 09:06:17
+title: "구글의 진실도 시간이 변화시킨다."
+date: 2006-03-22 09:06:17 +0900
 categories: news
 tags: google
 author: Samgu Lee
 ---
+
 진실이란 보편적으로 시공을 초월한 불변의 진리를 말합니다. 그 이유로 지식인은 진실이라는 말을 명백한 사실에만 사용하고 있습니다. 구글은 지금으로부터 5년전 ["구글이 발견한 10가지 진실"](http://www.google.com/corporate/tenthings.html)이라는 글을 자사의 웹사이트에 포스팅했습니다. 그 중 한가지가 일부의 글이 삭제되었습니다.
 
 삭제된 문단은 10가지 중 두번째 "It's best to do one thing really, really well.&" 문단입니다. 한글 페이지에는 "어디서든 한 방면에서 최고가 되자&"라고 번역이 되어 있습니다. 이 문단에 다음과 같은 문단이 삭제되었습니다.

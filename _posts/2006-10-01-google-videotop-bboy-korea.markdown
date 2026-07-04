@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "최고의 디지털 한류, 역시 비보이"
-date:   2006-10-01 03:02:12
+title: "최고의 디지털 한류, 역시 비보이"
+date: 2006-10-01 03:02:12 +0900
 categories: gossip
 tags: google
 author: Samgu Lee
 ---
+
 한국 동영상 중 [최초로 구글 TOP100에 오른 영상]({% post_url 2006-06-21-two-girls-show %})을 소개해 드렸는데, 이번엔 구글 비디오 메인화면에 오른 한국 영상을 소개해 드립니다. 역시 비보이(B-Boy), 그 중 최고의 팀인 [익스트림 크루(Extreme Crew) 2004년 편집 영상](https://www.youtube.com/watch?v=5MawtVoEHQU)입니다.
 
 비보이는 브레이크 댄스를 추는 남자를 지칭하는 것으로 여자가 할 때 비걸(B-Girl)이라고 합니다. 비보이를 힙합댄스와 비슷한 것으로 생각할 수 있는데, 알고보면 전혀 다른 장르입니다.

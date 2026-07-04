@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "엠파스의 코멘트는 항상 강하다"
-date: 2006-06-01 02:01:01
+date: 2006-06-01 02:01:01 +0900
 categories: opinion
 tags: empas
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "개발자를 위한 중국 출장 가이드: 만리방화벽을 뚫는 필수 개발 환경 설정"
-date: "2026-06-18 16:00:00"
+date: 2026-06-18 16:00:00 +0900
 categories: development
 tags: 중국출장, 개발환경, IDE, VPN, 개발자, 만리방화벽
 author: Samgu Lee
@@ -25,9 +25,9 @@ VPN이 모두 막히거나 설정이 꼬였을 때를 대비해, 한국 통신�
 
 중국에서 일반적인 OpenVPN, WireGuard 연결은 DPI에 의해 불안정하거나 차단될 수 있습니다. 따라서 일반 유료 VPN을 그냥 켜는 것만으로는 부족합니다.
 
-* **출국 전 결제 및 설치 필수:** 중국에 도착하면 VPN 공식 홈페이지와 앱스토어 다운로드 주소 자체가 차단됩니다. 반드시 한국에서 메인과 백업용(최소 2개 추천) VPN을 설치하고 로그인까지 끝내두세요.
-* **난독화(Obfuscation) 기능 활성화:** VPN 서비스가 제공하는 난독화 서버나 중국 전용 서버를 사용합니다. ExpressVPN, Astrill 등 일부 서비스는 자체 우회 기술을 제공하며 중국에서 상대적으로 안정적인 편입니다.
-* **라우팅 분할(Split Tunneling) 활용:** 모든 트래픽을 VPN으로 보내면 속도가 느려집니다. GitHub나 개발 관련 툴만 VPN을 타게 하고, 중국 현지 인프라나 바이두 등은 바이패스하도록 설정하면 쾌적합니다.
+- **출국 전 결제 및 설치 필수:** 중국에 도착하면 VPN 공식 홈페이지와 앱스토어 다운로드 주소 자체가 차단됩니다. 반드시 한국에서 메인과 백업용(최소 2개 추천) VPN을 설치하고 로그인까지 끝내두세요.
+- **난독화(Obfuscation) 기능 활성화:** VPN 서비스가 제공하는 난독화 서버나 중국 전용 서버를 사용합니다. ExpressVPN, Astrill 등 일부 서비스는 자체 우회 기술을 제공하며 중국에서 상대적으로 안정적인 편입니다.
+- **라우팅 분할(Split Tunneling) 활용:** 모든 트래픽을 VPN으로 보내면 속도가 느려집니다. GitHub나 개발 관련 툴만 VPN을 타게 하고, 중국 현지 인프라나 바이두 등은 바이패스하도록 설정하면 쾌적합니다.
 
 ## 2. 패키지 매니저 및 도커(Docker) 미러 서버 변경
 
@@ -69,16 +69,16 @@ git config --global --unset https.proxy
 
 ### IDE 내부 Proxy 설정
 
-* **IntelliJ / WebStorm:** `Settings -> Appearance & Behavior -> System Settings -> HTTP Proxy` 이동 후 `Manual proxy configuration`에서 로컬 VPN 호스트와 포트를 입력해 둡니다.
-* **VS Code:** 설정에서 `Http: Proxy` 항목에 로컬 프록시 주소(예: `http://127.0.0.1:7890`)를 지정하면 Copilot 등의 확장 프로그램이 보다 안정적으로 동작합니다.
+- **IntelliJ / WebStorm:** `Settings -> Appearance & Behavior -> System Settings -> HTTP Proxy` 이동 후 `Manual proxy configuration`에서 로컬 VPN 호스트와 포트를 입력해 둡니다.
+- **VS Code:** 설정에서 `Http: Proxy` 항목에 로컬 프록시 주소(예: `http://127.0.0.1:7890`)를 지정하면 Copilot 등의 확장 프로그램이 보다 안정적으로 동작합니다.
 
 ## 4. 2차 인증(MFA) 수단 오프라인 백업
 
 의외로 많은 개발자가 놓쳐서 멘붕이 오는 지점입니다. GitHub나 사내 시스템 로그인 시 2중 인증 등을 사용하실 텐데요.
 
-* 중국에서 유심을 갈아끼우거나 로밍 처리를 하다가 기기 인증이 풀리는 경우가 있습니다.
-* 만약 SMS 인증으로만 2차 인증을 해두었다면, 중국 현지에서 한국 문자가 제때 수신되지 않아 아예 계정이 잠길 수 있습니다.
-* **대책:** 출국 전, GitHub, AWS, Google Workspace, 사내 SSO 등의 MFA 복구 코드를 미리 백업해 두세요.
+- 중국에서 유심을 갈아끼우거나 로밍 처리를 하다가 기기 인증이 풀리는 경우가 있습니다.
+- 만약 SMS 인증으로만 2차 인증을 해두었다면, 중국 현지에서 한국 문자가 제때 수신되지 않아 아예 계정이 잠길 수 있습니다.
+- **대책:** 출국 전, GitHub, AWS, Google Workspace, 사내 SSO 등의 MFA 복구 코드를 미리 백업해 두세요.
 
 ## 🚀 출장 출발 전 최종 체크리스트
 

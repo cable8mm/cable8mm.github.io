@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 애드센스(AdSense), A/B테스트 허용"
-date: 2006-08-04 03:53:54
+date: 2006-08-04 03:53:54 +0900
 categories: advertising
 tags: google korea
 author: Samgu Lee

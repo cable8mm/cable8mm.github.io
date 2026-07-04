@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Google을 재미있게 사용하는 55가지 방법 무료 배포"
-date: 2006-06-24 12:51:29
+date: 2006-06-24 12:51:29 +0900
 categories: tip
 tags: google
 author: Samgu Lee

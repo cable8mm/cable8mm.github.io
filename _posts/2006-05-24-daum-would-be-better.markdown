@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "다음 커뮤니케이션, 이보다 잘할 순 없다"
-date: 2006-05-24 19:12:32
+date: 2006-05-24 19:12:32 +0900
 categories: advertising
 tags: daum
 author: Samgu Lee

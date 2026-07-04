@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 도메인 등록 서비스, 1년에 10불"
-date: 2006-12-15 15:20:09
+date: 2006-12-15 15:20:09 +0900
 categories: news
 tags: google domain
 author: Samgu Lee

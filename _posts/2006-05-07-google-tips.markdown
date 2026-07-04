@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글(Google)을 편하게 쓰는 두가지 팁"
-date: 2006-05-07 06:41:13
+date: 2006-05-07 06:41:13 +0900
 categories: tip
 tags: google
 author: Samgu Lee

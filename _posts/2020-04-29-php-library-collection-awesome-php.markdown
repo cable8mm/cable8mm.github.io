@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "최고의 코드만 모았습니다. Awesome PHP"
-date: 2020-04-29 05:37:00
+date: 2020-04-29 05:37:00 +0900
 categories: development
 tags: php
 author: Samgu Lee

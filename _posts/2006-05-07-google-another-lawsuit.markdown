@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Google, 또다시 소송"
-date: 2006-05-07 07:01:24
+date: 2006-05-07 07:01:24 +0900
 categories: news
 tags: google law
 author: Samgu Lee

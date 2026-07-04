@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "아이댄스, 다음(Daum)과 결별"
-date: 2006-07-14 18:22:00
+date: 2006-07-14 18:22:00 +0900
 categories: news
 tags: idance daum
 author: Samgu Lee

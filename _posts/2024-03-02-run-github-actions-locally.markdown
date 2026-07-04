@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "깃헙 액션(Github Action)을 로컬에서 실행하기"
-date: 2024-03-02 13:54:00
+date: 2024-03-02 13:54:00 +0900
 categories: development
 tags: github action local
 author: Samgu Lee

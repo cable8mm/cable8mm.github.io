@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "블로그와 구글 순위 알고리즘 - 페이지랭크(PageRank)"
-date: 2006-02-13 16:01:08
+date: 2006-02-14 16:01:08 +0900
 categories: opinion
 tags: google naver
 author: Samgu Lee

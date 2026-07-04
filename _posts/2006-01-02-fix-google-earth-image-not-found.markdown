@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 어스의 에러를 수정하는 세가지 방법"
-date: 2006-01-02 04:19:46
+date: 2006-01-02 04:19:46 +0900
 categories: service
 tags: google earth
 author: Samgu Lee

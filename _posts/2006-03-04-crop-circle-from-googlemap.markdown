@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글맵에 나타난 미스테리 서클"
-date: 2006-03-04 04:40:57
+date: 2006-03-04 04:40:57 +0900
 categories: gossip
 tags: google
 author: Samgu Lee

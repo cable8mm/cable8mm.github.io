@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "포털에 낀 언론사, 살아남을 수 있을까?"
-date: 2006-02-07 22:48:00
+date: 2006-02-07 22:48:00 +0900
 categories: opinion
 tags: law
 author: Samgu Lee

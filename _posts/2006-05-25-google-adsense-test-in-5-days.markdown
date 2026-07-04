@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글의 새로운 광고 레이아웃의 5일간의 테스트"
-date:   2006-05-25 02:31:06
+title: "구글의 새로운 광고 레이아웃의 5일간의 테스트"
+date: 2006-05-25 02:31:06 +0900
 categories: advertising
 tags: google
 author: Samgu Lee
 ---
+
 [Search Engine Roundtable](http://www.seroundtable.com/archives/003863.html) 인용:
 
 > The new ad layout shows two ads at the top, and then four ads on the bottom, but none on the right hand panel.

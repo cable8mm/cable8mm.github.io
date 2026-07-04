@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "이종격투기, 인터넷에서 즐긴다"
-date:   2006-05-26 04:13:17
+title: "이종격투기, 인터넷에서 즐긴다"
+date: 2006-05-26 04:13:17 +0900
 categories: news
 tags: google
 author: Samgu Lee
 ---
+
 Google Video에서 많은 팬을 확보하고 있는 미국 최고의 이종격투기 대회인 UFC의 PPV를 시작합니다. 아래는 홍보 영상입니다.
 
 {% youtube "https://www.youtube.com/watch?v=USFUlsPGa8c" %}

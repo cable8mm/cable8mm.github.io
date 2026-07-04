@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 리더, 공유기능 추가"
-date: 2006-03-23 05:11:33
+date: 2006-03-23 05:11:33 +0900
 categories: service
 tags: google
 author: Samgu Lee

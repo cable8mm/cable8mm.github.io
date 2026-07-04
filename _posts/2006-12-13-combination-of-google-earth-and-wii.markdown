@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "위(Wii)와 구글 어스의 결합"
-date:   2006-12-13 09:51:55
+title: "위(Wii)와 구글 어스의 결합"
+date: 2006-12-13 09:51:55 +0900
 categories: gossip
 tags: google earth wii
 author: Samgu Lee
 ---
+
 굉장한 찬사를 받고 있는 닌텐도의 차세대 게임기인 위(Wii)는 멋진 콘솔을 사용하고 있는데, 위의 무선 컨트롤러를 이용해서 구글 어스를 조작하는 동영상이 유튜브에 공개됐다.
 
 {% youtube "https://www.youtube.com/watch?v=PkPem-RU9XM" %}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "알라딘의 Thanks to Blogger"
-date: 2006-09-23 03:23:52
+date: 2006-09-23 03:23:52 +0900
 categories: advertising
 tags: aladin
 author: Samgu Lee

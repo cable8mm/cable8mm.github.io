@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "유투브(YouTube), 구글(Google) 품안에"
-date: 2006-10-10 03:21:07
+date: 2006-10-10 03:21:07 +0900
 categories: company
 tags: google youtube
 author: Samgu Lee

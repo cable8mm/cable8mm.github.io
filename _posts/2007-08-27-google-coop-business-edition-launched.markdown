@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 개인화 검색, 비즈니스 에디션"
-date: 2007-08-27 04:01:08
+date: 2007-08-27 04:01:08 +0900
 categories: service
 tags: google
 author: Samgu Lee

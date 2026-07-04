@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "야후의 이모저모"
-date: 2003-11-05 15:29:58
+date: 2003-11-05 15:29:58 +0900
 categories: company
 tags: 야후코리아
 author: Samgu Lee

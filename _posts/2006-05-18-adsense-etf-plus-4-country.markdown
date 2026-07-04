@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "애드센스의 전자송금, 4개국 확대"
-date: 2006-05-18 05:49:53
+date: 2006-05-18 05:49:53 +0900
 categories: news
 tags: google adsense
 author: Samgu Lee

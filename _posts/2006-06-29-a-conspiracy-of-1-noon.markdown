@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "첫눈, 네이버인수의 음모론"
-date: 2006-06-29 00:54:32
+date: 2006-06-29 00:54:32 +0900
 categories: opinion
 tags: naver
 author: Samgu Lee

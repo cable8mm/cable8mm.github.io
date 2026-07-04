@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "아쉬운 구글 캘린더(Google Calendar) 업데이트"
-date:   2006-09-26 16:57:20
+title: "아쉬운 구글 캘린더(Google Calendar) 업데이트"
+date: 2006-09-27 16:57:20 +0900
 categories: service
 tags: google page
 author: Samgu Lee
 ---
+
 구글 캘린더(Google Calendar)이 다국어를 지원하면서 [커진 글자]({% post_url 2006-09-19-google-calender-bangbang %})는 현재는 모두 수정되었습니다. 확실히 처음보다는 보기가 좋아졌습니다. 하지만, 구글 캘린더에는 없는 기능으로 인해 사용하는데 지장이 있는 부분이 존재합니다.
 
 우선, 이번 업데이트는 한국과는 그다지 관계가 없는 미국의 기후가 나타납니다. 설정(Setting) 메뉴에서 선택할 수 있는데, 현재 위치를 넣으면 자동으로 캘린더에 추가됩니다. 위치를 한국으로 설정해 놓으면 날씨 메뉴는 사라집니다.

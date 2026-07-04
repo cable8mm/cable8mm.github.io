@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "드디어 구글, MSN을 제치다"
-date: 2006-03-31 17:19:37
+date: 2006-04-01 17:19:37 +0900
 categories: news
 tags: google
 author: Samgu Lee
@@ -18,39 +18,30 @@ author: Samgu Lee
 > 1. **Yahoo!**
 >    Personalized content and search options. Chatrooms, free e-mail, clubs, and pager.  
 >    www.yahoo.com
->
 > 2. Google  
 >    Enables users to search the Web, Usenet, and images. Features include PageRank, caching and translation of results, and an option to find similar pages. The company's focus is developing search technology.  
 >    www.google.com
->
 > 3. Microsoft Network (MSN)  
 >    Dialup access and content provider.  
 >    www.msn.com
->
 > 4. Baidu.com  
 >    全球最大中文搜索引擎，向人们提供简单、可依赖的信息获取方式。 The leading Chinese language search engine, provides “simple and reliable” search experience.  
 >    www.baidu.com
->
 > 5. Yahoo!カテゴリ  
 >    有料審査制のディレクトリ。ウェブサービスの形で API を公開。  
 >    www.yahoo.co.jp
->
 > 6. 新浪新闻中心  
 >    包括即日的国内外不同类型的新闻与评论，人物专题，图库。  
 >    www.sina.com.cn
->
 > 7. EBay  
 >    International person to person auction site, with products sorted into categories.  
 >    www.ebay.com - Site info
->
 > 8. Myspace  
 >    Social Networking Site.  
 >    www.myspace.com
->
 > 9. 搜狐  
 >    资源导航为主要业务的门户网站，经营综合性业务，社区，无线等增值服务。  
 >    www.sohu.com - Site info
->
 > 10. Passport.net  
 >     www.passport.net
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 애드매니져의 반쪽짜리 한글화"
-date: 2008-11-19 18:12:52
+date: 2008-11-20 18:12:52 +0900
 categories: service
 tags: google admanager
 author: Samgu Lee

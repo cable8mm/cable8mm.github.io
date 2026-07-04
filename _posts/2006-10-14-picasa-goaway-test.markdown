@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "피카사 웹 앨범, 테스트 딱지 떼다"
-date: 2006-10-14 13:59:53
+date: 2006-10-14 13:59:53 +0900
 categories: service
 tags: google picasa
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "위자드닷컴, 구글맵 도구 추가"
-date: 2007-01-20 01:58:46
+date: 2007-01-21 01:58:46 +0900
 categories: news
 tags: google map wizard
 author: Samgu Lee

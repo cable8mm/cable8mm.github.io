@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "웹검색 APIs, 구글과 네이버 비교"
-date:   2006-03-27 06:37:12
+title: "웹검색 APIs, 구글과 네이버 비교"
+date: 2006-03-27 06:37:12 +0900
 categories: service
 tags: google
 author: Samgu Lee
 ---
+
 네이버는 [보도자료](http://gija.info/tt/912)를 통해 [검색 서비스의 API 베타를 공개한다고 발표](http://itviewpoint.com/tt/index.php?pl=1253)했습니다. 이번 공개는 '차세대 웹 통합 국제 컨퍼런스(NGWeb 2006)'에서 언급된 네이버의 검색전략 발표를 통한 '네이버 공개 API' 공개 전략에서 처음 언급되었던 내용입니다.
 
 팔글에서는 네이버의 공개 전략과 이미 오래전부터 구글 웹 APIs를 제공해 온 구글과 어떤 면에서 다른지 문답식으로 알아보겠습니다.

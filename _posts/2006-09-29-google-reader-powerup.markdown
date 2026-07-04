@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 RSS 리더, 대규모 업데이트"
-date: 2006-09-29 07:50:47
+date: 2006-09-29 07:50:47 +0900
 categories: service
 tags: google rss
 author: Samgu Lee

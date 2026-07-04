@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글, 중화텔레콤(CHT)과 제휴 확정"
-date: 2006-12-20T06:49:46
+date: 2006-12-20 06:49:46 +0900
 categories: news
 tags: google CHT
 author: Samgu Lee

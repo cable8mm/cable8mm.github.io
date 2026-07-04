@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "PHPBB에 애드센스 코드를 넣어보자"
-date: 2006-04-07 07:22:54
+date: 2006-04-07 07:22:54 +0900
 categories: opinion
 tags: google phpbb adsense
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "피카사 리눅스버젼 등장"
-date: 2006-05-26 16:44:06
+date: 2006-05-27 16:44:06 +0900
 categories: news
 tags: google picasa
 author: Samgu Lee

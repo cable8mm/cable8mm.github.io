@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글(Google) 닥스의 한계와 미래"
-date:   2006-10-10 18:15:13
+title: "구글(Google) 닥스의 한계와 미래"
+date: 2006-10-15 18:15:13 +0900
 categories: opinion
 tags: google docs
 author: Samgu Lee
 ---
+
 구글(Google) 닥스는 웹에서 쓸 수 있는 오피스라는 면에서 MS 오피스와 비교되고 있고, 현재까지 오피스의 핵심인 워드프로세서와 스프레드시트가 구현되어 있습니다. 하지만, 웹에서 구현되는 그것도 자바나 엑티브엑스아 아닌 AJAX로 구현되어 있기 때문에 태생적인 한계를 가지고 있습니다.
 
 [구글 닥스(Google Docs & Spreadsheets)]({% post_url 2006-10-11-google-docs-ready %})는 웹 워드프로세서인 라이틀리(Writely)와 구글 연구소(Google Labs)에서 만든 스프레드시트를 한개의 서비스로 제공하는 것으로, 웹 특유의 협업 시스템을 갖추고 있고, 익스플로러와 파이어폭스 등에서 사용이 가능하기 때문에 왠만한 컴퓨터에선 프로그램 설치 없이 사용이 가능합니다.
@@ -45,9 +46,9 @@ return “http://localhost:8180/Docster/” + page + paramString;
 return “http://” + location.host + “/” + page + paramString;
 
 function RunningOnLocalServer() {
-    if (typeof onLocalServer == ‘undefined’) 
-        return false; 
-    return onLocalServer; 
+    if (typeof onLocalServer == ‘undefined’)
+        return false;
+    return onLocalServer;
 }
 ```
 

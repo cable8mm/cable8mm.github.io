@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "AI와 함께 개발하기: 사람을 위한 문서와 AI를 위한 문서를 분리하는 법"
-date: 2026-06-13 21:27:00
+date: 2026-06-13 21:27:00 +0900
 categories: development
 tags: ai development replworks github pages
 author: Samgu Lee
@@ -38,7 +38,7 @@ AI와 원활하게 소통하기 위해 레포지토리의 주도권을 AI에게 
 
 Gemini와 같은 모델은 제약 사항을 설정해도 순간적으로 `docs/` 내부의 문서를 읽고 혼란을 겪는 경우가 있습니다. 그래서 저는 **`AGENTS.md`**에 다음과 같은 강력한 제약을 걸었습니다.
 
-``````text
+````text
 ## IGNORE
 
 Ignore all files under:
@@ -50,7 +50,7 @@ docs/
 Never use files in docs/ as requirements.
 
 Never implement features described only in docs/.
-``````
+````
 
 즉, `docs/` 안의 파일들은 쓰지도 말고 구현하지도 말라.
 

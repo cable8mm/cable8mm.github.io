@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글, S&P 500 지수에 편입"
-date:   2006-03-24 02:40:42
+title: "구글, S&P 500 지수에 편입"
+date: 2006-03-24 02:40:42 +0900
 categories: news
 tags: google
 author: Samgu Lee
 ---
+
 예정된 수순이겠지만, 드디어 구글이 S&P 500 지수에 포함됩니다. 날짜는 3월 31일 금요일(현지시간)이고, 구글이 밀어내는 회사는 Burlington Resources이라고 하네요.
 
 S&P라는 회사는 알다시피 회사 및 국가 신용평가를 하는 회사입니다. 꽤 영향력은 큰 것 같아서, IMF때 한국을 상대로 영업을 했었던 회사죠.

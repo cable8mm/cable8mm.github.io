@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "물불 가리지 않는 정보통신부의 검열"
-date: 2007-03-26 04:09:07
+date: 2007-03-26 04:09:07 +0900
 categories: korea
 tags: korea law
 author: Samgu Lee

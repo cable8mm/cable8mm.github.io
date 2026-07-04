@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "흠잡을데 없는 기사를 쓴 성연광 기자의 웹2.0"
-date: 2006-06-19 02:12:00
+date: 2006-06-19 02:12:00 +0900
 categories: opinion
 tags: article
 author: Samgu Lee

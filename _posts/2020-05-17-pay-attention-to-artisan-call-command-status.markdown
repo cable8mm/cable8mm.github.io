@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Artisan::call(), 커맨드 상태에 주의하세요"
-date: 2020-05-17 01:37:00
+date: 2020-05-17 01:37:00 +0900
 categories: development
 tags: laravel
 author: Samgu Lee

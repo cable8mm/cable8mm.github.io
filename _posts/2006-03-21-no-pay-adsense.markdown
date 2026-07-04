@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "남의 애드센스 광고를 해주게 된 이유..."
-date:   2006-03-21 05:22:25
+title: "남의 애드센스 광고를 해주게 된 이유..."
+date: 2006-03-21 05:22:25 +0900
 categories: gossip
 tags: google
 author: Samgu Lee
 ---
+
 인도에 사는 John.T.Puthenmadhom 라는 청년은 다른 사람의 애드센스를 자신의 사이트에 넣어주겠다는 글을 포스팅 했습니다. 농담같지는 않지만, 그 내용이 참 기구합니다.
 
 [그 전말](http://www.johntp.com/2006/03/20/put-your-google-ads-on-my-site-for-free/)은 이렇습니다.

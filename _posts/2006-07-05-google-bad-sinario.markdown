@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글(Google)의 여덞가지 문제점과 위험한 시나리오"
-date:   2006-07-05 09:02:14
+title: "구글(Google)의 여덞가지 문제점과 위험한 시나리오"
+date: 2006-07-05 09:02:14 +0900
 categories: opinion
 tags: google
 author: Samgu Lee
 ---
+
 아래의 내용은 Google Blogoscoped에서 구글의 2006년 1분기 10-Q 문서 중 구글이 자신의 잠재적인 문제점에 대한 글을 단문으로 정리한 글입니다.
 
 [Google Blogoscoped](http://blog.outer-court.com/archive/2006-07-04.html#n35) 인용:

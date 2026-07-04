@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 애드센스로 벌어들인 수익 공개"
-date: 2006-01-10 02:38:10
+date: 2006-01-10 02:38:10 +0900
 categories: gossip
 tags: google adsense
 author: Samgu Lee

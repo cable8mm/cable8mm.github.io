@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "라이코스의 바람, 소리소문 없이 사라지고"
-date: 2006-05-24 05:32:54
+date: 2006-05-24 05:32:54 +0900
 categories: company
 tags: lycos
 author: Samgu Lee

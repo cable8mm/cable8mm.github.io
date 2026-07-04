@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 로그분석기(Analytics), 새로운 파트너 프로그램"
-date: 2007-02-20 05:26:26
+date: 2007-02-20 05:26:26 +0900
 categories: news
 tags: google analytics
 author: Samgu Lee

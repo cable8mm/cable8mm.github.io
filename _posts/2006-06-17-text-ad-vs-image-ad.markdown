@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "텍스트 광고 vs 이미지 광고"
-date: 2006-06-17 17:23:43
+date: 2006-06-17 17:23:43 +0900
 categories: opinion
 tags: advertising
 author: Samgu Lee

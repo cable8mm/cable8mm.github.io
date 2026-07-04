@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "잘 쓰던 내 CLI 도구가 '멀티 조직(Multi-Org)' 벽에 부딪혔을 때: GitHub Device Flow 전환기"
-date: "2026-06-22 21:50:00"
+date: 2026-06-22 21:50:00 +0900
 categories: ai development
 tags: github github-app device-flow golang cli dx
 author: Samgu Lee
@@ -9,7 +9,7 @@ header:
   og_image: /assets/images/replworks-ai-issue-issues.png
 ---
 
-제가 만든 [AI 기반 GitHub 이슈 생성 CLI 도구인 **`ai-issue`**]({% post_url 2026-06-14-introduce-ai-issue-to-you %})를 로컬에서 아주 만족스럽게 사용하고 있었습니다. 터미널에서 명령어 하나로 이슈를 발행해 주는 경험이 꽤 마음에 들었습니다.
+제가 만든 [AI 기반 GitHub 이슈 생성 CLI 도구인 **ai-issue**]({% post_url 2026-06-14-introduce-ai-issue-to-you %})를 로컬에서 아주 만족스럽게 사용하고 있었습니다. 터미널에서 명령어 하나로 이슈를 발행해 주는 경험이 꽤 마음에 들었습니다.
 
 그런데 어느 날 예상하지 못한 장벽을 만나게 되었습니다.
 

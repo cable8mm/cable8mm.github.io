@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "야후와 구글의 파이낸스 경쟁"
-date: 2007-02-06 04:33:28
+date: 2007-02-06 04:33:28 +0900
 categories: opinion
 tags: google yahoo finance
 author: Samgu Lee

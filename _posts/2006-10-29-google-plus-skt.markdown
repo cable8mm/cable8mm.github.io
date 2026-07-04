@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글(Google)과 SKT 제휴 확정"
-date:   2006-10-29 01:21:09
+title: "구글(Google)과 SKT 제휴 확정"
+date: 2006-10-29 01:21:09 +0900
 categories: news
 tags: google
 author: Samgu Lee
 ---
+
 SKT에서 구글(Google)과 무선 검색 제휴에 대한 연합뉴스의 보도를 매경이나 조선일보에서 인용 보도하고 있습니다. 무슨 이야기일까요?
 
 이번 보도의 핵심 몇가지를 정리하면 이렇습니다.

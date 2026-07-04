@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "15살 소년, 구글 뉴스를 속여..."
-date: 2006-03-13 15:18:47
+date: 2006-03-14 15:18:47 +0900
 categories: gossip
 tags: google
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "SEW 블로그, 여섯가지 하이라이트 발표"
-date: 2006-03-07 05:23:33
+date: 2006-03-07 05:23:33 +0900
 categories: news
 tags: google adsense
 author: Samgu Lee

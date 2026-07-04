@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글, 유즈넷 저작권 소송 승리"
-date:   2006-03-27 14:39:40
+title: "구글, 유즈넷 저작권 소송 승리"
+date: 2006-03-27 14:39:40 +0900
 categories: news
 tags: google
 author: Samgu Lee
 ---
+
 [CNET.COM](http://news.com.com/Google+wins+a+court+battle/2100-1030_3-6050667.html?tag=nl)은 Gordon Roy Parker의 유즈넷과 검색결과에 대한 소송에서 구글이 승소했다고 알려왔습니다. 이로서 구글은 [이미지검색][perfect10-vs-google]에 이어 웹검색과 유즈넷까지 합법적으로 서비스할 수 있게 되었습니다.
 
 Gordon은 2004년 구글이 운영하는 유즈넷과 웹검색 서버에 자신의 저작물이 저장되어 있기 때문에 자신의 저작권이 침해되었다고 법원에 소송을 냈습니다.

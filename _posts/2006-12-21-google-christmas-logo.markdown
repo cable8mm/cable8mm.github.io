@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글의 크리스마스 로고"
-date: 2006-12-21 14:45:12
+date: 2006-12-21 14:45:12 +0900
 categories: gossip
 tags: google christmas logo
 author: Samgu Lee

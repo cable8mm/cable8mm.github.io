@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글(Google), 3분기 실적 공개"
-date:   2006-10-20 06:23:23
+title: "구글(Google), 3분기 실적 공개"
+date: 2006-10-20 06:23:23 +0900
 categories: company
 tags: google
 author: Samgu Lee
 ---
+
 구글(Google)은 수입 설명회(Earnings Announcement)를 통해 2006년 3분기 실적을 공개하고, 구글 프레스를 통해 보도자료를 배포했습니다. 이 내용은 구글 전체 페이지 중, 투자자를 위한 웹사이트에 가장 잘 나와 있습니다.
 
 투자자를 위한 구글(Google Investor Relations)에는 구글의 내용 중 투자자에게 필요한 내용을 상세하게 설명해 주고, 컨퍼런스 콜 등의 내용도 동영상이나 음성파일로 제공하기도 합니다.

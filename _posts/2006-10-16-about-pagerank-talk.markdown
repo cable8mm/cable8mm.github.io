@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "블로그 최고 구글 페이지 랭크는 5?"
-date: 2006-10-16 14:53:33
+date: 2006-10-16 14:53:33 +0900
 categories: gossip
 tags: google pagerank
 author: Samgu Lee

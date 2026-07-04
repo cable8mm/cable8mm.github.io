@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "AI 개발 입문자라면 Agent Framework를 공부하지 마세요"
-date: "2026-06-20 14:55:00"
+date: 2026-06-20 14:55:00 +0900
 categories: ai development
 tags: ai CrewAI LangGraph AuthGen ReplWorks
 author: Samgu Lee
@@ -58,7 +58,7 @@ AI와 개발을 시작한 지 세 달 반 정도 되었습니다. 그리고, [�
 
 ```text
 PM Agent
--> Architect Agent 
+-> Architect Agent
 -> Developer Agent
 -> QA Agent
 ```

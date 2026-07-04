@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글어스 플래쉬버젼 런칭"
-date: 2006-02-23 03:14:48
+date: 2006-02-23 03:14:48 +0900
 categories: service
 tags: google earch flash
 author: Samgu Lee

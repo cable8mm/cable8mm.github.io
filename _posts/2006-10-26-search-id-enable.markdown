@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글(Google) 검색, 가이드라인 수정"
-date:   2006-10-26 07:48:52
+title: "구글(Google) 검색, 가이드라인 수정"
+date: 2006-10-26 07:48:52 +0900
 categories: news
 tags: google search
 author: Samgu Lee
 ---
+
 오랫동안 변하지 않았던 구글 검색(Google Web Search)의 [가이드라인에 일부가 수정](http://googlewebmastercentral.blogspot.com/2006/10/update-to-our-webmaster-guidelines.html)되었습니다. 수정안에 따르면, 주소에 id 파라미터가 들어간 웹페이지도 검색에 포함된다고 합니다. 그 내용을 알아봅니다.
 
 구글 검색엔진은 다른 엔진과는 다른 몇가지 특징을 갖고 있는데, 그 중 하나가 주소(URL)에 id라는 파라미터를 갖고 있는 웹페이지는 보안 문제로 인해 검색대상에서 제외합니다.

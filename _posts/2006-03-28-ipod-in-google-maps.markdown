@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 맵스에 나타난 아이포드"
-date: 2006-03-27 15:25:09
+date: 2006-03-28 15:25:09 +0900
 categories: gossip
 tags: google
 author: Samgu Lee

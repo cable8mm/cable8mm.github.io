@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Google Earth의 이미지 메이져 업데이트"
-date: 2006-06-13 02:36:47
+date: 2006-06-13 02:36:47 +0900
 categories: service
 tags: google earth
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "태터엔컴패니, Tistory 1차 베타테스터 발표"
-date: 2006-05-25 02:12:00
+date: 2006-05-25 02:12:00 +0900
 categories: company
 tags: beta
 author: Samgu Lee

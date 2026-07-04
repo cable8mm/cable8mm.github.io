@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 워드프로세서로 티스토리 글올리기"
-date: 2007-02-28 08:57:18
+date: 2007-02-28 08:57:18 +0900
 categories: service
 tags: google wordprocessor tistory
 author: Samgu Lee

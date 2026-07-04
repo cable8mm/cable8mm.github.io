@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글(Google) 비디오, 광고 추가 카운트다운"
-date: 2006-08-09 05:02:32
+date: 2006-08-09 05:02:32 +0900
 categories: news
 tags: google video advertising
 author: Samgu Lee

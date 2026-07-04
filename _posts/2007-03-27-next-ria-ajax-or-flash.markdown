@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "차세대 RIA는 과연 Ajax가 될것인가?"
-date: 2007-03-27 09:34:42
+date: 2007-03-27 09:34:42 +0900
 categories: opinion
 tags: ria ajax development
 author: Samgu Lee

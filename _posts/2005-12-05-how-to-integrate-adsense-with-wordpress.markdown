@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "워드프레스에 애드센스를 삽입해보자."
-date:   2005-12-05 10:29:24
+title: "워드프레스에 애드센스를 삽입해보자."
+date: 2005-12-05 10:29:24 +0900
 categories: service
 tags: adsense wordpress
 author: Samgu Lee
 ---
+
 블로그에 [구글 애드센스](http://www.google.com/adsense)를 다는 것은 매우 쉽습니다. 하지만, 관리하는 것은 또다른 얘기가 되는데, 오픈소스로 개발되고 있는 [워드프레스](http://wordpress.org)의 플러그인 기능을 사용하면 매우 간편하게 애드센스를 적용할 수 있습니다.
 
 애드센스와 관련된 워드프레스 플러그인 중에서 가장 완성도가 높다고 생각되는 프로그램이 바로 [애드센스 딜럭스 워드프레스 플러그인(AdSense-Deluxe WordPress Plugin)](http://www.acmetech.com/blog/2005/07/26/adsense-deluxe-wordpress-plugin/)입니다.

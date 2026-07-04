@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "라라벨에서의 버전의 의미"
-date: 2020-05-05 17:31:00
+date: 2020-05-05 17:31:00 +0900
 categories: development
 tags: laravel
 author: Samgu Lee

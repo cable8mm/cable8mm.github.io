@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글이 강한 이유"
-date: 2006-11-20 01:57:37
+date: 2006-11-20 01:57:37 +0900
 categories: opinion
 tags: google
 author: Samgu Lee

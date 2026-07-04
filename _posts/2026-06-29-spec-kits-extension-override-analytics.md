@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Spec Kit Extension Override 분석"
-date: "2026-06-29 15:53:00"
+date: 2026-06-29 15:53:00 +0900
 categories: ai development
 tags: ai spec-kits replworks sdd
 author: Samgu Lee
@@ -21,7 +21,7 @@ header:
 
 ![Github's Spec Kit](/assets/images/github-spec-kit.png)
 
->An open source toolkit that allows you to focus on product scenarios and predictable outcomes instead of vibe coding every piece from scratch.
+> An open source toolkit that allows you to focus on product scenarios and predictable outcomes instead of vibe coding every piece from scratch.
 
 바이브 코딩을 정면으로 대치하는 오픈소스 툴킷이라고 자신을 소개하고 있습니다. 그리고 현재 Github Star가 11만 6천개에 달하고 있네요.
 
@@ -35,11 +35,11 @@ header:
 
 이번 분석과 관련하여 Spec Kit은 **서로 구분되는 세 가지 계층**으로 구성되어 있다.
 
-| 계층 | 위치 | 관리 주체 |
-|---|---|---|
-| **Core Command Templates** | `templates/commands/*.md` (원본) → `.specify/templates/commands/*.md` (프로젝트) | `shared_infra.py`를 통한 `specify init` |
-| **Agent Command Files** | `.claude/skills/speckit-*/SKILL.md`, `.gemini/commands/speckit.*.toml` 등 | `integrations/base.py`의 `setup()` 및 `agents.py`의 `register_commands()` |
-| **Extension Hooks** | `.specify/extensions.yml` | `extensions/__init__.py`의 `HookExecutor` |
+| 계층                       | 위치                                                                             | 관리 주체                                                                 |
+| -------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Core Command Templates** | `templates/commands/*.md` (원본) → `.specify/templates/commands/*.md` (프로젝트) | `shared_infra.py`를 통한 `specify init`                                   |
+| **Agent Command Files**    | `.claude/skills/speckit-*/SKILL.md`, `.gemini/commands/speckit.*.toml` 등        | `integrations/base.py`의 `setup()` 및 `agents.py`의 `register_commands()` |
+| **Extension Hooks**        | `.specify/extensions.yml`                                                        | `extensions/__init__.py`의 `HookExecutor`                                 |
 
 `/speckit.specify`, `/speckit.plan`, `/speckit.tasks`는 **Python 객체가 아니다.**
 
@@ -159,11 +159,11 @@ speckit.specify.*
 
 예시
 
-| Command | 가능 여부 |
-|---|---|
-| `speckit.replworks.specify` | ✅ 가능 |
-| `speckit.specify.anything` | ❌ 불가능 |
-| `speckit.specify` | ❌ 불가능 |
+| Command                     | 가능 여부 |
+| --------------------------- | --------- |
+| `speckit.replworks.specify` | ✅ 가능   |
+| `speckit.specify.anything`  | ❌ 불가능 |
+| `speckit.specify`           | ❌ 불가능 |
 
 ---
 
@@ -214,17 +214,17 @@ AI Prompt 안에 자연어 지시문을 삽입하는 방식이다.
 
 ### 지원되는 Hook
 
-| Command | Before | After |
-|---|---|---|
-| specify | before_specify | after_specify |
-| plan | before_plan | after_plan |
-| tasks | before_tasks | after_tasks |
-| clarify | before_clarify | after_clarify |
-| checklist | before_checklist | after_checklist |
-| analyze | before_analyze | after_analyze |
-| converge | before_converge | after_converge |
-| constitution | before_constitution | after_constitution |
-| implement | before_implement | after_implement |
+| Command       | Before               | After               |
+| ------------- | -------------------- | ------------------- |
+| specify       | before_specify       | after_specify       |
+| plan          | before_plan          | after_plan          |
+| tasks         | before_tasks         | after_tasks         |
+| clarify       | before_clarify       | after_clarify       |
+| checklist     | before_checklist     | after_checklist     |
+| analyze       | before_analyze       | after_analyze       |
+| converge      | before_converge      | after_converge      |
+| constitution  | before_constitution  | after_constitution  |
+| implement     | before_implement     | after_implement     |
 | taskstoissues | before_taskstoissues | after_taskstoissues |
 
 ---
@@ -408,13 +408,13 @@ Extension에는 일반적인 의미의 Lifecycle Hook가 존재하지 않는다.
 
 Lifecycle은 다음과 같다.
 
-| 단계 | 수행 방식 | Python 관여 |
-|---|---|---|
-| Install | `specify extension install` | 있음 |
-| Command 등록 | `register_commands_for_all_agents()` | 있음 |
-| Hook 등록 | `register_hooks()` | 있음 |
-| 실행 | AI가 YAML을 읽음 | 없음 |
-| 제거 | `specify extension remove` | 있음 |
+| 단계         | 수행 방식                            | Python 관여 |
+| ------------ | ------------------------------------ | ----------- |
+| Install      | `specify extension install`          | 있음        |
+| Command 등록 | `register_commands_for_all_agents()` | 있음        |
+| Hook 등록    | `register_hooks()`                   | 있음        |
+| 실행         | AI가 YAML을 읽음                     | 없음        |
+| 제거         | `specify extension remove`           | 있음        |
 
 즉
 
@@ -504,27 +504,27 @@ Extension
 
 # 8. REPL Works가 현실적으로 Override 가능한 것
 
-| 목표 | 방법 | 신뢰도 |
-|---|---|---|
-| specify 전에 REPL Works 실행 | before_specify Hook | 보통 |
-| specify 후 REPL Works 실행 | after_specify Hook | 보통 |
-| Prompt 앞에 REPL Works 추가 | Preset prepend | 높음 |
-| Prompt 뒤에 REPL Works 추가 | Preset append | 높음 |
-| Prompt 전체 교체 | Preset replace | 매우 높음 |
-| `/replworks.specify` 제공 | Extension Command | 매우 높음 |
-| Init 시 Prompt 변경 | `--preset` | 매우 높음 |
+| 목표                         | 방법                | 신뢰도    |
+| ---------------------------- | ------------------- | --------- |
+| specify 전에 REPL Works 실행 | before_specify Hook | 보통      |
+| specify 후 REPL Works 실행   | after_specify Hook  | 보통      |
+| Prompt 앞에 REPL Works 추가  | Preset prepend      | 높음      |
+| Prompt 뒤에 REPL Works 추가  | Preset append       | 높음      |
+| Prompt 전체 교체             | Preset replace      | 매우 높음 |
+| `/replworks.specify` 제공    | Extension Command   | 매우 높음 |
+| Init 시 Prompt 변경          | `--preset`          | 매우 높음 |
 
 ---
 
 # 9. REPL Works가 Override할 수 없는 것
 
-| 목표 | 이유 |
-|---|---|
-| `/speckit.specify` 이름 자체 교체 | Core Namespace 보호 |
-| Core Command 실행 시 Python 실행 | Callback 시스템 없음 |
-| Prompt를 Agent에 전달하기 직전 가로채기 | Interception Layer 없음 |
-| Extension만으로 Init 중 Override | on_init Hook 없음 |
-| Preset 설치 없이 Prompt Override | Preset은 명시적 설치 필요 |
+| 목표                                    | 이유                      |
+| --------------------------------------- | ------------------------- |
+| `/speckit.specify` 이름 자체 교체       | Core Namespace 보호       |
+| Core Command 실행 시 Python 실행        | Callback 시스템 없음      |
+| Prompt를 Agent에 전달하기 직전 가로채기 | Interception Layer 없음   |
+| Extension만으로 Init 중 Override        | on_init Hook 없음         |
+| Preset 설치 없이 Prompt Override        | Preset은 명시적 설치 필요 |
 
 ---
 
@@ -607,19 +607,19 @@ specify extension install /path/to/replworks-extension
 
 # Evidence Index
 
-| 내용 | 파일 | Lines |
-|---|---|---|
-| `CORE_COMMAND_NAMES` 정의 | `extensions/__init__.py` | L36-86 |
-| Extension Namespace 검증 | `extensions/__init__.py` | L706-761 |
-| Extension 충돌 검사 | `extensions/__init__.py` | L793-809 |
-| Hook 등록 | `extensions/__init__.py` | L3092-3193 |
-| Hook 메시지 생성 | `extensions/__init__.py` | L3362-3409 |
-| AI가 Hook 읽음 (before_specify) | `templates/commands/specify.md` | L22-54 |
-| AI가 Hook 읽음 (after_specify) | `templates/commands/specify.md` | L241-260 |
-| Init 시 Command 등록 | `commands/init.py` | L395-437 |
-| Extension에 on_init 없음 | `commands/init.py` | L510-539 |
-| Preset 전략 | `presets/__init__.py` | L116-118 |
-| prepend/append/wrap/replace 구현 | `presets/__init__.py` | L3239-3263 |
-| PresetResolver 우선순위 | `presets/__init__.py` | L2540-2748 |
-| Init 시 Template 복사 | `shared_infra.py` | L121-140 |
-| `register_commands()` | `agents.py` | L552-805 |
+| 내용                             | 파일                            | Lines      |
+| -------------------------------- | ------------------------------- | ---------- |
+| `CORE_COMMAND_NAMES` 정의        | `extensions/__init__.py`        | L36-86     |
+| Extension Namespace 검증         | `extensions/__init__.py`        | L706-761   |
+| Extension 충돌 검사              | `extensions/__init__.py`        | L793-809   |
+| Hook 등록                        | `extensions/__init__.py`        | L3092-3193 |
+| Hook 메시지 생성                 | `extensions/__init__.py`        | L3362-3409 |
+| AI가 Hook 읽음 (before_specify)  | `templates/commands/specify.md` | L22-54     |
+| AI가 Hook 읽음 (after_specify)   | `templates/commands/specify.md` | L241-260   |
+| Init 시 Command 등록             | `commands/init.py`              | L395-437   |
+| Extension에 on_init 없음         | `commands/init.py`              | L510-539   |
+| Preset 전략                      | `presets/__init__.py`           | L116-118   |
+| prepend/append/wrap/replace 구현 | `presets/__init__.py`           | L3239-3263 |
+| PresetResolver 우선순위          | `presets/__init__.py`           | L2540-2748 |
+| Init 시 Template 복사            | `shared_infra.py`               | L121-140   |
+| `register_commands()`            | `agents.py`                     | L552-805   |

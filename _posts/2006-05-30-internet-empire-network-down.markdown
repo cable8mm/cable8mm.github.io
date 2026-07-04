@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "유비다임(구 인터넷제국) 네트웍 전체 정지"
-date: 2006-05-30 03:32:05
+date: 2006-05-30 03:32:05 +0900
 categories: company
 tags: unidaim
 author: Samgu Lee

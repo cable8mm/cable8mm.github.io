@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "자바를 위한 툴킷, GWT 공개"
-date: 2006-05-18 05:39:42
+date: 2006-05-18 05:39:42 +0900
 categories: service
 tags: google gwt
 author: Samgu Lee

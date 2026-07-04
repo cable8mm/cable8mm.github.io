@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 블로거닷컴, 베타서비스 개시"
-date: 2006-08-15 08:14:54
+date: 2006-08-15 08:14:54 +0900
 categories: service
 tags: google blogger
 author: Samgu Lee

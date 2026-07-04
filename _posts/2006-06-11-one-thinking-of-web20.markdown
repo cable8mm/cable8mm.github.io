@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "웹 2.0시대를 여는 10가지 거대한 변화의 반론"
-date:   2006-06-11 20:26:00
+title: "웹 2.0시대를 여는 10가지 거대한 변화의 반론"
+date: 2006-06-11 20:26:00 +0900
 categories: opinion
 tags: web20
 author: Samgu Lee
 ---
+
 [doyoung님](http://kimdoyoung.blogspot.com/2006/06/20-10.html)은 Channy로 잘 알려진 윤석찬 팀장님의 웹 2.0의 개념을 정리한 10가지 변화를 잘 정리해 주셨습니다. 웹 2.0이라는 말만 나오면 우려되는 바이지만, 기술적인 내용을 너무 정치적으로 몰고 나아간다는 것 같습니다.
 
 이에 반론을 해 봅니다.

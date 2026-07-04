@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "최강의 검색엔진, 구글 웹 서치의 기본적인 구성"
-date:   2005-11-26 08:31:41
+title: "최강의 검색엔진, 구글 웹 서치의 기본적인 구성"
+date: 2005-11-26 08:31:41 +0900
 categories: service
 tags: search google
 author: Samgu Lee
 ---
+
 구글의 많은 서비스 중에서 가장 비중이 큰 것은 역시 구글 웹 서치일 것입니다. 이 글에서는 일반적인 구글의 지식을 알아봅니다.
 
 2005년 중반기 때 구글은 크롤러에게 사용자가 강제로 [URL을 알리는 프로그램](http://www.google.com/addurl/?continue=/addurl) 외에 구글 사이트맵이라는 서비스를 시작했습니다. 이로서 웹사이트를 소유하거나 관리하는 분들이 구글의 검색결과에 나오게 하는 방법은 강제적으로 구글 사이트맵을 이용하거나, 이미 서치되는 사이트에 링크가 걸리거나, 구글 웹 서치에 URL로 검색을 하는 방법 이렇게 세가지 방법이 있습니다. 구글 공식 웹사이트에서 쿼리를 넣는 방법은 제시되지 않지만, 어떤 웹사이트에도 링크되지 않는 사이트가 구글 웹 서치의 결과에 포함되어 나오는 것을 테스트를 통해서 알 수 있습니다.
@@ -35,13 +36,13 @@ author: Samgu Lee
 2. 스니핏을 제거하려면 문서의 태그에 헤더부분에 다음을 추가하세요.
 
 ```html
-<meta NAME="GOOGLEBOT" CONTENT="NOSNIPPET">
+<meta name="GOOGLEBOT" content="NOSNIPPET" />
 ```
 
 3. 캐쉬를 제거하려면 다음을 추가하세요.
 
 ```html
-<meta NAME="ROBOTS" CONTENT="NOARCHIVE">
+<meta name="ROBOTS" content="NOARCHIVE" />
 ```
 
 4. 긴급하게 문서를 삭제하려면 [Google의 자동 URL 제거 시스템](http://services.google.com:8882/urlconsole/controller) 링크를 이용하세요.

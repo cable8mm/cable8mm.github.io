@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글 나이트 해프닝"
-date:   2007-02-25 01:53:52
+title: "구글 나이트 해프닝"
+date: 2007-02-25 01:53:52 +0900
 categories: gossip
 tags: google night
 author: Samgu Lee
 ---
+
 구글 한국 블로그는 R&amp;D센터 설립과 맞물려서 과거과는 사뭇 다른 글을 보여주고 있다. 비교적 한국인으로서 초창기 구글러라고 할 수 있는 이준영(구글 엔지니어팀)은 공식 블로그를 통해, 한국 개발자들을 위해서 구글이 마련한 [구글 나이트(Google Night)](http://googlekoreablog.blogspot.com/2007/02/google-google-night.html)라는 행사를 소개하고 있다.
 
 구글 나이트에 참석하고 싶은 엔지니어는 이메일을 통해 참가 신청을 하면 되는데, 이메일 주소가 교체되는 상황이 발행한 것이다.

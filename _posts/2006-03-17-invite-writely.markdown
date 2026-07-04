@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글이 인수한 Writely, 초대장 신청하세요."
-date: 2006-03-17 02:37:23
+date: 2006-03-17 02:37:23 +0900
 categories: news
 tags: google
 author: Samgu Lee
@@ -24,7 +24,7 @@ header:
 > You can access the secure document called &#8216;MyNewDocument' from Pharbeson (초대장 보낸 분의 이메일) as:  
 > E-mail address: 제 이메일  
 > Password: **\*\*\***  
-> Click here to sign in and view the document: http://www.writely.com/Doc.aspx?id=******\*******
+> Click here to sign in and view the document: http://www.writely.com/Doc.aspx?id=******\**\*\*\***
 >
 > ---
 >

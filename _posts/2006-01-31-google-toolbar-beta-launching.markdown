@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 툴바 베타 새로운 버젼 발표"
-date: 2006-01-30 15:00:29
+date: 2006-01-31 15:00:29 +0900
 categories: service
 tags: google toolbar
 author: Samgu Lee

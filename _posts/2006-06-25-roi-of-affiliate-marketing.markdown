@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "제휴마케팅의 ROI"
-date: 2006-06-25 12:06:00
+date: 2006-06-25 12:06:00 +0900
 categories: opinion
 tags: affiliate roi
 author: Samgu Lee

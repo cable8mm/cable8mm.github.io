@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "기다렸다, 구글 프리젠테이션 자료 공식 배포"
-date: 2006-03-03 09:54:59
+date: 2006-03-03 09:54:59 +0900
 categories: news
 tags: google
 author: Samgu Lee

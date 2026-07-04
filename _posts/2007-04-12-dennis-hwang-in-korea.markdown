@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글의 웹마스터, 데니스 황 내한"
-date: 2007-04-11 15:13:42
+date: 2007-04-12 15:13:42 +0900
 categories: advertising
 tags: google
 author: Samgu Lee

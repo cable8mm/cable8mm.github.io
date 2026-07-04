@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 애드워즈(AdWords), 휴대폰 광고 포함"
-date: 2006-12-04 17:39:51
+date: 2006-12-05 17:39:51 +0900
 categories: advertising
 tags: google adwords
 author: Samgu Lee

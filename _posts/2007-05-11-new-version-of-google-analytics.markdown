@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 로그 분석기(Google Analytics), 새단장"
-date: 2007-05-11 02:29:09
+date: 2007-05-11 02:29:09 +0900
 categories: service
 tags: google analytics
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글(Google) 계정 인증 API 공개"
-date: 2006-06-29 04:47:53
+date: 2006-06-29 04:47:53 +0900
 categories: service
 tags: google
 author: Samgu Lee

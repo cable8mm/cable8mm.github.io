@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Yahoo!, 검열없는 비디오 검색 런칭"
-date: 2006-06-02 03:02:00
+date: 2006-06-02 03:02:00 +0900
 categories: news
 tags: yahoo
 author: Samgu Lee
