@@ -1,10 +1,9 @@
 {% comment %} {% endcomment %}
 {% if post.header.teaser %}
   {% assign teaser = post.header.teaser %}
-{% elsif post.og_image %}
-  {% assign teaser = post.og_image %}
+{% elsif post.header.og_image %}
+  {% assign teaser = post.header.og_image %}
 {% else %}
-  {% comment %} 본문에서 첫 번째 <img> 태그나 마크다운 이미지 경로를 추출 {% endcomment %}
   {% assign img_src = post.content | replace: '\"', '"' | split: '<img src="' %}
   {% if img_src.size > 1 %}
     {% assign teaser = img_src[1] | split: '"' | first %}
@@ -13,7 +12,7 @@
     {% if md_img_src.size > 1 %}
       {% assign teaser = md_img_src[1] | split: '](' | last | split: ')' | first | strip %}
     {% else %}
-      {% assign teaser = site.teaser %} {% comment %} 이미지가 아예 없을 때 보여줄 기본 디폴트 이미지 {% endcomment %}
+      {% assign teaser = site.teaser %}
     {% endif %}
   {% endif %}
 {% endif %}
