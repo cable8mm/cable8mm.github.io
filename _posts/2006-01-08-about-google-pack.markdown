@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글팩(Google Pack), 그 베일을 벗다"
-date: 2006-01-07 17:47:32
+date: 2006-01-08 17:47:32 +0900
 categories: service
 tags: google pack
 author: Samgu Lee

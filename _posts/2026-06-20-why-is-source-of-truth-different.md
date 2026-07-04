@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "창업자의 Source of Truth는 왜 사람마다 다를까?"
-date: "2026-06-20 16:25:00"
+date: 2026-06-20 16:25:00 +0900
 categories: ai
 tags: ai sot prd business metrics roadmap
 author: Samgu Lee
@@ -17,11 +17,11 @@ AI와 함께 서비스를 개발하고 운영하면서 깨달은 것이 하나 �
 
 많은 창업 관련 서적이나 투자자들은 스타트업을 시작할 때 다양한 문서를 준비하라고 이야기합니다.
 
-* PRD
-* BUSINESS.md
-* METRICS.md
-* EXECUTIVE_SUMMARY.md
-* ROADMAP.md
+- PRD
+- BUSINESS.md
+- METRICS.md
+- EXECUTIVE_SUMMARY.md
+- ROADMAP.md
 
 저 역시 처음에는 그렇게 믿었습니다.
 
@@ -209,10 +209,10 @@ AI 시대에 우리가 던져야 할 질문은,
 
 새로운 기능을 추가하려고 할 때, 여러분은 가장 먼저 어떤 문서를 열어보시나요?
 
-* Pitching Script
-* PRD
-* Architecture
-* Metrics Dashboard
+- Pitching Script
+- PRD
+- Architecture
+- Metrics Dashboard
 
 아마 그 문서가, 여러분의 진짜 Source of Truth일 가능성이 높습니다.
 

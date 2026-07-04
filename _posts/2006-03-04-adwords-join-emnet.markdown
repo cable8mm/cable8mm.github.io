@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 공식 리셀러, 무슨 의미가 있는가?"
-date: 2006-03-04 06:08:50
+date: 2006-03-04 06:08:50 +0900
 categories: opinion
 tags: google
 author: Samgu Lee

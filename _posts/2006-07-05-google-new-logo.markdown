@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글(Google) 독립기념일 로고로 본 중년의 데니스 황"
-date: 2006-07-04 19:15:03
+date: 2006-07-05 19:15:03 +0900
 categories: gossip
 tags: google
 author: Samgu Lee

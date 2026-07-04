@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글과 네이버, 누구의 손을 들어줄 것인가?"
-date:   2006-02-28 06:44:21
+title: "구글과 네이버, 누구의 손을 들어줄 것인가?"
+date: 2006-02-28 06:44:21 +0900
 categories: service
 tags: google naver
 author: Samgu Lee
 ---
+
 이 글은 구글과 네이버 과연 누가 승리할까라는 주제로 [엠톡에 기고한 컬럼](http://m-talk.inews24.com/php/news_view_mtalk.php?g_serial=188766)입니다. 독자의 나이층을 20대로 잡았구요, 약간은 쉽게 쓰려고 노력했습니다.
 
 팔글에서는 높임말이 원칙이지만, 잡지에 기고용이기 때문에 말을 낮추었습니다.

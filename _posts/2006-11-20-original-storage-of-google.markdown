@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글(Google)의 최초 컴퓨터 스토리지"
-date: 2006-11-19 16:21:10
+date: 2006-11-20 16:21:10 +0900
 categories: news
 tags: google
 author: Samgu Lee

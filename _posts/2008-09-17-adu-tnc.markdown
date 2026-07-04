@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "아듀~ TNC"
-date: 2008-09-17 07:42:46
+date: 2008-09-17 07:42:46 +0900
 categories: service
 tags: google tnc
 author: Samgu Lee

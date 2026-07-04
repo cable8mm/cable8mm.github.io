@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 메일(GMail)의 최대 용량"
-date: 2007-10-05 09:01:02
+date: 2007-10-05 09:01:02 +0900
 categories: service
 tags: gmail
 author: Samgu Lee

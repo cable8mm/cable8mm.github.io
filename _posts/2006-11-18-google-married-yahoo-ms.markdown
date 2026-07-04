@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글(Google), 야후, MS와의 두번째 결혼"
-date:   2006-11-18 06:44:43
+title: "구글(Google), 야후, MS와의 두번째 결혼"
+date: 2006-11-18 06:44:43 +0900
 categories: service
 tags: google yahoo microsoft
 author: Samgu Lee
 ---
+
 구글에서 처음 제안했던 사이트맵 프로토콜이 공식적으로 MS와 야후 검색엔진에서도 지원하게 되었다고 구글의 모든 채널([구글 프레스](http://www.google.com/press/pressrel/sitemapsorg.html), [구글 공식 블로그](http://googleblog.blogspot.com/2006/11/search-engines-united.html), [웹마스터 블로그](http://googlewebmastercentral.blogspot.com/2006/11/joint-support-for-sitemap-protocol.html))에 발표되었습니다.
 
 사이트맵 프로토콜을 이용하면, 웹사이트 정보를 검색엔진에만 의존하지 않고, 웹사이트 제작자가 일정한 양식(XML 형태)으로 제작하면 검색엔진은 여러가지 정보를 얻어서 더 쉽게 검색 결과를 보여줄 수 있게 됩니다.

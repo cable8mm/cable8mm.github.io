@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "내가 선택한 최고의 블로깅 플랫폼 Jekyll"
-date: 2024-02-26 14:32:00
+date: 2024-02-26 14:32:00 +0900
 categories: blog
 tags: opinion
 author: Samgu Lee

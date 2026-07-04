@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글(Google)과 MS 패러디"
-date:   2006-10-17 02:58:58
+title: "구글(Google)과 MS 패러디"
+date: 2006-10-17 02:58:58 +0900
 categories: gossip
 tags: google pagerank
 author: Samgu Lee
 ---
+
 MS의 케이스 디자인 패러디와 구글(Google)의 유투브(YouTube) 패러디를 묶어봤습니다. 역시 영향력이 막강한 회사라서 그런지, 패러디 영상의 완성도도 뛰어나군요.
 
 우선 MS에서 애플의 아이팟 케이스 디자인을 할 때를 가정한 패러디 영상을 보세요. 꼭 음악을 틀어놓는 센쓰가 필요합니다.

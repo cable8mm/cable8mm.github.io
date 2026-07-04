@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "네이버, Google Adsense처럼 문맥광고 시작하나?"
-date: 2006-05-22 22:46:00
+date: 2006-05-22 22:46:00 +0900
 categories: advertising
 tags: naver smartad
 author: Samgu Lee

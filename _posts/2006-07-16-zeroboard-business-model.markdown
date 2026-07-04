@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Yahoo!, 검열없는 비디오 검색 런칭"
-date: 2006-07-16 02:12:00
+date: 2006-07-16 02:12:00 +0900
 categories: opinion
 tags: zeroboard
 author: Samgu Lee

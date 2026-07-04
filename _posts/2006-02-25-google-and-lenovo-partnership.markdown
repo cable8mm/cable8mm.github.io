@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글의 두번째 선택, 팅크패드의 레노버"
-date: 2006-02-24 15:21:41
+date: 2006-02-25 15:21:41 +0900
 categories: service
 tags: google
 author: Samgu Lee

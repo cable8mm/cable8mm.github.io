@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Google Analytics 공식 블로그 오픈"
-date: 2006-06-17 01:46:34
+date: 2006-06-17 01:46:34 +0900
 categories: service
 tags: google analytics
 author: Samgu Lee

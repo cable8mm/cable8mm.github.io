@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "네이버 블로그, 외부 광고 현실화 될까"
-date: 2007-02-04 07:48:14
+date: 2007-02-04 07:48:14 +0900
 categories: advertising
 tags: naver blog advertising
 author: Samgu Lee

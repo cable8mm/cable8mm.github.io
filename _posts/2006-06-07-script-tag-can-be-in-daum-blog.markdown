@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "다음 블로그, script태그와 embed태그 가능"
-date: 2006-06-07 01:47:43
+date: 2006-06-07 01:47:43 +0900
 categories: news
 tags: daum
 author: Samgu Lee

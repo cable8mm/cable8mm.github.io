@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Github 소스 레포지토리에 API 도큐먼트를 깃헙 페이지에 만들기"
-date: 2024-04-28 13:54:00
+date: 2024-04-28 13:54:00 +0900
 categories: development
 tags: github pages gh-pages
 author: Samgu Lee

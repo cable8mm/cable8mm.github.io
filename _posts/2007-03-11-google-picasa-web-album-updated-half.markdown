@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 피카사 웹 앨범의 반쪽짜리 업데이트"
-date: 2007-03-11 06:21:58+00
+date: 2007-03-11 06:21:58+00 +0900
 categories: news
 tags: google picasa
 author: Samgu Lee

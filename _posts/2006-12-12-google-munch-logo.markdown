@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글의 뭉크 생일 로고"
-date: 2006-12-12 12:29:56
+date: 2006-12-12 12:29:56 +0900
 categories: gossip
 tags: google logo
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 랩스의 사라진 프로젝트들"
-date: 2006-04-04 08:12:14
+date: 2006-04-04 08:12:14 +0900
 categories: gossip
 tags: google
 author: Samgu Lee

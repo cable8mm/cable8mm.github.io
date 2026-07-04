@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 코드 리뉴얼"
-date: 2006-03-30 07:29:41
+date: 2006-03-30 07:29:41 +0900
 categories: service
 tags: google
 author: Samgu Lee

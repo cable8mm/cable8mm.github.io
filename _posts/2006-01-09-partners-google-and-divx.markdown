@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글 비디오, DivX와 손잡다"
-date:   2006-01-08 15:55:45
+title: "구글 비디오, DivX와 손잡다"
+date: 2006-01-09 15:55:45 +0900
 categories: service
 tags: google video divx
 author: Samgu Lee
 ---
+
 2006 International CES(Consumer Electronics Show)에서 구글과 DivX는 구글 비디오를 이용해서 소비자 가전이나 PMP와 같은 포터블 기기에 저장하고 재생할 수 있도록 한다는 파트너쉽을 발표했습니다.
 
 DIVX는 초창기 윈도우 미디어 파일을 오디오만 MP3로 해킹해서 만든 코덱을 말하지만, 현재는 비디오나 오디오를 압축하고 재생하는데 필요한 코덱을 처음부터 다시 만들어서 합법적으로 사업을 하고 있는 회사입니다.

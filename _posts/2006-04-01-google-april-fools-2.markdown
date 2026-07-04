@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글의 2006년 만우절 거짓말"
-date: 2006-04-01 04:20:57
+date: 2006-04-01 04:20:57 +0900
 categories: news
 tags: google
 author: Samgu Lee

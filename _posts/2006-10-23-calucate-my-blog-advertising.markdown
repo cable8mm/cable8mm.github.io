@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "내 블로그, 광고 유치하면 얼마를 받아야 하나?"
-date: 2006-10-23 01:43:12
+date: 2006-10-23 01:43:12 +0900
 categories: advertising
 tags: cpm
 author: Samgu Lee

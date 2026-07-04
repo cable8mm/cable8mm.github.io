@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Gradle의 버전"
-date: 2024-02-25 16:54:00
+date: 2024-02-25 16:54:00 +0900
 categories: development
 tags: gradle
 author: Samgu Lee

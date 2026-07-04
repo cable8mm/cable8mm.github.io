@@ -1,21 +1,22 @@
 ---
 layout: single
-title:  "MP3 라이센스, 무료가 아니다"
-date:   2005-01-28 14:28:00
+title: "MP3 라이센스, 무료가 아니다"
+date: 2005-01-28 14:28:00 +0900
 categories: opinion
 tags: mp3 law
 author: Samgu Lee
 ---
+
 우리가 알고 있는 MP3 포멧의 권리는 상업적인 용도에 사용될 경우 무료가 아닙니다. MP3는 현재 독일의 [호퍼연구소](http://www.iis.fraunhofer.de/)가 독점적 권리를 소유하고 있습니다.
 
 인코더/디코더는 다음과 같은 로열티를 지불해야 합니다.
 
-| 이용 형태      | 사례 | 라이센스 |
-| ----------- | ----------- | ----------- |
-| 소프트웨어      | 거원 오디오 프로 등       | http://www.mp3licensing.com/royalty/software.html |
-| 하드웨어   | 아이리버, 삼성 옙, 거원 아이오디오 등        | http://www.mp3licensing.com/royalty/hardware.html |
-| 게임   | 스타크레프트 등        | http://www.mp3licensing.com/royalty/games.html |
-| 음악 서비스(방송포함)   | SK 멜론, LGT의 MP3 서비스, 기타 MP3 스트리밍업체 모두        | http://www.mp3licensing.com/royalty/emd.html |
+| 이용 형태             | 사례                                                  | 라이센스                                          |
+| --------------------- | ----------------------------------------------------- | ------------------------------------------------- |
+| 소프트웨어            | 거원 오디오 프로 등                                   | http://www.mp3licensing.com/royalty/software.html |
+| 하드웨어              | 아이리버, 삼성 옙, 거원 아이오디오 등                 | http://www.mp3licensing.com/royalty/hardware.html |
+| 게임                  | 스타크레프트 등                                       | http://www.mp3licensing.com/royalty/games.html    |
+| 음악 서비스(방송포함) | SK 멜론, LGT의 MP3 서비스, 기타 MP3 스트리밍업체 모두 | http://www.mp3licensing.com/royalty/emd.html      |
 
 음악 서비스의 경우 다른 것들과는 틀리게 런닝게런티 입니다. 즉, 매출 대비 2.0 - 3.0%를 내야하죠. 더군다나 미니멈로열티가 있습니다. 2000 - 3000불. 년 매출이 10만불이 안될 경우 다른 조항이 있지만 10만불이라고 해봤자 1억 천만원정도.
 

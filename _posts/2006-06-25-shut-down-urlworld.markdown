@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "제휴마케팅의 ROI"
-date: 2006-06-25 17:23:00
+date: 2006-06-25 17:23:00 +0900
 categories: company
 tags: advertising
 author: Samgu Lee

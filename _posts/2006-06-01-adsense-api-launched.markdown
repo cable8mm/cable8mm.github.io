@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글, 애드센스(AdSense) API Beta 공개"
-date:   2006-05-31 16:00:37
+title: "구글, 애드센스(AdSense) API Beta 공개"
+date: 2006-06-01 16:00:37 +0900
 categories: service
 tags: google adsense api
 author: Samgu Lee
 ---
+
 Google의 핵심 비지니스인 인터넷 광고 프로그램 AdSense의 API가 드디어 베타의 이름으로 [공개](http://adsense.blogspot.com/2006/05/introducing-adsense-api-beta.html)되었습니다.
 
 AdSense의 공식 블로그인 Inside AdSense에 따르면 이번 API는 웹 개발자 혹은 웹사이트 주인을 위한 수익프로그램으로 블로그 툴을 제공하는 미디어 몹이나 엠파스 블로그 등의 블로거들에게 AdSense를 이용한 수익 프로그램을 제작할 수 있게 됩니다.

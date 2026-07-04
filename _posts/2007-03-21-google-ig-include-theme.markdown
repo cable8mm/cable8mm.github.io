@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 개인화 홈페이지, 테마 추가"
-date: 2007-03-21 05:25:37
+date: 2007-03-21 05:25:37 +0900
 categories: service
 tags: google igoogle
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "알려지지 않은 검색, Google 영화 검색"
-date: 2006-05-31 09:59:17
+date: 2006-05-31 09:59:17 +0900
 categories: opinion
 tags: google movie search
 author: Samgu Lee

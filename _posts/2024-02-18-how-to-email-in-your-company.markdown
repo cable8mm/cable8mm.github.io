@@ -1,13 +1,14 @@
 ---
 layout: single
-title:  "스타트업 초기에 유용한 이메일만으로 협업하기"
-date:   2024-02-18 10:40:00
+title: "스타트업 초기에 유용한 이메일만으로 협업하기"
+date: 2024-02-18 10:40:00 +0900
 categories: opinion
 tags: email team
 author: Samgu Lee
 header:
-    og_image: /assets/images/various_emails.png
+  og_image: /assets/images/various_emails.png
 ---
+
 스타트업을 만들고 운영하면 처음 만나는 문제가 바로 정보 관리입니다. 프로젝트와 관련된 문서를 어떻게 관리하고 업데이트하고 소통할 것인가의 문제는 20년 전 부터 해결되지 않는 문제 중 하나입니다.
 
 ![Various Emails]({{ page.header.og_image }})

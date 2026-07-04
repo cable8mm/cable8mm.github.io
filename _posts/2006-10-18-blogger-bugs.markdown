@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "또다시 구글 블로거(Google Blogger) 해킹"
-date: 2006-10-18 01:42:01
+date: 2006-10-18 01:42:01 +0900
 categories: news
 tags: google blogger
 author: Samgu Lee

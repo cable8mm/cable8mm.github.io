@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "코리안클릭의 보고서, 그리고 야후!"
-date: 2006-06-21 02:11:11
+date: 2006-06-21 02:11:11 +0900
 categories: opinion
 tags: service
 author: Samgu Lee

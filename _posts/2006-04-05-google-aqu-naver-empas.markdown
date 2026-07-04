@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글이 NHN을 인수? 엠파스도?"
-date:   2006-04-05 09:30:52
+title: "구글이 NHN을 인수? 엠파스도?"
+date: 2006-04-05 09:30:52 +0900
 categories: gossip
 tags: google
 author: Samgu Lee
 ---
+
 증권가를 시작으로 신문매체에까지 구글이 NHN을 인수할 의사가 있다는 기사가 발표되고 있습니다. 그 기사가 증폭되서 NHN보다는 엠파스가 가능성이 있다는 식으로 번져서 엠파스의 주가는 오늘 상한가를 치고 있습니다. 이 기사가 왜 나온 것일까요?
 
 로이터의 Eric Auchard 기자는 4일자 기사 "[Google shares rise 4 pct on results optimism](http://today.reuters.com/business/newsArticle.aspx?type=media&storyID=nN04230898)"에서 구글의 주가가 4%가 올랐기 때문에 그 돈을 어떻게 쓸지 여러 분석가들의 의견을 물어보았습니다. 이 기사에는 월 스트리트 분석가 Mark Stahlman, Hoefer & Arnett 분석가 Martin Pyykkonen, [Susquehanna의 분석가 Marianne Wolk](http://www.sig.com/research/coverage.html#er) 이렇게 세명의 짦은 코멘트가 나옵니다.
@@ -14,7 +15,7 @@ author: Samgu Lee
 
 > Susquehanna analyst Marianne Wolk said on Monday that Google **may** be looking to use some of the $10 billion in cash it will have on hand in the wake of the secondary offering to build up its presence in Asia.
 >
-> She **suggested** the Web search leader **may** want to take a stake or make an outright acquisition in Chinese online media company SINA (SINA.O: Quote, Profile, Research), or NHN (035420.KS: Quote, Profile, Research), the owner of Korean search site Naver. 
+> She **suggested** the Web search leader **may** want to take a stake or make an outright acquisition in Chinese online media company SINA (SINA.O: Quote, Profile, Research), or NHN (035420.KS: Quote, Profile, Research), the owner of Korean search site Naver.
 >
 > Marianne Wolk는 구글이 <del datetime="2006-04-06T02:02:41+00:00">10</del><ins datetime="2006-04-06T02:02:41+00:00">100</ins>억불이나 되는 현금을 몇 곳에는 쓸 것이고, 그 것은 아시아에 있는 SINA나 NHN이 될지도 모른다라고 했습니다. 이 코멘트를 미루어 볼 때 Marianne Wolk는 어떤 근거가 있어서 코멘트를 남긴 것은 아니고 분석가로서 말 그대로 예측을 한 것입니다. 분석가가 하는 일이 미래에 대한 예측이니까요.
 

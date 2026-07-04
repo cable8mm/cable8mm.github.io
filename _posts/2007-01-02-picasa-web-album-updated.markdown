@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "피카사 웹의 주목할만한 업데이트"
-date: 2007-01-01 17:51:33
+date: 2007-01-02 17:51:33 +0900
 categories: service
 tags: google picassa
 author: Samgu Lee

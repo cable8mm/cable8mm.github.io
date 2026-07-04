@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "AI Issue Publisher: AI와의 대화, 3초 만에 깃헙 이슈(Issue) 등록하는 방법"
-date: 2026-06-14 23:36:00
+date: 2026-06-14 23:36:00 +0900
 categories: development
 tags: ai-issue github issues ai development replworks
 author: Samgu Lee
@@ -25,9 +25,9 @@ AI와의 대화를 통해 만들어진 이슈를 내 계정이 아닌 다른 계
 
 이 도구의 핵심 철학은 아주 명확합니다. **"Author ≠ Publisher (작성자와 발행자는 다르다)"**
 
-* **AI**는 아이디어를 정교하게 작성하고,
-* **인간(개발자)**은 그 내용을 검토한 뒤,
-* 이걸 진짜 우리의 작업(Work)으로 만들지 **명시적으로 결정**하는 것이죠.
+- **AI**는 아이디어를 정교하게 작성하고,
+- **인간(개발자)**은 그 내용을 검토한 뒤,
+- 이걸 진짜 우리의 작업(Work)으로 만들지 **명시적으로 결정**하는 것이죠.
 
 AI가 자동으로 내 레포지토리에 이슈를 마구잡이로 생성하는 게 아니라, 내가 복사한 내용만 쏙 골라 깃헙 이슈로 깔끔하게 템플릿화해 줍니다.
 
@@ -94,6 +94,7 @@ AI가 아래와 같이 마크다운으로 답변을 줬다고 해봅시다.
 Current logs do not contain timestamps, making debugging difficult.
 
 ### Acceptance Criteria
+
 - Include UTC timestamps
 - Preserve current log format
 - Add tests
@@ -120,12 +121,12 @@ https://github.com/realworks/ai-issue/issues/42
 
 혹시 명령어를 실행했는데 막힌다면 아래 내용을 체크해 보세요.
 
-* **Repository could not be determined**
-  * 👉 해당 커맨드는 반드시 **Git 레포지토리 내부(로컬 저장소 폴더 안)**에서 실행해야 합니다. 툴이 자동으로 현재 Git origin 주소를 읽어서 깃헙에 올리기 때문입니다.
-* **Clipboard is empty**
-  * 👉 커맨드를 치기 전에 AI 대화 내용을 먼저 복사했는지 확인해 주세요!
-* **Resource not accessible by personal access token**
-  * 👉 깃헙 토큰 권한 문제일 확률이 높습니다. Fine-grained PAT를 썼는지, Issues Read/Write 권한을 줬는지, 토큰 만료일이 366일 이하인지 다시 확인해 보세요.
+- **Repository could not be determined**
+  - 👉 해당 커맨드는 반드시 **Git 레포지토리 내부(로컬 저장소 폴더 안)**에서 실행해야 합니다. 툴이 자동으로 현재 Git origin 주소를 읽어서 깃헙에 올리기 때문입니다.
+- **Clipboard is empty**
+  - 👉 커맨드를 치기 전에 AI 대화 내용을 먼저 복사했는지 확인해 주세요!
+- **Resource not accessible by personal access token**
+  - 👉 깃헙 토큰 권한 문제일 확률이 높습니다. Fine-grained PAT를 썼는지, Issues Read/Write 권한을 줬는지, 토큰 만료일이 366일 이하인지 다시 확인해 보세요.
 
 정 안 된다 싶을 때는 만능 진단 명령어인 `ai-issue diagnose`를 쳐보면 툴이 알아서 어디가 문제인지 콕 집어 줍니다.
 

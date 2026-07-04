@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 애드센스 API와 티스토리"
-date: 2012-06-07 11:39:00
+date: 2012-06-07 11:39:00 +0900
 categories: opinion
 tags: adsense development
 author: Samgu Lee

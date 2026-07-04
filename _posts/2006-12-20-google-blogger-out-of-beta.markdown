@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 블로거, 베타 딱지 떼다"
-date: 2006-12-20 02:57:55
+date: 2006-12-20 02:57:55 +0900
 categories: service
 tags: google blogger
 author: Samgu Lee

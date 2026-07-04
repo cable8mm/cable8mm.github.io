@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "나는 왜 Google이 좋은가? II"
-date: 2006-02-09 03:12:34
+date: 2006-02-09 03:12:34 +0900
 categories: opinion
 tags: google
 author: Samgu Lee

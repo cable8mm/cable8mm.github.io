@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "라이틀리(Writely) 블로그의 재치"
-date:   2006-10-10 18:15:13
+title: "라이틀리(Writely) 블로그의 재치"
+date: 2006-10-11 18:15:13 +0900
 categories: gossip
 tags: google writely
 author: Samgu Lee
 ---
+
 라이틀리(Writely)는 공식 블로그를 통해서 태평양 표준시(PST)로 10일 오후 9시에 시스템 점검을 알렸습니다. 애드센스와 애드워즈는 이런 공지가 자주 올라오는 편이지만, 이번 공지는 다음과 같이 공지하고 있습니다.
 
 [라이틀리 블로그](http://writely.blogspot.com/2006/10/scheduled-maintenance-for-october-10th.html) 인용:

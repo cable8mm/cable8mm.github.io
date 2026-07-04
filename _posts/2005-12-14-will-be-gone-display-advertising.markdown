@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "배너 광고는 사라질 것인가?"
-date: 2005-12-14 18:23:00
+date: 2005-12-14 18:23:00 +0900
 categories: opinion
 tags: web advertising
 author: Samgu Lee

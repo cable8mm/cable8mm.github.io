@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "웹사이트에 동영상 삽입하기"
-date:   2006-01-15 15:05:00
+title: "웹사이트에 동영상 삽입하기"
+date: 2006-01-15 15:05:00 +0900
 categories: opinion
 tags: video upload
 author: Samgu Lee
 ---
+
 웹사이트에 동영상을 올리는 방법은 매우 간단합니다. 문제가 되는 것은 동영상 파일이 인터넷에 연결된 어떤 서버에 업로드 되어 있어야 한다는 점입니다.
 
 일반적으로 인터넷 공간을 이용하기 위해서는 돈을 지불해야 합니다. 무료로 공간을 제공하는 업체가 있지만, 동영상을 올릴 정도의 공간은 만들어 주지 않고, 설사 공간을 제공한다고 해도 자신의 웹사이트에 올리지 못하게 하는 경우도 많습니다.
@@ -47,5 +48,9 @@ showcontrols=0>
 ```
 
 ```html
-<a href="http://servername/path/your-file.asx" mce_href="http://servername/path/your-file.asx">Start the streaming media presentation in the stand-alone Player.</a>
+<a
+  href="http://servername/path/your-file.asx"
+  mce_href="http://servername/path/your-file.asx"
+  >Start the streaming media presentation in the stand-alone Player.</a
+>
 ```

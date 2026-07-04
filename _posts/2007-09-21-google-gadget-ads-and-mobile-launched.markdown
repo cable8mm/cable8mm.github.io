@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 가젯 광고 론칭과 모바일용 애드센스 추가"
-date: 2007-09-21 01:50:15
+date: 2007-09-21 01:50:15 +0900
 categories: service
 tags: google adsense
 author: Samgu Lee
@@ -30,14 +30,14 @@ _IG_RegisterOnloadHandler(function () {
   _gel("mainTbl").style.background =
     "transparent url(" +
     _IG_GetImageUrl(
-      "http://www.labpixies.com/gadgads/adsense/images/background.gif"
+      "http://www.labpixies.com/gadgads/adsense/images/background.gif",
     ) +
     ") 0px 0px no-repeat";
   _gel("logo").src = _IG_GetImageUrl(
-    "http://www.labpixies.com/gadgads/adsense/images/logo.jpg"
+    "http://www.labpixies.com/gadgads/adsense/images/logo.jpg",
   );
   _gel("splashText").src = _IG_GetImageUrl(
-    "http://www.labpixies.com/gadgads/adsense/images/ad0.gif"
+    "http://www.labpixies.com/gadgads/adsense/images/ad0.gif",
   );
 });
 ```

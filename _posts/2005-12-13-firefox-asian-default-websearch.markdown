@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "야후, 파이어폭스 아시아 지역의 디폴트 서치엔진으로 선정"
-date:   2005-12-13 05:06:08
+title: "야후, 파이어폭스 아시아 지역의 디폴트 서치엔진으로 선정"
+date: 2005-12-13 05:06:08 +0900
 categories: advertising
 tags: advertising
 author: Samgu Lee
 ---
+
 [모질라재단](http://www.mozilla.com/)은 [파이어폭스 1.5의 런칭](http://www.mozilla.com/firefox/)에 발맞추어서 아시아 4개국 - 한국, 중국, 일본 그리고 대만의 검색엔진 제휴를 구글에서 야후 웹서치로 바꾸었습니다.
 
 야후!의 부사장 겸 CTO인 Farzad Nazem는 이렇게 말했습니다.

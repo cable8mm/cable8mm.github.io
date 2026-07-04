@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "라라벨 Herd 설치 후 Xdebug 에러 수정하는 법"
-date: 2024-03-01 14:42:00
+date: 2024-03-01 14:42:00 +0900
 categories: development
 tags: tips laravel herd xdebug
 author: Samgu Lee

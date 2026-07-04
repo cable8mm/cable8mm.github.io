@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "개발자 데이로 보는 구글의 미션"
-date: 2007-06-01 09:43:54
+date: 2007-06-01 09:43:54 +0900
 categories: opinion
 tags: google
 author: Samgu Lee

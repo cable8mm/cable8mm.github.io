@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글 나이트, 3월 개최 확정"
-date:   2007-03-05 03:25:43
+title: "구글 나이트, 3월 개최 확정"
+date: 2007-03-05 03:25:43 +0900
 categories: service
 tags: google night
 author: Samgu Lee
 ---
+
 구글 나이트(Google Night)에 대한 공지성 글이 구글 한국 공식 블로그에 올라온 이후로 [메일 주소의 오류]({% post_url 2007-02-25-google-night-happening %})로 어떻게 진행되는지 혼란스러울 수 있을 것 같다. 널리 알려지진 않았지만, 이미 구글은 비공개 구글 나이트를 개최한 적인 있다고 한다.
 
 snaiper님은 자신의 [블로그](http://snaiper.tistory.com/212)를 통해서 Google Night with Kannan Pashupathy 행사에 참여했다고 알려왔으며, 구글이 이 행사로 원했던 부분을 다음과 같이 알려주었다.

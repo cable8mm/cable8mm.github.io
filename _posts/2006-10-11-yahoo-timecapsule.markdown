@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "난 구글과 달라, 야후의 타임캡슐 프로젝트"
-date: 2006-10-10 17:58:44
+date: 2006-10-11 17:58:44 +0900
 categories: service
 tags: yahoo
 author: Samgu Lee

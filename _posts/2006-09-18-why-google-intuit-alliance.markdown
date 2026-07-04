@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글, 인튜이트(Intuit)와 협력하는 이유"
-date: 2006-09-18 09:43:15
+date: 2006-09-18 09:43:15 +0900
 categories: opinion
 tags: google adsense
 author: Samgu Lee

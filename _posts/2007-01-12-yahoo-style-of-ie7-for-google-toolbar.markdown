@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글이 만드는 야후 스타일의 디자인"
-date: 2007-01-12 05:16:45
+date: 2007-01-12 05:16:45 +0900
 categories: gossip
 tags: google yahoo
 author: Samgu Lee

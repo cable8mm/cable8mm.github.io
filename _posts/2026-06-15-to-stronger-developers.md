@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "24시간 브라우저 탭을 40개 켜고 달리는 개발자들에게 (feat. 세션 관리법)"
-date: 2026-06-15 13:56:00
+date: 2026-06-15 13:56:00 +0900
 categories: development opinion
 tags: context-switching developers
 author: Samgu Lee

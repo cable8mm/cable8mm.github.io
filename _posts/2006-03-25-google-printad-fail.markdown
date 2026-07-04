@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 인쇄물 광고 실패하나?"
-date: 2006-03-24 16:10:26
+date: 2006-03-25 16:10:26 +0900
 categories: opinion
 tags: google
 author: Samgu Lee

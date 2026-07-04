@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 패키지(Google Pack), 스카이프(Skype) 추가"
-date: 2006-11-16 02:06:16
+date: 2006-11-16 02:06:16 +0900
 categories: service
 tags: google pack skype
 author: Samgu Lee

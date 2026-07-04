@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글(Google) 블로그, 개밥(Dogfood) 먹기"
-date: 2006-10-26 05:12:36
+date: 2006-10-26 05:12:36 +0900
 categories: gossip
 tags: google blog
 author: Samgu Lee

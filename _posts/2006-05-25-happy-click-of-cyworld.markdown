@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "싸이월드의 해피클릭에 대한 싸이월드 코멘트"
-date: 2006-05-25 08:12:23
+date: 2006-05-25 08:12:23 +0900
 categories: advertising
 tags: cyworld
 author: Samgu Lee

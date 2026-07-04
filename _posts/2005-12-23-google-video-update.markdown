@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글 비디오 지난 몇달간의 변화"
-date:   2005-12-23 12:59:43
+title: "구글 비디오 지난 몇달간의 변화"
+date: 2005-12-23 12:59:43 +0900
 categories: service
 tags: google video
 author: Samgu Lee
 ---
+
 [구글 비디오](http://video.google.com/)는 구글의 모든 서비스 중 가장 업데이트가 늦게 진행되고 있는 프로젝트입니다. 현재까지 베타서비스 중이지만, 오늘 날짜로 구글 비디오 업로더를 사용하는 유저들에게 단체메일을 보내서 진행상황을 알려주는 친절함을 보이고 있는데 그 내용을 정리합니다.
 
 여러 인터넷 서비스기업이 동영상 검색을 나름대로 구현하고 있습니다. 야후!는 RSS에 추가적인 속성을 추가하고 [CCL 라이센스와도 호환이 가능한 MRSS](http://search.yahoo.com/mrss)라는 XML 포멧을 만들어서 사용자가 직적 [야후! 동영상 검색에 등록](http://search.yahoo.com/mrss/submit)하여 검색결과를 보여주는 서비스를 제공하고 있습니다. 한국 야후는 개인에게 일정한 공간을 부여하여 다소 폐쇄적인 동영상 서비스를 제공하고 있는데 그것은 구글의 그것과 비슷한 맥락입니다.
@@ -30,6 +31,6 @@ author: Samgu Lee
 구글이 자사의 홍보를 하는 경우는 그다지 볼 기회가 많지 않았지만, 메일이라서 그런지 이런 문구가 눈에 띄네요.
 
 > We encourage you to upload more of your great content as Google Video continues
-to launch new innovative functionality. The best is yet to come!
+> to launch new innovative functionality. The best is yet to come!
 
 최고의 온라인 유통 플랫폼을 구글 비디오에 기대해 봅니다.

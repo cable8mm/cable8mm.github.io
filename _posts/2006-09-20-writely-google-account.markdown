@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "라이틀리(Writely), 구글 계정에 통합"
-date:   2006-09-20 02:45:35
+title: "라이틀리(Writely), 구글 계정에 통합"
+date: 2006-09-20 02:45:35 +0900
 categories: service
 tags: google writely
 author: Samgu Lee
 ---
+
 구글이 인수한 웹 워드프로세서 라이틀리(Writely)의 계정이 구글계정으로 통합되었습니다. 라이틀리는 9월 20일 메일링을 통해 기존의 암호를 쓸 수 없고, 구글계정의 암호를 사용해야 한다고 공지했습니다. 아직 [라이틀리 공식 블로그](http://writely.blogspot.com/)에는 포스팅되지 않았네요.
 
 라이틀리 공지 인용:

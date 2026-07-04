@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 페이지, 복수 주소 설정 가능"
-date: 2006-09-25 02:29:18
+date: 2006-09-25 02:29:18 +0900
 categories: service
 tags: google page
 author: Samgu Lee

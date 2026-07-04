@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 비디오 검색바, 업데이트"
-date: 2007-03-13 09:10:42
+date: 2007-03-13 09:10:42 +0900
 categories: service
 tags: google video search
 author: Samgu Lee

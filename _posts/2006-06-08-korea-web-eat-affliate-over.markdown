@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "한국 쇼핑몰, 제휴마케팅에 너무 욕심낸다."
-date: 2006-06-08 11:54:00
+date: 2006-06-08 11:54:00 +0900
 categories: opinion
 tags: advertising affiliate
 author: Samgu Lee

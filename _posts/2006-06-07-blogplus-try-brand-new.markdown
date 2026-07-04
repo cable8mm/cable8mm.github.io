@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "블로그플러스 새로운 시도"
-date: 2006-06-07 01:12:03
+date: 2006-06-07 01:12:03 +0900
 categories: advertising
 tags: blogplus
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "네이버, 이젠 독점이 문제"
-date: 2006-06-02 02:29:58
+date: 2006-06-02 02:29:58 +0900
 categories: opinion
 tags: naver
 author: Samgu Lee

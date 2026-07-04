@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 베이스 커넥터(Google Base Connector) 런칭"
-date: 2006-10-03 06:40:35
+date: 2006-10-03 06:40:35 +0900
 categories: service
 tags: google
 author: Samgu Lee

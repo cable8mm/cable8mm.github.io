@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 앱스(Google Apps for your domain)"
-date: 2006-08-29 14:41:55
+date: 2006-08-29 14:41:55 +0900
 categories: service
 tags: google apps
 author: Samgu Lee
@@ -9,7 +9,7 @@ author: Samgu Lee
 
 구글의 공식적인 보도자료 배포처인 구글 프레스(Google Press)에서 모처럼 두가지 소식을 알려왔습니다. 이베이와의 제휴 소식과 구글 앱스 소식입니다. 그 중 구글 앱스에 대해서 자세히 알아보겠습니다.
 
-구글 앱스의 정식 명칭은 Google Apps for your domain http://www.google.com/a/ 입니다. 풀이하자면 내 도메인을 사용한 구글 어플리케이션들이라는 말이 됩니다. 구글 서비스를 자사의 도메인으로 사용한다는 것인데, 새로운 것도 있고 새롭지 않은 것도 있습니다.
+구글 앱스의 정식 명칭은 Google Apps for your domain <http://www.google.com/a/> 입니다. 풀이하자면 내 도메인을 사용한 구글 어플리케이션들이라는 말이 됩니다. 구글 서비스를 자사의 도메인으로 사용한다는 것인데, 새로운 것도 있고 새롭지 않은 것도 있습니다.
 
 ## 새롭지 않은 것
 

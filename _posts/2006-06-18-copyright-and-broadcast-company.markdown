@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "방송사엔 한없이 약해지는 저작권"
-date: 2006-06-18 01:09:34
+date: 2006-06-18 01:09:34 +0900
 categories: opinion
 tags: law
 author: Samgu Lee

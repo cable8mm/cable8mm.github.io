@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "config에 AI 모델명이 사라졌다? Laravel AI SDK 완벽 활용기 (Gemma 연동부터 모델 분리 팁까지)"
-date: "2026-06-17 23:59:00"
+date: 2026-06-17 23:59:00 +0900
 categories: development opinion replworks
 tags: laravel php ai gemini gemma
 author: Samgu Lee
@@ -15,7 +15,7 @@ header:
 
 ![Laravel AI SDK 설정](/assets/images/laravel-config-ai.png)
 
-> *"어라? 기본 프로바이더(openai, gemini...)는 지정되어 있는데, 정작 중요한 '모델 이름(gpt-4o나 gemini-2.5-flash 같은)'은 어디서 설정하지?"*
+> _"어라? 기본 프로바이더(openai, gemini...)는 지정되어 있는데, 정작 중요한 '모델 이름(gpt-4o나 gemini-2.5-flash 같은)'은 어디서 설정하지?"_
 
 오늘은 이 미스터리(?)한 설정 원리와 함께, 실무에서 필수적인 **멀티 모델 분리 전략(텍스트용/이미지용)**, 그리고 요즘 핫한 오픈소스 모델인 **Gemma(젠마) 활용법**까지 깔끔하게 정리해 드리겠습니다.
 
@@ -93,7 +93,7 @@ use Laravel\Ai\Enums\Lab;
 
 #[Provider(Lab::Gemini)]
 #[Model('gemini-2.5-pro')] // 👈 이 에이전트는 config 설정을 무시하고 무조건 Pro를 씁니다.
-class ComplexReasoner implements Agent 
+class ComplexReasoner implements Agent
 {
     use Promptable;
     // ...

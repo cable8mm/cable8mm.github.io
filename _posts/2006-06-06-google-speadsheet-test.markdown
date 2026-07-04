@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Google판 엑셀, 추천 개시"
-date: 2006-06-06 03:42:59
+date: 2006-06-06 03:42:59 +0900
 categories: service
 tags: google referrer
 author: Samgu Lee

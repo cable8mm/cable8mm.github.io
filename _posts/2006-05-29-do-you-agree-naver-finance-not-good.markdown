@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "네이버의 수익구조가 불안하다고?"
-date: 2006-05-29 02:02:05
+date: 2006-05-29 02:02:05 +0900
 categories: company
 tags: naver
 author: Samgu Lee

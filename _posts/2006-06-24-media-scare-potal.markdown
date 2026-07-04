@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "포탈 앞에서만 서면 작아지는 언론"
-date: 2006-06-23 12:06:00
+date: 2006-06-24 12:06:00 +0900
 categories: opinion
 tags: blog marketing
 author: Samgu Lee

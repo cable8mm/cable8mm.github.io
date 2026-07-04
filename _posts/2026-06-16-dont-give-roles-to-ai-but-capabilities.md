@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "AI에게 직책(Role)을 주지 말고, 능력(Capability)을 요구하라"
-date: "2026-06-16 21:00:00"
+date: 2026-06-16 21:00:00 +0900
 categories: development opinion replworks
 tags: AI LLM PromptEngineering AIWorkflow AIAgents SoftwareEngineering ProductDevelopment TechBlog Startup
 author: Samgu Lee
@@ -15,11 +15,11 @@ header:
 
 처음 목표는 단순했습니다. AI가 중간에 길을 잃지 않고 프로젝트를 끝까지 완성할 수 있도록 **컨텍스트(Context)를 유지하고, 워크플로우를 표준화하는 시스템**을 만드는 것이었죠. 이를 위해 프로젝트의 뼈대가 될 여러 마크다운 문서들을 정의하기 시작했습니다.
 
-* `PRODUCT_SPEC.md`
-* `FRAMEWORK.md`
-* `TASKS.md`
-* `AGENTS.md`
-* `AI_MEMORY.md`
+- `PRODUCT_SPEC.md`
+- `FRAMEWORK.md`
+- `TASKS.md`
+- `AGENTS.md`
+- `AI_MEMORY.md`
 
 당시의 저는 Cursor, Claude Code, OpenAI Codex 기반의 여러 오픈소스들이 그러하듯, 자연스럽게 **'Agent 중심'**의 아키텍처를 그리고 있었습니다.
 
@@ -35,9 +35,9 @@ agents/
 
 생각해보면 사람은 '역할(Role)'이 필요합니다. 한정된 시간과 에너지를 가진 인간은 전문성을 극대화하기 위해 조직을 나눕니다.
 
-* **PM**은 요구사항을 정리하고,
-* **디자이너**는 UI/UX를 설계하며,
-* **개발자**는 서버와 클라이언트를 구현합니다.
+- **PM**은 요구사항을 정리하고,
+- **디자이너**는 UI/UX를 설계하며,
+- **개발자**는 서버와 클라이언트를 구현합니다.
 
 인간 사회에서는 매우 효율적인 이 조직도가, 과연 AI에게도 정답일까요?
 
@@ -66,6 +66,7 @@ ReplWorks의 코어 기능을 설계하며 깨달음은 더 명확해졌습니�
 ```markdown
 Plaintext
 Identify:
+
 - missing requirements (누락된 요구사항)
 - ambiguous requirements (모호한 요구사항)
 - conflicting requirements (충돌하는 요구사항)
@@ -84,6 +85,7 @@ Identify:
 
 ```markdown
 Capabilities:
+
 - requirement analysis (요구사항 분석)
 - implementation planning (구현 계획 수립)
 - ambiguity detection (모호성 탐지)
@@ -121,9 +123,9 @@ LLM을 프로덕션 레벨에서 다룰 때 중요한 질문은 *"어떤 힙한 
 
 앞으로 제가 작성할 프롬프트는 이렇게 바뀔 것 같습니다.
 
-* ❌ "너는 시니어 디자이너야."
-* ⭕ **"Focus on: information hierarchy, usability, accessibility, conversion"**
-* ❌ "너는 시니어 엔지니어야."
-* ⭕ **"Review for: implementation ambiguity, missing requirements, conflicting requirements"**
+- ❌ "너는 시니어 디자이너야."
+- ⭕ **"Focus on: information hierarchy, usability, accessibility, conversion"**
+- ❌ "너는 시니어 엔지니어야."
+- ⭕ **"Review for: implementation ambiguity, missing requirements, conflicting requirements"**
 
 페르소나라는 모호한 가면을 씌우는 대신, 기대하는 능력을 명확하고 날카롭게 요구하는 것. ReplWorks를 빌딩하며 얻은 가장 값진 레슨입니다.

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "AI는 왜 자꾸 Root에 파일을 만들까: AI 시대의 시니어 개발자가 가져야 할 새로운 철학"
-date: 2026-06-15 16:30:00
+date: 2026-06-15 16:30:00 +0900
 categories: development opinion
 tags: ai  developers
 author: Samgu Lee
@@ -52,6 +52,7 @@ AI는 수천 개의 학습 데이터 속에 있는 수많은 패턴을 가지고
 
 ```markdown
 # FORBIDDEN_DIRECTORIES
+
 - features (사용 금지)
 - shared (사용 금지)
 - services (사용 금지)
@@ -104,12 +105,12 @@ AI는 대화가 길어지면 이전의 합의를 잊습니다. 이미 구현된 
 
 이 문서의 이름은 `FRAMEWORK.md` 라고 AI는 이름을 지어주었고, 아래 프레임워크 별로 미리 제작해 두었습니다.
 
-* ASTRO.md
-* FASTAPI.md
-* GOLANG.md
-* NEXTJS.md
-* REACT_VITE.md
-* VANILLA.md
+- ASTRO.md
+- FASTAPI.md
+- GOLANG.md
+- NEXTJS.md
+- REACT_VITE.md
+- VANILLA.md
 
 프로젝트가 시작되면 [해당 문서](https://github.com/replworks/documents/tree/main/frameworks)를 `FRAMEWORK.md`로 바꾸어서 `root` 폴더에 복사합니다.
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Google, 드디어 SketchUp 무료화"
-date: 2006-04-27 07:25:44
+date: 2006-04-27 07:25:44 +0900
 categories: news
 tags: google sketchup
 author: Samgu Lee

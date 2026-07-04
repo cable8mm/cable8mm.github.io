@@ -1,13 +1,14 @@
 ---
 layout: single
-title:  "개발자가 알아야 하는 기본(Essentials) 지식들"
-date:   2024-02-22 10:07:00
+title: "개발자가 알아야 하는 기본(Essentials) 지식들"
+date: 2024-02-22 10:07:00 +0900
 categories: opinion
 tags: development
 author: Samgu Lee
 header:
-    og_image: /assets/images/untitlsssssed.png
+  og_image: /assets/images/untitlsssssed.png
 ---
+
 많은 회사들이 특유의 개발 문화와 원칙을 만들어 갑니다. 사내 혹은 그룹도 마찬가지이며, 개발자로서 꼭 가지고 있어야 하는 기술 소양을 설명합니다.
 
 ![Various Stacks]({{ page.header.og_image }})

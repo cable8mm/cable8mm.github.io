@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "포탈을 신문법 테두리로 넣는 것은 가능한가?"
-date: 2006-06-17 23:32:12
+date: 2006-06-17 23:32:12 +0900
 categories: opinion
 tags: law
 author: Samgu Lee

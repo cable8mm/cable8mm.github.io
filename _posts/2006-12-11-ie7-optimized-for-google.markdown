@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글에 최적화된 IE7"
-date: 2006-12-11 14:22:41
+date: 2006-12-11 14:22:41 +0900
 categories: service
 tags: google browser
 author: Samgu Lee

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글의 2006년 만우절, 어떤 일이 일어날까?"
-date: 2006-03-30 03:15:34
+date: 2006-03-30 03:15:34 +0900
 categories: gossip
 tags: google
 author: Samgu Lee

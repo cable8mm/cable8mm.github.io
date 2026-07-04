@@ -1,13 +1,14 @@
 ---
 layout: single
-title:  "구글 도서검색에 구글 맵 기능 추가"
-date:   2017-01-27 08:11:40
+title: "구글 도서검색에 구글 맵 기능 추가"
+date: 2017-01-27 08:11:40 +0900
 categories: service
 tags: google search
 author: Samgu Lee
 header:
-    og_image: /assets/mashup-book-search-and-maps.jpg
+  og_image: /assets/mashup-book-search-and-maps.jpg
 ---
+
 검색엔진 진화의 마지막 모습은 무엇일까? 구글 도서검색은 검색엔진의 미래 모습을 옅볼 수 있게 해준다.
 
 최근 구글은 [공식 블로그](http://booksearch.blogspot.com/2007/01/books-mapped.html)를 통해서 도서 검색에 구글 지도가 삽입되었다는 사실을 알렸는데, 이 기능이 깜찍하다. 길게 글로 설명하는 것 보다는 그림을 참고하는 것이 이해가 빠를 것이다. 우선 아래의 그림을 보도록 하자.

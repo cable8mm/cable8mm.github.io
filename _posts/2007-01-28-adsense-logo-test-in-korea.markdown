@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "한국에서도 애드센스 효과 테스트"
-date: 2007-01-28 07:54:53
+date: 2007-01-28 07:54:53 +0900
 categories: advertising
 tags: google adsense
 author: Samgu Lee

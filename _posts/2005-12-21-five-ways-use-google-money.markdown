@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글로 돈 버는 다섯가지 방법"
-date: 2005-12-21 05:28:10
+date: 2005-12-21 05:28:10 +0900
 categories: advertising
 tags: google adsense
 author: Samgu Lee

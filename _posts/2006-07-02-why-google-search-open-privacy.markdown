@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글(Google)로 개인정보가 유출되는 이유"
-date:   2006-07-02 01:36:45
+title: "구글(Google)로 개인정보가 유출되는 이유"
+date: 2006-07-02 01:36:45 +0900
 categories: opinion
 tags: google
 author: Samgu Lee
 ---
+
 KTF가 주관한 이벤트의 당첨자 명단이 구글에서 검색되나 봅니다. 구글링 해 본 결과로는 지금은 삭제가 된 것 같은데요, 관계자 코멘트가 재밌습니다
 
 [한국일보](http://news.hankooki.com/lpage/it_tech/200606/h2006062822183284590.htm) 인용:

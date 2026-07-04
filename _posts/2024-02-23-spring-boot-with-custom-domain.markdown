@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "스프링 부트 프로젝트 개발에 커스텀 도메인 연결하기"
-date: 2024-02-23 22:20:00
+date: 2024-02-23 22:20:00 +0900
 categories: development
 tags: spring laravel valet
 author: Samgu Lee

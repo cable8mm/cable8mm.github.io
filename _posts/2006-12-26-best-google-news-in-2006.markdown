@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 2006년 10대 뉴스"
-date: 2006-12-26 05:29:14
+date: 2006-12-26 05:29:14 +0900
 categories: news
 tags: google
 author: Samgu Lee

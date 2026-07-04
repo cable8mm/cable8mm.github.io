@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "이베이(ebay)가 구글(Google)과 제휴한 이유"
-date: 2006-08-30 04:06:11
+date: 2006-08-30 04:06:11 +0900
 categories: news
 tags: google apps
 author: Samgu Lee

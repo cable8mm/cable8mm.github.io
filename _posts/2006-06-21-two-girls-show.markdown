@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "한국 최초의 Google Video Top 100 영상"
-date:   2006-06-21 14:01:57
+title: "한국 최초의 Google Video Top 100 영상"
+date: 2006-06-21 14:01:57 +0900
 categories: gossip
 tags: google video
 author: Samgu Lee
 ---
+
 Google Video에 Top100이라는 랭킹 서비스가 시작 된 후로 한국은 어떤 영상이 처음으로 올라갈까 기대를 했는데, 역시나 YouTube에서 돌풍을 일으켰던 바로 그 영상, "두여자쇼"입니다.
 
 지금 소개해 드릴 영상은 YouTube에서 경이적인 페이지뷰를 기록한 "두여자쇼" 입니다. 영어 제목으로는 Korean Madness로 알려져 있는데요, "재미있는 동영상"이라는 영상 전용 블로그에도 세번째로 소개 한 것으로 무척이나 재미있습니다.

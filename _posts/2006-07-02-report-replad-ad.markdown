@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "리플라드 애드(replad ad) 기획 변경"
-date: 2006-07-02 09:32:17
+date: 2006-07-02 09:32:17 +0900
 categories: advertising
 tags: product
 author: Samgu Lee

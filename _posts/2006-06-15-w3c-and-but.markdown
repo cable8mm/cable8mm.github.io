@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "표준은 어디에나 존재한다 그러나..."
-date:   2006-06-15 10:49:00
+title: "표준은 어디에나 존재한다 그러나..."
+date: 2006-06-15 10:49:00 +0900
 categories: opinion
 tags: webstandard css
 author: Samgu Lee
 ---
+
 nmind님의 언급처럼 표준이라는 것은 기술적인 것 보다는 약간은 정치적인 면이 있습니다. 시장이 커지면 보통 미국에서부터 표준화 작업이 이루어 집니다. 비영리 단체에서 그러한 일을 하고 있으며, 웹에서는 보통 W3C에서 관련 표준화 작업을 진행합니다.
 
 마이크로소프트에서 만드는 OS도 표준이 존재하고, 비쥬얼 스튜디오에서 지원하는 언어들도 표준이 존재합니다. 심지어는 종교도 표준이 존재합니다.
@@ -31,23 +32,22 @@ CSS 레이아웃을 만드는 것에 가장 불리한 점은 "쉽지 않다"라�
 방금 검색을 해서 알아본 두가지 CSS 코드를 소개합니다.
 
 ```css
-<style type="text/css">
-#mydiv {
-    color: blue;
-    drdoc: ";
-    drdoc: "";
+<style type="text/css" > #mydiv {
+  color: blue;
+  drdoc: ";
+    drdoc: " ";
     color: red;
     background: silver;
-    /*";/* IE */
-    font-weight: bold;
+    /*"; /* IE */
+  font-weight: bold;
 }
 #nextdiv {
-    color: red;
+  color: red;
 }
 body {
-    background: navy;
+  background: navy;
 }
-</style>Note: IE will continue parsing after /* IE */
+</style>note: IE will continue parsing after; /* IE */
 ```
 
 그리고,

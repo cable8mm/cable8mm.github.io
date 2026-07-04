@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "라라벨 노바 훑어보기"
-date: 2020-04-14 01:46:00
+date: 2020-04-14 01:46:00 +0900
 categories: development
 tags: laravel nova
 author: Samgu Lee

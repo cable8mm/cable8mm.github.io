@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "전세계로 막가는 구글 캘린더(Google Calendar)"
-date: 2006-09-19 13:11:34
+date: 2006-09-19 13:11:34 +0900
 categories: opinion
 tags: google adsense
 author: Samgu Lee

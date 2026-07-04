@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "AI에게 나도 모르는 것을 시켰을 때 망한 이야기 (ft. 7시간 만에 22커밋 찍고 피벗한 사연)"
-date: "2026-06-24 00:40:00"
+date: 2026-06-24 00:40:00 +0900
 categories: ai development
 tags: ai llm chrome-extension mcp codex development
 author: Samgu Lee
@@ -96,9 +96,9 @@ google-chrome \
 
 하지만 치명적인 문제가 생깁니다.
 
-* 매번 터미널을 열어야 합니다.
-* 새로운 프로필에서 크롬이 실행됩니다.
-* ChatGPT와 Gemini에 다시 로그인해야 합니다.
+- 매번 터미널을 열어야 합니다.
+- 새로운 프로필에서 크롬이 실행됩니다.
+- ChatGPT와 Gemini에 다시 로그인해야 합니다.
 
 문득 이런 생각이 들었습니다.
 
@@ -119,7 +119,7 @@ google-chrome \
 
 ## 4. 살릴 것인가, 죽일 것인가
 
-하루 동안 만든 30-40여 개의 커밋과 20여 개의 PR이 주마등처럼 스쳐 지나갔습니다. [`ai-issue`]({% post_url 2026-06-14-introduce-ai-issue-to-you %})를 만들 떈 이런 일이 발생하지 않았습니다.
+하루 동안 만든 30-40여 개의 커밋과 20여 개의 PR이 주마등처럼 스쳐 지나갔습니다. [ai-issue]({% post_url 2026-06-14-introduce-ai-issue-to-you %})를 만들 떈 이런 일이 발생하지 않았습니다.
 
 > "이 프로젝트는 여기서 폐기해야 하나?"
 
@@ -174,10 +174,10 @@ docs: pivot the entire codes to incredible app (#22)
 
 오늘 하루 동안 저는
 
-* 삽질했고
-* 실패했고
-* 아키텍처를 갈아엎었고
-* 문서를 다시 썼습니다.
+- 삽질했고
+- 실패했고
+- 아키텍처를 갈아엎었고
+- 문서를 다시 썼습니다.
 
 그리고 그 모든 일을 하루 안에 끝냈습니다.
 

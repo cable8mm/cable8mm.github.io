@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글, 새로운 공식 블로그 오픈 - 리서치"
-date:   2006-02-23 04:06:19
+title: "구글, 새로운 공식 블로그 오픈 - 리서치"
+date: 2006-02-23 04:06:19 +0900
 categories: service
 tags: google
 author: Samgu Lee
 ---
+
 구글의 공식 블로그, [구글 리서치](http://googleresearch.blogspot.com/)가 블로거닷컴에 둥지를 틀었습니다. 현재까지 한개의 포스트만 올라와 있습니다만, 많은 정보를 알려주길 기대해 봅니다.
 
 > So we're different, and we like it that way. We hope you do too, and hope that you'll learn more about us from this blog.

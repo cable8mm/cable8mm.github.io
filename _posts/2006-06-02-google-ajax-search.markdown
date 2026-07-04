@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "Google AJAX 검색 API 공개"
-date:   2006-06-02 10:41:49
+title: "Google AJAX 검색 API 공개"
+date: 2006-06-02 10:41:49 +0900
 categories: service
 tags: google search api
 author: Samgu Lee
 ---
+
 Google은 MS가 유닉스와 OS/2를 꺽은 똑같은 방식으로 인터넷 비지니스를 진행하고 있습니다. 즉, 개발자를 포용하기 위해서 웹서비스의 API들을 대규모로 공개하고 있는데, 이번의 공개 API는 매력적인 Google의 네가지 검색 AJAX버젼입니다.
 
 Google의 많은 서비스 중에서도 가장 핵심이라면 역시 검색입니다. Google은 다른 서비스는 RSS의 출력화면을 제공하지만, 유독 검색만은 공개하지 않았습니다. 또한, 파싱이라는 검색결과를 다듬어서 뿌려주는 웹사이트도 사용권 위반이라는 이유로 허용하지 않았습니다.

@@ -1,17 +1,18 @@
 ---
 layout: single
-title:  "기업 인수 금액 가이드"
-date:   2006-10-19 05:17:28
+title: "기업 인수 금액 가이드"
+date: 2006-10-19 05:17:28 +0900
 categories: opinion
 tags: google microsoft yahoo
 author: Samgu Lee
 ---
+
 [트리스탄 루이스(Tristan Louis)의 자료](http://www.tnl.net/blog/2006/10/09/no-bubble-20-yet/)를 [필립 렌스(Philipp Lenssen)](http://blog.outer-court.com/archive/2006-10-10-n76.html)이 추가하고, 그것을 다시 한국 기업을 추가한 가이드를 공개합니다.
 
 단위는 미화로 통일했으며, 1불당 950원으로 계산하고 이하 반올림 했습니다.
 
 | Company                 | Acquired by | Price                       |
-|-------------------------|-------------|-----------------------------|
+| ----------------------- | ----------- | --------------------------- |
 | Broadcast.com           | Yahoo       | $5.7 Billion                |
 | GeoCities               | Yahoo       | $3.6 billion                |
 | Skype                   | Ebay        | $2.6 billion                |

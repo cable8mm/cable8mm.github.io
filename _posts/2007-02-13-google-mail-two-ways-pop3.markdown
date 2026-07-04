@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 메일(GMail), POP3 양방향 지원"
-date: 2007-02-13 05:57:27
+date: 2007-02-13 05:57:27 +0900
 categories: service
 tags: google gmail
 author: Samgu Lee

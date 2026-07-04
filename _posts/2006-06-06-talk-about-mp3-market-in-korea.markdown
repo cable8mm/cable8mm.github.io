@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "한국 MP3P를 진단한다고?"
-date: 2006-06-06 19:32:21
+date: 2006-06-06 19:32:21 +0900
 categories: opinion
 tags: mp3
 author: Samgu Lee

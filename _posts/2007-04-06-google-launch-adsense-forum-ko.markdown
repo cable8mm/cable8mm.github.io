@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 애드센스, 한국어 포럼 론칭"
-date: 2007-04-06 05:56:51
+date: 2007-04-06 05:56:51 +0900
 categories: news
 tags: google adsense forum
 author: Samgu Lee

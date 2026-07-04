@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "구글 FORM-10K 공개"
-date:   2006-03-22 04:20:02
+title: "구글 FORM-10K 공개"
+date: 2006-03-22 04:20:02 +0900
 categories: news
 tags: google
 author: Samgu Lee
 ---
+
 일반적으로 주식회사는 1년에 한번씩 주주들에게 연차보고서를 송부합니다. 더불어 미국의 증권거래위원회(SEC)에 FORM-10K라는 연차보고서를 송부하게 되는데, 구글의 2005년 12월까지의 상세데이터가 수록된 FORM-10K가 [SEC 공식 웹사이트에 포스팅](http://investor.google.com/order.html)되었습니다.
 
 [FORM-10K](http://www.sec.gov/Archives/edgar/data/1288776/000119312506056598/d10k.htm)는 주주들에게 보내는 연차보고서에 비해 영업활동 및 재무상황에 대한 내용이 상세히 나타나 있으며 법적 소송, 경영진 보수 등에 관한 정보가 포함되어 있습니다.

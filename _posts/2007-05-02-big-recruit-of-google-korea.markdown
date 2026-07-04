@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "구글 코리아, 대규모 리쿠르트 개시"
-date: 2007-05-01 15:02:46
+date: 2007-05-02 15:02:46 +0900
 categories: service
 tags: google
 author: Samgu Lee

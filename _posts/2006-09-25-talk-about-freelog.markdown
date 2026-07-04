@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "인사이드 프리로그(Freelog), 돈 벌어줄까?"
-date: 2006-09-25 04:43:53
+date: 2006-09-25 04:43:53 +0900
 categories: advertising
 tags: freelog
 author: Samgu Lee

@@ -1,13 +1,14 @@
 ---
 layout: single
-title:  "구글을 지배하는 나무위키"
-date:   2017-01-22 14:50:15
+title: "구글을 지배하는 나무위키"
+date: 2017-01-22 14:50:15 +0900
 categories: google
 tags: google namuwiki
 author: Samgu Lee
 header:
-    og_image: /assets/xxxxxxxxxxxx-2017-01-22-xxxxxx-11.38.47.png
+  og_image: /assets/xxxxxxxxxxxx-2017-01-22-xxxxxx-11.38.47.png
 ---
+
 검색할 웹문서의 부족에 허덕이고 있는 구글 웹검색이 나무위키로 지배당하고 있습니다.
 
 구글은 한국 시장에 본격적으로 진입한 2008년도에 다음과 같은 문제를 해결하기를 원했습니다.

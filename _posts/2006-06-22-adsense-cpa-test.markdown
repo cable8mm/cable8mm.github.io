@@ -1,11 +1,12 @@
 ---
 layout: single
-title:  "Google AdSense, CPA 광고 테스트"
-date:   2006-06-22 02:46:38
+title: "Google AdSense, CPA 광고 테스트"
+date: 2006-06-22 02:46:38 +0900
 categories: service
 tags: google adsense
 author: Samgu Lee
 ---
+
 [Blogoscoped](http://blog.outer-court.com/archive/2006-06-21-n17.html)에서 Google의 CPA 광고를 알려왔고, [스미골의 블로그](http://www.smigol.com/tt/index.php?pl=178)에서도 간단하지만 핵심적인 문단으로 알려주셨습니다.
 
 Google의 가장 강력한 비지니스 모델임과 동시에 가장 많은 자원을 투입하고 있는 Adwords/AdSense가 제휴마케팅으로 알려져 있는 CPA광고의 테스트를 시작했습니다. AdSense for Feed 때와 마찬가지로 특정한 사용자들을 대상으로 먼저 컨택을 시도하고 있습니다.
@@ -16,13 +17,13 @@ Google의 초대를 받은 사람은 David Jackson이라는 사람으로 Interne
 
 > Do these compete with regular content ads?
 >
-> These ads will not compete with contextually targeted ads. Instead, they will show across a separate network, the Content Referral network. To place one of these ads on your site, you can set up a new ad unit that supports any of our current ad unit sizes. 
+> These ads will not compete with contextually targeted ads. Instead, they will show across a separate network, the Content Referral network. To place one of these ads on your site, you can set up a new ad unit that supports any of our current ad unit sizes.
 
 이 글에서 새로운 용어가 나오는데, "Content Referral network"라는 것으로, Google에선 보통 기존의 AdSense와 Adwords를 합쳐서 Google Network이라는 용어를 사용했습니다. 위의 내용으로 보면 완전히 분리된 형태이고, 광고를 넣는 자바 스크립트도 독립적으로 갈 가능성이 있겠습니다.
 
 > Where do these CPA ads comes from?
 >
-> The CPA ads come from a limited group of high quality advertisers that are interested in displaying ads on a CPA basis. They pay you whenever a site visitor performs a specified action, such as generating a lead or purchasing a product. 
+> The CPA ads come from a limited group of high quality advertisers that are interested in displaying ads on a CPA basis. They pay you whenever a site visitor performs a specified action, such as generating a lead or purchasing a product.
 
 현재 Adwords에는 CPA 광고를 넣을 수 있는 공간이 없기 때문에 나온 질문인데요, Google은 몇개의 광고주와 전략적으로 업무를 진행하고 있는 것 같습니다.
 
