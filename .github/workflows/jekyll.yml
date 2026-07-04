@@ -51,7 +51,7 @@ jobs:
       - name: Setup IndexNow
         # Generate files dynamically to prevent them from being leaked in public repositories.
         # This example will put the file in the root directory of the site.You may change the location by yourself.
-        run: echo ${{ secrets.INDEXNOW_KEY }} > ${{ secrets.INDEXNOW_KEY }}.txt
+        run: echo ${{ secrets.INDEXNOW_KEY }} > _site/${{ secrets.INDEXNOW_KEY }}.txt
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v5
