@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "조선일보 인터뷰와 방문자, 광고수익"
-date: 2006-09-10 17:28:18 +0900
+date: 2006-09-09 17:28:18 +0900
 categories: opinion
 tags: google adsense
 author: Samgu Lee
