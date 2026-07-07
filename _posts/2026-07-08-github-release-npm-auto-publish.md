@@ -69,7 +69,7 @@ jobs:
       - run: npm ci
       - run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          {% raw %}NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}{% endraw %}
 ```
 
 핵심은 `release.created` 이벤트입니다.
@@ -154,7 +154,7 @@ NPM_TOKEN
 
 ```yaml
 env:
-  NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+    {% raw %}NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}{% endraw %}
 ```
 
 만 추가하면 인증이 완료됩니다.
