@@ -60,7 +60,7 @@ GoReleaser에는 다음과 같이 전달했습니다.
     version: latest
     args: release --clean
   env:
-    GITHUB_TOKEN: ${{ secrets.HOMEBREW_TAP_TOKEN }}
+    {% raw %}GITHUB_TOKEN: ${{ secrets.HOMEBREW_TAP_TOKEN }}{% endraw %}
 ```
 
 잘 됐습니다.
@@ -165,7 +165,7 @@ permissions:
 
 ```yaml
 env:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  {% raw %}GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}{% endraw %}
 ```
 
 이 작업에는 별도의 PAT가 필요하지 않습니다.
@@ -190,8 +190,8 @@ GitHub Actions에서는 두 토큰을 각각 다른 환경변수로 전달합니
     version: latest
     args: release --clean
   env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    HOMEBREW_TAP_GITHUB_TOKEN: ${{ secrets.HOMEBREW_TAP_TOKEN }}
+    {% raw %}GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}{% endraw %}
+    {% raw %}HOMEBREW_TAP_GITHUB_TOKEN: ${{ secrets.HOMEBREW_TAP_TOKEN }}{% endraw %}
 ```
 
 그리고 `.goreleaser.yml`에서 Homebrew Cask repository가 사용할 토큰을 명시했습니다.
@@ -201,7 +201,7 @@ homebrew_casks:
   - repository:
       owner: replworks
       name: homebrew-tap
-      token: "{{ .Env.HOMEBREW_TAP_GITHUB_TOKEN }}"
+      {% raw %}token: "{{ .Env.HOMEBREW_TAP_GITHUB_TOKEN }}"{% endraw %}
 ```
 
 이 부분도 처음에는 별것 아니라고 생각했는데 중요합니다.
