@@ -25,5 +25,5 @@ clean:
 	rm -rf _site .jekyll-cache .jekyll-metadata
 
 return:
-	git checkout gh-pages
+	git checkout main
 	git pull
