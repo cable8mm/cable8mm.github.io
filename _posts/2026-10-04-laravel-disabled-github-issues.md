@@ -35,7 +35,7 @@ header:
 
 > To encourage active collaboration, Laravel strongly encourages pull requests that address problems, not GitHub issues. GitHub issues are disabled on most of our first-party packages.
 >
-> (라라발(Laravel) 팀이 활발한 협업을 장려하기 위해, (단순히 질문을 올리는) GitHub 이슈 생성보다는 문제를 직접 해결하는 풀 리퀘스트(PR)를 올려줄 것을 강력히 권장한다는 내용입니다. 실제로 라라발의 주요 퍼스트 파티 패키지들에서는 GitHub 이슈 탭이 비활성화되어 있습니다.)
+> (라라벨(Laravel) 팀이 활발한 협업을 장려하기 위해, (단순히 질문을 올리는) GitHub 이슈 생성보다는 문제를 직접 해결하는 풀 리퀘스트(PR)를 올려줄 것을 강력히 권장한다는 내용입니다. 실제로 라라벨의 주요 퍼스트 파티 패키지들에서는 GitHub 이슈 탭이 비활성화되어 있습니다.)
 
 가이드에는 [AI 관련 규칙](https://laravel.com/framework/docs/contributions#ai-generated-contributions)도 함께 있습니다. AI가 작성한 PR 설명은 닫히고, 이슈나 PR을 AI로 대량 생산하는 행위는 용납하지 않는다고 합니다.
 
@@ -48,8 +48,6 @@ header:
 **Symfony**는 정반대로 가고 있습니다. [이슈만 받고, 수정은 메인테이너나 자체 AI가 하는 방식을 실험](https://symfony.com/blog/experimenting-with-issue-first-open-source-contributions)하고 있습니다.
 
 Taylor 본인도 사람들이 이 방식을 어려워하고 있다는 점은 인정했습니다.
-
-다만 Reddit이나 Hacker News까지 훑어보지는 못했습니다. 이것이 커뮤니티 전체의 여론이라고 말씀드리기는 어렵습니다.
 
 ## 이슈와 PR은 같은 것일까?
 
