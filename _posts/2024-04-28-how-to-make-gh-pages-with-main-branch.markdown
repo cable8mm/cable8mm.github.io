@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Github 소스 레포지토리에 API 도큐먼트를 깃헙 페이지에 만들기"
+title: "GitHub Pages 에 API 문서 배포하기"
 date: 2024-04-28 13:54:00 +0900
 last_modified_at: 2026-10-13 15:30:00 +0900
 categories: development
@@ -83,7 +83,61 @@ return new Doctum($iterator, [
 
 ![GitHub Pages](/assets/images/screenshot-of-github-page.png)
 
-GitHub 에서의 준비는 끝났습니다. 이제 GitHub Actions 로 doctum 으로 만들어진 API 문서를 GitHub Pages 로 배포하는 액션을 `.github/workflows` 폴더에 넣습니다.
+GitHub 에서의 준비는 끝났습니다. 이제 GitHub Actions 로 doctum 으로 만들어진 API 문서를 GitHub Pages 로 배포하는 액션을 `.github/workflows/deploy-to-github-pages.yml` 파일로 넣습니다. 배포 시점에 따라 아래 두 가지 중 하나를 선택해서 사용하세요.
+
+### main 브랜치에 push 할 때마다 배포하기
+
+```yml
+name: deploy-to-github-pages
+
+on:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+      - name: build doctum docs
+        uses: sudo-bot/action-doctum@v5
+        with:
+          config-file: doctum.php
+          method: "update"
+          # (optional) defaults to '--output-format=github --no-ansi --no-progress -v'
+          cli-args: "--output-format=github --no-ansi --no-progress -v"
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          # Upload entire repository
+          path: ./build
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
+```
+
+`main` 브랜치에 push 할 때마다 `doctum.php` 설정으로 API 문서를 만들어서 GitHub Pages 에 배포하는 액션입니다. 항상 최신 소스 기준의 API 문서를 유지할 수 있습니다.
+
+### Release 를 만들 때만 배포하기
+
+버전을 릴리스할 때만 API 문서를 갱신하고 싶다면 `on` 부분만 `release` 로 바꾸면 됩니다. 복사해서 바로 쓸 수 있도록 전체 코드를 적어 둡니다.
 
 ```yml
 name: deploy-to-github-pages
@@ -92,15 +146,49 @@ on:
   release:
     types: [released]
 
-permissions: {}
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  publish-pages:
-    permissions:
-      contents: write
-    uses: cable8mm/.github/.github/workflows/deploy-to-github-pages.yml@main
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+      - name: build doctum docs
+        uses: sudo-bot/action-doctum@v5
+        with:
+          config-file: doctum.php
+          method: "update"
+          # (optional) defaults to '--output-format=github --no-ansi --no-progress -v'
+          cli-args: "--output-format=github --no-ansi --no-progress -v"
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          # Upload entire repository
+          path: ./build
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
 ```
 
-위의 스크립트는 Release를 만들면 GitHub Pages 에 API 문서를 만들어서 배포하는 액션입니다.
+Release 를 만들면 API 문서를 만들어서 GitHub Pages 에 배포하는 액션입니다.
+
+Release 는 브랜치가 아니라 태그를 기준으로 실행되기 때문에, `github-pages` environment 설정에 따라 태그에서의 배포가 거부될 수 있습니다. 이런 에러가 나면 `Settings` → `Environments` → `github-pages` 의 `Deployment branches and tags` 에 태그 규칙(예: `v*`)을 추가해 주세요.
+
+두 방식 모두 로컬에서 만든 `build` 폴더를 올리는 것이 아니라, 액션 안에서 [sudo-bot/action-doctum](https://github.com/sudo-bot/action-doctum) 으로 새로 만들어서 올립니다. GitHub Pages 에 배포하려면 `pages: write` 와 `id-token: write` 권한이 필요하니 `permissions` 를 빼먹지 마세요. 두 파일을 동시에 넣으면 배포가 중복되니 하나만 사용하세요.
 
 이런 방법으로 저의 오픈소스 프로젝트인 [The Xeed](https://github.com/cable8mm/xeed) 에서는 [API 문서](https://www.palgle.com/xeed/) 도메인으로 API 문서를 제공하고 있으며, 레포지토리 우측 website 섹션에 API 주소를 표기해 놨습니다.
