@@ -1,3 +1,15 @@
+---
+layout: single
+title: "Github 소스 레포지토리에 API 도큐먼트를 깃헙 페이지에 만들기"
+date: 2024-04-28 13:54:00 +0900
+last_modified_at: 2026-10-13 15:30:00 +0900
+categories: development
+tags: github pages gh-pages
+author: Samgu Lee
+header:
+  og_image: /assets/images/screenshot-doctum-api-documents.png
+---
+
 소스를 작성하면 테스트 코드와 더불어 API 문서를 만들어 동료나 혹은 다른 개발자가 사용하기 쉽게 도큐먼트를 제공합니다.
 
 ![Doctum API documents](/assets/images/screenshot-doctum-api-documents.png)
