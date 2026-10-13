@@ -187,7 +187,27 @@ jobs:
 
 Release 를 만들면 API 문서를 만들어서 GitHub Pages 에 배포하는 액션입니다.
 
-Release 는 브랜치가 아니라 태그를 기준으로 실행되기 때문에, `github-pages` environment 설정에 따라 태그에서의 배포가 거부될 수 있습니다. 이런 에러가 나면 `Settings` → `Environments` → `github-pages` 의 `Deployment branches and tags` 에 태그 규칙(예: `v*`)을 추가해 주세요.
+#### Release 로 배포할 때 필요한 설정
+
+Release 는 브랜치가 아니라 태그를 기준으로 실행되기 때문에, 설정을 바꾸지 않으면 배포가 실패합니다. 실제로 아래와 같은 에러가 발생합니다.
+
+```
+Tag "v0.3.1" is not allowed to deploy to github-pages due to environment protection rules.
+```
+
+`github-pages` environment 가 기본적으로 기본 브랜치에서의 배포만 허용하기 때문입니다. 다음 순서로 태그 규칙을 추가해 주세요. `Pages` 메뉴가 아니라 `Environments` 메뉴에 있다는 점에 주의하세요.
+
+1. 레포지토리 상단 `Settings` 를 클릭하고, 좌측 메뉴에서 `Pages` 가 아닌 `Environments` 를 클릭합니다.
+2. `github-pages` 를 클릭합니다.
+3. `Deployment branches and tags` 드롭다운에서 `Selected branches and tags` 를 선택합니다.
+4. `Add deployment branch or tag rule` 을 클릭하고 Ref type 은 `Tag`, 이름 패턴은 `v*` 로 추가합니다. 기존 `main` 규칙은 그대로 둡니다.
+5. 실패한 액션에서 `Re-run jobs` 를 눌러 다시 배포합니다.
+
+![GitHub Environments](/assets/images/screenshot-github-environments.png)
+
+위처럼 `main` 브랜치와 `v*` 태그가 모두 허용되면 두 방식 모두 사용할 수 있습니다. 태그 이름이 `v` 로 시작하지 않는다면 사용하는 태그 규칙에 맞게 패턴을 바꿔 주세요. 비공개 레포지토리는 GitHub Pro 또는 Team 요금제에서만 이 설정을 사용할 수 있습니다.
+
+### 정리
 
 두 방식 모두 로컬에서 만든 `build` 폴더를 올리는 것이 아니라, 액션 안에서 [sudo-bot/action-doctum](https://github.com/sudo-bot/action-doctum) 으로 새로 만들어서 올립니다. GitHub Pages 에 배포하려면 `pages: write` 와 `id-token: write` 권한이 필요하니 `permissions` 를 빼먹지 마세요. 두 파일을 동시에 넣으면 배포가 중복되니 하나만 사용하세요.
 
