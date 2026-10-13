@@ -4,7 +4,7 @@ title: "Github 소스 레포지토리에 API 도큐먼트를 깃헙 페이지에
 date: 2024-04-28 13:54:00 +0900
 last_modified_at: 2026-10-13 15:30:00 +0900
 categories: development
-tags: github pages gh-pages
+tags: github pages gh-pages doctum
 author: Samgu Lee
 header:
   og_image: /assets/images/screenshot-doctum-api-documents.png
