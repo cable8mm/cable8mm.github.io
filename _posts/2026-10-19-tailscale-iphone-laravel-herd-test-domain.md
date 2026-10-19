@@ -30,6 +30,7 @@ Claude 그 다음에 Claude Code 그 다음에 ChatGPT 그 다음에 Codex 까�
 ![repl.net.test on mobile](/assets/images/repl-dot-net-dot-test-on-mobile.jpeg)
 
 ![wifinote.test on mobile](/assets/images/wifinote-dot-test-on-mobile.jpeg)
+
 개발머신에서 개발중인 웹사이트를 아이폰 사파리에서 띄운 모습
 
 이 글은 [Laravel Herd](https://www.palgle.com/2024/03/01/fix-error-to-install-xdebug-for-herd/)를 쓰는 Mac을 기준으로 설명하지만, 방법 자체는 특정 도구에 묶여 있지 않습니다. Valet, Docker, Caddy, nginx처럼 `.test` 도메인으로 로컬 서버를 띄우는 환경이라면 같은 구조로 동작합니다. Herd에 한정된 부분은 본문에서 따로 표시해 두었습니다.
