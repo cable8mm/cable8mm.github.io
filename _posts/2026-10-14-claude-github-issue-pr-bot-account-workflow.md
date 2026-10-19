@@ -4,6 +4,7 @@ date: 2026-10-14 16:00:00 +0900
 excerpt: "이슈에 @claude를 멘션하면 Claude가 PR을 만들고, 저는 모바일에서 리뷰하고 머지만 합니다. 로컬 PR의 리뷰 요청 문제를 봇 계정으로 푼 과정과 저장소별 세팅 체크리스트를 정리했습니다."
 categories: development
 tags: claude, claude-code, github, github-actions, ai-workflow, 자동화
+author: Samgu Lee
 header:
   og_image: /assets/images/pr-with-claude.png
 ---

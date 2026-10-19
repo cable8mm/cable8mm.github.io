@@ -4,6 +4,7 @@ date: 2026-10-16 13:30:00 +0900
 excerpt: "Coolify는 Docker Compose에서 롤링 업데이트가 되지 않습니다. 앱 3개를 만들고 환경변수 하나로 역할을 나누는 배포 설정과 헬스체크 규칙을 정리했습니다."
 categories: development
 tags: coolify, laravel, docker, horizon, deployment, 배포
+author: Samgu Lee
 header:
   og_image: /assets/images/coolify-laravel-web-worker-scheduler.png
 ---
