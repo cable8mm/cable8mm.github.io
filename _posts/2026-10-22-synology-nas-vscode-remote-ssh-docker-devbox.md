@@ -1,7 +1,7 @@
 ---
 title: "Synology NAS에서 VS Code Remote-SSH가 안 될 때: Docker devbox 컨테이너로 해결하기"
 excerpt: "DS718+(DSM 7.1.1)에서 Remote-SSH가 prerequisites 에러로 막히는 원인은 glibc 2.26입니다. NAS 본체는 건드리지 않고 Ubuntu 22.04 devbox 컨테이너로 우회하는 과정과, 실제로 겪은 삽질 6가지를 정리했습니다."
-date: 2026-10-22 17:40:00 +0900
+date: 2026-10-22 17:20:00 +0900
 categories: development
 tags: synology, nas, vscode, remote-ssh, docker, ssh, glibc
 author: Samgu Lee
