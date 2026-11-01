@@ -13,6 +13,8 @@ header:
 
 원인은 [`actions/setup-node`](https://github.com/actions/setup-node)의 `cache: "npm"` 한 줄이었습니다. 이 줄을 지웠더니 4분대가 26초가 됐습니다.
 
+![셀프 호트티드 러너로 바꾸니 배포 속도가 10배가 됐습니다](/assets/images/ci-pipeline-github-histories.png)
+
 ## 셀프호스티드 러너를 쓰는 이유
 
 먼저 왜 셀프호스티드 러너를 쓰는지부터 정리하겠습니다. 이유는 두 가지입니다.
